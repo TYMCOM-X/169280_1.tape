@@ -1,0 +1,49 @@
+00:00:19 S 22-Mar-94
+00:30:04 S -S- stream #1 Req #7754 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+00:30:13 S Processor status JSU EXECX Setup in frame 36
+00:30:14 P Waiting for interlock
+00:30:15 P Got interlock
+00:30:16 P EXECX Job Processor %1(226) starting in frame 36
+00:30:16 S Starting job processor in frame 36
+00:30:17 P Stream #1 Req #7754 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+00:31:06 P Stream #1 Req #7754 * completed *
+00:31:12 S -R- stream #1 Done-End <0>
+00:46:15 P Signing off.
+03:00:37 S 22-Mar-94
+06:00:41 S 22-Mar-94
+08:45:04 S -S- stream #1 Req #7755 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+08:45:13 S Processor status JSU EXECX Setup in frame 16
+08:45:14 P Waiting for interlock
+08:45:15 P Got interlock
+08:45:15 P EXECX Job Processor %1(226) starting in frame 16
+08:45:16 P Stream #1 Req #7755 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+08:45:16 S Starting job processor in frame 16
+08:50:55 P Stream #1 Req #7755 * completed *
+08:50:59 S -R- stream #1 Done-End <0>
+09:00:16 S 22-Mar-94
+09:06:15 P Signing off.
+11:00:03 S -S- stream #1 Req #7757 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+11:00:11 S Processor status JSU EXECX Setup in frame 57
+11:00:11 P Waiting for interlock
+11:00:12 P Got interlock
+11:00:12 P EXECX Job Processor %1(226) starting in frame 57
+11:00:13 P Stream #1 Req #7757 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+11:00:13 S Starting job processor in frame 57
+11:00:52 P Stream #1 Req #7757 * completed *
+11:00:57 S -R- stream #1 Done-End <0>
+11:16:12 P Signing off.
+12:00:14 S 22-Mar-94
+15:00:20 S 22-Mar-94
+18:00:02 S -S- stream #1 Req #7758 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:00:13 S Processor status JSU EXECX Setup in frame 100
+18:00:14 P Waiting for interlock
+18:00:19 P Got interlock
+18:00:20 S Starting job processor in frame 100
+18:00:21 P EXECX Job Processor %1(226) starting in frame 100
+18:00:22 P Stream #1 Req #7758 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:01:15 P Stream #1 Req #7758 * completed *
+18:01:23 S -R- stream #1 Done-End <0>
+18:01:34 S 22-Mar-94
+18:17:23 P Signing off.
+21:00:14 S 22-Mar-94
+00:00:49 S 23-Mar-94
