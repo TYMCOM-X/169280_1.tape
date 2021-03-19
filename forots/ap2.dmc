@@ -1,0 +1,124 @@
+O (TNT)BASE4.
+DEFINE TEXT 2 DM$.
+DEFINE REAL STRT.
+DEFINE REAL STP.
+DEFINE INEGER SV.
+DEFINE INTGER CG.
+DEFINE REAL TOT1 TOT2 TOT3 TOT4 TOT5 TOT6 TOT7 TOT8 TOT9.
+DEFINE REAL TOT10 TOT11 TOT12 TOT13 TOT14 TOTGL TOTNA TOTPR TOTER.
+DEFINE REAL TOT1234 TOT134.
+DEFINE REAL T15 T112 T124.
+DEFINE REAL T25 T212 T224.
+DEFINE REAL T35 T312 T324.
+DEFINE REAL T45 T412 T424.
+DEFINE REAL T55 T512 T524.
+DEFINE REAL T65 T612 T624.
+DEFINE REAL T75 T712 T724.
+DEFINE REAL T85 T812 T824.
+DEFINE REAL T95 T912 T924.
+DEFINE REAL T105 T1012 T1024.
+DEFINE REAL T115 T1112 T1124.
+DEFINE REAL T125 T1212 T1224.
+DEFINE REAL T135 T1312 T1324.
+DEFINE REAL T145 T1412 T1424.
+DEFINE REAL TGL15 TGL112 TGL124.
+DEFINE REAL TNA15 TNA112 TNA124.
+DEFINE REAL TPR15 TPR112 TPR124.
+DEFINE REAL TER15 TER112 TER124.
+DEFINE REAL T12345 T123412 T123424.
+DEFINE REAL T1345 T13412 T13424.
+DEFINE REAL M1 M2 M3 M4 M5 M6 M7 M8 M9 M10 M11 M12 M13 M14 MGL MNA MPR MER.
+DEFINE REAL M17 M18 M19 M20 M21.
+SET FMSG OFF.
+SET FERR OFF.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+TYPE "Please Enter START Date (X22 Format) ".
+ACCEPT STRT.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+TYPE "Please Enter STOP Date (X22 Format) ".
+ACCEPT STP.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+T "ENTER SEVERITY, 1, 2, 3 OR 4".
+ACCEPT SV.
+T " ".
+TYPE " ".
+TYPE " ".
+T "ENTER COUNTRY - S'PORE=20, HK=12, AUSTRALIA=7, JAPAN=10, SAUDI=15, DUBAI=5".
+ACCEPT CG.
+T " ".
+T " ".
+T " ".
+T "ENSURE PRINTER IS ON AND PRESS ENTER TO CONTINUE".
+ACCEPT DM$.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+DPL START.
+TYPE "BT Tymnet".
+T " ".
+T "COUNTRY = " CG " WHERE:   7 = AUSTRALIA".
+T "                              10 = JAPAN".
+T "                              12 = HONG KONG".
+T "                              15 = SAUDI ARABIA".
+T "                              20 = SINGAPORE".
+T "                               5 = DUBAI".
+T " ".
+TYPE "REPORT NAME - 'AP2' - SEE CAROLINE RICHARDS".
+T "SEVERITY " SV " RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER EQ SV CDAT GE STRT AND LE STP HN EQ CG COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR1 TOTPR/2.
+RPR1: TYPE "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+TYPE "% RESOLVED <= 5 HOURS --------------------> "(TPR15/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "% RESOLVED > 5 HOURS <= 12 HOURS ---------> "(TPR112/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "% RESOLVED > 12 HOURS <= 24 HOURS --------> "(TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER        RE         COC        ELM (hrs)   GROUP".
+TYPE "----   --------        --         ---        ----------  -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+TYPE TNUM CNAM RE COC ELM/60 "   " HN.
+
+TYPE "   ".
+
+
+CLOSE.
+DPL END.
+QUIT.
+
