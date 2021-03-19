@@ -1,0 +1,452 @@
+Master host: 33
+274 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+(SPL         :  26) ACCESS.SAV    18 08-Jul-80 19:11 -- bad checksum XIBSUS
+                           should be 30-Nov-81 19:05 FEVPIK  ALL  RD RUN
+(SPL         :  26) PIP.HLP        2 25-Oct-85 11:30 -- protection ALL  RD RUN
+                           should be 25-Oct-85 14:56 DITHIB  ALL  RD  RD
+(SPL         :  26) ACCESS.DOC     2 18-Jan-87 22:21 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:31 XAKVEF  ALL  RD  RD
+(SPL         :  26) DIABLO.DOC     5 12-Feb-87 02:07 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:36 VUTCUQ  ALL  RD  RD
+(SPL         :  26) PIP.DOC        3 13-Nov-87 20:22 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:55 HABSOV  ALL  RD  RD
+(SPL         :  26) FILCOM.HLP     2 25-Oct-85 11:29 -- protection ALL  RD RUN
+                           should be 10-Dec-86 23:25 PULPEF  ALL  RD  RD
+(SPL         :  26) COPY.DOC       3 06-May-86 13:09 -- protection ALL  RD RUN
+                           should be 06-May-86 13:11 DAMXAT  ALL  RD  RD
+(SPL         :  26) COPY.CMD       2 06-May-86 13:09 -- protection ALL  RD RUN
+                           should be 06-May-86 13:11 JETJOC  ALL  RD  RD
+(SPL         :  26) TAUX.INF       2 04-Dec-86 22:33 -- protection ALL  RD RUN
+                           should be 04-Dec-86 22:41 RUNDUN  ALL  RD  RD
+(SPL         :  26) TAUX.DOC       2 03-Apr-86 12:49 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:49 NOPSIV  ALL  RD  RD
+(SPL         :  26) FILCOM.DOC     2 13-Nov-87 20:12 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:51 VOQPIQ  ALL  RD  RD
+(SPL         :  26) MAKDCL.DOC     2 13-Nov-87 20:22 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:51 MOYCUN  ALL  RD  RD
+(SPL         :  26) TAUX.MAC       7 18-Jan-86 00:52 -- bad checksum ZAQBEX
+                           should be 04-Dec-86 22:25 KEGCOB  ALL  RD  RD
+(SPL         :  26) TELCHK.DOC     3 12-Dec-86 15:02 -- protection ALL  RD RUN
+                           should be 12-Dec-86 15:02 TIBTAQ  ALL  RD  RD
+(SPL         :  26) FED.SHR        8 25-Sep-85 17:26 -- bad checksum FOJYOY
+                           should be 06-Nov-82 18:57 GONNUC  ALL  RD RUN
+(SPL         :  26) MARKER.SAV    22 04-May-87 14:42 -- bad checksum TEQXIC
+                           should be 06-Jan-88 17:38 RIXTIV  ALL  RD RUN
+(SPL         :  26) DFAUX.SHR      3 05-Nov-83 01:40 -- bad checksum RELPUT
+                           should be 05-Nov-83 03:22 VODMOR  ALL  RD RUN
+(SPL         :  26) SYSTEM.MEM     2 18-Jan-86 01:55 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:50 GINGOH  ALL  RD  RD
+(SPL         :  26) CPUTYP.MAC     4 11-May-87 16:29 -- protection ALL  RD RUN
+                           should be 11-May-87 16:29 PUWHEY  ALL  RD  RD
+(SPL         :  26) CREF.HLP       2 18-Jan-86 02:04 -- protection ALL  RD RUN
+                           should be 20-Mar-85 06:00 DUFMIS  ALL  RD  RD
+(SPL         :  26) DELPAG.DOC     3 19-Nov-86 00:50 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:36 COHWUS  ALL  RD  RD
+(SPL         :  26) DOC.MEM        2 12-Feb-87 02:07 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:37 QIRYUW  ALL  RD  RD
+(SPL         :  26) MAIL9.MEM      2 12-Feb-87 02:15 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:45 TAVDEG  ALL  RD  RD
+(SPL         :  26) SUBR.DOC       5 12-Feb-87 02:17 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:49 WALMEW  ALL  RD  RD
+(SPL         :  26) VAT.MEM        2 12-Feb-87 02:18 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:50 DOXBUC  ALL  RD  RD
+(SPL         :  26) AUXIO.DOC      2 13-Nov-87 20:11 -- protection ALL  RD RUN
+                           should be 07-Apr-86 19:18 VUFVIB  ALL  RD  RD
+(SPL         :  26) LUK.SAV       31 11-May-81 20:06 -- bad checksum BAFFAC
+                           should be 30-Nov-81 19:03 JOBVEJ  ALL  RD RUN
+(SPL         :  26) LUK.DOC        2 11-May-81 20:06 -- protection ALL  RD RUN
+                           should be 11-May-81 19:23 TENDIQ  ALL  RD  RD
+(SPL         :  26) FIND.SAV      46 22-Apr-86 08:29 -- bad checksum SULRER
+                           should be 11-Jan-88 19:22 NAWPUX  ALL  RD RUN
+(SPL         :  26) FIND.DOC       3 16-Aug-83 14:59 -- protection ALL  RD RUN
+                           should be 08-Sep-83 11:33 DIXDAL  ALL  RD  RD
+(SPL         :  26) FIND.S15      41 18-Jan-86 01:42 -- protection ALL  RD RUN
+                           should be 26-Sep-85 18:09 MOMBIZ  ALL  RD  RD
+(SPL         :  26) TTY.MEM        2 12-Feb-87 02:17 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:50 BILPUC  ALL  RD  RD
+(SPL         :  26) SFTP.DOC       5 26-Jan-88 11:41 -- protection ALL  RD RUN
+                           should be 10-Dec-86 22:55 GANGIV  ALL  RD  RD
+(SPL         :  26) MAP.DOC        2 13-Nov-87 20:22 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:50 GOXCUT  ALL  RD  RD
+(SPL         :  26) TMERGE.SAV    25 20-Jan-81 19:01 -- bad checksum KIDBEG
+                           should be 30-Nov-81 19:01 HUMYEX  ALL  RD RUN
+(SPL         :  26) SNARF.DOC      2 09-Dec-83 22:39 -- protection ALL  RD RUN
+                           should be 09-Dec-83 22:35 GOGRAQ  ALL  RD  RD
+(SPL         :  26) SNARF.SAV      2 09-Dec-83 22:39 -- bad checksum SAMZUV
+                           should be 09-Dec-83 22:36 VUTLIW  ALL  RD RUN 441000
+(SPL         :  26) CRSHID.LOG     2 18-Jan-86 02:04 -- protection ALL  RD RUN
+                           should be 21-Mar-85 17:21 NUSQEP  ALL  RD  RD
+(SPL         :  26) TURNUP.DOC     3 01-May-86 22:31 -- protection ALL  RD RUN
+                           should be 25-Apr-86 18:40 YANFUS  ALL  RD  RD
+(SPL         :  26) PASS.MEM       2 12-Feb-87 02:16 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:49 JIKJUT  ALL  RD  RD
+(SPL         :  26) LINKER.MEM     2 18-Sep-80 13:40 -- protection ALL  RD RUN
+                           should be 18-Sep-80 13:00 GERJOD  ALL  RD  RD
+(SPL         :  26) LINKER.SAV    18 06-Feb-81 23:05 -- bad checksum CEYBER
+                           should be 30-Nov-81 19:27 FIRXAD  ALL  RD RUN
+(SPL         :  26) LINKER.SAI     4 22-Sep-80 15:09 -- bad checksum MOWLAS
+                           should be 06-Feb-81 22:27 DIPYIW  ALL  RD  RD
+(SPL         :  26) FICHE.SAV     21 03-Nov-82 00:03 -- bad checksum QAMTIL
+                           should be 10-Sep-84 17:15 BIHBAD  ALL  RD RUN
+(SPL         :  26) FICHE.DOC      3 03-Nov-82 00:02 -- bad checksum VIVZUY
+                           should be 12-Dec-82 00:07 BEVTUM  ALL  RD  RD
+(SPL         :  26) MAKLIB.DOC     6 18-Jan-86 01:57 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:45 GARZIN  ALL  RD  RD
+(SPL         :  26) MAKLIB.HLP     2 18-Jan-86 01:57 -- protection ALL  RD RUN
+                           should be 18-Apr-85 02:21 DAQYEZ  ALL  RD  RD
+(SPL         :  26) GENINF.MEM     4 12-Feb-87 02:11 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:41 YAQBOW  ALL  RD  RD
+(SPL         :  26) MAIL.MEM       2 12-Feb-87 02:15 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:45 JEZSAW  ALL  RD  RD
+(SPL         :  26) LINKER.DOC     2 13-Nov-87 20:16 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:52 DUCPAW  ALL  RD  RD
+(SPL         :  26) WHO.DOC        2 13-Nov-87 20:23 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:50 POVVIX  ALL  RD  RD
+(SPL         :  26) PRUNE.SAV     24 07-Jul-80 15:42 -- bad checksum TEZXEJ
+                           should be 30-Nov-81 19:26 ROTPOZ  ALL  RD RUN
+(SPL         :  26) PAGE.SAV      17 06-Jan-83 16:04 -- bad checksum SELZOX
+                           should be 14-Jan-83 02:23 WECJID  ALL  RD RUN
+(SPL         :  26) WHEN.SAV      13 19-Mar-87 15:42 -- bad license  40010
+                           should be 19-Mar-87 17:06 HABWAD  ALL  RD RUN
+(SPL         :  26) GLOB.DOC       5 18-Jan-86 01:56 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:41 NUXTOP  ALL  RD  RD
+(SPL         :  26) GLOB.HLP       2 18-Jan-86 01:58 -- protection ALL  RD RUN
+                           should be 17-Apr-85 16:31 YUYWOD  ALL  RD  RD
+(SPL         :  26) RECORD.SAV     3 19-Nov-86 01:05 -- bad checksum WILMIS
+                           should be 20-Nov-86 02:25 TOCRAW  ALL  RD RUN
+(SPL         :  26) CTEST.MEM      2 12-Feb-87 02:06 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:33 PUMLIJ  ALL  RD  RD
+(SPL         :  26) MONNOT.DOC    12 12-Feb-87 02:15 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:48 ZEWNOH  ALL  RD  RD
+(SPL         :  26) PRUNE.DOC      5 12-Feb-87 02:16 -- protection ALL  RD RUN
+                           should be 12-Feb-87 02:49 QARJEG  ALL  RD  RD
+(SPL         :  26) RECORD.DOC     2 29-May-87 23:09 -- protection ALL  RD RUN
+                           should be 29-May-87 23:09 ZESYED  ALL  RD  RD
+(SPL         :  26) DIRIT.MEM      2 19-Jan-83 13:46 -- protection ALL  RD RUN
+                           should be 19-Jan-83 13:46 FINYOY  ALL  RD  RD
+(SPL         :  26) CRFSYM.SCM                       -- missing on slave
+(SPL         :  26) CRFSYM.SAI                       -- missing on slave
+(SPL         :  26) CRFSYM.060                       -- missing on slave
+(SPL         :  26) CRFSYM.FDM                       -- missing on slave
+(SPL         :  26) RECORD.PUB                       -- missing on slave
+(SPL         :  26) WHEN.4                           -- missing on slave
+(SPL         :  26) SPL.LOG                          -- missing on slave
+(SPL         :  26) RECORD.MAC                       -- missing on slave
+(SPL         :  26) TEST.X                           -- missing on slave
+(SPL         :  26) RECORD.13                        -- missing on slave
+(SPL         :  26) WHEN.SAI                         -- missing on slave
+(SPL         :  26) WHEN.3                           -- missing on slave
+(SPL         :  26) WHEN.CMD                         -- missing on slave
+(SPL         :  26) TITO.LIE                         -- missing on slave
+(SPL         :  26) MONNOT.PUB                       -- missing on slave
+(SPL         :  26) SPL.REN                          -- missing on slave
+(SPL         :  26) PAGE.SAI                         -- missing on slave
+(SPL         :  26) TWOUP.SAI                        -- missing on slave
+(SPL         :  26) PRUNE.SAI                        -- missing on slave
+(SPL         :  26) PRUNE.DAT                        -- missing on slave
+(SPL         :  26) UNCARM.SAV                       -- missing on slave
+(SPL         :  26) FSH034.FSH                       -- missing on slave
+(SPL         :  26) FINDIT.CTL                       -- missing on slave
+(SPL         :  26) FINDIT.REL                       -- missing on slave
+(SPL         :  26) FINDIT.SAI                       -- missing on slave
+(SPL         :  26) FINDIT.S14                       -- missing on slave
+(SPL         :  26) FRMRUN.SAI                       -- missing on slave
+(SPL         :  26) FINDIT.13                        -- missing on slave
+(SPL         :  26) FINDIT.14                        -- missing on slave
+(SPL         :  26) FINDIT.12                        -- missing on slave
+(SPL         :  26) FINDIT.S3                        -- missing on slave
+(SPL         :  26) FINDIT.11                        -- missing on slave
+(SPL         :  26) FINDIT.10                        -- missing on slave
+(SPL         :  26) LINKER.PUB                       -- missing on slave
+(SPL         :  26) FICHE.PUB                        -- missing on slave
+(SPL         :  26) WHO.PUB                          -- missing on slave
+(SPL         :  26) FINDIT.PUB                       -- missing on slave
+(SPL         :  26) PCOM57.SCM                       -- missing on slave
+(SPL         :  26) WHO.SAI                          -- missing on slave
+(SPL         :  26) FICHE.SAI                        -- missing on slave
+(SPL         :  26) AUXLIB.SAI                       -- missing on slave
+(SPL         :  26) LEXSUB.SAI                       -- missing on slave
+(SPL         :  26) LEXSUB.REQ                       -- missing on slave
+(SPL         :  26) LEXSUB.REL                       -- missing on slave
+(SPL         :  26) RCR.SAI                          -- missing on slave
+(SPL         :  26) LINKER.V5                        -- missing on slave
+(SPL         :  26) FSH033.FSH                       -- missing on slave
+(SPL         :  26) ASM68K.DOC                       -- missing on slave
+(SPL         :  26) ASM68K.FIX                       -- missing on slave
+(SPL         :  26) ASM68K.SHR                       -- missing on slave
+(SPL         :  26) ASM68K.LOW                       -- missing on slave
+(SPL         :  26) SNARF.PUB                        -- missing on slave
+(SPL         :  26) SWITCH.INI                       -- missing on slave
+(SPL         :  26) TURNUP.SA2                       -- missing on slave
+(SPL         :  26) TURNUP.SA1                       -- missing on slave
+(SPL         :  26) TURNUP.SA0                       -- missing on slave
+(SPL         :  26) ARGPAR.REL                       -- missing on slave
+(SPL         :  26) TURNUP.SAI                       -- missing on slave
+(SPL         :  26) SWITCH.REQ                       -- missing on slave
+(SPL         :  26) ASK.REL                          -- missing on slave
+(SPL         :  26) ASK.REQ                          -- missing on slave
+(SPL         :  26) ASK.SAI                          -- missing on slave
+(SPL         :  26) SWITCH.SAI                       -- missing on slave
+(SPL         :  26) SWITCH.REL                       -- missing on slave
+(SPL         :  26) TMERGE.SAI                       -- missing on slave
+(SPL         :  26) TMERGE.V1                        -- missing on slave
+(SPL         :  26) SNARF.MAC                        -- missing on slave
+(SPL         :  26) PRDBAS.DMS                       -- missing on slave
+(SPL         :  26) PRDBAS.DMD                       -- missing on slave
+(SPL         :  26) SIZES.SAV                        -- missing on slave
+(SPL         :  26) FSH032.FSH                       -- missing on slave
+(SPL         :  26) SETTRM.SAI                       -- missing on slave
+(SPL         :  26) MAP.MAP                          -- missing on slave
+(SPL         :  26) OPRBLD.HGH                       -- missing on slave
+(SPL         :  26) REDSCR.SAI                       -- missing on slave
+(SPL         :  26) SFTP.PUB                         -- missing on slave
+(SPL         :  26) SFTP.SAI                         -- missing on slave
+(SPL         :  26) SFTP.CMD                         -- missing on slave
+(SPL         :  26) UPDATE.SHR                       -- missing on slave
+(SPL         :  26) CPY.SAI                          -- missing on slave
+(SPL         :  26) MEMCHK.REQ                       -- missing on slave
+(SPL         :  26) MEMCHK.SAI                       -- missing on slave
+(SPL         :  26) LUK.PUB                          -- missing on slave
+(SPL         :  26) MAP.PUB                          -- missing on slave
+(SPL         :  26) FIND.SAI                         -- missing on slave
+(SPL         :  26) FIND.HDR                         -- missing on slave
+(SPL         :  26) LUK.SAI                          -- missing on slave
+(SPL         :  26) LUK.V5                           -- missing on slave
+(SPL         :  26) LUK.V4                           -- missing on slave
+(SPL         :  26) TSR.DMS                          -- missing on slave
+(SPL         :  26) TSR.DMD                          -- missing on slave
+(SPL         :  26) AUXIO.NEW                        -- missing on slave
+(SPL         :  26) AUXIO.COM                        -- missing on slave
+(SPL         :  26) AUXIO                            -- missing on slave
+(SPL         :  26) FSH031.FSH                       -- missing on slave
+(SPL         :  26) COMPAR.SHR                       -- missing on slave
+(SPL         :  26) MARKER.SAI                       -- missing on slave
+(SPL         :  26) TELCHK.PUB                       -- missing on slave
+(SPL         :  26) TELCHK.SAI                       -- missing on slave
+(SPL         :  26) TELCHK.3                         -- missing on slave
+(SPL         :  26) AUXIO.PUB                        -- missing on slave
+(SPL         :  26) DELPAG.MAC                       -- missing on slave
+(SPL         :  26) TELALP.MAC                       -- missing on slave
+(SPL         :  26) SCREAM.LOG                       -- missing on slave
+(SPL         :  26) DFAUX.MAC                        -- missing on slave
+(SPL         :  26) NFICHE.SAI                       -- missing on slave
+(SPL         :  26) FTP20S.SAI                       -- missing on slave
+(SPL         :  26) GETFIL.SAI                       -- missing on slave
+(SPL         :  26) GETFIL.REQ                       -- missing on slave
+(SPL         :  26) TSRBAS.DMD                       -- missing on slave
+(SPL         :  26) SHARI.1                          -- missing on slave
+(SPL         :  26) FSH030.FSH                       -- missing on slave
+(SPL         :  26) INIT.SAI                         -- missing on slave
+(SPL         :  26) LNK68K.DOC                       -- missing on slave
+(SPL         :  26) LNK68K.SHR                       -- missing on slave
+(SPL         :  26) LNK68K.LOW                       -- missing on slave
+(SPL         :  26) DG.SAV                           -- missing on slave
+(SPL         :  26) MERGE.SHR                        -- missing on slave
+(SPL         :  26) CENTER.SAI                  -- missing on slave
+(SPL         :  26) CENTER.CMD                       -- missing on slave
+(SPL         :  26) COPY.PUB                         -- missing on slave
+(SPL         :  26) FILCOM.PUB                       -- missing on slave
+(SPL         :  26) MAKDCL.PUB                       -- missing on slave
+(SPL         :  26) COPY.FDM                         -- missing on slave
+(SPL         :  26) TAUX.4                           -- missing on slave
+(SPL         :  26) TAUX.PUB                         -- missing on slave
+(SPL         :  26) TAUX.16                          -- missing on slave
+(SPL         :  26) TAUX.6                           -- missing on slave
+(SPL         :  26) TAUX.3                           -- missing on slave
+(SPL         :  26) TAUX.20                          -- missing on slave
+(SPL         :  26) TAUX.17                          -- missing on slave
+(SPL         :  26) ARGS.REQ                         -- missing on slave
+(SPL         :  26) ARGS.REL                         -- missing on slave
+(SPL         :  26) TAUX.15                          -- missing on slave
+(SPL         :  26) TAUX.13                          -- missing on slave
+(SPL         :  26) TAUX.12                          -- missing on slave
+(SPL         :  26) FTP.DIF                          -- missing on slave
+(SPL         :  26) TYPE.NWS                         -- missing on slave
+(SPL         :  26) TAUX.5                           -- missing on slave
+(SPL         :  26) PROJ.DFS                         -- missing on slave
+(SPL         :  26) PROJ.STD                         -- missing on slave
+(SPL         :  26) COPY.16                          -- missing on slave
+(SPL         :  26) COPY.15                          -- missing on slave
+(SPL         :  26) SYSNO2.XXX                       -- missing on slave
+(SPL         :  26) SYSNO2.LOG                       -- missing on slave
+(SPL         :  26) SYSNO2.NFO                       -- missing on slave
+(SPL         :  26) PIP.PUB                          -- missing on slave
+(SPL         :  26) DOCSPN.HGH                       -- missing on slave
+(SPL         :  26) FTP20.SAI                        -- missing on slave
+(SPL         :  26) FTP20.OLD                        -- missing on slave
+(SPL         :  26) FTP20.004                        -- missing on slave
+(SPL         :  26) DIABLO.PUB                       -- missing on slave
+(SPL         :  26) FTP20.V3                         -- missing on slave
+(SPL         :  26) FTP20.003                        -- missing on slave
+(SPL         :  26) MATCHS.SAI                       -- missing on slave
+(SPL         :  26) MATCHS.REQ                       -- missing on slave
+(SPL         :  26) MATCHS.REL                       -- missing on slave
+(SPL         :  26) MATCHS.DCL                       -- missing on slave
+(SPL         :  26) MILLST.DFS                       -- missing on slave
+(SPL         :  26) ACCESS.SAI                       -- missing on slave
+Checking host 33
+Checking host 34
+(SPL         :  34) PIP.HLP        2 25-Oct-85 15:20 -- protection ALL  RD RUN
+                           should be 25-Oct-85 14:56 DITHIB  ALL  RD  RD
+(SPL         :  34) PIP.DOC        3 13-Nov-87 23:21 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:55 HABSOV  ALL  RD  RD
+(SPL         :  34) MILLST.DFS     2 13-Mar-81 19:39 -- bad checksum YEKWEM
+                           should be 24-Nov-80 17:12 NIZJAG  ALL  RD  RD
+(SPL         :  34) COPY.CMD       2 06-May-86 13:19 -- protection ALL  RD RUN
+                           should be 06-May-86 13:11 JETJOC  ALL  RD  RD
+(SPL         :  34) COPY.DOC       3 06-May-86 13:18 -- protection ALL  RD RUN
+                           should be 06-May-86 13:11 DAMXAT  ALL  RD  RD
+(SPL         :  34) TAUX.INF       2 04-Dec-86 22:42 -- protection ALL  RD RUN
+                           should be 04-Dec-86 22:41 RUNDUN  ALL  RD  RD
+(SPL         :  34) TAUX.DOC       2 03-Apr-86 12:49 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:49 NOPSIV  ALL  RD  RD
+(SPL         :  34) FILCOM.DOC     2 13-Nov-87 23:10 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:51 VOQPIQ  ALL  RD  RD
+(SPL         :  34) MAKDCL.DOC     2 13-Nov-87 23:21 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:51 MOYCUN  ALL  RD  RD
+(SPL         :  34) SHARI.1       26 30-Jun-89 04:02 -- bad checksum DERBIL
+                           should be 30-Jun-89 04:02 KIVQIJ  ALL  RD  NO
+(SPL         :  34) TELCHK.DOC     3 12-Dec-86 15:02 -- protection ALL  RD RUN
+                           should be 12-Dec-86 15:02 TIBTAQ  ALL  RD  RD
+(SPL         :  34) FED.SHR        8 25-Sep-85 17:26 -- bad checksum FOJYOY
+                           should be 06-Nov-82 18:57 GONNUC  ALL  RD RUN
+(SPL         :  34) CPUTYP.MAC     4 11-May-87 16:29 -- protection ALL  RD RUN
+                           should be 11-May-87 16:29 PUWHEY  ALL  RD  RD
+(SPL         :  34) AUXIO.DOC      2 13-Nov-87 23:09 -- protection ALL  RD RUN
+                           should be 07-Apr-86 19:18 VUFVIB  ALL  RD  RD
+(SPL         :  34) CREF.HLP       2 13-Nov-87 23:10 -- protection ALL  RD RUN
+                           should be 20-Mar-85 06:00 DUFMIS  ALL  RD  RD
+(SPL         :  34) GETFIL.REQ     2 09-Jul-82 13:54 -- protection ALL  RD RUN
+                           should be 26-May-82 00:45 ROGWEK  ALL  RD  RD
+(SPL         :  34) TSR.DMS      637 27-May-86 14:42 -- bad checksum QIBDEC
+                           should be 27-May-86 14:42 JIHXUQ  ALL  RD RUN
+(SPL         :  34) LUK.DOC        2 12-May-81 14:17 -- protection ALL  RD RUN
+                           should be 11-May-81 19:23 TENDIQ  ALL  RD  RD
+(SPL         :  34) MAP.DOC        2 13-Nov-87 23:21 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:50 GOXCUT  ALL  RD  RD
+(SPL         :  34) SFTP.DOC       5 26-Jan-88 11:41 -- protection ALL  RD RUN
+                           should be 10-Dec-86 22:55 GANGIV  ALL  RD  RD
+(SPL         :  34) FIND.S15      41 18-Jan-86 01:42 -- protection ALL  RD RUN
+                           should be 26-Sep-85 18:09 MOMBIZ  ALL  RD  RD
+(SPL         :  34) TURNUP.DOC     3 01-May-86 22:31 -- protection ALL  RD RUN
+                           should be 25-Apr-86 18:40 YANFUS  ALL  RD  RD
+(SPL         :  34) SNARF.DOC      2 11-Feb-87 23:29 -- protection ALL  RD RUN
+                           should be 09-Dec-83 22:35 GOGRAQ  ALL  RD  RD
+(SPL         :  34) SNARF.SAV      2 11-Feb-87 23:30 -- bad checksum SAMZUV
+                           should be 09-Dec-83 22:36 VUTLIW  ALL  RD RUN 441000
+(SPL         :  34) ASK.REL        2 09-Jul-82 13:54 -- protection ALL  RD RUN
+                           should be 26-May-82 19:25 POFBUD  ALL  RD  RD
+(SPL         :  34) ASK.REQ        2 09-Jul-82 13:54 -- protection ALL  RD RUN
+                           should be 26-May-82 19:24 BOTVEK  ALL  RD  RD
+(SPL         :  34) SNARF.MAC      3 09-Dec-83 22:36 -- protection ALL  RD RUN
+                           should be 09-Dec-83 22:36 GECWOR  ALL  RD  RD
+(SPL         :  34) CRSHID.LOG     2 18-Jan-86 02:04 -- protection ALL  RD RUN
+                           should be 21-Mar-85 17:21 NUSQEP  ALL  RD  RD
+(SPL         :  34) LINKER.MEM     2 11-Feb-87 20:53 -- protection ALL  RD RUN
+                           should be 18-Sep-80 13:00 GERJOD  ALL  RD  RD
+(SPL         :  34) FICHE.DOC      3 05-Jan-83 12:22 -- protection ALL  RD RUN
+                           should be 12-Dec-82 00:07 BEVTUM  ALL  RD  RD
+(SPL         :  34) LINKER.DOC     2 13-Nov-87 23:15 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:52 DUCPAW  ALL  RD  RD
+(SPL         :  34) MAKLIB.HLP     2 13-Nov-87 23:21 -- protection ALL  RD RUN
+                           should be 18-Apr-85 02:21 DAQYEZ  ALL  RD  RD
+(SPL         :  34) WHO.DOC        2 13-Nov-87 23:22 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:50 POVVIX  ALL  RD  RD
+(SPL         :  34) LEXSUB.REQ     2 14-Jan-89 22:08 -- protection ALL  RD  NO
+                           should be 26-May-82 00:45 YIWMER  ALL  RD  RD
+(SPL         :  34) LEXSUB.SAI     2 14-Jan-89 22:08 -- protection ALL  RD  NO
+                           should be 04-May-82 22:05 YUNQIB  ALL  RD  RD
+(SPL         :  34) FICHE.SAI      8 27-Dec-82 14:54 -- protection ALL  RD RUN
+                           should be 11-Dec-82 23:58 VUBPEX  ALL  RD  RD
+(SPL         :  34) RECORD.DOC     2 29-May-87 23:09 -- protection ALL  RD RUN
+                           should be 29-May-87 23:09 ZESYED  ALL  RD  RD
+(SPL         :  34) DIRIT.MEM      2 19-Jan-83 13:46 -- protection ALL  RD RUN
+                           should be 19-Jan-83 13:46 FINYOY  ALL  RD  RD
+(SPL         :  34) GLOB.HLP       2 13-Nov-87 23:15 -- protection ALL  RD RUN
+                           should be 17-Apr-85 16:31 YUYWOD  ALL  RD  RD
+(SPL         :  34) PRUNE.DAT      1 26-May-88 15:24 -- bad checksum VAVVAV
+                           should be 29-Dec-82 04:29 DUWDOS  ALL  RD  RD
+Checking host 38
+(SPL         :  38) PIP.HLP        2 25-Oct-85 15:20 -- protection ALL  RD RUN
+                           should be 25-Oct-85 14:56 DITHIB  ALL  RD  RD
+(SPL         :  38) PIP.DOC        3 13-Nov-87 23:21 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:55 HABSOV  ALL  RD  RD
+(SPL         :  38) MILLST.DFS     2 13-Mar-81 19:39 -- bad checksum YEKWEM
+                           should be 24-Nov-80 17:12 NIZJAG  ALL  RD  RD
+(SPL         :  38) COPY.DOC       3 06-May-86 13:18 -- protection ALL  RD RUN
+                           should be 06-May-86 13:11 DAMXAT  ALL  RD  RD
+(SPL         :  38) COPY.CMD       2 06-May-86 13:19 -- protection ALL  RD RUN
+                           should be 06-May-86 13:11 JETJOC  ALL  RD  RD
+(SPL         :  38) TAUX.INF       2 04-Dec-86 22:42 -- protection ALL  RD RUN
+                           should be 04-Dec-86 22:41 RUNDUN  ALL  RD  RD
+(SPL         :  38) TAUX.DOC       2 03-Apr-86 12:49 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:49 NOPSIV  ALL  RD  RD
+(SPL         :  38) FILCOM.DOC     2 13-Nov-87 23:10 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:51 VOQPIQ  ALL  RD  RD
+(SPL         :  38) MAKDCL.DOC     2 13-Nov-87 23:21 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:51 MOYCUN  ALL  RD  RD
+(SPL         :  38) SHARI.1       26 30-Jun-89 04:02 -- bad checksum DERBIL
+                           should be 30-Jun-89 04:02 KIVQIJ  ALL  RD  NO
+(SPL         :  38) GETFIL.REQ     2 09-Jul-82 13:54 -- protection ALL  RD RUN
+                           should be 26-May-82 00:45 ROGWEK  ALL  RD  RD
+(SPL         :  38) FED.SHR        8 25-Sep-85 17:26 -- bad checksum FOJYOY
+                           should be 06-Nov-82 18:57 GONNUC  ALL  RD RUN
+(SPL         :  38) AUXIO.DOC      2 13-Nov-87 23:09 -- protection ALL  RD RUN
+                           should be 07-Apr-86 19:18 VUFVIB  ALL  RD  RD
+(SPL         :  38) CPUTYP.MAC     4 11-May-87 16:29 -- protection ALL  RD RUN
+                           should be 11-May-87 16:29 PUWHEY  ALL  RD  RD
+(SPL         :  38) TELCHK.DOC     3 12-Dec-86 15:02 -- protection ALL  RD RUN
+                           should be 12-Dec-86 15:02 TIBTAQ  ALL  RD  RD
+(SPL         :  38) CREF.HLP       2 13-Nov-87 23:10 -- protection ALL  RD RUN
+                           should be 20-Mar-85 06:00 DUFMIS  ALL  RD  RD
+(SPL         :  38) TSR.DMS      637 27-May-86 14:42 -- bad checksum QIBDEC
+                           should be 27-May-86 14:42 JIHXUQ  ALL  RD RUN
+(SPL         :  38) LUK.DOC        2 12-May-81 14:17 -- protection ALL  RD RUN
+                           should be 11-May-81 19:23 TENDIQ  ALL  RD  RD
+(SPL         :  38) MAP.DOC        2 13-Nov-87 23:21 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:50 GOXCUT  ALL  RD  RD
+(SPL         :  38) SFTP.DOC       5 26-Jan-88 11:41 -- protection ALL  RD RUN
+                           should be 10-Dec-86 22:55 GANGIV  ALL  RD  RD
+(SPL         :  38) FIND.S15      41 18-Jan-86 01:42 -- protection ALL  RD RUN
+                           should be 26-Sep-85 18:09 MOMBIZ  ALL  RD  RD
+(SPL         :  38) ASK.REL        2 09-Jul-82 13:54 -- protection ALL  RD RUN
+                           should be 26-May-82 19:25 POFBUD  ALL  RD  RD
+(SPL         :  38) ASK.REQ        2 09-Jul-82 13:54 -- protection ALL  RD RUN
+                           should be 26-May-82 19:24 BOTVEK  ALL  RD  RD
+(SPL         :  38) SNARF.DOC      2 11-Feb-87 23:29 -- protection ALL  RD RUN
+                           should be 09-Dec-83 22:35 GOGRAQ  ALL  RD  RD
+(SPL         :  38) SNARF.SAV      2 11-Feb-87 23:30 -- bad checksum SAMZUV
+                           should be 09-Dec-83 22:36 VUTLIW  ALL  RD RUN 441000
+(SPL         :  38) SNARF.MAC      3 09-Dec-83 22:36 -- protection ALL  RD RUN
+                           should be 09-Dec-83 22:36 GECWOR  ALL  RD  RD
+(SPL         :  38) TURNUP.DOC     3 01-May-86 22:31 -- protection ALL  RD RUN
+                           should be 25-Apr-86 18:40 YANFUS  ALL  RD  RD
+(SPL         :  38) CRSHID.LOG     2 18-Jan-86 02:04 -- protection ALL  RD RUN
+                           should be 21-Mar-85 17:21 NUSQEP  ALL  RD  RD
+(SPL         :  38) LINKER.MEM     2 11-Feb-87 20:53 -- protection ALL  RD RUN
+                           should be 18-Sep-80 13:00 GERJOD  ALL  RD  RD
+(SPL         :  38) LEXSUB.REQ     2 14-Jan-89 22:08 -- protection ALL  RD  NO
+                           should be 26-May-82 00:45 YIWMER  ALL  RD  RD
+(SPL         :  38) FICHE.DOC      3 05-Jan-83 12:22 -- protection ALL  RD RUN
+                           should be 12-Dec-82 00:07 BEVTUM  ALL  RD  RD
+(SPL         :  38) FICHE.SAI      8 27-Dec-82 14:54 -- protection ALL  RD RUN
+                           should be 11-Dec-82 23:58 VUBPEX  ALL  RD  RD
+(SPL         :  38) LINKER.DOC     2 13-Nov-87 23:15 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:52 DUCPAW  ALL  RD  RD
+(SPL         :  38) MAKLIB.HLP     2 13-Nov-87 23:21 -- protection ALL  RD RUN
+                           should be 18-Apr-85 02:21 DAQYEZ  ALL  RD  RD
+(SPL         :  38) WHO.DOC        2 13-Nov-87 23:22 -- protection ALL  RD RUN
+                           should be 03-Apr-86 12:50 POVVIX  ALL  RD  RD
+(SPL         :  38) LEXSUB.SAI     2 14-Jan-89 22:08 -- protection ALL  RD  NO
+                           should be 04-May-82 22:05 YUNQIB  ALL  RD  RD
+(SPL         :  38) RECORD.DOC     2 29-May-87 23:09 -- protection ALL  RD RUN
+                           should be 29-May-87 23:09 ZESYED  ALL  RD  RD
+(SPL         :  38) DIRIT.MEM      2 19-Jan-83 13:46 -- protection ALL  RD RUN
+                           should be 19-Jan-83 13:46 FINYOY  ALL  RD  RD
+(SPL         :  38) GLOB.HLP       2 13-Nov-87 23:15 -- protection ALL  RD RUN
+                           should be 17-Apr-85 16:31 YUYWOD  ALL  RD  RD
+(SPL         :  38) PRUNE.DAT      1 26-May-88 15:24 -- bad checksum VAVVAV
+                           should be 29-Dec-82 04:29 DUWDOS  ALL  RD  RD
+h>¢
