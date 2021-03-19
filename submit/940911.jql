@@ -1,0 +1,43 @@
+00:00:24 S 11-Sep-94
+03:00:32 S 11-Sep-94
+05:59:58 S 11-Sep-94 Signing off.
+12:23:30 S ** 11-Sep-94 XEXEC %1(215) in frame 4 ** user PERPOPER **
+12:23:30 S -S- stream #1 Req #8483 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+12:23:37 S Processor status JSU EXECX Setup in frame 9
+12:23:37 P Waiting for interlock
+12:23:38 P Got interlock
+12:23:39 P EXECX Job Processor %1(226) starting in frame 9
+12:23:39 P Stream #1 Req #8483 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+12:23:39 S Starting job processor in frame 9
+12:23:40 S -S- stream #2 Req #8484 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+12:23:41 P Stream #2 Req #8484 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+12:24:39 S 11-Sep-94
+12:24:49 P Stream #2 Req #8484 * completed *
+12:24:50 S -R- stream #2 Done-End <0>
+12:28:18 P Stream #1 Req #8483 * completed *
+12:28:21 S -R- stream #1 Done-End <0>
+12:43:44 P Signing off.
+15:00:32 S 11-Sep-94
+17:00:04 S -S- stream #1 Req #8485 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+17:00:11 S Processor status JSU EXECX Setup in frame 21
+17:00:11 P Waiting for interlock
+17:00:12 P Got interlock
+17:00:13 P EXECX Job Processor %1(226) starting in frame 21
+17:00:13 S Starting job processor in frame 21
+17:00:13 P Stream #1 Req #8485 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+17:00:52 P Stream #1 Req #8485 * completed *
+17:00:54 S -R- stream #1 Done-End <0>
+17:16:15 P Signing off.
+18:00:17 S 11-Sep-94
+21:00:28 S 11-Sep-94
+23:30:03 S -S- stream #1 Req #8486 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:30:10 S Processor status JSU EXECX Setup in frame 28
+23:30:11 P Waiting for interlock
+23:30:13 P Got interlock
+23:30:13 P EXECX Job Processor %1(226) starting in frame 28
+23:30:13 S Starting job processor in frame 28
+23:30:13 P Stream #1 Req #8486 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:31:33 P Stream #1 Req #8486 * completed *
+23:31:34 S -R- stream #1 Done-End <0>
+23:47:12 P Signing off.
+00:00:12 S 12-Sep-94
