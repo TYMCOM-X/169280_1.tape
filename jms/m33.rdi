@@ -1,0 +1,1041 @@
+Master host: 33
+950 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+(M33         :  26) PAKCPX.SAV    26 22-Jul-88 17:13 -- bad checksum FOZZEQ
+                           should be 30-Nov-87 23:59 FUFCEK  ALL  RD  NO
+(M33         :  26) PAKCP5.SAV    26 22-Jul-88 17:10 -- bad checksum LEKMAM
+                           should be 30-Nov-87 23:56 JONBOB  ALL  RD  NO
+(M33         :  26) ACCESS.MSG     2 11-Feb-91 10:58 -- bad checksum NETYET
+                           should be 03-Jun-92 11:56 JAQWUC  ALL  RD  NO
+(M33         :  26) FRMDDT.SAV    10 20-Apr-88 18:07 -- bad checksum YUXFIX
+                           should be 29-Apr-88 18:12 CIJMIK  ALL  RD  NO
+(M33         :  26) DDT.CTL        2 31-Mar-88 18:10 -- bad checksum HUDPIB
+                           should be 20-Apr-88 17:59 HIPJUZ  ALL  RD  NO
+(M33         :  26) PATCH.LOG      2 27-Jan-87 17:02 -- bad checksum SODGIL
+                           should be 05-Dec-85 21:24 GIVHAD  ALL  RD  NO
+(M33         :  26) GROUP.CMD      2 14-Feb-80 20:27 -- bad checksum XUQVUH
+                           should be 14-Feb-80 20:27 RUMTOP  ALL  RD  NO
+(M33         :  26) SYSTEM.SAV   171 15-Jan-92 17:44 -- bad checksum RUVWAY
+                           should be 14-Feb-92 09:38 WAVSEP  ALL  RD  NO
+(M33         :  26) CUSPS.CMD      2 05-Jan-78 12:57 -- bad checksum POLPEH
+                           should be 16-Dec-77 03:54 WAQPIC  ALL ALL  NO
+(M33         :  26) CRSHID.LOG     2 15-Jan-92 17:44 -- bad checksum HIHGEQ
+                           should be 15-Jan-92 17:47 FIGMIR  ALL  RD  NO
+(M33         :  26) CRSHID.SAV    40 19-Mar-85 13:13 -- protection ALL RUN  NO
+                           should be 19-Mar-85 13:13 PEWJEC  ALL  RD  NO   1410
+(M33         :  26) PAKCP3.SAV    26 22-Jul-88 17:07 -- bad checksum QIKMEW
+                           should be 30-Nov-87 23:54 KOTLIF  ALL  RD  NO
+(M33         :  26) PAKCOP.SAV    26 22-Jul-88 17:05 -- bad checksum JIPLAZ
+                           should be 30-Nov-87 23:51 ROVNIX  ALL  RD  NO
+(M33         :  26) STOPCD.MEM    14 30-Jan-87 22:54 -- bad checksum TEYWAP
+                           should be 04-Mar-89 14:31 LACYOC  ALL  RD  NO
+(M33         :  26) VMOVPG.RNO                       -- missing on slave
+(M33         :  26) VMOVPG.MEM                       -- missing on slave
+(M33         :  26) UPGRAD.DOC                       -- missing on slave
+(M33         :  26) UPDATE.RPT                       -- missing on slave
+(M33         :  26) TRWUPD.CKS                       -- missing on slave
+(M33         :  26) TRWCOP.TXT                       -- missing on slave
+(M33         :  26) TRWCOP.BIN                       -- missing on slave
+(M33         :  26) TRUINT.MEM                       -- missing on slave
+(M33         :  26) STOPST.TEC                       -- missing on slave
+(M33         :  26) RMXKON.426                       -- missing on slave
+(M33         :  26) REP3                             -- missing on slave
+(M33         :  26) QUEUES.DOC                       -- missing on slave
+(M33         :  26) PICON.HAK                        -- missing on slave
+(M33         :  26) P035D.MEM                        -- missing on slave
+(M33         :  26) P035D.DOC                        -- missing on slave
+(M33         :  26) OPER.MAI                         -- missing on slave
+(M33         :  26) MONSMG.B13                       -- missing on slave
+(M33         :  26) MONEDP.OSP                       -- missing on slave
+(M33         :  26) MERCOM                           -- missing on slave
+(M33         :  26) LST                              -- missing on slave
+(M33         :  26) LOGIN.UUO                        -- missing on slave
+(M33         :  26) KSCOP.TXT                        -- missing on slave
+(M33         :  26) KSCOP.RND                        -- missing on slave
+(M33         :  26) KSCOP.DOC                        -- missing on slave
+(M33         :  26) KSCOP.COM                        -- missing on slave
+(M33         :  26) CNFNKS.MAC                       -- missing on slave
+(M33         :  26) CNFNKL.MAC                       -- missing on slave
+(M33         :  26) CNFN33.MAC                       -- missing on slave
+(M33         :  26) CMD74L.REL                       -- missing on slave
+(M33         :  26) CMD56L.REL                       -- missing on slave
+(M33         :  26) CMD38L.REL                       -- missing on slave
+(M33         :  26) MON23.CMD                        -- missing on slave
+(M33         :  26) MON14.CMD                        -- missing on slave
+(M33         :  26) FTACFC.PAT                       -- missing on slave
+(M33         :  26) CLUBS.MAC                        -- missing on slave
+(M33         :  26) MON32.CMD                        -- missing on slave
+(M33         :  26) FIND.HSP                         -- missing on slave
+(M33         :  26) F3SYM.CAB                        -- missing on slave
+(M33         :  26) WWDFQJ.MR0                       -- missing on slave
+(M33         :  26) V3GF4J.ME0                       -- missing on slave
+(M33         :  26) V3G03S.ME0                       -- missing on slave
+(M33         :  26) SV514.IMG                        -- missing on slave
+(M33         :  26) SITE1                            -- missing on slave
+(M33         :  26) SHORT.REP                        -- missing on slave
+(M33         :  26) SETE.MHX                         -- missing on slave
+(M33         :  26) SCNTYP.TAB                       -- missing on slave
+(M33         :  26) SA10N.FMT                        -- missing on slave
+(M33         :  26) S.CAB                            -- missing on slave
+(M33         :  26) REP                              -- missing on slave
+(M33         :  26) PRINTF.TXT                       -- missing on slave
+(M33         :  26) PCBIO.INF                        -- missing on slave
+(M33         :  26) PAKSIM.SAV                       -- missing on slave
+(M33         :  26) PAKSIM.DOC                       -- missing on slave
+(M33         :  26) P034N.MFS                        -- missing on slave
+(M33         :  26) NONAME.TXT                       -- missing on slave
+(M33         :  26) NEWDSK.DOC                       -- missing on slave
+(M33         :  26) RELOAD.OUT                       -- missing on slave
+(M33         :  26) CMT74L.REL                       -- missing on slave
+(M33         :  26) CMT56L.REL                       -- missing on slave
+(M33         :  26) CMT38L.REL                       -- missing on slave
+(M33         :  26) KSSYM.MAC                        -- missing on slave
+(M33         :  26) PRINTF.MAC                       -- missing on slave
+(M33         :  26) KLSYM.CAB                        -- missing on slave
+(M33         :  26) BIOZAP.N10                       -- missing on slave
+(M33         :  26) KSSYM.CAB                        -- missing on slave
+(M33         :  26) F3MAC.CCL                        -- missing on slave
+(M33         :  26) PEOPLE.WHO                       -- missing on slave
+(M33         :  26) FINDIT.TEC                       -- missing on slave
+(M33         :  26) WDFVPG.MR0                       -- missing on slave
+(M33         :  26) VUUO.TXT                         -- missing on slave
+(M33         :  26) VUE.INI                          -- missing on slave
+(M33         :  26) TERMS.TXT                        -- missing on slave
+(M33         :  26) TERMS.83                         -- missing on slave
+(M33         :  26) TAPES.MEM                        -- missing on slave
+(M33         :  26) SPT.MEM                          -- missing on slave
+(M33         :  26) SCAN.RPT                         -- missing on slave
+(M33         :  26) RPG.INF                          -- missing on slave
+(M33         :  26) MONED1.CTL                       -- missing on slave
+(M33         :  26) SCNSER.CAB                       -- missing on slave
+(M33         :  26) CNFN30.MAC                       -- missing on slave
+(M33         :  26) SET14S.REL                       -- missing on slave
+(M33         :  26) ONCE.MAC                         -- missing on slave
+(M33         :  26) SET32L.REL                       -- missing on slave
+(M33         :  26) CMN32L.REL                       -- missing on slave
+(M33         :  26) CMD17S.REL                       -- missing on slave
+(M33         :  26) FREMON.CTL                       -- missing on slave
+(M33         :  26) D10SCM.CTL                       -- missing on slave
+(M33         :  26) ONCE.E00                         -- missing on slave
+(M33         :  26) SCNSER.E00                       -- missing on slave
+(M33         :  26) MAPIO.MAC                        -- missing on slave
+(M33         :  26) CORE1.MAC                        -- missing on slave
+(M33         :  26) FEFILE.NWS                       -- missing on slave
+(M33         :  26) ACCESS.LIS                       -- missing on slave
+(M33         :  26) RPG.INI                          -- missing on slave
+(M33         :  26) FHXKON.MAC                       -- missing on slave
+(M33         :  26) BOOTS2.MAC                       -- missing on slave
+(M33         :  26) BOOT5B.MAC                       -- missing on slave
+(M33         :  26) JOBTAB.MAC                       -- missing on slave
+(M33         :  26) MONED1.SAV                       -- missing on slave
+(M33         :  26) MONDOC.SAV                       -- missing on slave
+(M33         :  26) WDF86M.ME0                       -- missing on slave
+(M33         :  26) TYPBAT.LOG                       -- missing on slave
+(M33         :  26) CMT14S.REL                       -- missing on slave
+(M33         :  26) LP2SER.MAC                       -- missing on slave
+(M33         :  26) TRW.PAT                          -- missing on slave
+(M33         :  26) SET74L.REL                       -- missing on slave
+(M33         :  26) CMN74L.REL                       -- missing on slave
+(M33         :  26) SET56L.REL                       -- missing on slave
+(M33         :  26) CMN56L.REL                       -- missing on slave
+(M33         :  26) SET38L.REL                       -- missing on slave
+(M33         :  26) CMN38L.REL                       -- missing on slave
+(M33         :  26) CMD34L.REL                       -- missing on slave
+(M33         :  26) CMT23L.REL                       -- missing on slave
+(M33         :  26) IOCSSS.REL                       -- missing on slave
+(M33         :  26) SIMIOS.REL                       -- missing on slave
+(M33         :  26) DR11CS.REL                       -- missing on slave
+(M33         :  26) TXSMON.CTL                       -- missing on slave
+(M33         :  26) STOPCD.CTL                       -- missing on slave
+(M33         :  26) 871006.CTY                       -- missing on slave
+(M33         :  26) STOPCD.NAM                       -- missing on slave
+(M33         :  26) FILUUO.MAC                       -- missing on slave
+(M33         :  26) ZAPPER.TXT                       -- missing on slave
+(M33         :  26) UUOCON.OLD                       -- missing on slave
+(M33         :  26) UPT703.TXT                       -- missing on slave
+(M33         :  26) UMD.HLP                          -- missing on slave
+(M33         :  26) TYPOUT.TXT                       -- missing on slave
+(M33         :  26) TYPOUT.MEM                       -- missing on slave
+(M33         :  26) TEXT.SNO                         -- missing on slave
+(M33         :  26) SWAMP.MEM                        -- missing on slave
+(M33         :  26) STRS.EXM                         -- missing on slave
+(M33         :  26) STRDSP.DAT                       -- missing on slave
+(M33         :  26) STATS.MZ0                        -- missing on slave
+(M33         :  26) SITES.RPT                        -- missing on slave
+(M33         :  26) SIMUPD.MEM                       -- missing on slave
+(M33         :  26) SEARCH.TEC                       -- missing on slave
+(M33         :  26) CNFN34.MAC                       -- missing on slave
+(M33         :  26) CMD14S.REL                       -- missing on slave
+(M33         :  26) CMD32L.REL                       -- missing on slave
+(M33         :  26) TRWSYS.SCM                       -- missing on slave
+(M33         :  26) CMT37L.REL                       -- missing on slave
+(M33         :  26) CMT30L.REL                       -- missing on slave
+(M33         :  26) CMD23L.REL                       -- missing on slave
+(M33         :  26) CONFKL.MAC                       -- missing on slave
+(M33         :  26) CONFKS.MAC                       -- missing on slave
+(M33         :  26) UUOCON.E01                       -- missing on slave
+(M33         :  26) P035E.2DO                        -- missing on slave
+(M33         :  26) MONKS.CMD                        -- missing on slave
+(M33         :  26) MONKL.CMD                        -- missing on slave
+(M33         :  26) SIMIO.MAC                        -- missing on slave
+(M33         :  26) IOCSS.MAC                        -- missing on slave
+(M33         :  26) CHECK.CTL                        -- missing on slave
+(M33         :  26) BTLDKL.SAV                       -- missing on slave
+(M33         :  26) CTYIO.MAC                        -- missing on slave
+(M33         :  26) CTYSIM.CCB                       -- missing on slave
+(M33         :  26) 20MON.VER                        -- missing on slave
+(M33         :  26) CRSHID.LOC                       -- missing on slave
+(M33         :  26) ONCDSK.MAC                       -- missing on slave
+(M33         :  26) WWDPK5.MR0                       -- missing on slave
+(M33         :  26) WDF83Z.ME0                       -- missing on slave
+(M33         :  26) VSPACE.MEM                       -- missing on slave
+(M33         :  26) VIF03P.MR0                       -- missing on slave
+(M33         :  26) UUOTYM.REL                       -- missing on slave
+(M33         :  26) UQ6JWZ.ME0                       -- missing on slave
+(M33         :  26) TAKEIT.666                       -- missing on slave
+(M33         :  26) SYSTEM.TXT                       -- missing on slave
+(M33         :  26) SYSTEM.RPT                       -- missing on slave
+(M33         :  26) STOPCN.TEC                       -- missing on slave
+(M33         :  26) SPOOL.DEF                        -- missing on slave
+(M33         :  26) SOCCI.MAI                        -- missing on slave
+(M33         :  26) SITE.RPT                         -- missing on slave
+(M33         :  26) SITE                             -- missing on slave
+(M33         :  26) 14XE01.SAV                       -- missing on slave
+(M33         :  26) COMMON.MAC                       -- missing on slave
+(M33         :  26) MON74.CMD                        -- missing on slave
+(M33         :  26) MON56.CMD                        -- missing on slave
+(M33         :  26) CMD37L.REL                       -- missing on slave
+(M33         :  26) SET34L.REL                       -- missing on slave
+(M33         :  26) CMN34L.REL                       -- missing on slave
+(M33         :  26) CMD30L.REL                       -- missing on slave
+(M33         :  26) CMT26L.REL                       -- missing on slave
+(M33         :  26) REFSTS.REL                       -- missing on slave
+(M33         :  26) CIOPRS.REL                       -- missing on slave
+(M33         :  26) ACTSRS.REL                       -- missing on slave
+(M33         :  26) CORE1S.REL                       -- missing on slave
+(M33         :  26) FILRBS.REL                       -- missing on slave
+(M33         :  26) NOTICE.CTL                       -- missing on slave
+(M33         :  26) CONFF3.MAC                       -- missing on slave
+(M33         :  26) COMMON.E00                       -- missing on slave
+(M33         :  26) MTREQ2.PAT                       -- missing on slave
+(M33         :  26) PGSBL.PAT                        -- missing on slave
+(M33         :  26) ERRCON.MAC                       -- missing on slave
+(M33         :  26) RDIST.CTL                        -- missing on slave
+(M33         :  26) SCHED1.MAC                       -- missing on slave
+(M33         :  26) MON31.CMD                        -- missing on slave
+(M33         :  26) NOTICE.37                        -- missing on slave
+(M33         :  26) NOTICE.74                        -- missing on slave
+(M33         :  26) MONF3.CMD                        -- missing on slave
+(M33         :  26) COMMON.CCL                       -- missing on slave
+(M33         :  26) PSETID.NWS                       -- missing on slave
+(M33         :  26) KISYM.CAB                        -- missing on slave
+(M33         :  26) NOTICE.56                        -- missing on slave
+(M33         :  26) SYSTEM.NWS                       -- missing on slave
+(M33         :  26) NOTICE.26                        -- missing on slave
+(M33         :  26) NOTICE.34                        -- missing on slave
+(M33         :  26) NOTICE.23                        -- missing on slave
+(M33         :  26) NOTICE.30                        -- missing on slave
+(M33         :  26) XMIT.RNO                         -- missing on slave
+(M33         :  26) XMIT.MEM                         -- missing on slave
+(M33         :  26) WDPI0V.MR0                       -- missing on slave
+(M33         :  26) V3G3WD.MR0                       -- missing on slave
+(M33         :  26) TYPE.SHR                         -- missing on slave
+(M33         :  26) SYSPAT.INF                       -- missing on slave
+(M33         :  26) SYSID.TXT                        -- missing on slave
+(M33         :  26) SYSID.33                         -- missing on slave
+(M33         :  26) SWAP.TAR                         -- missing on slave
+(M33         :  26) SUPMAP.TXT                       -- missing on slave
+(M33         :  26) CNFN56.MAC                       -- missing on slave
+(M33         :  26) CMT34L.REL                       -- missing on slave
+(M33         :  26) SET3L                       -- missing on slave
+(M33         :  26) DEBUGS.REL                       -- missing on slave
+(M33         :  26) MONCPY.CTL                       -- missing on slave
+(M33         :  26) SCNUUO.MAC                       -- missing on slave
+(M33         :  26) TYMSER.MAC                       -- missing on slave
+(M33         :  26) SYSID.DAT                        -- missing on slave
+(M33         :  26) NEW.CTL                          -- missing on slave
+(M33         :  26) MONKI.CMD                        -- missing on slave
+(M33         :  26) TYMKL.HLP                        -- missing on slave
+(M33         :  26) STOPCD.TEC                       -- missing on slave
+(M33         :  26) STOPCD.SRT                       -- missing on slave
+(M33         :  26) STOPCD.CAB                       -- missing on slave
+(M33         :  26) STOPCD.ALL                       -- missing on slave
+(M33         :  26) STOPCD.85                        -- missing on slave
+(M33         :  26) SEXTER.TXT                       -- missing on slave
+(M33         :  26) SAXPRM.DSK                       -- missing on slave
+(M33         :  26) RTYCTL.DAT                       -- missing on slave
+(M33         :  26) REQ.FIL                          -- missing on slave
+(M33         :  26) REMIND.DTA                       -- missing on slave
+(M33         :  26) REMIND.DAT                       -- missing on slave
+(M33         :  26) RELMON.RNO                       -- missing on slave
+(M33         :  26) RELMON.MEM                       -- missing on slave
+(M33         :  26) REDABS.SAV                       -- missing on slave
+(M33         :  26) OPDEF.TXT                        -- missing on slave
+(M33         :  26) NEWMON.MEM                       -- missing on slave
+(M33         :  26) MONNAM.KS                        -- missing on slave
+(M33         :  26) MAIL29                           -- missing on slave
+(M33         :  26) M33CMD.DIR                       -- missing on slave
+(M33         :  26) KSCOP1.BIN                       -- missing on slave
+(M33         :  26) IGHF0G.MR0                       -- missing on slave
+(M33         :  26) GETPAG.MEM                       -- missing on slave
+(M33         :  26) FSHTAP.BTI                       -- missing on slave
+(M33         :  26) FSH34F.BTO                       -- missing on slave
+(M33         :  26) FSH34F.BTI                       -- missing on slave
+(M33         :  26) FIND0K.PTR                       -- missing on slave
+(M33         :  26) FILFNB.END                       -- missing on slave
+(M33         :  26) DM8W3P.ME0                       -- missing on slave
+(M33         :  26) DIF.FIL                          -- missing on slave
+(M33         :  26) DALLAS.M33                       -- missing on slave
+(M33         :  26) CV3GP2.ME0                       -- missing on slave
+(M33         :  26) CV3GMQ.MR0                       -- missing on slave
+(M33         :  26) CONF3.SAI                        -- missing on slave
+(M33         :  26) CONF3.RP1                        -- missing on slave
+(M33         :  26) CONF3.INP                        -- missing on slave
+(M33         :  26) COMMOD.TAB                       -- missing on slave
+(M33         :  26) COMCON.OLD                       -- missing on slave
+(M33         :  26) BOOTS1.SAV                       -- missing on slave
+(M33         :  26) BITS.MEM                         -- missing on slave
+(M33         :  26) B07.TXT                          -- missing on slave
+(M33         :  26) AWQLUX.MR0                       -- missing on slave
+(M33         :  26) AID060.MR0                       -- missing on slave
+(M33         :  26) ACTSUM.SAI                       -- missing on slave
+(M33         :  26) A08.DIR                          -- missing on slave
+(M33         :  26) 620BAS.RND                       -- missing on slave
+(M33         :  26) 620BAS.MEM                       -- missing on slave
+(M33         :  26) GLOB.MHX                         -- missing on slave
+(M33         :  26) SATCNT.CMD                       -- missing on slave
+(M33         :  26) INFRED.SAV                       -- missing on slave
+(M33         :  26) CRSMAI.WRS                       -- missing on slave
+(M33         :  26) CRALOG.79                        -- missing on slave
+(M33         :  26) CRALOG.78                        -- missing on slave
+(M33         :  26) CRALOG.84                        -- missing on slave
+(M33         :  26) CRSMAI.DMP                       -- missing on slave
+(M33         :  26) TWXB05.SAV                       -- missing on slave
+(M33         :  26) CMT32L.REL                       -- missing on slave
+(M33         :  26) CONF17.MAC                       -- missing on slave
+(M33         :  26) LP2SRS.REL                       -- missing on slave
+(M33         :  26) MAGSRS.REL                       -- missing on slave
+(M33         :  26) ERRCNS.REL                       -- missing on slave
+(M33         :  26) CLOCKS.REL                       -- missing on slave
+(M33         :  26) SWAMPS.REL                       -- missing on slave
+(M33         :  26) FILIOS.REL                       -- missing on slave
+(M33         :  26) IOCSSL.REL                       -- missing on slave
+(M33         :  26) SIMIOL.REL                       -- missing on slave
+(M33         :  26) ERRCNL.REL                       -- missing on slave
+(M33         :  26) CLOCKL.REL                       -- missing on slave
+(M33         :  26) SWAMPL.REL                       -- missing on slave
+(M33         :  26) FILIOL.REL                       -- missing on slave
+(M33         :  26) COMCON.SCM                       -- missing on slave
+(M33         :  26) COMCON.MAC                       -- missing on slave
+(M33         :  26) CONF26.MAC                       -- missing on slave
+(M33         :  26) COMCON.E00                       -- missing on slave
+(M33         :  26) MAGSER.PAT                       -- missing on slave
+(M33         :  26) MAGSER.MAC                       -- missing on slave
+(M33         :  26) KS.PAT                           -- missing on slave
+(M33         :  26) MON17.CMD                        -- missing on slave
+(M33         :  26) COMMOD.MAC                       -- missing on slave
+(M33         :  26) KONEND.PAT                       -- missing on slave
+(M33         :  26) TTYDMP.PAT                       -- missing on slave
+(M33         :  26) COMCON.D00                       -- missing on slave
+(M33         :  26) SEGCON.MAC                       -- missing on slave
+(M33         :  26) FILRIB.MAC                       -- missing on slave
+(M33         :  26) DEBUG.MAC                        -- missing on slave
+(M33         :  26) D00SCM.CTL                       -- missing on slave
+(M33         :  26) FAKMAC.MAC                       -- missing on slave
+(M33         :  26) DPXKON.MAC                       -- missing on slave
+(M33         :  26) BOOTS1.MAC                       -- missing on slave
+(M33         :  26) TSTFAK.MAC                       -- missing on slave
+(M33         :  26) SAXPRM.MAC                       -- missing on slave
+(M33         :  26) OPDEF.MAC                        -- missing on slave
+(M33         :  26) KSBLOD.MAC                       -- missing on slave
+(M33         :  26) DISK.MAC                         -- missing on slave
+(M33         :  26) LP2SER.E00                       -- missing on slave
+(M33         :  26) MON26.CMD                        -- missing on slave
+(M33         :  26) XFER2.CTL                        -- missing on slave
+(M33         :  26) 620CHK.MAC                       -- missing on slave
+(M33         :  26) MONUPD.TEC                       -- missing on slave
+(M33         :  26) MONLOG.TEC                       -- missing on slave
+(M33         :  26) MON34.OLD                        -- missing on slave
+(M33         :  26) MCRASH.TXT                       -- missing on slave
+(M33         :  26) LOGOUT.TXT                       -- missing on slave
+(M33         :  26) LMPVIR.MEM                       -- missing on slave
+(M33         :  26) LINKER.SAI                       -- missing on slave
+(M33         :  26) KSTSK.TXT                        -- missing on slave
+(M33         :  26) KSCOP0.BIN                       -- missing on slave
+(M33         :  26) HEADER                           -- missing on slave
+(M33         :  26) FOO1.FIN                         -- missing on slave
+(M33         :  26) FOO1.BIN                         -- missing on slave
+(M33         :  26) FNBALT.EXC                       -- missing on slave
+(M33         :  26) FIX.REP                          -- missing on slave
+(M33         :  26) FICHE.TXT                        -- missing on slave
+(M33         :  26) FIC34F.BTO                       -- missing on slave
+(M33         :  26) E8DMJC.MR0                       -- missing on slave
+(M33         :  26) CMFMRB                           -- missing on slave
+(M33         :  26) BTEST.SAI                        -- missing on slave
+(M33         :  26) BOOT70.KL                        -- missing on slave
+(M33         :  26) BOOT70.KI                        -- missing on slave
+(M33         :  26) BIOBAS.ONE                       -- missing on slave
+(M33         :  26) BAKCOP                           -- missing on slave
+(M33         :  26) B06.TXT                          -- missing on slave
+(M33         :  26) AU24OI.ME0                       -- missing on slave
+(M33         :  26) A07.DIR                          -- missing on slave
+(M33         :  26) 32DISK.MEM                       -- missing on slave
+(M33         :  26) F02627.SAV                       -- missing on slave
+(M33         :  26) CONF34.MAC                       -- missing on slave
+(M33         :  26) SETE.LOG                         -- missing on slave
+(M33         :  26) INITIA.LOG                       -- missing on slave
+(M33         :  26) PARERR.PAT                       -- missing on slave
+(M33         :  26) 620SAV.SAV                       -- missing on slave
+(M33         :  26) MAIL.WRS                         -- missing on slave
+(M33         :  26) LOGOUT.LOG                       -- missing on slave
+(M33         :  26) BIOBAS.REM                       -- missing on slave
+(M33         :  26) BIOBAS.OLD                       -- missing on slave
+(M33         :  26) BOOT3P.KI                        -- missing on slave
+(M33         :  26) BOOT3B.KL                        -- missing on slave
+(M33         :  26) BOOT3B.KI                        -- missing on slave
+(M33         :  26) BOOT3P.KL                        -- missing on slave
+(M33         :  26) MAGNUM.DIR                       -- missing on slave
+(M33         :  26) RELOAD.CTL                       -- missing on slave
+(M33         :  26) CNFN26.MAC                       -- missing on slave
+(M33         :  26) CNFN17.MAC                       -- missing on slave
+(M33         :  26) RELOAD.COM                       -- missing on slave
+(M33         :  26) SET37L.REL                       -- missing on slave
+(M33         :  26) CMN37L.REL                       -- missing on slave
+(M33         :  26) CMD33L.REL                       -- missing on slave
+(M33         :  26) SET30L.REL                       -- missing on slave
+(M33         :  26) CMN30L.REL                       -- missing on slave
+(M33         :  26) KMCSRS.REL                       -- missing on slave
+(M33         :  26) PICONS.REL                       -- missing on slave
+(M33         :  26) CLUBSS.REL                       -- missing on slave
+(M33         :  26) MONBTS.REL                       -- missing on slave
+(M33         :  26) CMDKSS.REL                       -- missing on slave
+(M33         :  26) LPTSRL.REL                       -- missing on slave
+(M33         :  26) FTASRL.REL                       -- missing on slave
+(M33         :  26) PICONL.REL                       -- missing on slave
+(M33         :  26) BOTLOL.REL                       -- missing on slave
+(M33         :  26) CLUBSL.REL                       -- missing on slave
+(M33         :  26) MONBTL.REL                       -- missing on slave
+(M33         :  26) CMDKLL.REL                       -- missing on slave
+(M33         :  26) TWXD09.SAV                       -- missing on slave
+(M33         :  26) S.MAC                            -- missing on slave
+(M33         :  26) 17XE01.SAV                       -- missing on slave
+(M33         :  26) OPNUFD.MAC                       -- missing on slave
+(M33         :  26) WAIT1.PAT                        -- missing on slave
+(M33         :  26) PAKCOP.MAC                       -- missing on slave
+(M33         :  26) BOOT3B.MAC                       -- missing on slave
+(M33         :  26) BOOT3P.MAC                       -- missing on slave
+(M33         :  26) KLUNV.MAC                        -- missing on slave
+(M33         :  26) KSUNV.MAC                        -- missing on slave
+(M33         :  26) CPXKON.MAC                       -- missing on slave
+(M33         :  26) PCBIO.MAC                        -- missing on slave
+(M33         :  26) BIOBAS.PAT                       -- missing on slave
+(M33         :  26) MONBTS.MAC                       -- missing on slave
+(M33         :  26) IMEPAR.PAT                       -- missing on slave
+(M33         :  26) KMCSER.MAC                       -- missing on slave
+(M33         :  26) FTASER.MAC                       -- missing on slave
+(M33         :  26) BPXKPN.MAC                       -- missing on slave
+(M33         :  26) BPXBTS.MAC                       -- missing on slave
+(M33         :  26) P034N.SWM                        -- missing on slave
+(M33         :  26) FTFOON.MAC                       -- missing on slave
+(M33         :  26) FILDDT.MAC                       -- missing on slave
+(M33         :  26) BIOBAS.MAC                       -- missing on slave
+(M33         :  26) PLTSER.MAC                       -- missing on slave
+(M33         :  26) MTASER.MAC                       -- missing on slave
+(M33         :  26) LPTSER.MAC                       -- missing on slave
+(M33         :  26) KMCDDT.MAC                       -- missing on slave
+(M33         :  26) F3TSER.MAC                       -- missing on slave
+(M33         :  26) KLSYM.MAC                        -- missing on slave
+(M33         :  26) MON34.CMD                        -- missing on slave
+(M33         :  26) XFER1.CTL                        -- missing on slave
+(M33         :  26) UUOCON.MAC                       -- missing on slave
+(M33         :  26) SCDNOT.TXT                       -- missing on slave
+(M33         :  26) SAIL.DEF                         -- missing on slave
+(M33         :  26) SA10NW.SAV                       -- missing on slave
+(M33         :  26) SA10NW.FMT                       -- missing on slave
+(M33         :  26) RING.TXT                         -- missing on slave
+(M33         :  26) OPDEF3.TXT                       -- missing on slave
+(M33         :  26) MPATCH.DOC                       -- missing on slave
+(M33         :  26) MONITR.NFO                       -- missing on slave
+(M33         :  26) MONGEN.HLP                       -- missing on slave
+(M33         :  26) MONGEN.FIL                       -- missing on slave
+(M33         :  26) MONGEN.FDM                       -- missing on slave
+(M33         :  26) MONGEN.CKS                       -- missing on slave
+(M33         :  26) MONEDX.SAI                       -- missing on slave
+(M33         :  26) MONED.SAI                        -- missing on slave
+(M33         :  26) MONED.DOC                        -- missing on slave
+(M33         :  26) MONED.2                          -- missing on slave
+(M33         :  26) MDDT.SAI                         -- missing on slave
+(M33         :  26) MDDT.2                           -- missing on slave
+(M33         :  26) LONG.REP                         -- missing on slave
+(M33         :  26) KLSIZE.TXT                       -- missing on slave
+(M33         :  26) IG31D1.MR0                       -- missing on slave
+(M33         :  26) HOST.FIL                         -- missing on slave
+(M33         :  26) HOST                             -- missing on slave
+(M33         :  26) FTMAGN.SHR                       -- missing on slave
+(M33         :  26) FSHMON.MEM                       -- missing on slave
+(M33         :  26) FILES.37                         -- missing on slave
+(M33         :  26) DR11C.DOC                        -- missing on slave
+(M33         :  26) CTYSIM.DOC                       -- missing on slave
+(M33         :  26) CTYLOG.62                        -- missing on slave
+(M33         :  26) CRASUM.HLP                       -- missing on slave
+(M33         :  26) COMC.UBR                         -- missing on slave
+(M33         :  26) CHKSUM.B12                       -- missing on slave
+(M33         :  26) CHKCMP.BA2                       -- missing on slave
+(M33         :  26) BOTLOD.M07                       -- missing on slave
+(M33         :  26) BOTLOD.M06                       -- missing on slave
+(M33         :  26) BOTLOD.M05                       -- missing on slave
+(M33         :  26) BOTLOD.M04                       -- missing on slave
+(M33         :  26) BOTLOD.M03                       -- missing on slave
+(M33         :  26) BOTLOD.M02                       -- missing on slave
+(M33         :  26) BOTLOD.M01                       -- missing on slave
+(M33         :  26) BOTLOD.M00                       -- missing on slave
+(M33         :  26) BOOTKS.TYM                       -- missing on slave
+(M33         :  26) BOOTKS.T10                       -- missing on slave
+(M33         :  26) BOOTKS.SAV                       -- missing on slave
+(M33         :  26) BOOTKS.DMP                       -- missing on slave
+(M33         :  26) BOOTKL.164                       -- missing on slave
+(M33         :  26) ALR620.DOC                       -- missing on slave
+(M33         :  26) AHWXHY.ME0                       -- missing on slave
+(M33         :  26) 24BASE.TXT                       -- missing on slave
+(M33         :  26) UUOCON.BAK                       -- missing on slave
+(M33         :  26) CRASUM.34                        -- missing on slave
+(M33         :  26) CRASUM.SAV                       -- missing on slave
+(M33         :  26) ISXRAY.GGY                       -- missing on slave
+(M33         :  26) INTKIL.RUN                       -- missing on slave
+(M33         :  26) BOTLOD.A10                       -- missing on slave
+(M33         :  26) BOTLOD.INF                       -- missing on slave
+(M33         :  26) INTKIL.PAT                       -- missing on slave
+(M33         :  26) STTCNT.CMD                       -- missing on slave
+(M33         :  26) 023TEL.COM                       -- missing on slave
+(M33         :  26) P035E.WHR                        -- missing on slave
+(M33         :  26) TRWSYS.SAV                       -- missing on slave
+(M33         :  26) CPUS1.LOG                        -- missing on slave
+(M33         :  26) ONCESS.REL                       -- missing on slave
+(M33         :  26) KMCDDS.REL                       -- missing on slave
+(M33         :  26) TMPUUS.REL                       -- missing on slave
+(M33         :  26) DZKONS.REL                       -- missing on slave
+(M33         :  26) MJBDTS.REL                       -- missing on slave
+(M33         :  26) ONCELL.REL                       -- missing on slave
+(M33         :  26) TMPUUL.REL                       -- missing on slave
+(M33         :  26) MJBDTL.REL                       -- missing on slave
+(M33         :  26) CONF33.MAC                       -- missing on slave
+(M33         :  26) FILIO.E00                        -- missing on slave
+(M33         :  26) FILIO.MAC                        -- missing on slave
+(M33         :  26) SWAMP.MAC                        -- missing on slave
+(M33         :  26) FILIO.NEW                        -- missing on slave
+(M33         :  26) BPXKON.MAC                       -- missing on slave
+(M33         :  26) FAKJDA.MAC                       -- missing on slave
+(M33         :  26) BOOTKS.MAC                       -- missing on slave
+(M33         :  26) D05SCM.CTL                       -- missing on slave
+(M33         :  26) PEKCHK.PAT                       -- missing on slave
+(M33         :  26) OLD.CTL                          -- missing on slave
+(M33         :  26) MCOPY.CTL                        -- missing on slave
+(M33         :  26) MONED.SAV                        -- missing on slave
+(M33         :  26) TDDT.MAC                         -- missing on slave
+(M33         :  26) PARITY.MAC                       -- missing on slave
+(M33         :  26) PAKCKS.MAC                       -- missing on slave
+(M33         :  26) MONED.MAC                        -- missing on slave
+(M33         :  26) BASMSG.MAC                       -- missing on slave
+(M33         :  26) PTRSER.MAC                       -- missing on slave
+(M33         :  26) DR11C.MAC                        -- missing on slave
+(M33         :  26) CTYSIM.MAC                       -- missing on slave
+(M33         :  26) BOTLOD.MAC                       -- missing on slave
+(M33         :  26) MON33.CMD                        -- missing on slave
+(M33         :  26) BOTLOD.SAV                       -- missing on slave
+(M33         :  26) KSCOP.BIN                        -- missing on slave
+(M33         :  26) KLDCPU.HLP                       -- missing on slave
+(M33         :  26) IH8ACS.ME0                       -- missing on slave
+(M33         :  26) H0BRH0.MR0                       -- missing on slave
+(M33         :  26) GPR9FM.MR0                       -- missing on slave
+(M33         :  26) FIND.PTR                         -- missing on slave
+(M33         :  26) FILFNF.END                       -- missing on slave
+(M33         :  26) F702KL.UNV                       -- missing on slave
+(M33         :  26) E85ZSO.ME0                       -- missing on slave
+(M33         :  26) DISKIO.MEM                       -- missing on slave
+(M33         :  26) DFRPM.HLP                        -- missing on slave
+(M33         :  26) DDTMAK.DOC                       -- missing on slave
+(M33         :  26) CONFS.SAI                        -- missing on slave
+(M33         :  26) CONFS.REQ                        -- missing on slave
+(M33         :  26) CHARGI.MEM                       -- missing on slave
+(M33         :  26) BOOTS.X62                        -- missing on slave
+(M33         :  26) BOOTS.F3B                        -- missing on slave
+(M33         :  26) BOOTS.F3                         -- missing on slave
+(M33         :  26) BOOTS.DOC                        -- missing on slave
+(M33         :  26) BOOTS.DIR                        -- missing on slave
+(M33         :  26) BOOTS.17Z                        -- missing on slave
+(M33         :  26) BOOTS.17Y                        -- missing on slave
+(M33         :  26) BOOTS.17X                        -- missing on slave
+(M33         :  26) BOOTS.176                        -- missing on slave
+(M33         :  26) BOOTS.175                        -- missing on slave
+(M33         :  26) BOOTS.174                        -- missing on slave
+(M33         :  26) BOOTS.173                        -- missing on slave
+(M33         :  26) BOOTS.172                        -- missing on slave
+(M33         :  26) BOOTS.171                        -- missing on slave
+(M33         :  26) BOOTS.169                        -- missing on slave
+(M33         :  26) BOOTS.168                        -- missing on slave
+(M33         :  26) BOOTS.162                        -- missing on slave
+(M33         :  26) AVZWJ1.ME0                       -- missing on slave
+(M33         :  26) ACTPRI.SAV                       -- missing on slave
+(M33         :  26) CONF32.MAC                       -- missing on slave
+(M33         :  26) PICON.MAC                        -- missing on slave
+(M33         :  26) LUD.SYS                          -- missing on slave
+(M33         :  26) C.1                              -- missing on slave
+(M33         :  26) C.2                              -- missing on slave
+(M33         :  26) C.3                              -- missing on slave
+(M33         :  26) C.4                              -- missing on slave
+(M33         :  26) FDPRT.SAV                        -- missing on slave
+(M33         :  26) SOQ.CMD                          -- missing on slave
+(M33         :  26) READST.SAV                       -- missing on slave
+(M33         :  26) X5                               -- missing on slave
+(M33         :  26) X                                -- missing on slave
+(M33         :  26) CRSUPD.SAV                       -- missing on slave
+(M33         :  26) CRSUPD                           -- missing on slave
+(M33         :  26) BOOTS.SAV                        -- missing on slave
+(M33         :  26) BOOTS.INF                        -- missing on slave
+(M33         :  26) MAIN06.VUE                       -- missing on slave
+(M33         :  26) PAT.FIL                          -- missing on slave
+(M33         :  26) TEMP                             -- missing on slave
+(M33         :  26) CONF23.MAC                       -- missing on slave
+(M33         :  26) SET17S.REL                       -- missing on slave
+(M33         :  26) CMN17S.REL                       -- missing on slave
+(M33         :  26) CONF14.MAC                       -- missing on slave
+(M33         :  26) SET26L.REL                       -- missing on slave
+(M33         :  26) CMN26L.REL                       -- missing on slave
+(M33         :  26) ONCDSS.REL                       -- missing on slave
+(M33         :  26) PATCHS.REL                       -- missing on slave
+(M33         :  26) SEGCNS.REL                       -- missing on slave
+(M33         :  26) COMCNS.REL                       -- missing on slave
+(M33         :  26) FILUUS.REL                       -- missing on slave
+(M33         :  26) ONCDSL.REL                       -- missing on slave
+(M33         :  26) EDDT.REL                         -- missing on slave
+(M33         :  26) PATCHL.REL                       -- missing on slave
+(M33         :  26) SEGCNL.REL                       -- missing on slave
+(M33         :  26) COMCNL.REL                       -- missing on slave
+(M33         :  26) FILUUL.REL                       -- missing on slave
+(M33         :  26) PICON.E01                        -- missing on slave
+(M33         :  26) MONALL.CTL                       -- missing on slave
+(M33         :  26) COMTXT.MAC                       -- missing on slave
+(M33         :  26) BOOTS.170                        -- missing on slave
+(M33         :  26) UFDER1.PAT                       -- missing on slave
+(M33         :  26) SDDT.MAC                         -- missing on slave
+(M33         :  26) OPER.WHN                         -- missing on slave
+(M33         :  26) FRASER.MAC                       -- missing on slave
+(M33         :  26) BOTLOX.MAC                       -- missing on slave
+(M33         :  26) DFCKON.MAC                       -- missing on slave
+(M33         :  26) F3UNV.MAC                        -- missing on slave
+(M33         :  26) SIMKL.MAC                        -- missing on slave
+(M33         :  26) TYFOON.MAC                       -- missing on slave
+(M33         :  26) RDBOOT.MAC                       -- missing on slave
+(M33         :  26) KSTLOD.MAC                       -- missing on slave
+(M33         :  26) FTKS10.MAC                       -- missing on slave
+(M33         :  26) FTKL10.MAC                       -- missing on slave
+(M33         :  26) RMXKON.MAC                       -- missing on slave
+(M33         :  26) KSCOMM.MAC                       -- missing on slave
+(M33         :  26) EDDT.MAC                         -- missing on slave
+(M33         :  26) CDRSER.MAC                       -- missing on slave
+(M33         :  26) APXKON.MAC                       -- missing on slave
+(M33         :  26) F3SYM.MAC                        -- missing on slave
+(M33         :  26) MONTW.CMD                        -- missing on slave
+(M33         :  26) SYMLOK.SAV                       -- missing on slave
+(M33         :  26) S702KL.UNV                       -- missing on slave
+(M33         :  26) POWER.TXT                        -- missing on slave
+(M33         :  26) PAKCOF.017                       -- missing on slave
+(M33         :  26) P035C.MEM                        -- missing on slave
+(M33         :  26) P035C.DOC                        -- missing on slave
+(M33         :  26) OSARC.DIR                        -- missing on slave
+(M33         :  26) OPRLIC.INF                       -- missing on slave
+(M33         :  26) ONCDSK.TXT                       -- missing on slave
+(M33         :  26) ONCDSK.CAB                       -- missing on slave
+(M33         :  26) NOTICE.TYP                       -- missing on slave
+(M33         :  26) MONVER.SEP                       -- missing on slave
+(M33         :  26) M33.FIL                          -- missing on slave
+(M33         :  26) KLDCP1.HLP                       -- missing on slave
+(M33         :  26) KLDCP1.DOC                       -- missing on slave
+(M33         :  26) KE809Y.ME0                       -- missing on slave
+(M33         :  26) JOBDAT.REL                       -- missing on slave
+(M33         :  26) INTADR.MEM                       -- missing on slave
+(M33         :  26) FSHGEN.BTO                       -- missing on slave
+(M33         :  26) FSHGEN.BTI                       -- missing on slave
+(M33         :  26) FNDBAD.RPT                       -- missing on slave
+(M33         :  26) FIND0N.PTR                       -- missing on slave
+(M33         :  26) F3OPR.DOC                        -- missing on slave
+(M33         :  26) ERRMSG.DAT                       -- missing on slave
+(M33         :  26) CV3GPQ.MR0                       -- missing on slave
+(M33         :  26) COMMON.OLD                       -- missing on slave
+(M33         :  26) COMMON.79                        -- missing on slave
+(M33         :  26) CHANGE                           -- missing on slave
+(M33         :  26) CB.DEF                           -- missing on slave
+(M33         :  26) BOOTF3.SAV                       -- missing on slave
+(M33         :  26) BOOTF3.170                       -- missing on slave
+(M33         :  26) 930REL.CKS                       -- missing on slave
+(M33         :  26) CONF56.MAC                       -- missing on slave
+(M33         :  26) NOTICE.58                        -- missing on slave
+(M33         :  26) SETETY.LOG                       -- missing on slave
+(M33         :  26) SETETY.MAC                       -- missing on slave
+(M33         :  26) CRASH.ALL                        -- missing on slave
+(M33         :  26) UPT.XPN                          -- missing on slave
+(M33         :  26) FILDAT.CMD                       -- missing on slave
+(M33         :  26) NOTICE.33                        -- missing on slave
+(M33         :  26) CRASH.D37                        -- missing on slave
+(M33         :  26) NOTICE.12                        -- missing on slave
+(M33         :  26) NOTICE.54                        -- missing on slave
+(M33         :  26) NOTICE.25                        -- missing on slave
+(M33         :  26) INFSND.SAV                       -- missing on slave
+(M33         :  26) GOODGY.NQA                       -- missing on slave
+(M33         :  26) FILE.DDT                         -- missing on slave
+(M33         :  26) CONF38.MAC                       -- missing on slave
+(M33         :  26) CRALST.CMD                       -- missing on slave
+(M33         :  26) CRALST.NEW                       -- missing on slave
+(M33         :  26) CRASH.CMD                        -- missing on slave
+(M33         :  26) CNFN23.MAC                       -- missing on slave
+(M33         :  26) P035.MEM                         -- missing on slave
+(M33         :  26) CONF74.MAC                       -- missing on slave
+(M33         :  26) NOTICE.32                        -- missing on slave
+(M33         :  26) CMT17S.REL                       -- missing on slave
+(M33         :  26) CIOPRS.LST                       -- missing on slave
+(M33         :  26) FILFNS.REL                       -- missing on slave
+(M33         :  26) MAPIOS.REL                       -- missing on slave
+(M33         :  26) REFSTL.REL                       -- missing on slave
+(M33         :  26) ACTSRL.REL                       -- missing on slave
+(M33         :  26) CORE1L.REL                       -- missing on slave
+(M33         :  26) CPXKNL.REL                       -- missing on slave
+(M33         :  26) FILRBL.REL                       -- missing on slave
+(M33         :  26) FILFNL.REL                       -- missing on slave
+(M33         :  26) MAPIOL.REL                       -- missing on slave
+(M33         :  26) CONF56.52                        -- missing on slave
+(M33         :  26) CONF74.52                        -- missing on slave
+(M33         :  26) NOTICE.118                       -- missing on slave
+(M33         :  26) CNFN14.MAC                       -- missing on slave
+(M33         :  26) NOTICE.14                        -- missing on slave
+(M33         :  26) TM2KON.703                       -- missing on slave
+(M33         :  26) CNFN32.MAC                       -- missing on slave
+(M33         :  26) NOTICE.17                        -- missing on slave
+(M33         :  26) TTYSYM.MAC                       -- missing on slave
+(M33         :  26) KIUNV.MAC                        -- missing on slave
+(M33         :  26) BOOTF3.MAC                       -- missing on slave
+(M33         :  26) ERRMSG.MAC                       -- missing on slave
+(M33         :  26) XP.MAC                           -- missing on slave
+(M33         :  26) UUOTYM.MAC                       -- missing on slave
+(M33         :  26) DMON.PAT                         -- missing on slave
+(M33         :  26) COMMON.703                       -- missing on slave
+(M33         :  26) TTYZAP.PAT                       -- missing on slave
+(M33         :  26) ONCDSK.E00                       -- missing on slave
+(M33         :  26) ERRCON.D00                       -- missing on slave
+(M33         :  26) ACTSER.MAC                       -- missing on slave
+(M33         :  26) XFER.CTL                         -- missing on slave
+(M33         :  26) NOTICE.38                        -- missing on slave
+(M33         :  26) PTPSER.MAC                       -- missing on slave
+(M33         :  26) JOBDAT.MAC                       -- missing on slave
+(M33         :  26) DZKON.MAC                        -- missing on slave
+(M33         :  26) KISYM.MAC                        -- missing on slave
+(M33         :  26) MON38.CMD                        -- missing on slave
+(M33         :  26) SA10.SRT                         -- missing on slave
+(M33         :  26) SA10.FIL                         -- missing on slave
+(M33         :  26) REP1                             -- missing on slave
+(M33         :  26) PATMON.RNO                       -- missing on slave
+(M33         :  26) PATMON.MEM                       -- missing on slave
+(M33         :  26) PATCH.F33                        -- missing on slave
+(M33         :  26) PATCH.D34                        -- missing on slave
+(M33         :  26) P035B.MEM                        -- missing on slave
+(M33         :  26) P035B.DOC                        -- missing on slave
+(M33         :  26) P034Q.MEM                        -- missing on slave
+(M33         :  26) P034Q.DOC                        -- missing on slave
+(M33         :  26) P034.MEM                         -- missing on slave
+(M33         :  26) MONBUG.NFO                       -- missing on slave
+(M33         :  26) MON.TEC                          -- missing on slave
+(M33         :  26) MON.ALL                          -- missing on slave
+(M33         :  26) MAKFSH.EVS                       -- missing on slave
+(M33         :  26) LOWCOR.TXT                       -- missing on slave
+(M33         :  26) LOKPPB.UNP                       -- missing on slave
+(M33         :  26) IGVGRP.ME0                       -- missing on slave
+(M33         :  26) ICP.SAV                          -- missing on slave
+(M33         :  26) HICORE.NFO                       -- missing on slave
+(M33         :  26) GYI2MR.MR0                       -- missing on slave
+(M33         :  26) FTALOD.V                         -- missing on slave
+(M33         :  26) FTALOD.TXT                       -- missing on slave
+(M33         :  26) FTALOD.ERR                       -- missing on slave
+(M33         :  26) FTALOD.DOC                       -- missing on slave
+(M33         :  26) FTALOD.A10                       -- missing on slave
+(M33         :  26) FSHFMT.B13                       -- missing on slave
+(M33         :  26) FETTBL.DOC                       -- missing on slave
+(M33         :  26) FCRE4.TXT                        -- missing on slave
+(M33         :  26) CPUS.FSH                         -- missing on slave
+(M33         :  26) CPUS.ALL                         -- missing on slave
+(M33         :  26) CHKM33.CKS                       -- missing on slave
+(M33         :  26) CALST.MSG                        -- missing on slave
+(M33         :  26) BTEST1.SAI                       -- missing on slave
+(M33         :  26) BOOTSO.F3                        -- missing on slave
+(M33         :  26) BOOTKI.DOC                       -- missing on slave
+(M33         :  26) BOOTKI.169                       -- missing on slave
+(M33         :  26) BOOT.NFO                         -- missing on slave
+(M33         :  26) BOOT.FIL                         -- missing on slave
+(M33         :  26) BAD.TXT                          -- missing on slave
+(M33         :  26) APT10.SAV                        -- missing on slave
+(M33         :  26) AIDATB.MR0                       -- missing on slave
+(M33         :  26) 620IL.MEM                        -- missing on slave
+(M33         :  26) 3650.TXT                         -- missing on slave
+(M33         :  26) 3650.BUG                         -- missing on slave
+(M33         :  26) TEMPLT.CMD                       -- missing on slave
+(M33         :  26) CHKPNT.MAC                       -- missing on slave
+(M33         :  26) CHKPNT.CAB                       -- missing on slave
+(M33         :  26) X3                               -- missing on slave
+(M33         :  26) 620DIR.TXT                       -- missing on slave
+(M33         :  26) RCVZAP.RUN                       -- missing on slave
+(M33         :  26) STATIC.MAC                       -- missing on slave
+(M33         :  26) STATIC.SAV                       -- missing on slave
+(M33         :  26) STATIC.LST                       -- missing on slave
+(M33         :  26) PATCH.OLD                        -- missing on slave
+(M33         :  26) 74XE01.52                        -- missing on slave
+(M33         :  26) 56XE01.52                        -- missing on slave
+(M33         :  26) CMN33L.REL                       -- missing on slave
+(M33         :  26) UUOCNS.REL                       -- missing on slave
+(M33         :  26) SCHEDS.REL                       -- missing on slave
+(M33         :  26) FRMSRS.REL                       -- missing on slave
+(M33         :  26) SETKSS.REL                       -- missing on slave
+(M33         :  26) CMNKSS.REL                       -- missing on slave
+(M33         :  26) DEBUGL.REL                       -- missing on slave
+(M33         :  26) UUOCNL.REL                       -- missing on slave
+(M33         :  26) SCHEDL.REL                       -- missing on slave
+(M33         :  26) BPXKNL.REL                       -- missing on slave
+(M33         :  26) FRMSRL.REL                       -- missing on slave
+(M33         :  26) SETKLL.REL                       -- missing on slave
+(M33         :  26) CMNKLL.REL                       -- missing on slave
+(M33         :  26) CPUS.CTL                         -- missing on slave
+(M33         :  26) CONF30.MAC                       -- missing on slave
+(M33         :  26) RCVZAP.PAT                       -- missing on slave
+(M33         :  26) CONFKI.MAC                       -- missing on slave
+(M33         :  26) REFSTR.MAC                       -- missing on slave
+(M33         :  26) MON30.CMD                        -- missing on slave
+(M33         :  26) DDT.MAC                          -- missing on slave
+(M33         :  26) FRMSER.MAC                       -- missing on slave
+(M33         :  26) FILFND.MAC                       -- missing on slave
+(M33         :  26) SETETC.MAC                       -- missing on slave
+(M33         :  26) MONTAB.MAC                       -- missing on slave
+(M33         :  26) LICENA.MAC                       -- missing on slave
+(M33         :  26) IFCPU.MAC                        -- missing on slave
+(M33         :  26) FTALOD.MAC                       -- missing on slave
+(M33         :  26) FRMDDT.MAC                       -- missing on slave
+(M33         :  26) SETEKS.MAC                       -- missing on slave
+(M33         :  26) PATCH.MAC                        -- missing on slave
+(M33         :  26) KSIORG.MAC                       -- missing on slave
+(M33         :  26) CNFN74.MAC                       -- missing on slave
+(M33         :  26) CNFN38.MAC                       -- missing on slave
+(M33         :  26) MON37.CMD                        -- missing on slave
+(M33         :  26) MON.CMD                          -- missing on slave
+(M33         :  26) DDT.DOC                          -- missing on slave
+(M33         :  26) TYPMSG.MAC                       -- missing on slave
+(M33         :  26) F02594.SAV                       -- missing on slave
+(M33         :  26) RIBAUT.SAV                       -- missing on slave
+(M33         :  26) REQUES                           -- missing on slave
+(M33         :  26) REPORT.TXT                       -- missing on slave
+(M33         :  26) REPORT.SYS                       -- missing on slave
+(M33         :  26) P10.TXT                          -- missing on slave
+(M33         :  26) P035A.MEM                        -- missing on slave
+(M33         :  26) P035A.DOC                        -- missing on slave
+(M33         :  26) P034P.MEM                        -- missing on slave
+(M33         :  26) P034P.DOC                        -- missing on slave
+(M33         :  26) P034GL.MEM                       -- missing on slave
+(M33         :  26) P033.MEM                         -- missing on slave
+(M33         :  26) P033.INF                         -- missing on slave
+(M33         :  26) P033.DOC                         -- missing on slave
+(M33         :  26) OPERN.DOC                        -- missing on slave
+(M33         :  26) ONCE.HLP                         -- missing on slave
+(M33         :  26) NEWUUO.NFO                       -- missing on slave
+(M33         :  26) MSGS.MEM                         -- missing on slave
+(M33         :  26) MONXMT.MEM                       -- missing on slave
+(M33         :  26) MONWSH.NFO                       -- missing on slave
+(M33         :  26) MONSYM.DOC                       -- missing on slave
+(M33         :  26) MONPRB.MEM                       -- missing on slave
+(M33         :  26) MONED1.SAI                       -- missing on slave
+(M33         :  26) MONED1.F3                        -- missing on slave
+(M33         :  26) MONED1.DOC                       -- missing on slave
+(M33         :  26) MONED1.2                         -- missing on slave
+(M33         :  26) MONED1.13                        -- missing on slave
+(M33         :  26) MONED1.12                        -- missing on slave
+(M33         :  26) MONDOC.SAI                       -- missing on slave
+(M33         :  26) MONDOC.1                         -- missing on slave
+(M33         :  26) MCODE                            -- missing on slave
+(M33         :  26) LONGER                           -- missing on slave
+(M33         :  26) LOKMAL.SAV                       -- missing on slave
+(M33         :  26) KMC.DOC                          -- missing on slave
+(M33         :  26) KLCRSH.HLP                       -- missing on slave
+(M33         :  26) KEY620.ORG                       -- missing on slave
+(M33         :  26) ICPSYM                           -- missing on slave
+(M33         :  26) HTPPKG.ME0                       -- missing on slave
+(M33         :  26) GENRAL.SUM                       -- missing on slave
+(M33         :  26) FRMOP.DEF                        -- missing on slave
+(M33         :  26) DUSAGE.TXT                       -- missing on slave
+(M33         :  26) DPN.MEM                          -- missing on slave
+(M33         :  26) CONVRT.SAV                       -- missing on slave
+(M33         :  26) CONTEN.TEC                       -- missing on slave
+(M33         :  26) BTMNTP.DOC                       -- missing on slave
+(M33         :  26) ACCESS.KS                        -- missing on slave
+(M33         :  26) A86WDS.MX0                       -- missing on slave
+(M33         :  26) A86WDS.MS0                       -- missing on slave
+(M33         :  26) A86WDS.MD0                       -- missing on slave
+(M33         :  26) A86WDS.MA0                       -- missing on slave
+(M33         :  26) 6000.TXT                         -- missing on slave
+(M33         :  26) FDCNT.SAV                        -- missing on slave
+(M33         :  26) KOST.SAV                         -- missing on slave
+(M33         :  26) 6000.ORG                         -- missing on slave
+(M33         :  26) 6000.MON                         -- missing on slave
+(M33         :  26) MAIN.FIN                         -- missing on slave
+(M33         :  26) X2                               -- missing on slave
+(M33         :  26) BOOT5P.KL                        -- missing on slave
+(M33         :  26) BOOT5B.KL                        -- missing on slave
+(M33         :  26) BOOT5B.KI                        -- missing on slave
+(M33         :  26) BOOT5P.KI                        -- missing on slave
+(M33         :  26) PATLOG.SAV                       -- missing on slave
+(M33         :  26) MAIN03.VUE                       -- missing on slave
+(M33         :  26) KLCRSH.CMD                       -- missing on slave
+(M33         :  26) 6000.C05                         -- missing on slave
+(M33         :  26) SCNSRS.REL                       -- missing on slave
+(M33         :  26) SCNSRL.REL                       -- missing on slave
+(M33         :  26) SCNSER.MAC                       -- missing on slave
+(M33         :  26) SCNSER.SCM                       -- missing on slave
+(M33         :  26) CNFN37.MAC                       -- missing on slave
+(M33         :  26) JFFO.PAT                         -- missing on slave
+(M33         :  26) TWXC05.SAV                       -- missing on slave
+(M33         :  26) CMN14S.REL                       -- missing on slave
+(M33         :  26) SCNSRL.LST                       -- missing on slave
+(M33         :  26) CMTKLL.LST                       -- missing on slave
+(M33         :  26) SCNSRS.LST                       -- missing on slave
+(M33         :  26) CMTKSS.LST                       -- missing on slave
+(M33         :  26) CMT33L.REL                       -- missing on slave
+(M33         :  26) CMD26L.REL                       -- missing on slave
+(M33         :  26) SET23L.REL                       -- missing on slave
+(M33         :  26) CMN23L.REL                       -- missing on slave
+(M33         :  26) CTYSMS.REL                       -- missing on slave
+(M33         :  26) RMXKNS.REL                       -- missing on slave
+(M33         :  26) PCBIOS.REL                       -- missing on slave
+(M33         :  26) CMTKSS.REL                       -- missing on slave
+(M33         :  26) CTYSML.REL                       -- missing on slave
+(M33         :  26) PCBIOL.REL                       -- missing on slave
+(M33         :  26) CMTKLL.REL                       -- missing on slave
+(M33         :  26) FREMON.LOG                       -- missing on slave
+(M33         :  26) TW035E.SAV                       -- missing on slave
+(M33         :  26) FTKI10.MAC                       -- missing on slave
+(M33         :  26) 3675P.MAC                        -- missing on slave
+(M33         :  26) CLOCK1.MAC                       -- missing on slave
+(M33         :  26) 3650P.MAC                        -- missing on slave
+(M33         :  26) TMPUUO.MAC                       -- missing on slave
+(M33         :  26) CIOPR.MAC                        -- missing on slave
+(M33         :  26) OSPSCM.CTL                       -- missing on slave
+(M33         :  26) UNCACH.PAT                       -- missing on slave
+Checking host 33
+Checking host 34
+(M33         :  34) PAKCP5.SAV    26 22-Jul-88 17:10 -- bad checksum LEKMAM
+                           should be 30-Nov-87 23:56 JONBOB  ALL  RD  NO
+(M33         :  34) PAKCPX.SAV    26 22-Jul-88 17:13 -- bad checksum FOZZEQ
+                           should be 30-Nov-87 23:59 FUFCEK  ALL  RD  NO
+(M33         :  34) TWXC05.SAV   169 03-Mar-91 00:30 -- bad checksum DABJUW
+                           should be 02-Mar-91 16:57 ZOCYOH  ALL  RD  NO
+(M33         :  34) SCNSRS.REL    30 22-Apr-91 12:31 -- bad checksum BOGNAC
+                           should be 22-Apr-91 12:31 XUYYOQ  ALL  RD  NO
+(M33         :  34) PATCH.LOG      2 27-Jan-87 17:02 -- bad checksum SODGIL
+                           should be 05-Dec-85 21:24 GIVHAD  ALL  RD  NO
+(M33         :  34) PATCH.OLD      2 10-May-82 10:46 -- bad checksum KADTUT
+                           should be 10-May-82 10:45 ROXFAS  ALL  RD  NO
+(M33         :  34) 74XE01.52    171 12-Mar-91 17:10 -- bad checksum CICWIC
+                           should be 12-Mar-91 17:10 NIHXIW  ALL  RD  NO
+(M33         :  34) 56XE01.52    171 12-Mar-91 17:09 -- bad checksum KOLMEK
+                           should be 12-Mar-91 17:09 PONXOD  ALL  RD  NO
+(M33         :  34) P035C.DOC      5 13-Aug-87 10:49 -- bad checksum ZIRKOW
+                           should be 18-Jul-87 14:32 YUKWOR  ALL  RD  NO
+(M33         :  34) CRALST.CMD     2 25-Jan-88 09:13 -- bad checksum QIFNEB
+                           should be 06-Aug-84 10:33 NOQNAM  ALL  RD  NO
+(M33         :  34) GROUP.CMD      2 14-Feb-80 20:27 -- bad checksum XUQVUH
+                           should be 14-Feb-80 20:27 RUMTOP  ALL  RD  NO
+(M33         :  34) CUSPS.CMD      2 05-Jan-78 12:57 -- bad checksum POLPEH
+                           should be 16-Dec-77 03:54 WAQPIC  ALL ALL  NO
+(M33         :  34) BOOTS.169     23 12-Oct-80 15:20 -- bad checksum KUPHIP
+                           should be 12-Oct-80 15:20 GEXYUL  ALL  RD  NO
+(M33         :  34) FILUUS.REL    17 24-Jan-91 21:51 -- bad checksum LOJTOT
+                           should be 24-Jan-91 21:51 MURXEP  ALL  RD  NO
+(M33         :  34) LUD.SYS      223 31-Mar-90 23:51 -- bad checksum GAPJIG
+                           should be 31-Mar-90 23:51 QAVYIL  ALL  RD  NO
+(M33         :  34) CRSHID.LOG     2 16-Jul-93 16:51 -- bad checksum JETBOC
+                           should be 15-Jan-92 17:47 FIGMIR  ALL  RD  NO
+(M33         :  34) PAKCP3.SAV    26 22-Jul-88 17:07 -- bad checksum QIKMEW
+                           should be 30-Nov-87 23:54 KOTLIF  ALL  RD  NO
+(M33         :  34) PAKCOP.SAV    26 22-Jul-88 17:05 -- bad checksum JIPLAZ
+                           should be 30-Nov-87 23:51 ROVNIX  ALL  RD  NO
+(M33         :  34) BOOT3B.KI      3 08-Jul-85 16:24 -- protection ALL  RD  NO
+                           should be 08-Jul-85 16:24 RIRFUB  ALL RUN  NO      3
+(M33         :  34) BOOT3B.KL      3 08-Jul-85 16:04 -- protection ALL  RD  NO
+                           should be 08-Jul-85 16:04 YAWCAW  ALL RUN  NO      3
+(M33         :  34) P034N.SWM    430 11-Sep-84 10:39 -- bad checksum NUKSIX
+                           should be 11-Sep-84 10:39 KELSAX  ALL  RD  NO
+(M33         :  34) PRINTF.MAC     2 30-Oct-87 14:46 -- bad checksum SIKTUB
+                           should be 30-Oct-87 14:46 ZUPYIB  ALL  RD  NO
+(M33         :  34) 34035E.SAV   171 16-Jul-93 16:23 -- bad checksum LAXQOV
+                           should be 11-Mar-93 22:27 JOBGOS  ALL  RD  NO
+(M33         :  34) TWXB05.SAV   168 03-Mar-91 00:15 -- bad checksum LEMBAY
+                           should be 02-Mar-91 17:37 DUJWUH  ALL  RD  NO
+(M33         :  34) CLOCKL.REL     7 24-Jan-91 21:36 -- bad checksum HAXKAG
+                           should be 24-Jan-91 21:36 HOCHAG  ALL  RD  NO
+(M33         :  34) LP2SER.MAC     9 11-Feb-91 14:40 -- bad checksum SASBIM
+                           should be 11-Feb-91 14:40 NITNIG  ALL  RD  NO
+(M33         :  34) DPN.MEM        3 17-Apr-87 15:31 -- bad checksum DODXAV
+                           should be 17-Apr-87 15:31 FEHXOQ  ALL  RD  NO
+(M33         :  34) BOOTKI.169     3 06-Oct-80 16:59 -- bad checksum RIRFUB
+                           should be 06-Oct-80 16:59 GINJEG  ALL  RD  NO
+(M33         :  34) BOOTKL.164     3 05-Jun-80 20:14 -- bad checksum JEMHED
+                           should be 05-Jun-80 20:14 GONVUX  ALL  RD  NO
+Checking host 38
+(M33         :  38) PAKCP5.SAV    26 22-Jul-88 17:10 -- bad checksum LEKMAM
+                           should be 30-Nov-87 23:56 JONBOB  ALL  RD  NO
+(M33         :  38) PAKCPX.SAV    26 22-Jul-88 17:13 -- bad checksum FOZZEQ
+                           should be 30-Nov-87 23:59 FUFCEK  ALL  RD  NO
+(M33         :  38) TWXC05.SAV   169 03-Mar-91 00:30 -- bad checksum DABJUW
+                           should be 02-Mar-91 16:57 ZOCYOH  ALL  RD  NO
+(M33         :  38) SCNSRS.REL    30 22-Apr-91 12:31 -- bad checksum BOGNAC
+                           should be 22-Apr-91 12:31 XUYYOQ  ALL  RD  NO
+(M33         :  38) PATCH.LOG      2 27-Jan-87 17:02 -- bad checksum SODGIL
+                           should be 05-Dec-85 21:24 GIVHAD  ALL  RD  NO
+(M33         :  38) PATCH.OLD      2 10-May-82 10:46 -- bad checksum KADTUT
+                           should be 10-May-82 10:45 ROXFAS  ALL  RD  NO
+(M33         :  38) 74XE01.52    171 12-Mar-91 17:10 -- bad checksum CICWIC
+                           should be 12-Mar-91 17:10 NIHXIW  ALL  RD  NO
+(M33         :  38) 56XE01.52    171 12-Mar-91 17:09 -- bad checksum KOLMEK
+                           should be 12-Mar-91 17:09 PONXOD  ALL  RD  NO
+(M33         :  38) CRALST.CMD     2 25-Jan-88 09:13 -- bad checksum QIFNEB
+                           should be 06-Aug-84 10:33 NOQNAM  ALL  RD  NO
+(M33         :  38) P035C.DOC      5 13-Aug-87 10:49 -- bad checksum ZIRKOW
+                           should be 18-Jul-87 14:32 YUKWOR  ALL  RD  NO
+(M33         :  38) GROUP.CMD      2 14-Feb-80 20:27 -- bad checksum XUQVUH
+                           should be 14-Feb-80 20:27 RUMTOP  ALL  RD  NO
+(M33         :  38) CUSPS.CMD      2 05-Jan-78 12:57 -- bad checksum POLPEH
+                           should be 16-Dec-77 03:54 WAQPIC  ALL ALL  NO
+(M33         :  38) BOOTS.169     23 12-Oct-80 15:20 -- bad checksum KUPHIP
+                           should be 12-Oct-80 15:20 GEXYUL  ALL  RD  NO
+(M33         :  38) FILUUS.REL    17 24-Jan-91 21:51 -- bad checksum LOJTOT
+                           should be 24-Jan-91 21:51 MURXEP  ALL  RD  NO
+(M33         :  38) LUD.SYS      223 31-Mar-90 23:51 -- bad checksum GAPJIG
+                           should be 31-Mar-90 23:51 QAVYIL  ALL  RD  NO
+(M33         :  38) CRSHID.LOG     2 07-Mar-93 21:56 -- bad checksum WIQFAW
+                           should be 15-Jan-92 17:47 FIGMIR  ALL  RD  NO
+(M33         :  38) CRSHID.SAV    40 19-Mar-85 13:13 -- protection ALL RUN  NO
+                           should be 19-Mar-85 13:13 PEWJEC  ALL  RD  NO   1410
+(M33         :  38) PAKCP3.SAV    26 22-Jul-88 17:07 -- bad checksum QIKMEW
+                           should be 30-Nov-87 23:54 KOTLIF  ALL  RD  NO
+(M33         :  38) PAKCOP.SAV    26 22-Jul-88 17:05 -- bad checksum JIPLAZ
+                           should be 30-Nov-87 23:51 ROVNIX  ALL  RD  NO
+(M33         :  38) P034N.SWM    430 11-Sep-84 10:39 -- bad checksum NUKSIX
+                           should be 11-Sep-84 10:39 KELSAX  ALL  RD  NO
+(M33         :  38) PRINTF.MAC     2 30-Oct-87 14:46 -- bad checksum SIKTUB
+                           should be 30-Oct-87 14:46 ZUPYIB  ALL  RD  NO
+(M33         :  38) TWXB05.SAV   168 03-Mar-91 00:15 -- bad checksum LEMBAY
+                           should be 02-Mar-91 17:37 DUJWUH  ALL  RD  NO
+(M33         :  38) CLOCKL.REL     7 24-Jan-91 21:36 -- bad checksum HAXKAG
+                           should be 24-Jan-91 21:36 HOCHAG  ALL  RD  NO
+(M33         :  38) LP2SER.MAC     9 11-Feb-91 14:40 -- bad checksum SASBIM
+                           should be 11-Feb-91 14:40 NITNIG  ALL  RD  NO
+(M33         :  38) DPN.MEM        3 17-Apr-87 15:31 -- bad checksum DODXAV
+                           should be 17-Apr-87 15:31 FEHXOQ  ALL  RD  NO
+(M33         :  38) BOOTKI.169     3 06-Oct-80 16:59 -- bad checksum RIRFUB
+                           should be 06-Oct-80 16:59 GINJEG  ALL  RD  NO
+(M33         :  38) BOOTKL.164     3 05-Jun-80 20:14 -- bad checksum JEMHED
+                           should be 05-Jun-80 20:14 GONVUX  ALL  RD  NO
+    ["r©
