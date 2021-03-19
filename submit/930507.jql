@@ -1,0 +1,33 @@
+00:00:40 S 07-May-93
+03:00:27 S 07-May-93
+06:00:46 S 07-May-93
+07:45:04 S -S- stream #2 Req #5855 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:07 P Stream #2 Req #5855 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:52:04 P Stream #2 Req #5855 * completed *
+07:52:08 S -R- stream #2 Done-End <0>
+09:00:08 S 07-May-93
+10:00:02 S -S- stream #2 Req #5856 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:00:08 P Stream #2 Req #5856 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:00:48 P Stream #2 Req #5856 * completed *
+10:00:52 S -R- stream #2 Done-End <0>
+12:00:24 S 07-May-93
+14:02:59 S -S- stream #2 Req #4466 DSK:(ENSS)APPEND.LOG=DSK:(ENSS)APPEND.
+14:03:02 P Stream #2 Req #4466 DSK:(ENSS)APPEND.LOG=DSK:(ENSS)APPEND.
+14:05:27 P Stream #2 Req #4466 * aborted - lost command port at line 3 *
+14:05:32 S -R- stream #2 Abort-Zap <0>
+14:30:06 S -S- stream #2 Req #5857 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+14:30:08 P Stream #2 Req #5857 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+14:33:55 P Stream #2 Req #5857 * completed *
+14:33:55 S -R- stream #2 Done-End <0>
+15:00:25 S 07-May-93
+17:00:01 S -S- stream #2 Req #5859 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+17:00:07 P Stream #2 Req #5859 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+17:01:28 P Stream #2 Req #5859 * completed *
+17:01:35 S -R- stream #2 Done-End <0>
+18:00:39 S 07-May-93
+21:00:00 S 07-May-93
+23:30:06 S -S- stream #2 Req #5860 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:30:08 P Stream #2 Req #5860 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:31:34 P Stream #2 Req #5860 * completed *
+23:31:39 S -R- stream #2 Done-End <0>
+00:00:54 S 08-May-93
