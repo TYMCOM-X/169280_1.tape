@@ -1,0 +1,1605 @@
+
+  Parity:Odd  9-Track  Write enabled
+
+  BACKUP reel number 1; start save set: Old [204,1616] Ancient History
+    by version 2(232) at 23:43:25 on 11-Sep-78
+    written on MTA101: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+1124	DIR    35  <***>   520566  (undated)	17:33	 6-Feb-75   0
+AC101	SAV     7  <***>   257333  (undated)	12:35	13-Oct-72   1
+AC102	SAV     8  <***>   770273  (undated)	16:28	 8-May-74   1
+AC103	SAV    35  <***>   531137  (undated)	11:42	 8-Jan-73   1
+AC104	SAV     3  <***>   751230  (undated)	12:36	13-Oct-72   1
+AC105	SAV     4  <***>   634631  (undated)	12:36	13-Oct-72   1
+AC106	SAV    12  <***>   764543  (undated)	 8:58	24-Oct-73   1
+AC107	SAV     5  <***>   641264  (undated)	12:37	13-Oct-72   1
+AC108	SAV     8  <***>   464601  (undated)	 9:40	14-May-74   1
+AC9SRT	SAV     1  <***>   051176  (undated)	12:43	13-Oct-72   1
+ACCLIB	SAV     6  <***>   105540  (undated)	13:48	23-Aug-74   1	4(2)
+AFR	DAT    87  <***>   045554  (undated)	15:42	 1-May-74  14
+AFR	SRT   110  <***>   324452  (undated)	17:06	 1-May-74  14
+ALAB	DAT    75  <***>   205406  (undated)	21:27	27-Jan-75   0
+ALASKA	DAT    33  <***>   070540  (undated)	21:28	27-Jan-75   0
+ALASKA	DIF     6  <***>   350121  (undated)	21:34	 8-Jan-75   0
+AMAZE	BAS    12  <***>   357500  (undated)	15:45	27-Feb-74  14
+ANS	F4     22  <***>   772262  (undated)	19:27	22-Aug-74   0
+AROPLT	F4      8  <***>   772061  (undated)	15:43	27-Feb-74  14
+AXIS	F4      3  <***>   357004  (undated)	     	11-Aug-72   1
+B	F4      1  <***>   511554  (undated)	16:20	19-Jan-75   0
+BARON	       56  <***>   756001  (undated)	15:45	27-Feb-74  14
+BARON	DAT    45  <***>   606507  (undated)	15:45	27-Feb-74  14
+BARPLT	F4      7  <***>   212521  (undated)	15:43	27-Feb-74  14
+BATCH	MCF     1  <***>   665112  (undated)	16:20	 4-Feb-75   0
+BD	MAC     3  <***>   224446  (undated)	23:14	16-Sep-74   1
+BELL	MAC     1  <***>   253555  (undated)	21:05	22-Jan-75   0
+BJAFA	CBL     6  <***>   174016  (undated)	13:28	 5-Feb-75   0
+BJAFA	SAV    10  <***>   643403  (undated)	23:33	 5-Feb-75  16
+BJOB	MAC     1  <***>   456304  (undated)	     	 7-Jan-75   0
+BOUNCE	SAV     3  <***>   344235  (undated)	     	 9-Jul-74   1
+BROAD	       13  <***>   660753  (undated)	22:35	16-Sep-74   1
+BYTES	MAC     2  <***>   020246  (undated)	15:45	27-Feb-74  14
+C	BUF     4  <***>   064103  (undated)	22:55	 4-Sep-74   0
+CALEN	SAV    33  <***>   771555  (undated)	15:45	27-Feb-74  14
+CAR	P11     2  <***>   162322  (undated)	22:08	31-Jul-74   0
+CARL	MAC     3  <***>   364034  (undated)	     	 9-Jan-75   1
+CARL	UNV     2  <***>   212632  (undated)	20:07	 9-Jan-75  14
+CARLIB	LIB   127  <***>   032647  (undated)	10:49	13-Jan-75  10
+CARMAC	MAC    21  <***>   271073  (undated)	22:57	 4-Sep-74   0
+CASINO	BAS    45  <***>   670371  (undated)	15:42	27-Feb-74  14
+CHANGE	MAC     5  <***>   303144  (undated)	11:45	 2-Sep-74   1
+CHANGE	SAV     1  <***>   715145  (undated)	11:47	 2-Sep-74   1
+CHECK	MAC     1  <***>   346743  (undated)	     	26-Jan-74  13
+CHESS	HOW     5  <***>   412243  (undated)	22:39	16-Sep-74   1
+CHESS	SAV    80  <***>   466076  (undated)	22:39	16-Sep-74   1
+CIRCA	F4      1  <***>   016063  (undated)	15:46	27-Feb-74  14
+CODE	F4      1  <***>   401476  (undated)	20:22	24-Apr-74   0
+COMPIL	MAC   160  <***>   614071  (undated)	15:45	27-Feb-74  14
+CONBEF	DAT   233  <***>   574376  (undated)	20:37	27-Jan-75   0
+CONN	DAT     9  <***>   072425  (undated)	20:39	27-Jan-75   0
+CONTUR	DEM     1  <***>   550232  (undated)	15:41	27-Feb-74  14
+CONV1	MAC    11  <***>   435234  (undated)	     	 6-Jan-75   1
+CONVER	BAK     4  <***>   166434  (undated)	18:21	 6-Feb-75   0
+CONVER	CRF    11  <***>   277022  (undated)	18:25	 6-Feb-75   1
+CONVER	MAC     4  <***>   166434  (undated)	18:50	 6-Feb-75   0
+CONVER	REL     2  <***>   722312  (undated)	18:25	 6-Feb-75  14
+CONVER	SAV     1  <***>   770347  (undated)	18:26	 6-Feb-75  16
+CREF	BAS     5  <***>   511316  (undated)	15:45	27-Feb-74  14
+CREF	F4      5  <***>   305635  (undated)	15:41	27-Feb-74  14
+CURHAZ	ALG     2  <***>   455562  (undated)	     	 9-Jul-74   0
+CURHAZ	CUR    25  <***>   472650  (undated)	13:23	 7-Sep-74   1
+CURHAZ	DAT    22  <***>   342664  (undated)	15:08	 5-Sep-74   1
+CURHAZ	MAC    35  <***>   556702  (undated)	11:12	11-Sep-74   0
+CURHAZ	REL    14  <***>   562117  (undated)	11:15	11-Sep-74  14
+CURMAC	MAC     4  <***>   641475  (undated)	12:26	 8-Sep-74   1
+D	CCL     1  <***>   227440  (undated)	15:33	21-Jan-75   0
+DATA	DAT     4  <***>   603054  (undated)	22:11	16-Sep-74   1
+DATE	MAC     2  <***>   700645  (undated)	     	28-Jan-74  13
+DATPLT	HLP     2  <***>   463435  (undated)	15:45	27-Feb-74  14
+DAYWK	MAC     3  <***>   626450  (undated)	13:54	11-Sep-74   0
+DAYWK	SAV     4  <***>   110004  (undated)	19:31	 1-Feb-74  14	V(3)-1
+DEC	REL    40  <***>   740213  (undated)	23:27	 5-Feb-75  14
+DECTA	HLP     2  <***>   315103  (undated)	18:29	13-Feb-74   0
+DECTA	SNO     9  <***>   537476  (undated)	16:08	20-Feb-74   0
+DECTAP	DAT     4  <***>   260577  (undated)	 0:53	27-Feb-74   1
+DELETE	001     1  <***>   664732  (undated)	15:42	27-Feb-74  14
+DEM	FOC     4  <***>   745671  (undated)	15:46	27-Feb-74  14
+DIMPLT	F4     15  <***>   523021  (undated)	15:43	27-Feb-74  14
+DIRDIR	DIR     3  <***>   300403  (undated)	14:34	 8-Sep-74   1
+DIRTST	F4      4  <***>   520444  (undated)	14:43	15-Jul-74   1
+DIRTST	SAV     7  <***>   735463  (undated)	 9:12	16-Jul-74  16	1A(1)
+DOCPGM	LAP    18  <***>   524546  (undated)	15:43	27-Feb-74  14
+DOCPGM	LSP     9  <***>   314103  (undated)	15:43	27-Feb-74  14
+DOCTOR	RLS    22  <***>   304714  (undated)	15:42	27-Feb-74  14
+DOCTOR	SAV   124  <***>   665062  (undated)	15:42	27-Feb-74  14
+DOCTOR	TXT     3  <***>   760522  (undated)	15:42	27-Feb-74  14
+DRA001	SAV     5  <***>   602114  (undated)	 9:11	17-Jun-74   1
+DRA220	SAV     2  <***>   734366  (undated)	17:38	19-Jun-74   1
+DRA225	SAV     2  <***>   532235  (undated)	13:29	29-May-74   1
+DRKPLT	F4     16  <***>   633536  (undated)	15:43	27-Feb-74  14
+DSHPLT	F4      8  <***>   342743  (undated)	15:43	27-Feb-74  14
+DSKCHR	MAC    14  <***>   076142  (undated)	17:43	 3-Sep-74   1
+DSKCHR	SAV     3  <***>   714027  (undated)	17:45	 3-Sep-74   1	1A(10)
+DTA	DIR     8  <***>   027564  (undated)	14:47	17-Jun-74   1
+DTA001	DIR     6  <***>   745031  (undated)	 2:18	24-Apr-74   0
+DTA548	DIR     1  <***>   610216  (undated)	 9:04	10-Sep-74   0
+DTA754	DIR     1  <***>   457003  (undated)	 9:05	10-Sep-74   0
+E100	SAV     1  <***>   524102  (undated)	18:55	24-May-74   1
+E101	SAV     1  <***>   741532  (undated)	18:55	24-May-74   1
+E126	SAV     1  <***>   732566  (undated)	18:56	24-May-74   1
+E201	SAV     1  <***>   756345  (undated)	10:04	28-May-74   1
+EA80	SAV     1  <***>   115255  (undated)	20:30	29-May-74   1
+EBCDIC	816     2  <***>   312111  (undated)	 8:08	13-Jun-74   0
+EBCOPY	SAV     2  <***>   256431  (undated)	12:25	31-May-74   1
+EDIT	TEC     2  <***>   511610  (undated)	 0:09	 8-Apr-74   0
+EDIT2	SNO    12  <***>   371501  (undated)	10:27	27-Aug-74   1
+EDLIB	HOW     3  <***>   462363  (undated)	14:28	25-Jul-74  16
+EDLIB	MAC     7  <***>   033773  (undated)	16:33	14-Feb-74   0
+EDLIB	SAV     3  <***>   045104  (undated)	16:33	14-Feb-74  16	4
+ELIZA	RLS    25  <***>   474077  (undated)	15:42	27-Feb-74  14
+ELIZA	SAV   124  <***>   206303  (undated)	15:42	27-Feb-74  14
+ENCODE	F4      2  <***>   753477  (undated)	15:18	 1-May-74   0
+EXCON	MAC    50  <***>   751051  (undated)	15:42	27-Feb-74  14
+EXIT	MAC     1  <***>   037342  (undated)	     	 2-Nov-73   0
+EXIT10	MAC     1  <***>   524156  (undated)	15:32	 7-Aug-74   0
+EXITM	MAC     1  <***>   037342  (undated)	15:45	27-Feb-74  14
+EXP	       17  <***>   407435  (undated)	22:34	16-Sep-74   1
+EXSYS	MAC     1  <***>   410430  (undated)	15:46	27-Feb-74  14
+EXTUFD	END     3  <***>   776677  (undated)	 9:32	29-Aug-74   1
+F1	AFR    18  <***>   025652  (undated)	23:40	 1-May-74   0
+F1	ENG    11  <***>   532620  (undated)	 0:19	 2-May-74   0
+F2	AFR    11  <***>   232410  (undated)	23:40	 1-May-74   0
+F3	AFR    10  <***>   533066  (undated)	23:40	 1-May-74   0
+F4	AFR    14  <***>   515705  (undated)	23:41	 1-May-74   0
+F4	DAT     9  <***>   364722  (undated)	 0:53	 2-May-74   0
+F4	ENG     8  <***>   346314  (undated)	 0:57	 2-May-74   0
+F4COM1	DIR     1  <***>   204462  (undated)	21:36	24-Apr-74   1
+F5	AFR    10  <***>   030343  (undated)	23:41	 1-May-74   0
+F6	AFR    17  <***>   426066  (undated)	23:41	 1-May-74   0
+F7	AFR     8  <***>   201202  (undated)	23:41	 1-May-74   0
+FAILSA	DIR    17  <***>   566146  (undated)	23:45	 1-May-74   1
+FILE	DAT     8  <***>   350450  (undated)	 3:29	 1-May-74   0
+FILE	EXT     1  <***>   542027  (undated)	10:54	11-Sep-74   0
+FILE1	DAT    20  <***>   566536  (undated)	 1:03	 2-May-74   0
+FILE2	DAT    13  <***>   207407  (undated)	 1:03	 2-May-74   0
+FILE3	DAT    11  <***>   333672  (undated)	 1:03	 2-May-74   0
+FILE4	DAT    11  <***>   544027  (undated)	 0:51	 2-May-74   0
+FILE5	DAT     9  <***>   252255  (undated)	 0:48	 2-May-74   0
+FILE6	DAT    27  <***>   362026  (undated)	 0:49	 2-May-74   0
+FILE7	DAT    13  <***>   022567  (undated)	 0:50	 2-May-74   0
+FILLER	SNO     2  <***>   054632  (undated)	 0:12	10-Sep-74   0
+FISHER	SRC    10  <***>   776267  (undated)	15:42	27-Feb-74  14
+FIX	MAC     1  <***>   573454  (undated)	 1:58	 1-May-74   0
+FIXCTL	RNO     3  <***>   761033  (undated)	12:30	 3-Jan-75   0
+FIXCTL	SAV    42  <***>   626047  (undated)	14:42	 5-Feb-75  16	(2)-1
+FIXCTL	SNO    14  <***>   344526  (undated)	19:28	 2-Jan-75   1
+FIXFIL	CTL     1  <***>   055177  (undated)	23:13	30-Apr-74   0
+FIXFIL	LOG    11  <***>   772024  (undated)	 0:51	 2-May-74   0
+FLORD1	DAT    13  <***>   335324  (undated)	20:53	27-Jan-75   0
+FLY	BIN     1  <***>   003033  (undated)	21:48	30-Jul-74  10
+FLY	P11     4  <***>   766202  (undated)	21:44	30-Jul-74   0
+FOCAL	SRC   147  <***>   412200  (undated)	22:26	16-Sep-74   1
+FULL	CMD     1  <***>   236577  (undated)	13:42	27-Jan-75   0
+FUNCT	F4      3  <***>   346070  (undated)	 3:25	 1-May-74  17
+GAME	DAT     3  <***>   344574  (undated)	23:16	 5-Feb-74  14
+GENPLT	F4     16  <***>   070521  (undated)	15:43	27-Feb-74  14
+GENPLT	RNO   100  <***>   122373  (undated)	15:42	27-Feb-74  14
+GETREC	CBL     6  <***>   754627  (undated)	     	18-Jan-75   1
+GETSAT	F4      2  <***>   226144  (undated)	     	18-May-74   1
+GETSIT	MAC     5  <***>   203606  (undated)	     	18-May-74   1
+GGIRL	DAT    55  <***>   641571  (undated)	21:59	16-Sep-74   0
+GGPROG	F4      2  <***>   055473  (undated)	21:59	16-Sep-74   1
+GNLPRT	MAC    13  <***>   552376  (undated)	15:46	27-Feb-74  14
+GOOF	MAC    29  <***>   665327  (undated)	15:42	27-Feb-74  14
+GRDPLT	F4      9  <***>   135760  (undated)	15:43	27-Feb-74  14
+GRID	F4      1  <***>   000667  (undated)	20:08	28-Jan-75   0
+GRIN	        5  <***>   613626  (undated)	15:42	27-Feb-74  14
+GROW2	DAT     1  <***>   750374  (undated)	     	 4-Jan-73  14
+GT40	DEM     3  <***>   235176  (undated)	     	 2-Nov-73   1
+GT40	HLP     3  <***>   054323  (undated)	 1:04	20-Feb-74  14
+GTPLOT	SAV    34  <***>   362336  (undated)	20:57	14-Feb-74  14	32(436)
+GTTST	MAC     1  <***>   465526  (undated)	23:59	11-Feb-74   0
+HALT	F4      1  <***>   543422  (undated)	 0:40	24-Apr-74   0
+HALT	SAV     4  <***>   552374  (undated)	 0:42	24-Apr-74  16	32(436)
+HAMMUR	BAS     5  <***>   451712  (undated)	15:45	27-Feb-74  14
+HANDS	DAT     5  <***>   367457  (undated)	15:42	27-Feb-74  14
+HAZEL	ALG     2  <***>   424651  (undated)	16:47	 5-Feb-75   0
+HAZEL	MAC     5  <***>   455355  (undated)	 8:46	26-Aug-74   1
+HCHPLT	F4      7  <***>   762121  (undated)	15:43	27-Feb-74  14
+HELP	DAT     3  <***>   256334  (undated)	17:34	13-Sep-74   0
+HELP	SNO    14  <***>   364131  (undated)	23:29	 6-Sep-74   1
+HELP0	SNO    10  <***>   365351  (undated)	13:40	 5-Sep-74   1
+HELPER	SAV    40  <***>   163476  (undated)	23:31	 6-Sep-74  16	(2)-1
+HOLD	        0  <***>   000000  (undated)	22:09	25-Feb-74   1
+HYPER	F4     16  <***>   163016  (undated)	15:41	27-Feb-74  14
+HYPER	SAV     9  <***>   724643  (undated)	15:41	27-Feb-74  14	V(3)-4
+IFILE	300     7  <***>   610115  (undated)	     	 9-Sep-70   0
+INPUT	MAC     2  <***>   552322  (undated)	15:41	27-Feb-74  14
+INSIX	MAC     1  <***>   545576  (undated)	     	24-Jan-74  13
+INTERP	CTL     1  <***>   103733  (undated)	 0:01	27-Mar-74   0
+INTERP	MAC    12  <***>   727176  (undated)	23:28	26-Feb-74   0
+INTERP	SAV     5  <***>   601045  (undated)	 0:01	27-Mar-74  16	1(4)
+INTI	MAC     5  <***>   374633  (undated)	15:45	27-Feb-74  14
+INTO	MAC     5  <***>   471642  (undated)	15:45	27-Feb-74  14
+IPLDST	ERR     1  <***>   170546  (undated)	15:43	27-Feb-74  14
+IPLDST	F4      3  <***>   063350  (undated)	15:43	27-Feb-74  14
+IPLHIT	F4      6  <***>   555212  (undated)	15:43	27-Feb-74  14
+ISM	IDA   446  <***>   456652  (undated)	19:28	17-Jan-75  14
+ISM	IDX    18  <***>   751701  (undated)	17:17	19-Jan-75  17
+ISMTAP	IDA     3  <***>   024233  (undated)	23:58	 5-Feb-75  14
+ISMTAP	IDX     4  <***>   714212  (undated)	23:58	 5-Feb-75  17
+JOBDAT	CCL     2  <***>   705174  (undated)	23:04	16-Sep-74   1
+KD	MAC     5  <***>   102266  (undated)	23:52	15-Jan-75   0
+KEEP	MAC     3  <***>   746212  (undated)	17:53	22-Aug-74   0
+KEEPER	SAV     1  <***>   147203  (undated)	17:55	22-Aug-74   1
+KOSTER	MAC     7  <***>   333025  (undated)	19:56	22-Jan-75  14
+KOSTER	UNV     4  <***>   177347  (undated)	22:56	22-Jan-75  14
+LABEL	SAV    12  <***>   676343  (undated)	15:46	27-Feb-74  14	32(436)
+LAP	       16  <***>   140310  (undated)	15:42	27-Feb-74  14
+LEM	091   242  <***>   336627  (undated)	21:42	10-Sep-74   0
+LEM	BAS    15  <***>   567115  (undated)	15:46	27-Feb-74  14
+LEM	BIN    26  <***>   131711  (undated)	21:36	10-Sep-74  10
+LEMA	BAS     5  <***>   467644  (undated)	15:46	27-Feb-74  14
+LEMB	BAS     7  <***>   672454  (undated)	15:46	27-Feb-74  14
+LEMZ	BIN    26  <***>   476135  (undated)	21:46	10-Sep-74  10
+LINE	CRF     2  <***>   662045  (undated)	14:41	 4-Feb-75   1
+LINE	MAC     1  <***>   634436  (undated)	14:38	 4-Feb-75   0
+LINE	REL     1  <***>   064315  (undated)	14:41	 4-Feb-75  14
+LINE	SAV     1  <***>   376674  (undated)	14:42	 4-Feb-75  16
+LINPLT	F4      3  <***>   571522  (undated)	15:43	27-Feb-74  14
+LINUS	       39  <***>   656320  (undated)	15:45	27-Feb-74  14
+LINUS	DAT    34  <***>   311430  (undated)	15:45	27-Feb-74  14
+LISA	DAT     5  <***>   566076  (undated)	15:42	27-Feb-74  14
+LIST	CTL     1  <***>   125627  (undated)	13:38	23-Jan-75   0
+LIST	F4      6  <***>   533114  (undated)	11:49	13-Jun-74   1
+M	CCL     1  <***>   624330  (undated)	12:17	15-Jan-75  14
+MAC	DAT    15  <***>   550125  (undated)	     	10-Jan-74  13
+MACRO	LIB    86  <***>   215526  (undated)	19:04	21-Jan-75  10
+MADON	DAT    11  <***>   763534  (undated)	15:42	27-Feb-74  14
+MARK	F4      2  <***>   036715  (undated)	15:41	27-Feb-74  14
+MASK4	MAC     2  <***>   604524  (undated)	10:32	29-Aug-74   1
+MAZE	F4      9  <***>   370236  (undated)	19:57	17-May-74   1
+MAZES	F4      9  <***>   370236  (undated)	15:45	27-Feb-74  14
+MD	DAT    27  <***>   536364  (undated)	20:58	27-Jan-75   0
+MDINT	DAT   968  <***>   005547  (undated)	20:55	27-Jan-75   0
+MDMIS	DAT   296  <***>   045302  (undated)	20:59	27-Jan-75   0
+MER4	F4      5  <***>   010566  (undated)	17:45	21-May-74   1
+MERGE	F10    10  <***>   523537  (undated)	20:28	30-Apr-74   0
+MERGE	SAV    10  <***>   317351  (undated)	21:13	30-Apr-74  16
+METEOR	BIN    14  <***>   553030  (undated)	20:02	 5-Aug-74  10
+METEOR	P11   122  <***>   734555  (undated)	     	23-Jul-74   1
+MISC	MAC    36  <***>   104347  (undated)	15:45	27-Feb-74  14
+MISC	REL    40  <***>   236443  (undated)	 2:05	13-Feb-74  14
+MISS	DAT   128  <***>   005145  (undated)	21:09	27-Jan-75   0
+MISXPN	DIR     1  <***>   722715  (undated)	15:25	 3-Jul-74   0
+MOD	P11     5  <***>   262310  (undated)	23:38	29-Jul-74   0
+MONIT	F4     13  <***>   410014  (undated)	15:46	27-Feb-74  14
+MONOP	BAS    44  <***>   557425  (undated)	15:42	27-Feb-74  14
+MPX	CMD     1  <***>   410627  (undated)	15:24	 8-Sep-74   0
+MPX	MAC     3  <***>   410601  (undated)	19:03	 8-Sep-74   0
+MPX	SAV     1  <***>   575607  (undated)	19:04	 8-Sep-74  16
+MT1010	NEW    11  <***>   532037  (undated)	16:05	18-Dec-74  17
+MTA1	SHR     4  <***>   536574  (undated)	23:17	16-May-74   1	6
+MTA2	SHR    24  <***>   267526  (undated)	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <***>   205116  (undated)	23:18	16-May-74   1	11
+MTADIR	SHR     6  <***>   321041  (undated)	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <***>   750725  (undated)	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <***>   173516  (undated)	15:06	27-Feb-74  17
+NEVADA	DAT    19  <***>   062555  (undated)	23:43	27-Jan-75   0
+NEVMIS	DAT   167  <***>   761663  (undated)	21:25	27-Jan-75   0
+NEVNEW	DAT    70  <***>   547500  (undated)	21:15	27-Jan-75   0
+NMBPLT	F4      6  <***>   544347  (undated)	15:43	27-Feb-74  14
+NOTICE	BRD     1  <***>   131735  (undated)	11:35	15-Jan-75   0
+NOTICE	CHS     1  <***>   201316  (undated)	14:53	 3-Feb-75   1
+NOTICE	TXT     3  <***>   250607  (undated)	20:19	21-Feb-74   0
+NUMBER	FOC     3  <***>   536662  (undated)	15:41	27-Feb-74  14
+NUMS	       20  <***>   354140  (undated)	15:45	27-Feb-74  14
+NWYORK	DAT    65  <***>   067510  (undated)	23:44	27-Jan-75   0
+NYVIRG	DAT  1033  <***>   611262  (undated)	21:18	27-Jan-75   0
+OCT	F4      1  <***>   743022  (undated)	18:44	 1-Aug-74   0
+OCT2	F4      1  <***>   056676  (undated)	15:46	27-Feb-74  14
+OCTI	MAC     5  <***>   420376  (undated)	15:45	27-Feb-74  14
+OCTO	MAC     4  <***>   601510  (undated)	15:45	27-Feb-74  14
+OPR	MAC     7  <***>   435653  (undated)	     	22-Jul-74   1
+OUTDEC	MAC     2  <***>   417645  (undated)	     	13-Jan-75   1
+PAUSE	MAC     4  <***>   065555  (undated)	15:45	27-Feb-74  14
+PCFIT	F4     14  <***>   254374  (undated)	15:45	27-Feb-74  14
+PENTST	F4     14  <***>   520303  (undated)	15:43	27-Feb-74  14
+PERSPD	RNO    12  <***>   375220  (undated)	15:29	 9-Feb-74  14
+PERSPE	REL     2  <***>   756635  (undated)	 2:05	13-Feb-74  14
+PICT	F4      3  <***>   673050  (undated)	15:42	27-Feb-74  14
+PING	AL 7  <***>   540740  (undated)	     	 8-Aug-74   0
+PIP	33    218  <***>   251233  (undated)	15:43	27-Feb-74  14
+PIP	MAC   218  <***>   251233  (undated)	15:43	27-Feb-74  14
+PIP2	SHR    24  <***>   077154  (undated)	22:06	16-Sep-74   1	(30)
+PLOTF4	        1  <***>   304126  (undated)	23:16	16-Sep-74   1
+PLOTR	MAC     3  <***>   233674  (undated)	22:51	16-Sep-74   1
+PLOTS1	        1  <***>   761640  (undated)	23:14	16-Sep-74   1
+PLOTS2	        1  <***>   456304  (undated)	23:15	16-Sep-74   1
+PLTBOX	F4      5  <***>   376734  (undated)	15:43	27-Feb-74  14
+PLTCUT	F4      5  <***>   445352  (undated)	15:43	27-Feb-74  14
+PLTLIN	F4     13  <***>   254143  (undated)	15:43	27-Feb-74  14
+PLTTOP	F4      3  <***>   473173  (undated)	15:43	27-Feb-74  14
+PNTPLT	F4      3  <***>   145572  (undated)	15:43	27-Feb-74  14
+POINT	F4      2  <***>   637747  (undated)	22:11	16-Sep-74   1
+POLISH	CTL     1  <***>   542747  (undated)	17:01	18-Apr-74   0
+POLISH	TEC    12  <***>   416217  (undated)	15:58	18-Apr-74   0
+POLISH	TXT     1  <***>   435650  (undated)	 3:06	24-Apr-74   0
+POLY1	F4      2  <***>   677353  (undated)	     	18-May-74   1
+POLY1	SAV     6  <***>   310767  (undated)	15:46	27-Feb-74  14	P(2)
+PRINT	MAC     1  <***>   626736  (undated)	16:42	24-Jan-74   0
+PROG1	F4      2  <***>   560647  (undated)	 3:09	13-Feb-74  14
+PROG1	REL     3  <***>   077233  (undated)	 3:10	13-Feb-74  14
+PTY	LOG     2  <***>   355425  (undated)	17:04	 4-Feb-75   1
+QUEUE	REL     6  <***>   774020  (undated)	 9:51	22-Jan-75   1
+QUOTA	MAC    21  <***>   006745  (undated)	     	21-Jan-75   1
+RDGEN	SAV     7  <***>   511277  (undated)	10:35	13-Jan-75   1
+READ	F4      3  <***>   143611  (undated)	23:27	27-Jan-75   0
+REFORM	F4      2  <***>   547111  (undated)	 2:33	 1-May-74   0
+REFORM	SAV     5  <***>   576577  (undated)	 2:36	 1-May-74  16	4R
+REL	CMD     1  <***>   575152  (undated)	 0:09	21-Feb-74  14
+RENBR	F4     89  <***>   325041  (undated)	15:45	27-Feb-74  14
+RENBR	HLP     5  <***>   476715  (undated)	15:45	27-Feb-74  14
+RESCUE	SAV     3  <***>   257202  (undated)	     	 4-Sep-73  14
+RESET	CTL     1  <***>   255643  (undated)	10:49	22-Jan-75   0
+RNO	PRE    12  <***>   063773  (undated)	21:41	11-Feb-74  14
+SALVO	MAC    50  <***>   016732  (undated)	23:04	 5-Sep-74   1
+SALVO1	SHR    13  <***>   431431  (undated)	11:58	 2-Sep-74   1
+SAYIT	F4      3  <***>   222475  (undated)	22:24	16-Sep-74   1
+SAYIT	SAV    20  <***>   106300  (undated)	15:45	27-Feb-74  14	2
+SCHEFF	F4     14  <***>   050404  (undated)	 8:25	26-Aug-74   0
+SCLPLT	F4     25  <***>   757562  (undated)	15:43	27-Feb-74  14
+SIM001	      166  <***>   722622  (undated)	13:47	 6-Feb-75   1
+SLEEP	MAC     1  <***>   010247  (undated)	15:46	27-Feb-74  14
+SMILE	        9  <***>   255561  (undated)	15:42	27-Feb-74  14
+SNOBOL	LIB    82  <***>   045527  (undated)	13:34	14-Jan-75  10
+SNOOP	       42  <***>   420202  (undated)	15:45	27-Feb-74  14
+SNOOP	BAS    10  <***>   716245  (undated)	15:45	27-Feb-74  14
+SNOOP	DAT    35  <***>   624305  (undated)	15:45	27-Feb-74  14
+SNOPY	BAS    15  <***>   062703  (undated)	15:45	27-Feb-74  14
+SONGS	DAT     2  <***>   743607  (undated)	15:41	27-Feb-74  14
+SORT2	F4      2  <***>   646747  (undated)	15:46	27-Feb-74  14
+SORT2	SAV     5  <***>   600670  (undated)	15:46	27-Feb-74  14	AR(1)
+STARS	F4     30  <***>   206371  (undated)	23:25	 3-Feb-75   0
+STARS	REL    38  <***>   163751  (undated)	23:37	 3-Feb-75  14
+STARS	SAV    31  <***>   567736  (undated)	23:39	 3-Feb-75  16
+SWITCH	BAK     3  <***>   061456  (undated)	23:30	 3-Feb-75   0
+SWITCH	INI     2  <***>   514451  (undated)	16:57	 4-Feb-75   0
+TAPE	REC     1  <***>   770703  (undated)	12:36	 3-Jan-75  14
+TAPE	SAV     3  <***>   041654  (undated)	23:37	16-May-74   1	6
+TAPES	CBL    24  <***>   142374  (undated)	     	21-Jan-75   1
+TAPES	SAV    17  <***>   773420  (undated)	14:10	27-Jan-75  16
+TAPLIB	CBL    10  <***>   120074  (undated)	23:21	 5-Feb-75   0
+TAPLIB	CFM   123  <***>   734315  (undated)	21:27	16-Jan-75   0
+TAPLIB	HLP    22  <***>   617467  (undated)	20:41	30-Jan-75   0
+TAPLIB	INF   160  <***>   563204  (undated)	21:22	16-Jan-75   0
+TAPLIB	RNO    18  <***>   044453  (undated)	20:23	30-Jan-75   0
+TAPQUE	CBL     5  <***>   365177  (undated)	13:38	27-Jan-75   0
+TAPQUE	SAV     7  <***>   726413  (undated)	14:06	27-Jan-75  16
+TAPTRN	CBL    22  <***>   751760  (undated)	23:24	 5-Feb-75   0
+TAPTRN	DBS   237  <***>   006470  (undated)	19:28	17-Jan-75   0
+TAPTRN	EDS     1  <***>   671134  (undated)	23:47	 5-Feb-75   0
+TAPTRN	SAV    23  <***>   777325  (undated)	23:33	 5-Feb-75  16
+TAPTST	HLP     7  <***>   551714  (undated)	15:45	27-Feb-74  14
+TEC	MAC     1  <***>   030577  (undated)	15:19	 3-Apr-74   0
+TECH	MAC     1  <***>   246700  (undated)	 1:33	12-Feb-74   0
+TECO	HLP    12  <***>   761610  (undated)	21:00	26-Feb-74   0
+TECO	PAT     1  <***>   511670  (undated)	16:34	 5-Apr-74   0
+TECO	RNO    13  <***>   172246  (undated)	23:48	19-Feb-74   0
+TECO	SHR    24  <***>   544574  (undated)	15:10	 3-Apr-74   1	23(113)-6
+TEST	MAC     1  <***>   623136  (undated)	15:42	 8-Sep-74   0
+TEST	SNO     2  <***>   613620  (undated)	23:25	20-Feb-74   0
+TESTQ	CBL     3  <***>   141013  (undated)	11:42	11-Sep-74   0
+TESTQ	LST     6  <***>   534265  (undated)	11:57	11-Sep-74   0
+TESTQ	SAV     7  <***>   077350  (undated)	13:14	13-Sep-74  16
+TRACE	        6  <***>   676652  (undated)	15:42	27-Feb-74  14
+TRAPS	MAC    20  <***>   055216  (undated)	15:46	27-Feb-74  14
+TRIG	F4      4  <***>   305630  (undated)	15:45	27-Feb-74  14
+TRIG	SAV    11  <***>   252773  (undated)	22:45	16-Apr-74  16	4C
+TT3DT	FOC     5  <***>   361171  (undated)	15:45	27-Feb-74  14
+TTT2D	FOC     2  <***>   272761  (undated)	15:41	27-Feb-74  14
+TTT3D	F4     17  <***>   437574  (undated)	23:23	 5-Feb-74  14
+TTT3D	FOC     5  <***>   361171  (undated)	22:59	 6-Feb-74  14
+TTTNOT	FIN    18  <***>   442674  (undated)	15:45	27-Feb-74  14
+TTY	MAC     1  <***>   200154  (undated)	19:16	 8-Sep-74   0
+TYPE	MAC     5  <***>   250704  (undated)	15:25	 3-Feb-75   1
+TYPE	REL     2  <***>   651633  (undated)	16:07	 3-Feb-75  14
+TYPPLT	MAC     2  <***>   017107  (undated)	15:42	27-Feb-74  14
+TYPPLT	SAV     1  <***>   165502  (undated)	15:42	27-Feb-74  14
+UDTA	DIR     5  <***>   664412  (undated)	19:16	 2-Sep-74   0
+UHAUL	CBL     5  <***>   347077  (undated)	     	16-Jan-75   1
+UNIMK	F4      6  <***>   764663  (undated)	21:45	21-Feb-74   0
+UPDATE	BAK    13  <***>   203653  (undated)	23:48	 5-Feb-75   0
+UPDATE	CBL    13  <***>   007241  (undated)	23:56	 5-Feb-75   0
+UPDATE	REL    18  <***>   666777  (undated)	23:57	 5-Feb-75  14
+UPDATE	SAV    11  <***>   634407  (undated)	23:58	 5-Feb-75  16
+UUO	MAC     3  <***>   142454  (undated)	15:45	27-Feb-74  14
+VECTOR	FOC     2  <***>   464757  (undated)	15:41	27-Feb-74  14
+VIRGIN	DAT   149  <***>   144562  (undated)	21:31	27-Jan-75   0
+WAITAC	SAV     9  <***>   014112  (undated)	22:19	 5-Sep-74  16	(2)-1
+WASH	DAT     3  <***>   731645  (undated)	21:32	27-Jan-75   0
+WHIST	DAT    12  <***>   061236  (undated)	15:42	27-Feb-74  14
+WHOKNO	WS     10  <***>   657225  (undated)	15:46	27-Feb-74  14
+WRDPLT	F4      4  <***>   137305  (undated)	15:43	27-Feb-74  14
+X	CCL     1  <***>   270074  (undated)	17:01	 1-May-74   0
+XFR	       15  <***>   372370  (undated)	23:19	16-Sep-74   1
+XT	F4      1  <***>   556703  (undated)	18:25	 1-Aug-74   0
+XXXDTA	DIR     4  <***>   027166  (undated)	12:08	21-Aug-74   0
+XXX001	        1  <***>   550232  (undated)	15:41	27-Feb-74  14
+XXX002	        2  <***>   036715  (undated)	15:41	27-Feb-74  14
+XXX003	        9  <***>   724643  (undated)	15:41	27-Feb-74  14
+XXX004	       16  <***>   163016  (undated)	15:41	27-Feb-74  14
+XXX005	        5  <***>   305635  (undated)	15:41	27-Feb-74  14
+XXX006	        2  <***>   743607  (undated)	15:41	27-Feb-74  14
+XXX007	        3  <***>   536662  (undated)	15:41	27-Feb-74  14
+XXX008	        2  <***>   272761  (undated)	15:41	27-Feb-74  14
+XXX009	        2  <***>   464757  (undated)	15:41	27-Feb-74  14
+XXX010	        2  <***>   552322  (undated)	15:41	27-Feb-74  14
+XXX011	       80  <***>   154175  (undated)	15:42	27-Feb-74  14
+XXX012	        5  <***>   412243  (undated)	15:42	27-Feb-74  14
+XXX013	       10  <***>   776267  (undated)	15:42	27-Feb-74  14
+XXX014	       23  <***>   613263  (undated)	15:42	27-Feb-74  14
+XXX015	       44  <***>   557425  (undated)	15:42	27-Feb-74  14
+XXX016	       45  <***>   670371  (undated)	15:42	27-Feb-74  14
+XXX017	        5  <***>   566076  (undated)	15:42	27-Feb-74  14
+XXX018	       11  <***>   763534  (undated)	15:42	27-Feb-74  14
+XXX019	        5  <***>   367457  (undated)	15:42	27-Feb-74  14
+XXX020	       12  <***>   061236  (undated)	15:42	27-Feb-74  14
+XXX021	       16  <***>   140310  (undated)	15:42	27-Feb-74  14
+XXX022	        5  <***>   613626  (undated)	15:42	27-Feb-74  14
+XXX023	        9  <***>   255561  (undated)	15:42	27-Feb-74  14
+XXX024	        6  <***>   676652  (undated)	15:42	27-Feb-74  14
+XXX025	      100  <***>   122373  (undated)	15:42	27-Feb-74  14
+XXX026	       95  <***>   131644  (undated)	15:42	27-Feb-74  14
+XXX027	        1  <***>   664732  (undated)	15:42	27-Feb-74  14
+XXX028	        2  <***>   017107  (undated)	15:42	27-Feb-74  14
+XXX029	        1  <***>   165502  (undated)	15:42	27-Feb-74  14
+XXX030	       50  <***>   751051  (undated)	15:42	27-Feb-74  14
+XXX031	        3  <***>   673050  (undated)	15:42	27-Feb-74  14
+XXX032	       29  <***>   665327  (undated)	15:42	27-Feb-74  14
+XXX033	        3  <***>   760522  (undated)	15:42	27-Feb-74  14
+XXX034	       22  <***>   304714  (undated)	15:42	27-Feb-74  14
+XXX035	      124  <***>   665062  (undated)	15:42	27-Feb-74  14
+XXX036	       25  <***>   474077  (undated)	15:42	27-Feb-74  14
+XXX037	      124  <***>   206303  (undated)	15:42	27-Feb-74  14
+XXX038	       18  <***>   524546  (undated)	15:43	27-Feb-74  14
+XXX039	        9  <***>   314103  (undated)	15:43	27-Feb-74  14
+XXX040	        8  <***>   772061  (undated)	15:43	27-Feb-74  14
+XXX041	        7  <***>   212521  (undated)	15:43	27-Feb-74  14
+XXX042	       15  <***>   523021  (undated)	15:43	27-Feb-74  14
+XXX043	       16  <***>   633536  (undated)	15:43	27-Feb-74  14
+XXX044	        8  <***>   342743  (undated)	15:43	27-Feb-74  14
+XXX045	       16  <***>   070521  (undated)	15:43	27-Feb-74  14
+XXX046	        4  <***>   137305  (undated)	15:43	27-Feb-74  14
+XXX047	        9  <***>   135760  (undated)	15:43	27-Feb-74  14
+XXX048	        3  <***>   571522  (undated)	15:43	27-Feb-74  14
+XXX049	        6  <***>   544347  (undated)	15:43	27-Feb-74  14
+XXX050	        3  <***>   145572  (undated)	15:43	27-Feb-74  14
+XXX051	       25  <***>   757562  (undated)	15:43	27-Feb-74  14
+XXX052	        7  <***>   762121  (undated)	15:43	27-Feb-74  14
+XXX053	        1  <***>   170546  (undated)	15:43	27-Feb-74  14
+XXX054	        3  <***>   063350  (undated)	15:43	27-Feb-74  14
+XXX055	        6  <***>   555212  (undated)	15:43	27-Feb-74  14
+XXX056	        5  <***>   376734  (undated)	15:43	27-Feb-74  14
+XXX057	        5  <***>   445352  (undated)	15:43	27-Feb-74  14
+XXX058	       13  <***>   254143  (undated)	15:43	27-Feb-74  14
+XXX059	        3  <***>   473173  (undated)	15:43	27-Feb-74  14
+XXX060	       14  <***>   520303  (undated)	15:43	27-Feb-74  14
+XXX061	      218  <***>   251233  (undated)	15:43	27-Feb-74  14
+XXX062	      218  <***>   251233  (undated)	15:43	27-Feb-74  14
+XXX063	        7  <***>   207671  (undated)	15:43	27-Feb-74  14
+XXX064	       38  <***>   353336  (undated)	15:43	27-Feb-74  14
+XXX065	       64  <***>   352706  (undated)	15:43	27-Feb-74  14
+XXX066	      329  <***>   071233  (undated)	15:43	27-Feb-74  14
+XXX067	       46  <***>   724732  (undated)	15:44	27-Feb-74  14
+XXX068	       43  <***>   046065  (undated)	15:44	27-Feb-74  14
+XXX069	       40  <***>   740463  (undated)	15:44	27-Feb-74  14
+XXX070	       66  <***>   664532  (undated)	15:44	27-Feb-74  14
+XXX071	      191  <***>   414545  (undated)	15:44	27-Feb-74  14
+XXX072	       77  <***>   072733  (undated)	15:44	27-Feb-74  14
+XXX073	       85  <***>   740325  (undated)	15:44	27-Feb-74  14
+XXX074	        5  <***>   716055  (undated)	15:44	27-Feb-74  14
+XXX075	       97  <***>   350257  (undated)	15:44	27-Feb-74  14
+XXX076	      232  <***>   025615  (undated)	15:44	27-Feb-74  14
+XXX077	        6  <***>   045455  (undated)	15:45	27-Feb-74  14
+XXX078	       85  <***>   433520  (undated)	15:45	27-Feb-74  14
+XXX079	       21  <***>   137745  (undated)	15:45	27-Feb-74  14
+XXX080	        9  <***>   075021  (undated)	15:45	27-Feb-74  14
+XXX081	       42  <***>   646245  (undated)	15:45	27-Feb-74  14
+XXX082	        7  <***>   551714  (undated)	15:45	27-Feb-74  14
+XXX083	      160  <***>   614071  (undated)	15:45	27-Feb-74  14
+XXX084	        5  <***>   476715  (undated)	15:45	27-Feb-74  14
+XXX085	       89  <***>   325041  (undated)	15:45	27-Feb-74  14
+XXX086	       14  <***>   254374  (undated)	15:45	27-Feb-74  14
+XXX087	        2  <***>   463435  (undated)	15:45	27-Feb-74  14
+XXX088	        4  <***>   305630  (undated)	15:45	27-Feb-74  14
+XXX089	       20  <***>   106300  (undated)	15:45	27-Feb-74  14
+XXX090	       20  <***>   354140  (undated)	15:45	27-Feb-74  14
+XXX091	       42  <***>   420202  (undated)	15:45	27-Feb-74  14
+XXX092	       35  <***>   624305  (undated)	15:45	27-Feb-74  14
+XXX093	       39  <***>   656320  (undated)	15:45	27-Feb-74  14
+XXX094	       34  <***>   311430  (undated)	15:45	27-Feb-74  14
+XXX095	       56  <***>   756001  (undated)	15:45	27-Feb-74  14
+XXX096	       45  <***>   606507  (undated)	15:45	27-Feb-74  14
+XXX097	       33  <***>   771555  (undated)	15:45	27-Feb-74  14
+XXX098	        5  <***>   451712  (undated)	15:45	27-Feb-74  14
+XXX099	       12  <***>   357500  (undated)	15:45	27-Feb-74  14
+XXX100	       15  <***>   062703  (undated)	15:45	27-Feb-74  14
+XXX101	       10  <***>   716245  (undated)	15:45	27-Feb-74  14
+XXX102	       18  <***>   442674  (undated)	15:45	27-Feb-74  14
+XXX103	        5  <***>   361171  (undated)	15:45	27-Feb-74  14
+XXX104	        9  <***>   370236  (undated)	15:45	27-Feb-74  14
+XXX105	        1  <***>   037342  (undated)	15:45	27-Feb-74  14
+XXX106	        2  <***>   020246  (undated)	15:45	27-Feb-74  14
+XXX107	        5  <***>   374633  (undated)	15:45	27-Feb-74  14
+XXX108	        5  <***>   471642  (undated)	15:45	27-Feb-74  14
+XXX109	        5  <***>   420376  (undated)	15:45	27-Feb-74  14
+XXX110	        4  <***>   601510  (undated)	15:45	27-Feb-74  14
+XXX111	        4  <***>   065555  (undated)	15:45	27-Feb-74  14
+XXX112	        3  <***>   142454  (undated)	15:45	27-Feb-74  14
+XXX113	       52  <***>   417250  (undated)	15:45	27-Feb-74  14
+XXX114	       36  <***>   104347  (undated)	15:45	27-Feb-74  14
+XXX115	        5  <***>   511316  (undated)	15:45	27-Feb-74  14
+XXX116	        1  <***>   010247  (undated)	15:46	27-Feb-74  14
+XXX117	       13  <***>   552376  (undated)	15:46	27-Feb-74  14
+XXX118	        2  <***>   646747  (undated)	15:46	27-Feb-74  14
+XXX119	        5  <***>   600670  (undated)	15:46	27-Feb-74  14
+XXX120	        2  <***>   677353  (undated)	15:46	27-Feb-74  14
+XXX121	        2  <***>   226144  (undated)	15:46	27-Feb-74  14
+XXX122	        6  <***>   310767  (undated)	15:46	27-Feb-74  14
+XXX123	        1  <***>   410430  (undated)	15:46	27-Feb-74  14
+XXX124	       12  <***>   676343  (undated)	15:46	27-Feb-74  14
+XXX125	       13  <***>   410014  (undated)	15:46	27-Feb-74  14
+XXX126	        3  <***>   406133  (undated)	15:46	27-Feb-74  14
+XXX127	       20  <***>   055216  (undated)	15:46	27-Feb-74  14
+XXX128	        1  <***>   056676  (undated)	15:46	27-Feb-74  14
+XXX129	        1  <***>   016063  (undated)	15:46	27-Feb-74  14
+XXX130	        4  <***>   745671  (undated)	15:46	27-Feb-74  14
+XXX131	       15  <***>   567115  (undated)	15:46	27-Feb-74  14
+XXX132	        5  <***>   467644  (undated)	15:46	27-Feb-74  14
+XXX133	        7  <***>   672454  (undated)	15:46	27-Feb-74  14
+XXX134	       10  <***>   657225  (undated)	15:46	27-Feb-74  14
+XYPLOT	MAC    52  <***>   417250  (undated)	15:45	27-Feb-74  14
+XYSUBS	F4      3  <***>   406133  (undated)	15:46	27-Feb-74  14
+YAHTZE	BAS    23  <***>   613263  (undated)	15:42	27-Feb-74  14
+  Total of 13877 blocks in 536 files Checksum = 454140
+
+  BACKUP reel number 1; end save set: Old [204,1616] Ancient History
+    by version 2(232) at 23:47:12 on 11-Sep-78
+    written on MTA101: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+
+  BACKUP reel number 1; start save set: Old [204,1616] Ancient History
+    by version 2(232) at 23:48:44 on 11-Sep-78
+    written on MTA101: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+1124	DIR    35  <***>   520566  (undated)	17:33	 6-Feb-75   0
+AC101	SAV     7  <***>   257333  (undated)	12:35	13-Oct-72   1
+AC102	SAV     8  <***>   770273  (undated)	16:28	 8-May-74   1
+AC103	SAV    35  <***>   531137  (undated)	11:42	 8-Jan-73   1
+AC104	SAV     3  <***>   751230  (undated)	12:36	13-Oct-72   1
+AC105	SAV     4  <***>   634631  (undated)	12:36	13-Oct-72   1
+AC106	SAV    12  <***>   764543  (undated)	 8:58	24-Oct-73   1
+AC107	SAV     5  <***>   641264  (undated)	12:37	13-Oct-72   1
+AC108	SAV     8  <***>   464601  (undated)	 9:40	14-May-74   1
+AC9SRT	SAV     1  <***>   051176  (undated)	12:43	13-Oct-72   1
+ACCLIB	SAV     6  <***>   105540  (undated)	13:48	23-Aug-74   1	4(2)
+AFR	DAT    87  <***>   045554  (undated)	15:42	 1-May-74  14
+AFR	SRT   110  <***>   324452  (undated)	17:06	 1-May-74  14
+ALAB	DAT    75  <***>   205406  (undated)	21:27	27-Jan-75   0
+ALASKA	DAT    33  <***>   070540  (undated)	21:28	27-Jan-75   0
+ALASKA	DIF     6  <***>   350121  (undated)	21:34	 8-Jan-75   0
+AMAZE	BAS    12  <***>   357500  (undated)	15:45	27-Feb-74  14
+ANS	F4     22  <***>   772262  (undated)	19:27	22-Aug-74   0
+AROPLT	F4      8  <***>   772061  (undated)	15:43	27-Feb-74  14
+AXIS	F4      3  <***>   357004  (undated)	     	11-Aug-72   1
+B	F4      1  <***>   511554  (undated)	16:20	19-Jan-75   0
+BARON	       56  <***>   756001  (undated)	15:45	27-Feb-74  14
+BARON	DAT    45  <***>   606507  (undated)	15:45	27-Feb-74  14
+BARPLT	F4      7  <***>   212521  (undated)	15:43	27-Feb-74  14
+BATCH	MCF     1  <***>   665112  (undated)	16:20	 4-Feb-75   0
+BD	MAC     3  <***>   224446  (undated)	23:14	16-Sep-74   1
+BELL	MAC     1  <***>   253555  (undated)	21:05	22-Jan-75   0
+BJAFA	CBL     6  <***>   174016  (undated)	13:28	 5-Feb-75   0
+BJAFA	SAV    10  <***>   643403  (undated)	23:33	 5-Feb-75  16
+BJOB	MAC     1  <***>   456304  (undated)	     	 7-Jan-75   0
+BOUNCE	SAV     3  <***>   344235  (undated)	     	 9-Jul-74   1
+BROAD	       13  <***>   660753  (undated)	22:35	16-Sep-74   1
+BYTES	MAC     2  <***>   020246  (undated)	15:45	27-Feb-74  14
+C	BUF     4  <***>   064103  (undated)	22:55	 4-Sep-74   0
+CALEN	SAV    33  <***>   771555  (undated)	15:45	27-Feb-74  14
+CAR	P11     2  <***>   162322  (undated)	22:08	31-Jul-74   0
+CARL	MAC     3  <***>   364034  (undated)	     	 9-Jan-75   1
+CARL	UNV     2  <***>   212632  (undated)	20:07	 9-Jan-75  14
+CARLIB	LIB   127  <***>   032647  (undated)	10:49	13-Jan-75  10
+CARMAC	MAC    21  <***>   271073  (undated)	22:57	 4-Sep-74   0
+CASINO	BAS    45  <***>   670371  (undated)	15:42	27-Feb-74  14
+CHANGE	MAC     5  <***>   303144  (undated)	11:45	 2-Sep-74   1
+CHANGE	SAV     1  <***>   715145  (undated)	11:47	 2-Sep-74   1
+CHECK	MAC     1  <***>   346743  (undated)	     	26-Jan-74  13
+CHESS	HOW     5  <***>   412243  (undated)	22:39	16-Sep-74   1
+CHESS	SAV    80  <***>   466076  (undated)	22:39	16-Sep-74   1
+CIRCA	F4      1  <***>   016063  (undated)	15:46	27-Feb-74  14
+CODE	F4      1  <***>   401476  (undated)	20:22	24-Apr-74   0
+COMPIL	MAC   160  <***>   614071  (undated)	15:45	27-Feb-74  14
+CONBEF	DAT   233  <***>   574376  (undated)	20:37	27-Jan-75   0
+CONN	DAT     9  <***>   072425  (undated)	20:39	27-Jan-75   0
+CONTUR	DEM     1  <***>   550232  (undated)	15:41	27-Feb-74  14
+CONV1	MAC    11  <***>   435234  (undated)	     	 6-Jan-75   1
+CONVER	BAK     4  <***>   166434  (undated)	18:21	 6-Feb-75   0
+CONVER	CRF    11  <***>   277022  (undated)	18:25	 6-Feb-75   1
+CONVER	MAC     4  <***>   166434  (undated)	18:50	 6-Feb-75   0
+CONVER	REL     2  <***>   722312  (undated)	18:25	 6-Feb-75  14
+CONVER	SAV     1  <***>   770347  (undated)	18:26	 6-Feb-75  16
+CREF	BAS     5  <***>   511316  (undated)	15:45	27-Feb-74  14
+CREF	F4      5  <***>   305635  (undated)	15:41	27-Feb-74  14
+CURHAZ	ALG     2  <***>   455562  (undated)	     	 9-Jul-74   0
+CURHAZ	CUR    25  <***>   472650  (undated)	13:23	 7-Sep-74   1
+CURHAZ	DAT    22  <***>   342664  (undated)	15:08	 5-Sep-74   1
+CURHAZ	MAC    35  <***>   556702  (undated)	11:12	11-Sep-74   0
+CURHAZ	REL    14  <***>   562117  (undated)	11:15	11-Sep-74  14
+CURMAC	MAC     4  <***>   641475  (undated)	12:26	 8-Sep-74   1
+D	CCL     1  <***>   227440  (undated)	15:33	21-Jan-75   0
+DATA	DAT     4  <***>   603054  (undated)	22:11	16-Sep-74   1
+DATE	MAC     2  <***>   700645  (undated)	     	28-Jan-74  13
+DATPLT	HLP     2  <***>   463435  (undated)	15:45	27-Feb-74  14
+DAYWK	MAC     3  <***>   626450  (undated)	13:54	11-Sep-74   0
+DAYWK	SAV     4  <***>   110004  (undated)	19:31	 1-Feb-74  14	V(3)-1
+DEC	REL    40  <***>   740213  (undated)	23:27	 5-Feb-75  14
+DECTA	HLP     2  <***>   315103  (undated)	18:29	13-Feb-74   0
+DECTA	SNO     9  <***>   537476  (undated)	16:08	20-Feb-74   0
+DECTAP	DAT     4  <***>   260577  (undated)	 0:53	27-Feb-74   1
+DELETE	001     1  <***>   664732  (undated)	15:42	27-Feb-74  14
+DEM	FOC     4  <***>   745671  (undated)	15:46	27-Feb-74  14
+DIMPLT	F4     15  <***>   523021  (undated)	15:43	27-Feb-74  14
+DIRDIR	DIR     3  <***>   300403  (undated)	14:34	 8-Sep-74   1
+DIRTST	F4      4  <***>   520444  (undated)	14:43	15-Jul-74   1
+DIRTST	SAV     7  <***>   735463  (undated)	 9:12	16-Jul-74  16	1A(1)
+DOCPGM	LAP    18  <***>   524546  (undated)	15:43	27-Feb-74  14
+DOCPGM	LSP     9  <***>   314103  (undated)	15:43	27-Feb-74  14
+DOCTOR	RLS    22  <***>   304714  (undated)	15:42	27-Feb-74  14
+DOCTOR	SAV   124  <***>   665062  (undated)	15:42	27-Feb-74  14
+DOCTOR	TXT     3  <***>   760522  (undated)	15:42	27-Feb-74  14
+DRA001	SAV     5  <***>   602114  (undated)	 9:11	17-Jun-74   1
+DRA220	SAV     2  <***>   734366  (undated)	17:38	19-Jun-74   1
+DRA225	SAV     2  <***>   532235  (undated)	13:29	29-May-74   1
+DRKPLT	F4     16  <***>   633536  (undated)	15:43	27-Feb-74  14
+DSHPLT	F4      8  <***>   342743  (undated)	15:43	27-Feb-74  14
+DSKCHR	MAC    14  <***>   076142  (undated)	17:43	 3-Sep-74   1
+DSKCHR	SAV     3  <***>   714027  (undated)	17:45	 3-Sep-74   1	1A(10)
+DTA	DIR     8  <***>   027564  (undated)	14:47	17-Jun-74   1
+DTA001	DIR     6  <***>   745031  (undated)	 2:18	24-Apr-74   0
+DTA548	DIR     1  <***>   610216  (undated)	 9:04	10-Sep-74   0
+DTA754	DIR     1  <***>   457003  (undated)	 9:05	10-Sep-74   0
+E100	SAV     1  <***>   524102  (undated)	18:55	24-May-74   1
+E101	SAV     1  <***>   741532  (undated)	18:55	24-May-74   1
+E126	SAV     1  <***>   732566  (undated)	18:56	24-May-74   1
+E201	SAV     1  <***>   756345  (undated)	10:04	28-May-74   1
+EA80	SAV     1  <***>   115255  (undated)	20:30	29-May-74   1
+EBCDIC	816     2  <***>   312111  (undated)	 8:08	13-Jun-74   0
+EBCOPY	SAV     2  <***>   256431  (undated)	12:25	31-May-74   1
+EDIT	TEC     2  <***>   511610  (undated)	 0:09	 8-Apr-74   0
+EDIT2	SNO    12  <***>   371501  (undated)	10:27	27-Aug-74   1
+EDLIB	HOW     3  <***>   462363  (undated)	14:28	25-Jul-74  16
+EDLIB	MAC     7  <***>   033773  (undated)	16:33	14-Feb-74   0
+EDLIB	SAV     3  <***>   045104  (undated)	16:33	14-Feb-74  16	4
+ELIZA	RLS    25  <***>   474077  (undated)	15:42	27-Feb-74  14
+ELIZA	SAV   124  <***>   206303  (undated)	15:42	27-Feb-74  14
+ENCODE	F4      2  <***>   753477  (undated)	15:18	 1-May-74   0
+EXCON	MAC    50  <***>   751051  (undated)	15:42	27-Feb-74  14
+EXIT	MAC     1  <***>   037342  (undated)	     	 2-Nov-73   0
+EXIT10	MAC     1  <***>   524156  (undated)	15:32	 7-Aug-74   0
+EXITM	MAC     1  <***>   037342  (undated)	15:45	27-Feb-74  14
+EXP	       17  <***>   407435  (undated)	22:34	16-Sep-74   1
+EXSYS	MAC     1  <***>   410430  (undated)	15:46	27-Feb-74  14
+EXTUFD	END     3  <***>   776677  (undated)	 9:32	29-Aug-74   1
+F1	AFR    18  <***>   025652  (undated)	23:40	 1-May-74   0
+F1	ENG    11  <***>   532620  (undated)	 0:19	 2-May-74   0
+F2	AFR    11  <***>   232410  (undated)	23:40	 1-May-74   0
+F3	AFR    10  <***>   533066  (undated)	23:40	 1-May-74   0
+F4	AFR    14  <***>   515705  (undated)	23:41	 1-May-74   0
+F4	DAT     9  <***>   364722  (undated)	 0:53	 2-May-74   0
+F4	ENG     8  <***>   346314  (undated)	 0:57	 2-May-74   0
+F4COM1	DIR     1  <***>   204462  (undated)	21:36	24-Apr-74   1
+F5	AFR    10  <***>   030343  (undated)	23:41	 1-May-74   0
+F6	AFR    17  <***>   426066  (undated)	23:41	 1-May-74   0
+F7	AFR     8  <***>   201202  (undated)	23:41	 1-May-74   0
+FAILSA	DIR    17  <***>   566146  (undated)	23:45	 1-May-74   1
+FILE	DAT     8  <***>   350450  (undated)	 3:29	 1-May-74   0
+FILE	EXT     1  <***>   542027  (undated)	10:54	11-Sep-74   0
+FILE1	DAT    20  <***>   566536  (undated)	 1:03	 2-May-74   0
+FILE2	DAT    13  <***>   207407  (undated)	 1:03	 2-May-74   0
+FILE3	DAT    11  <***>   333672  (undated)	 1:03	 2-May-74   0
+FILE4	DAT    11  <***>   544027  (undated)	 0:51	 2-May-74   0
+FILE5	DAT     9  <***>   252255  (undated)	 0:48	 2-May-74   0
+FILE6	DAT    27  <***>   362026  (undated)	 0:49	 2-May-74   0
+FILE7	DAT    13  <***>   022567  (undated)	 0:50	 2-May-74   0
+FILLER	SNO     2  <***>   054632  (undated)	 0:12	10-Sep-74   0
+FISHER	SRC    10  <***>   776267  (undated)	15:42	27-Feb-74  14
+FIX	MAC     1  <***>   573454  (undated)	 1:58	 1-May-74   0
+FIXCTL	RNO     3  <***>   761033  (undated)	12:30	 3-Jan-75   0
+FIXCTL	SAV    42  <***>   626047  (undated)	14:42	 5-Feb-75  16	(2)-1
+FIXCTL	SNO    14  <***>   344526  (undated)	19:28	 2-Jan-75   1
+FIXFIL	CTL     1  <***>   055177  (undated)	23:13	30-Apr-74   0
+FIXFIL	LOG    11  <***>   772024  (undated)	 0:51	 2-May-74   0
+FLORD1	DAT    13  <***>   335324  (undated)	20:53	27-Jan-75   0
+FLY	BIN     1  <***>   003033  (undated)	21:48	30-Jul-74  10
+FLY	P11     4  <***>   766202  (undated)	21:44	30-Jul-74   0
+FOCAL	SRC   147  <***>   412200  (undated)	22:26	16-Sep-74   1
+FULL	CMD     1  <***>   236577  (undated)	13:42	27-Jan-75   0
+FUNCT	F4      3  <***>   346070  (undated)	 3:25	 1-May-74  17
+GAME	DAT     3  <***>   344574  (undated)	23:16	 5-Feb-74  14
+GENPLT	F4     16  <***>   070521  (undated)	15:43	27-Feb-74  14
+GENPLT	RNO   100  <***>   122373  (undated)	15:42	27-Feb-74  14
+GETREC	CBL     6  <***>   754627  (undated)	     	18-Jan-75   1
+GETSAT	F4      2  <***>   226144  (undated)	     	18-May-74   1
+GETSIT	MAC     5  <***>   203606  (undated)	     	18-May-74   1
+GGIRL	DAT    55  <***>   641571  (undated)	21:59	16-Sep-74   0
+GGPROG	F4      2  <***>   055473  (undated)	21:59	16-Sep-74   1
+GNLPRT	MAC    13  <***>   552376  (undated)	15:46	27-Feb-74  14
+GOOF	MAC    29  <***>   665327  (undated)	15:42	27-Feb-74  14
+GRDPLT	F4      9  <***>   135760  (undated)	15:43	27-Feb-74  14
+GRID	F4      1  <***>   000667  (undated)	20:08	28-Jan-75   0
+GRIN	        5  <***>   613626  (undated)	15:42	27-Feb-74  14
+GROW2	DAT     1  <***>   750374  (undated)	     	 4-Jan-73  14
+GT40	DEM     3  <***>   235176  (undated)	     	 2-Nov-73   1
+GT40	HLP     3  <***>   054323  (undated)	 1:04	20-Feb-74  14
+GTPLOT	SAV    34  <***>   362336  (undated)	20:57	14-Feb-74  14	32(436)
+GTTST	MAC     1  <***>   465526  (undated)	23:59	11-Feb-74   0
+HALT	F4      1  <***>   543422  (undated)	 0:40	24-Apr-74   0
+HALT	SAV     4  <***>   552374  (undated)	 0:42	24-Apr-74  16	32(436)
+HAMMUR	BAS     5  <***>   451712  (undated)	15:45	27-Feb-74  14
+HANDS	DAT     5  <***>   367457  (undated)	15:42	27-Feb-74  14
+HAZEL	ALG     2  <***>   424651  (undated)	16:47	 5-Feb-75   0
+HAZEL	MAC     5  <***>   455355  (undated)	 8:46	26-Aug-74   1
+HCHPLT	F4      7  <***>   762121  (undated)	15:43	27-Feb-74  14
+HELP	DAT     3  <***>   256334  (undated)	17:34	13-Sep-74   0
+HELP	SNO    14  <***>   364131  (undated)	23:29	 6-Sep-74   1
+HELP0	SNO    10  <***>   365351  (undated)	13:40	 5-Sep-74   1
+HELPER	SAV    40  <***>   163476  (undated)	23:31	 6-Sep-74  16	(2)-1
+HOLD	        0  <***>   000000  (undated)	22:09	25-Feb-74   1
+HYPER	F4     16  <***>   163016  (undated)	15:41	27-Feb-74  14
+HYPER	SAV     9  <***>   724643  (undated)	15:41	27-Feb-74  14	V(3)-4
+IFILE	300     7  <***>   610115  (undated)	     	 9-Sep-70   0
+INPUT	MAC     2  <***>   552322  (undated)	15:41	27-Feb-74  14
+INSIX	MAC     1  <***>   545576  (undated)	     	24-Jan-74  13
+INTERP	CTL     1  <***>   103733  (undated)	 0:01	27-Mar-74   0
+INTERP	MAC    12  <***>   727176  (undated)	23:28	26-Feb-74   0
+INTERP	SAV     5  <***>   601045  (undated)	 0:01	27-Mar-74  16	1(4)
+INTI	MAC     5  <***>   374633  (undated)	15:45	27-Feb-74  14
+INTO	MAC     5  <***>   471642  (undated)	15:45	27-Feb-74  14
+IPLDST	ERR     1  <***>   170546  (undated)	15:43	27-Feb-74  14
+IPLDST	F4      3  <***>   063350  (undated)	15:43	27-Feb-74  14
+IPLHIT	F4      6  <***>   555212  (undated)	15:43	27-Feb-74  14
+ISM	IDA   446  <***>   456652  (undated)	19:28	17-Jan-75  14
+ISM	IDX    18  <***>   751701  (undated)	17:17	19-Jan-75  17
+ISMTAP	IDA     3  <***>   024233  (undated)	23:58	 5-Feb-75  14
+ISMTAP	IDX     4  <***>   714212  (undated)	23:58	 5-Feb-75  17
+JOBDAT	CCL     2  <***>   705174  (undated)	23:04	16-Sep-74   1
+KD	MAC     5  <***>   102266  (undated)	23:52	15-Jan-75   0
+KEEP	MAC     3  <***>   746212  (undated)	17:53	22-Aug-74   0
+KEEPER	SAV     1  <***>   147203  (undated)	17:55	22-Aug-74   1
+KOSTER	MAC     7  <***>   333025  (undated)	19:56	22-Jan-75  14
+KOSTER	UNV     4  <***>   177347  (undated)	22:56	22-Jan-75  14
+LABEL	SAV    12  <***>   676343  (undated)	15:46	27-Feb-74  14	32(436)
+LAP	       16  <***>   140310  (undated)	15:42	27-Feb-74  14
+LEM	091   242  <***>   336627  (undated)	21:42	10-Sep-74   0
+LEM	BAS    15  <***>   567115  (undated)	15:46	27-Feb-74  14
+LEM	BIN    26  <***>   131711  (undated)	21:36	10-Sep-74  10
+LEMA	BAS     5  <***>   467644  (undated)	15:46	27-Feb-74  14
+LEMB	BAS     7  <***>   672454  (undated)	15:46	27-Feb-74  14
+LEMZ	BIN    26  <***>   476135  (undated)	21:46	10-Sep-74  10
+LINE	CRF     2  <***>   662045  (undated)	14:41	 4-Feb-75   1
+LINE	MAC     1  <***>   634436  (undated)	14:38	 4-Feb-75   0
+LINE	REL     1  <***>   064315  (undated)	14:41	 4-Feb-75  14
+LINE	SAV     1  <***>   376674  (undated)	14:42	 4-Feb-75  16
+LINPLT	F4      3  <***>   571522  (undated)	15:43	27-Feb-74  14
+LINUS	       39  <***>   656320  (undated)	15:45	27-Feb-74  14
+LINUS	DAT    34  <***>   311430  (undated)	15:45	27-Feb-74  14
+LISA	DAT     5  <***>   566076  (undated)	15:42	27-Feb-74  14
+LIST	CTL     1  <***>   125627  (undated)	13:38	23-Jan-75   0
+LIST	F4      6  <***>   533114  (undated)	11:49	13-Jun-74   1
+M	CCL     1  <***>   624330  (undated)	12:17	15-Jan-75  14
+MAC	DAT    15  <***>   550125  (undated)	     	10-Jan-74  13
+MACRO	LIB    86  <***>   215526  (undated)	19:04	21-Jan-75  10
+MADON	DAT    11  <***>   763534  (undated)	15:42	27-Feb-74  14
+MARK	F4      2  <***>   036715  (undated)	15:41	27-Feb-74  14
+MASK4	MAC     2  <***>   604524  (undated)	10:32	29-Aug-74   1
+MAZE	F4      9  <***>   370236  (undated)	19:57	17-May-74   1
+MAZES	F4      9  <***>   370236  (undated)	15:45	27-Feb-74  14
+MD	DAT    27  <***>   536364  (undated)	20:58	27-Jan-75   0
+MDINT	DAT   968  <***>   646175  (undated)	20:55	27-Jan-75   0
+MDMIS	DAT   296  <***>   045302  (undated)	20:59	27-Jan-75   0
+MER4	F4      5  <***>   010566  (undated)	17:45	21-May-74   1
+MERGE	F10    10  <***>   523537  (undated)	20:28	30-Apr-74   0
+MERGE	SAV    10  <***>   317351  (undated)	21:13	30-Apr-74  16
+METEOR	BIN    14  <***>   553030  (undated)	20:02	 5-Aug-74  10
+METEOR	P11   122  <***>   734555  (undated)	     	23-Jul-74   1
+MISC	MAC    36  <***>   104347  (undated)	15:45	27-Feb-74  14
+MISC	REL    40  <***>   236443  (undated)	 2:05	13-Feb-74  14
+MISS	DAT   128  <***>   005145  (undated)	21:09	27-Jan-75   0
+MISXPN	DIR     1  <***>   722715  (undated)	15:25	 3-Jul-74   0
+MOD	P11     5  <***>   262310  (undated)	23:38	29-Jul-74   0
+MONIT	F4     13  <***>   410014  (undated)	15:46	27-Feb-74  14
+MONOP	BAS    44  <***>   557425  (undated)	15:42	27-Feb-74  14
+MPX	CMD     1  <***>   410627  (undated)	15:24	 8-Sep-74   0
+MPX	MAC     3  <***>   410601  (undated)	19:03	 8-Sep-74   0
+MPX	SAV     1  <***>   575607  (undated)	19:04	 8-Sep-74  16
+MT1010	NEW    11  <***>   532037  (undated)	16:05	18-Dec-74  17
+MTA1	SHR     4  <***>   536574  (undated)	23:17	16-May-74   1	6
+MTA2	SHR    24  <***>   267526  (undated)	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <***>   205116  (undated)	23:18	16-May-74   1	11
+MTADIR	SHR     6  <***>   321041  (undated)	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <***>   750725  (undated)	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <***>   173516  (undated)	15:06	27-Feb-74  17
+NEVADA	DAT    19  <***>   062555  (undated)	23:43	27-Jan-75   0
+NEVMIS	DAT   167  <***>   761663  (undated)	21:25	27-Jan-75   0
+NEVNEW	DAT    70  <***>   547500  (undated)	21:15	27-Jan-75   0
+NMBPLT	F4      6  <***>   544347  (undated)	15:43	27-Feb-74  14
+NOTICE	BRD     1  <***>   131735  (undated)	11:35	15-Jan-75   0
+NOTICE	CHS     1  <***>   201316  (undated)	14:53	 3-Feb-75   1
+NOTICE	TXT     3  <***>   250607  (undated)	20:19	21-Feb-74   0
+NUMBER	FOC     3  <***>   536662  (undated)	15:41	27-Feb-74  14
+NUMS	       20  <***>   354140  (undated)	15:45	27-Feb-74  14
+NWYORK	DAT    65  <***>   067510  (undated)	23:44	27-Jan-75   0
+NYVIRG	DAT  1033  <***>   611262  (undated)	21:18	27-Jan-75   0
+OCT	F4      1  <***>   743022  (undated)	18:44	 1-Aug-74   0
+OCT2	F4      1  <***>   056676  (undated)	15:46	27-Feb-74  14
+OCTI	MAC     5  <***>   420376  (undated)	15:45	27-Feb-74  14
+OCTO	MAC     4  <***>   601510  (undated)	15:45	27-Feb-74  14
+OPR	MAC     7  <***>   435653  (undated)	     	22-Jul-74   1
+OUTDEC	MAC     2  <***>   417645  (undated)	     	13-Jan-75   1
+PAUSE	MAC     4  <***>   065555  (undated)	15:45	27-Feb-74  14
+PCFIT	F4     14  <***>   254374  (undated)	15:45	27-Feb-74  14
+PENTST	F4     14  <***>   520303  (undated)	15:43	27-Feb-74  14
+PERSPD	RNO    12  <***>   375220  (undated)	15:29	 9-Feb-74  14
+PERSPE	REL     2  <***>   756635  (undated)	 2:05	13-Feb-74  14
+PICT	F4      3  <***>   673050  (undated)	15:42	27-Feb-74  14
+PING	ALG     7  <***>   540740  (undated)	     	 8-Aug-74   0
+PIP	33    218  <***>   251233  (undated)	15:43	27-Feb-74  14
+PIP	MAC   218  <***>   251233  (undated)	15:43	27-Feb-74  14
+PIP2	SHR    24  <***>   077154  (undated)	22:06	16-Sep-74   1	(30)
+PLOTF4	        1  <***>   304126  (undated)	23:16	16-Sep-74   1
+PLOTR	MAC     3  <***>   233674  (undated)	22:51	16-Sep-74   1
+PLOTS1	        1  <***>   761640  (undated)	23:14	16-Sep-74   1
+PLOTS2	        1  <***>   456304  (undated)	23:15	16-Sep-74   1
+PLTBOX	F4      5  <***>   376734  (undated)	15:43	27-Feb-74  14
+PLTCUT	F4      5  <***>   445352  (undated)	15:43	27-Feb-74  14
+PLTLIN	F4     13  <***>   254143  (undated)	15:43	27-Feb-74  14
+PLTTOP	F4      3  <***>   473173  (undated)	15:43	27-Feb-74  14
+PNTPLT	F4      3  <***>   145572  (undated)	15:43	27-Feb-74  14
+POINT	F4      2  <***>   637747  (undated)	22:11	16-Sep-74   1
+POLISH	CTL     1  <***>   542747  (undated)	17:01	18-Apr-74   0
+POLISH	TEC    12  <***>   416217  (undated)	15:58	18-Apr-74   0
+POLISH	TXT     1  <***>   435650  (undated)	 3:06	24-Apr-74   0
+POLY1	F4      2  <***>   677353  (undated)	     	18-May-74   1
+POLY1	SAV     6  <***>   310767  (undated)	15:46	27-Feb-74  14	P(2)
+PRINT	MAC     1  <***>   626736  (undated)	16:42	24-Jan-74   0
+PROG1	F4      2  <***>   560647  (undated)	 3:09	13-Feb-74  14
+PROG1	REL     3  <***>   077233  (undated)	 3:10	13-Feb-74  14
+PTY	LOG     2  <***>   355425  (undated)	17:04	 4-Feb-75   1
+QUEUE	REL     6  <***>   774020  (undated)	 9:51	22-Jan-75   1
+QUOTA	MAC    21  <***>   006745  (undated)	     	21-Jan-75   1
+RDGEN	SAV     7  <***>   511277  (undated)	10:35	13-Jan-75   1
+READ	F4      3  <***>   143611  (undated)	23:27	27-Jan-75   0
+REFORM	F4      2  <***>   547111  (undated)	 2:33	 1-May-74   0
+REFORM	SAV     5  <***>   576577  (undated)	 2:36	 1-May-74  16	4R
+REL	CMD     1  <***>   575152  (undated)	 0:09	21-Feb-74  14
+RENBR	F4     89  <***>   325041  (undated)	15:45	27-Feb-74  14
+RENBR	HLP     5  <***>   476715  (undated)	15:45	27-Feb-74  14
+RESCUE	SAV     3  <***>   257202  (undated)	     	 4-Sep-73  14
+RESET	CTL     1  <***>   255643  (undated)	10:49	22-Jan-75   0
+RNO	PRE    12  <***>   063773  (undated)	21:41	11-Feb-74  14
+SALVO	MAC    50  <***>   016732  (undated)	23:04	 5-Sep-74   1
+SALVO1	SHR    13  <***>   431431  (undated)	11:58	 2-Sep-74   1
+SAYIT	F4      3  <***>   222475  (undated)	22:24	16-Sep-74   1
+SAYIT	SAV    20  <***>   106300  (undated)	15:45	27-Feb-74  14	2
+SCHEFF	F4     14  <***>   050404  (undated)	 8:25	26-Aug-74   0
+SCLPLT	F4     25  <***>   757562  (undated)	15:43	27-Feb-74  14
+SIM001	      166  <***>   722622  (undated)	13:47	 6-Feb-75   1
+SLEEP	MAC     1  <***>   010247  (undated)	15:46	27-Feb-74  14
+SMILE	        9  <***>   255561  (undated)	15:42	27-Feb-74  14
+SNOBOL	LIB    82  <***>   045527  (undated)	13:34	14-Jan-75  10
+SNOOP	       42  <***>   420202  (undated)	15:45	27-Feb-74  14
+SNOOP	BAS    10  <***>   716245  (undated)	15:45	27-Feb-74  14
+SNOOP	DAT    35  <***>   624305  (undated)	15:45	27-Feb-74  14
+SNOPY	BAS    15  <***>   062703  (undated)	15:45	27-Feb-74  14
+SONGS	DAT     2  <***>   743607  (undated)	15:41	27-Feb-74  14
+SORT2	F4      2  <***>   646747  (undated)	15:46	27-Feb-74  14
+SORT2	SAV     5  <***>   600670  (undated)	15:46	27-Feb-74  14	AR(1)
+STARS	F4     30  <***>   206371  (undated)	23:25	 3-Feb-75   0
+STARS	REL    38  <***>   163751  (undated)	23:37	 3-Feb-75  14
+STARS	SAV    31  <***>   567736  (undated)	23:39	 3-Feb-75  16
+SWITCH	BAK     3  <***>   061456  (undated)	23:30	 3-Feb-75   0
+SWITCH	INI     2  <***>   514451  (undated)	16:57	 4-Feb-75   0
+TAPE	REC     1  <***>   770703  (undated)	12:36	 3-Jan-75  14
+TAPE	SAV     3  <***>   041654  (undated)	23:37	16-May-74   1	6
+TAPES	CBL    24  <***>   142374  (undated)	     	21-Jan-75   1
+TAPES	SAV    17  <***>   773420  (undated)	14:10	27-Jan-75  16
+TAPLIB	CBL    10  <***>   120074  (undated)	23:21	 5-Feb-75   0
+TAPLIB	CFM   123  <***>   734315  (undated)	21:27	16-Jan-75   0
+TAPLIB	HLP    22  <***>   617467  (undated)	20:41	30-Jan-75   0
+TAPLIB	INF   160  <***>   563204  (undated)	21:22	16-Jan-75   0
+TAPLIB	RNO    18  <***>   044453  (undated)	20:23	30-Jan-75   0
+TAPQUE	CBL     5  <***>   365177  (undated)	13:38	27-Jan-75   0
+TAPQUE	SAV     7  <***>   726413  (undated)	14:06	27-Jan-75  16
+TAPTRN	CBL    22  <***>   751760  (undated)	23:24	 5-Feb-75   0
+TAPTRN	DBS   237  <***>   006470  (undated)	19:28	17-Jan-75   0
+TAPTRN	EDS     1  <***>   671134  (undated)	23:47	 5-Feb-75   0
+TAPTRN	SAV    23  <***>   777325  (undated)	23:33	 5-Feb-75  16
+TAPTST	HLP     7  <***>   551714  (undated)	15:45	27-Feb-74  14
+TEC	MAC     1  <***>   030577  (undated)	15:19	 3-Apr-74   0
+TECH	MAC     1  <***>   246700  (undated)	 1:33	12-Feb-74   0
+TECO	HLP    12  <***>   761610  (undated)	21:00	26-Feb-74   0
+TECO	PAT     1  <***>   511670  (undated)	16:34	 5-Apr-74   0
+TECO	RNO    13  <***>   172246  (undated)	23:48	19-Feb-74   0
+TECO	SHR    24  <***>   544574  (undated)	15:10	 3-Apr-74   1	23(113)-6
+TEST	MAC     1  <***>   623136  (undated)	15:42	 8-Sep-74   0
+TEST	SNO     2  <***>   613620  (undated)	23:25	20-Feb-74   0
+TESTQ	CBL     3  <***>   141013  (undated)	11:42	11-Sep-74   0
+TESTQ	LST     6  <***>   534265  (undated)	11:57	11-Sep-74   0
+TESTQ	SAV     7  <***>   077350  (undated)	13:14	13-Sep-74  16
+TRACE	        6  <***>   676652  (undated)	15:42	27-Feb-74  14
+TRAPS	MAC    20  <***>   055216  (undated)	15:46	27-Feb-74  14
+TRIG	F4      4  <***>   305630  (undated)	15:45	27-Feb-74  14
+TRIG	SAV    11  <***>   252773  (undated)	22:45	16-Apr-74  16	4C
+TT3DT	FOC     5  <***>   361171  (undated)	15:45	27-Feb-74  14
+TTT2D	FOC     2  <***>   272761  (undated)	15:41	27-Feb-74  14
+TTT3D	F4     17  <***>   437574  (undated)	23:23	 5-Feb-74  14
+TTT3D	FOC     5  <***>   361171  (undated)	22:59	 6-Feb-74  14
+TTTNOT	FIN    18  <***>   442674  (undated)	15:45	27-Feb-74  14
+TTY	MAC     1  <***>   200154  (undated)	19:16	 8-Sep-74   0
+TYPE	MAC     5  <***>   250704  (undated)	15:25	 3-Feb-75   1
+TYPE	REL     2  <***>   651633  (undated)	16:07	 3-Feb-75  14
+TYPPLT	MAC     2  <***>   017107  (undated)	15:42	27-Feb-74  14
+TYPPLT	SAV     1  <***>   165502  (undated)	15:42	27-Feb-74  14
+UDTA	DIR     5  <***>   664412  (undated)	19:16	 2-Sep-74   0
+UHAUL	CBL     5  <***>   347077  (undated)	     	16-Jan-75   1
+UNIMK	F4      6  <***>   764663  (undated)	21:45	21-Feb-74   0
+UPDATE	BAK    13  <***>   203653  (undated)	23:48	 5-Feb-75   0
+UPDATE	CBL    13  <***>   007241  (undated)	23:56	 5-Feb-75   0
+UPDATE	REL    18  <***>   666777  (undated)	23:57	 5-Feb-75  14
+UPDATE	SAV    11  <***>   634407  (undated)	23:58	 5-Feb-75  16
+UUO	MAC     3  <***>   142454  (undated)	15:45	27-Feb-74  14
+VECTOR	FOC     2  <***>   464757  (undated)	15:41	27-Feb-74  14
+VIRGIN	DAT   149  <***>   144562  (undated)	21:31	27-Jan-75   0
+WAITAC	SAV     9  <***>   014112  (undated)	22:19	 5-Sep-74  16	(2)-1
+WASH	DAT     3  <***>   731645  (undated)	21:32	27-Jan-75   0
+WHIST	DAT    12  <***>   061236  (undated)	15:42	27-Feb-74  14
+WHOKNO	WS     10  <***>   657225  (undated)	15:46	27-Feb-74  14
+WRDPLT	F4      4  <***>   137305  (undated)	15:43	27-Feb-74  14
+X	CCL     1  <***>   270074  (undated)	17:01	 1-May-74   0
+XFR	       15  <***>   372370  (undated)	23:19	16-Sep-74   1
+XT	F4      1  <***>   556703  (undated)	18:25	 1-Aug-74   0
+XXXDTA	DIR     4  <***>   027166  (undated)	12:08	21-Aug-74   0
+XXX001	        1  <***>   550232  (undated)	15:41	27-Feb-74  14
+XXX002	        2  <***>   036715  (undated)	15:41	27-Feb-74  14
+XXX003	        9  <***>   724643  (undated)	15:41	27-Feb-74  14
+XXX004	       16  <***>   163016  (undated)	15:41	27-Feb-74  14
+XXX005	        5  <***>   305635  (undated)	15:41	27-Feb-74  14
+XXX006	        2  <***>   743607  (undated)	15:41	27-Feb-74  14
+XXX007	        3  <***>   536662  (undated)	15:41	27-Feb-74  14
+XXX008	        2  <***>   272761  (undated)	15:41	27-Feb-74  14
+XXX009	        2  <***>   464757  (undated)	15:41	27-Feb-74  14
+XXX010	        2  <***>   552322  (undated)	15:41	27-Feb-74  14
+XXX011	       80  <***>   154175  (undated)	15:42	27-Feb-74  14
+XXX012	        5  <***>   412243  (undated)	15:42	27-Feb-74  14
+XXX013	       10  <***>   776267  (undated)	15:42	27-Feb-74  14
+XXX014	       23  <***>   613263  (undated)	15:42	27-Feb-74  14
+XXX015	       44  <***>   557425  (undated)	15:42	27-Feb-74  14
+XXX016	       45  <***>   670371  (undated)	15:42	27-Feb-74  14
+XXX017	        5  <***>   566076  (undated)	15:42	27-Feb-74  14
+XXX018	       11  <***>   763534  (undated)	15:42	27-Feb-74  14
+XXX019	        5  <***>   367457  (undated)	15:42	27-Feb-74  14
+XXX020	       12  <***>   061236  (undated)	15:42	27-Feb-74  14
+XXX021	       16  <***>   140310  (undated)	15:42	27-Feb-74  14
+XXX022	        5  <***>   613626  (undated)	15:42	27-Feb-74  14
+XXX023	        9  <***>   255561  (undated)	15:42	27-Feb-74  14
+XXX024	        6  <***>   676652  (undated)	15:42	27-Feb-74  14
+XXX025	      100  <***>   122373  (undated)	15:42	27-Feb-74  14
+XXX026	       95  <***>   131644  (undated)	15:42	27-Feb-74  14
+XXX027	        1  <***>   664732  (undated)	15:42	27-Feb-74  14
+XXX028	        2  <***>   017107  (undated)	15:42	27-Feb-74  14
+XXX029	        1  <***>   165502  (undated)	15:42	27-Feb-74  14
+XXX030	       50  <***>   751051  (undated)	15:42	27-Feb-74  14
+XXX031	        3  <***>   673050  (undated)	15:42	27-Feb-74  14
+XXX032	       29  <***>   665327  (undated)	15:42	27-Feb-74  14
+XXX033	        3  <***>   760522  (undated)	15:42	27-Feb-74  14
+XXX034	       22  <***>   304714  (undated)	15:42	27-Feb-74  14
+XXX035	      124  <***>   665062  (undated)	15:42	27-Feb-74  14
+XXX036	       25  <***>   474077  (undated)	15:42	27-Feb-74  14
+XXX037	      124  <***>   206303  (undated)	15:42	27-Feb-74  14
+XXX038	       18  <***>   524546  (undated)	15:43	27-Feb-74  14
+XXX039	        9  <***>   314103  (undated)	15:43	27-Feb-74  14
+XXX040	        8  <***>   772061  (undated)	15:43	27-Feb-74  14
+XXX041	        7  <***>   212521  (undated)	15:43	27-Feb-74  14
+XXX042	       15  <***>   523021  (undated)	15:43	27-Feb-74  14
+XXX043	       16  <***>   633536  (undated)	15:43	27-Feb-74  14
+XXX044	        8  <***>   342743  (undated)	15:43	27-Feb-74  14
+XXX045	       16  <***>   070521  (undated)	15:43	27-Feb-74  14
+XXX046	        4  <***>   137305  (undated)	15:43	27-Feb-74  14
+XXX047	        9  <***>   135760  (undated)	15:43	27-Feb-74  14
+XXX048	        3  <***>   571522  (undated)	15:43	27-Feb-74  14
+XXX049	        6  <***>   544347  (undated)	15:43	27-Feb-74  14
+XXX050	        3  <***>   145572  (undated)	15:43	27-Feb-74  14
+XXX051	       25  <***>   757562  (undated)	15:43	27-Feb-74  14
+XXX052	        7  <***>   762121  (undated)	15:43	27-Feb-74  14
+XXX053	        1  <***>   170546  (undated)	15:43	27-Feb-74  14
+XXX054	        3  <***>   063350  (undated)	15:43	27-Feb-74  14
+XXX055	        6  <***>   555212  (undated)	15:43	27-Feb-74  14
+XXX056	        5  <***>   376734  (undated)	15:43	27-Feb-74  14
+XXX057	        5  <***>   445352  (undated)	15:43	27-Feb-74  14
+XXX058	       13  <***>   254143  (undated)	15:43	27-Feb-74  14
+XXX059	        3  <***>   473173  (undated)	15:43	27-Feb-74  14
+XXX060	       14  <***>   520303  (undated)	15:43	27-Feb-74  14
+XXX061	      218  <***>   251233  (undated)	15:43	27-Feb-74  14
+XXX062	      218  <***>   251233  (undated)	15:43	27-Feb-74  14
+XXX063	        7  <***>   207671  (undated)	15:43	27-Feb-74  14
+XXX064	       38  <***>   353336  (undated)	15:43	27-Feb-74  14
+XXX065	       64  <***>   352706  (undated)	15:43	27-Feb-74  14
+XXX066	      329  <***>   071233  (undated)	15:43	27-Feb-74  14
+XXX067	       46  <***>   724732  (undated)	15:44	27-Feb-74  14
+XXX068	       43  <***>   046065  (undated)	15:44	27-Feb-74  14
+XXX069	       40  <***>   740463  (undated)	15:44	27-Feb-74  14
+XXX070	       66  <***>   664532  (undated)	15:44	27-Feb-74  14
+XXX071	      191  <***>   414545  (undated)	15:44	27-Feb-74  14
+XXX072	       77  <***>   072733  (undated)	15:44	27-Feb-74  14
+XXX073	       85  <***>   740325  (undated)	15:44	27-Feb-74  14
+XXX074	        5  <***>   716055  (undated)	15:44	27-Feb-74  14
+XXX075	       97  <***>   350257  (undated)	15:44	27-Feb-74  14
+XXX076	      232  <***>   025615  (undated)	15:44	27-Feb-74  14
+XXX077	        6  <***>   045455  (undated)	15:45	27-Feb-74  14
+XXX078	       85  <***>   433520  (undated)	15:45	27-Feb-74  14
+XXX079	       21  <***>   137745  (undated)	15:45	27-Feb-74  14
+XXX080	        9  <***>   075021  (undated)	15:45	27-Feb-74  14
+XXX081	       42  <***>   646245  (undated)	15:45	27-Feb-74  14
+XXX082	        7  <***>   551714  (undated)	15:45	27-Feb-74  14
+XXX083	      160  <***>   614071  (undated)	15:45	27-Feb-74  14
+XXX084	        5  <***>   476715  (undated)	15:45	27-Feb-74  14
+XXX085	       89  <***>   325041  (undated)	15:45	27-Feb-74  14
+XXX086	       14  <***>   254374  (undated)	15:45	27-Feb-74  14
+XXX087	        2  <***>   463435  (undated)	15:45	27-Feb-74  14
+XXX088	        4  <***>   305630  (undated)	15:45	27-Feb-74  14
+XXX089	       20  <***>   106300  (undated)	15:45	27-Feb-74  14
+XXX090	       20  <***>   354140  (undated)	15:45	27-Feb-74  14
+XXX091	       42  <***>   420202  (undated)	15:45	27-Feb-74  14
+XXX092	       35  <***>   624305  (undated)	15:45	27-Feb-74  14
+XXX093	       39  <***>   656320  (undated)	15:45	27-Feb-74  14
+XXX094	       34  <***>   311430  (undated)	15:45	27-Feb-74  14
+XXX095	       56  <***>   756001  (undated)	15:45	27-Feb-74  14
+XXX096	       45  <***>   606507  (undated)	15:45	27-Feb-74  14
+XXX097	       33  <***>   771555  (undated)	15:45	27-Feb-74  14
+XXX098	        5  <***>   451712  (undated)	15:45	27-Feb-74  14
+XXX099	       12  <***>   357500  (undated)	15:45	27-Feb-74  14
+XXX100	       15  <***>   062703  (undated)	15:45	27-Feb-74  14
+XXX101	       10  <***>   716245  (undated)	15:45	27-Feb-74  14
+XXX102	       18  <***>   442674  (undated)	15:45	27-Feb-74  14
+XXX103	        5  <***>   361171  (undated)	15:45	27-Feb-74  14
+XXX104	        9  <***>   370236  (undated)	15:45	27-Feb-74  14
+XXX105	        1  <***>   037342  (undated)	15:45	27-Feb-74  14
+XXX106	        2  <***>   020246  (undated)	15:45	27-Feb-74  14
+XXX107	        5  <***>   374633  (undated)	15:45	27-Feb-74  14
+XXX108	        5  <***>   471642  (undated)	15:45	27-Feb-74  14
+XXX109	        5  <***>   420376  (undated)	15:45	27-Feb-74  14
+XXX110	        4  <***>   601510  (undated)	15:45	27-Feb-74  14
+XXX111	        4  <***>   065555  (undated)	15:45	27-Feb-74  14
+XXX112	        3  <***>   142454  (undated)	15:45	27-Feb-74  14
+XXX113	       52  <***>   417250  (undated)	15:45	27-Feb-74  14
+XXX114	       36  <***>   104347  (undated)	15:45	27-Feb-74  14
+XXX115	        5  <***>   511316  (undated)	15:45	27-Feb-74  14
+XXX116	        1  <***>   010247  (undated)	15:46	27-Feb-74  14
+XXX117	       13  <***>   552376  (undated)	15:46	27-Feb-74  14
+XXX118	        2  <***>   646747  (undated)	15:46	27-Feb-74  14
+XXX119	        5  <***>   600670  (undated)	15:46	27-Feb-74  14
+XXX120	        2  <***>   677353  (undated)	15:46	27-Feb-74  14
+XXX121	        2  <***>   226144  (undated)	15:46	27-Feb-74  14
+XXX122	        6  <***>   310767  (undated)	15:46	27-Feb-74  14
+XXX123	        1  <***>   410430  (undated)	15:46	27-Feb-74  14
+XXX124	       12  <***>   676343  (undated)	15:46	27-Feb-74  14
+XXX125	       13  <***>   410014  (undated)	15:46	27-Feb-74  14
+XXX126	        3  <***>   406133  (undated)	15:46	27-Feb-74  14
+XXX127	       20  <***>   055216  (undated)	15:46	27-Feb-74  14
+XXX128	        1  <***>   056676  (undated)	15:46	27-Feb-74  14
+XXX129	        1  <***>   016063  (undated)	15:46	27-Feb-74  14
+XXX130	        4  <***>   745671  (undated)	15:46	27-Feb-74  14
+XXX131	       15  <***>   567115  (undated)	15:46	27-Feb-74  14
+XXX132	        5  <***>   467644  (undated)	15:46	27-Feb-74  14
+XXX133	        7  <***>   672454  (undated)	15:46	27-Feb-74  14
+XXX134	       10  <***>   657225  (undated)	15:46	27-Feb-74  14
+XYPLOT	MAC    52  <***>   417250  (undated)	15:45	27-Feb-74  14
+XYSUBS	F4      3  <***>   406133  (undated)	15:46	27-Feb-74  14
+YAHTZE	BAS    23  <***>   613263  (undated)	15:42	27-Feb-74  14
+  Total of 13877 blocks in 536 files Checksum = 054177
+
+  BACKUP reel number 1; end save set: Old [204,1616] Ancient History
+    by version 2(232) at 23:51:47 on 11-Sep-78
+    written on MTA101: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+
+  BACKUP reel number 1; start save set: Old [204,1616] Ancient History
+    by version 2(232) at 23:52:07 on 11-Sep-78
+    written on MTA101: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+1124	DIR    35  <***>   520566  (undated)	17:33	 6-Feb-75   0
+AC101	SAV     7  <***>   257333  (undated)	12:35	13-Oct-72   1
+AC102	SAV     8  <***>   770273  (undated)	16:28	 8-May-74   1
+AC103	SAV    35  <***>   531137  (undated)	11:42	 8-Jan-73   1
+AC104	SAV     3  <***>   751230  (undated)	12:36	13-Oct-72   1
+AC105	SAV     4  <***>   634631  (undated)	12:36	13-Oct-72   1
+AC106	SAV    12  <***>   764543  (undated)	 8:58	24-Oct-73   1
+AC107	SAV     5  <***>   641264  (undated)	12:37	13-Oct-72   1
+AC108	SAV     8  <***>   464601  (undated)	 9:40	14-May-74   1
+AC9SRT	SAV     1  <***>   051176  (undated)	12:43	13-Oct-72   1
+ACCLIB	SAV     6  <***>   105540  (undated)	13:48	23-Aug-74   1	4(2)
+AFR	DAT    87  <***>   045554  (undated)	15:42	 1-May-74  14
+AFR	SRT   110  <***>   324452  (undated)	17:06	 1-May-74  14
+ALAB	DAT    75  <***>   205406  (undated)	21:27	27-Jan-75   0
+ALASKA	DAT    33  <***>   070540  (undated)	21:28	27-Jan-75   0
+ALASKA	DIF     6  <***>   350121  (undated)	21:34	 8-Jan-75   0
+AMAZE	BAS    12  <***>   357500  (undated)	15:45	27-Feb-74  14
+ANS	F4     22  <***>   772262  (undated)	19:27	22-Aug-74   0
+AROPLT	F4      8  <***>   772061  (undated)	15:43	27-Feb-74  14
+AXIS	F4      3  <***>   357004  (undated)	     	11-Aug-72   1
+B	F4      1  <***>   511554  (undated)	16:20	19-Jan-75   0
+BARON	       56  <***>   756001  (undated)	15:45	27-Feb-74  14
+BARON	DAT    45  <***>   606507  (undated)	15:45	27-Feb-74  14
+BARPLT	F4      7  <***>   212521  (undated)	15:43	27-Feb-74  14
+BATCH	MCF     1  <***>   665112  (undated)	16:20	 4-Feb-75   0
+BD	MAC     3  <***>   224446  (undated)	23:14	16-Sep-74   1
+BELL	MAC     1  <***>   253555  (undated)	21:05	22-Jan-75   0
+BJAFA	CBL     6  <***>   174016  (undated)	13:28	 5-Feb-75   0
+BJAFA	SAV    10  <***>   643403  (undated)	23:33	 5-Feb-75  16
+BJOB	MAC     1  <***>   456304  (undated)	     	 7-Jan-75   0
+BOUNCE	SAV     3  <***>   344235  (undated)	     	 9-Jul-74   1
+BROAD	       13  <***>   660753  (undated)	22:35	16-Sep-74   1
+BYTES	MAC     2  <***>   020246  (undated)	15:45	27-Feb-74  14
+C	BUF     4  <***>   064103  (undated)	22:55	 4-Sep-74   0
+CALEN	SAV    33  <***>   771555  (undated)	15:45	27-Feb-74  14
+CAR	P11     2  <***>   162322  (undated)	22:08	31-Jul-74   0
+CARL	MAC     3  <***>   364034  (undated)	     	 9-Jan-75   1
+CARL	UNV     2  <***>   212632  (undated)	20:07	 9-Jan-75  14
+CARLIB	LIB   127  <***>   032647  (undated)	10:49	13-Jan-75  10
+CARMAC	MAC    21  <***>   271073  (undated)	22:57	 4-Sep-74   0
+CASINO	BAS    45  <***>   670371  (undated)	15:42	27-Feb-74  14
+CHANGE	MAC     5  <***>   303144  (undated)	11:45	 2-Sep-74   1
+CHANGE	SAV     1  <***>   715145  (undated)	11:47	 2-Sep-74   1
+CHECK	MAC     1  <***>   346743  (undated)	     	26-Jan-74  13
+CHESS	HOW     5  <***>   412243  (undated)	22:39	16-Sep-74   1
+CHESS	SAV    80  <***>   466076  (undated)	22:39	16-Sep-74   1
+CIRCA	F4      1  <***>   016063  (undated)	15:46	27-Feb-74  14
+CODE	F4      1  <***>   401476  (undated)	20:22	24-Apr-74   0
+COMPIL	MAC   160  <***>   614071  (undated)	15:45	27-Feb-74  14
+CONBEF	DAT   233  <***>   574376  (undated)	20:37	27-Jan-75   0
+CONN	DAT     9  <***>   072425  (undated)	20:39	27-Jan-75   0
+CONTUR	DEM     1  <***>   550232  (undated)	15:41	27-Feb-74  14
+CONV1	MAC    11  <***>   435234  (undated)	     	 6-Jan-75   1
+CONVER	BAK     4  <***>   166434  (undated)	18:21	 6-Feb-75   0
+CONVER	CRF    11  <***>   277022  (undated)	18:25	 6-Feb-75   1
+CONVER	MAC     4  <***>   166434  (undated)	18:50	 6-Feb-75   0
+CONVER	REL     2  <***>   722312  (undated)	18:25	 6-Feb-75  14
+CONVER	SAV     1  <***>   770347  (undated)	18:26	 6-Feb-75  16
+CREF	BAS     5  <***>   511316  (undated)	15:45	27-Feb-74  14
+CREF	F4      5  <***>   305635  (undated)	15:41	27-Feb-74  14
+CURHAZ	ALG     2  <***>   455562  (undated)	     	 9-Jul-74   0
+CURHAZ	CUR    25  <***>   472650  (undated)	13:23	 7-Sep-74   1
+CURHAZ	DAT    22  <***>   342664  (undated)	15:08	 5-Sep-74   1
+CURHAZ	MAC    35  <***>   556702  (undated)	11:12	11-Sep-74   0
+CURHAZ	REL    14  <***>   562117  (undated)	11:15	11-Sep-74  14
+CURMAC	MAC     4  <***>   641475  (undated)	12:26	 8-Sep-74   1
+D	CCL     1  <***>   227440  (undated)	15:33	21-Jan-75   0
+DATA	DAT     4  <***>   603054  (undated)	22:11	16-Sep-74   1
+DATE	MAC     2  <***>   700645  (undated)	     	28-Jan-74  13
+DATPLT	HLP     2  <***>   463435  (undated)	15:45	27-Feb-74  14
+DAYWK	MAC     3  <***>   626450  (undated)	13:54	11-Sep-74   0
+DAYWK	SAV     4  <***>   110004  (undated)	19:31	 1-Feb-74  14	V(3)-1
+DEC	REL    40  <***>   740213  (undated)	23:27	 5-Feb-75  14
+DECTA	HLP     2  <***>   315103  (undated)	18:29	13-Feb-74   0
+DECTA	SNO     9  <***>   537476  (undated)	16:08	20-Feb-74   0
+DECTAP	DAT     4  <***>   260577  (undated)	 0:53	27-Feb-74   1
+DELETE	001     1  <***>   664732  (undated)	15:42	27-Feb-74  14
+DEM	FOC     4  <***>   745671  (undated)	15:46	27-Feb-74  14
+DIMPLT	F4     15  <***>   523021  (undated)	15:43	27-Feb-74  14
+DIRDIR	DIR     3  <***>   300403  (undated)	14:34	 8-Sep-74   1
+DIRTST	F4      4  <***>   520444  (undated)	14:43	15-Jul-74   1
+DIRTST	SAV     7  <***>   735463  (undated)	 9:12	16-Jul-74  16	1A(1)
+DOCPGM	LAP    18  <***>   524546  (undated)	15:43	27-Feb-74  14
+DOCPGM	LSP     9  <***>   314103  (undated)	15:43	27-Feb-74  14
+DOCTOR	RLS    22  <***>   304714  (undated)	15:42	27-Feb-74  14
+DOCTOR	SAV   124  <***>   665062  (undated)	15:42	27-Feb-74  14
+DOCTOR	TXT     3  <***>   760522  (undated)	15:42	27-Feb-74  14
+DRA001	SAV     5  <***>   602114  (undated)	 9:11	17-Jun-74   1
+DRA220	SAV     2  <***>   734366  (undated)	17:38	19-Jun-74   1
+DRA225	SAV     2  <***>   532235  (undated)	13:29	29-May-74   1
+DRKPLT	F4     16  <***>   633536  (undated)	15:43	27-Feb-74  14
+DSHPLT	F4      8  <***>   342743  (undated)	15:43	27-Feb-74  14
+DSKCHR	MAC    14  <***>   076142  (undated)	17:43	 3-Sep-74   1
+DSKCHR	SAV     3  <***>   714027  (undated)	17:45	 3-Sep-74   1	1A(10)
+DTA	DIR     8  <***>   027564  (undated)	14:47	17-Jun-74   1
+DTA001	DIR     6  <***>   745031  (undated)	 2:18	24-Apr-74   0
+DTA548	DIR     1  <***>   610216  (undated)	 9:04	10-Sep-74   0
+DTA754	DIR     1  <***>   457003  (undated)	 9:05	10-Sep-74   0
+E100	SAV     1  <***>   524102  (undated)	18:55	24-May-74   1
+E101	SAV     1  <***>   741532  (undated)	18:55	24-May-74   1
+E126	SAV     1  <***>   732566  (undated)	18:56	24-May-74   1
+E201	SAV     1  <***>   756345  (undated)	10:04	28-May-74   1
+EA80	SAV     1  <***>   115255  (undated)	20:30	29-May-74   1
+EBCDIC	816     2  <***>   312111  (undated)	 8:08	13-Jun-74   0
+EBCOPY	SAV     2  <***>   256431  (undated)	12:25	31-May-74   1
+EDIT	TEC     2  <***>   511610  (undated)	 0:09	 8-Apr-74   0
+EDIT2	SNO    12  <***>   371501  (undated)	10:27	27-Aug-74   1
+EDLIB	HOW     3  <***>   462363  (undated)	14:28	25-Jul-74  16
+EDLIB	MAC     7  <***>   033773  (undated)	16:33	14-Feb-74   0
+EDLIB	SAV     3  <***>   045104  (undated)	16:33	14-Feb-74  16	4
+ELIZA	RLS    25  <***>   474077  (undated)	15:42	27-Feb-74  14
+ELIZA	SAV   124  <***>   206303  (undated)	15:42	27-Feb-74  14
+ENCODE	F4      2  <***>   753477  (undated)	15:18	 1-May-74   0
+EXCON	MAC    50  <***>   751051  (undated)	15:42	27-Feb-74  14
+EXIT	MAC     1  <***>   037342  (undated)	     	 2-Nov-73   0
+EXIT10	MAC     1  <***>   524156  (undated)	15:32	 7-Aug-74   0
+EXITM	MAC     1  <***>   037342  (undated)	15:45	27-Feb-74  14
+EXP	       17  <***>   407435  (undated)	22:34	16-Sep-74   1
+EXSYS	MAC     1  <***>   410430  (undated)	15:46	27-Feb-74  14
+EXTUFD	END     3  <***>   776677  (undated)	 9:32	29-Aug-74   1
+F1	AFR    18  <***>   025652  (undated)	23:40	 1-May-74   0
+F1	ENG    11  <***>   532620  (undated)	 0:19	 2-May-74   0
+F2	AFR    11  <***>   232410  (undated)	23:40	 1-May-74   0
+F3	AFR    10  <***>   533066  (undated)	23:40	 1-May-74   0
+F4	AFR    14  <***>   515705  (undated)	23:41	 1-May-74   0
+F4	DAT     9  <***>   364722  (undated)	 0:53	 2-May-74   0
+F4	ENG     8  <***>   346314  (undated)	 0:57	 2-May-74   0
+F4COM1	DIR     1  <***>   204462  (undated)	21:36	24-Apr-74   1
+F5	AFR    10  <***>   030343  (undated)	23:41	 1-May-74   0
+F6	AFR    17  <***>   426066  (undated)	23:41	 1-May-74   0
+F7	AFR     8  <***>   201202  (undated)	23:41	 1-May-74   0
+FAILSA	DIR    17  <***>   566146  (undated)	23:45	 1-May-74   1
+FILE	DAT     8  <***>   350450  (undated)	 3:29	 1-May-74   0
+FILE	EXT     1  <***>   542027  (undated)	10:54	11-Sep-74   0
+FILE1	DAT    20  <***>   566536  (undated)	 1:03	 2-May-74   0
+FILE2	DAT    13  <***>   207407  (undated)	 1:03	 2-May-74   0
+FILE3	DAT    11  <***>   333672  (undated)	 1:03	 2-May-74   0
+FILE4	DAT    11  <***>   544027  (undated)	 0:51	 2-May-74   0
+FILE5	DAT     9  <***>   252255  (undated)	 0:48	 2-May-74   0
+FILE6	DAT    27  <***>   362026  (undated)	 0:49	 2-May-74   0
+FILE7	DAT    13  <***>   022567  (undated)	 0:50	 2-May-74   0
+FILLER	SNO     2  <***>   054632  (undated)	 0:12	10-Sep-74   0
+FISHER	SRC    10  <***>   776267  (undated)	15:42	27-Feb-74  14
+FIX	MAC     1  <***>   573454  (undated)	 1:58	 1-May-74   0
+FIXCTL	RNO     3  <***>   761033  (undated)	12:30	 3-Jan-75   0
+FIXCTL	SAV    42  <***>   626047  (undated)	14:42	 5-Feb-75  16	(2)-1
+FIXCTL	SNO    14  <***>   344526  (undated)	19:28	 2-Jan-75   1
+FIXFIL	CTL     1  <***>   055177  (undated)	23:13	30-Apr-74   0
+FIXFIL	LOG    11  <***>   772024  (undated)	 0:51	 2-May-74   0
+FLORD1	DAT    13  <***>   335324  (undated)	20:53	27-Jan-75   0
+FLY	BIN     1  <***>   003033  (undated)	21:48	30-Jul-74  10
+FLY	P11     4  <***>   766202  (undated)	21:44	30-Jul-74   0
+FOCAL	SRC   147  <***>   412200  (undated)	22:26	16-Sep-74   1
+FULL	CMD     1  <***>   236577  (undated)	13:42	27-Jan-75   0
+FUNCT	F4      3  <***>   346070  (undated)	 3:25	 1-May-74  17
+GAME	DAT     3  <***>   344574  (undated)	23:16	 5-Feb-74  14
+GENPLT	F4     16  <***>   070521  (undated)	15:43	27-Feb-74  14
+GENPLT	RNO   100  <***>   122373  (undated)	15:42	27-Feb-74  14
+GETREC	CBL     6  <***>   754627  (undated)	     	18-Jan-75   1
+GETSAT	F4      2  <***>   226144  (undated)	     	18-May-74   1
+GETSIT	MAC     5  <***>   203606  (undated)	     	18-May-74   1
+GGIRL	DAT    55  <***>   641571  (undated)	21:59	16-Sep-74   0
+GGPROG	F4      2  <***>   055473  (undated)	21:59	16-Sep-74   1
+GNLPRT	MAC    13  <***>   552376  (undated)	15:46	27-Feb-74  14
+GOOF	MAC    29  <***>   665327  (undated)	15:42	27-Feb-74  14
+GRDPLT	F4      9  <***>   135760  (undated)	15:43	27-Feb-74  14
+GRID	F4      1  <***>   000667  (undated)	20:08	28-Jan-75   0
+GRIN	        5  <***>   613626  (undated)	15:42	27-Feb-74  14
+GROW2	DAT     1  <***>   750374  (undated)	     	 4-Jan-73  14
+GT40	DEM     3  <***>   235176  (undated)	     	 2-Nov-73   1
+GT40	HLP     3  <***>   054323  (undated)	 1:04	20-Feb-74  14
+GTPLOT	SAV    34  <***>   362336  (undated)	20:57	14-Feb-74  14	32(436)
+GTTST	MAC     1  <***>   465526  (undated)	23:59	11-Feb-74   0
+HALT	F4      1  <***>   543422  (undated)	 0:40	24-Apr-74   0
+HALT	SAV     4  <***>   552374  (undated)	 0:42	24-Apr-74  16	32(436)
+HAMMUR	BAS     5  <***>   451712  (undated)	15:45	27-Feb-74  14
+HANDS	DAT     5  <***>   367457  (undated)	15:42	27-Feb-74  14
+HAZEL	ALG     2  <***>   424651  (undated)	16:47	 5-Feb-75   0
+HAZEL	MAC     5  <***>   455355  (undated)	 8:46	26-Aug-74   1
+HCHPLT	F4      7  <***>   762121  (undated)	15:43	27-Feb-74  14
+HELP	DAT     3  <***>   256334  (undated)	17:34	13-Sep-74   0
+HELP	SNO    14  <***>   364131  (undated)	23:29	 6-Sep-74   1
+HELP0	SNO    10  <***>   365351  (undated)	13:40	 5-Sep-74   1
+HELPER	SAV    40  <***>   163476  (undated)	23:31	 6-Sep-74  16	(2)-1
+HOLD	        0  <***>   000000  (undated)	22:09	25-Feb-74   1
+HYPER	F4     16  <***>   163016  (undated)	15:41	27-Feb-74  14
+HYPER	SAV     9  <***>   724643  (undated)	15:41	27-Feb-74  14	V(3)-4
+IFILE	300     7  <***>   610115  (undated)	     	 9-Sep-70   0
+INPUT	MAC     2  <***>   552322  (undated)	15:41	27-Feb-74  14
+INSIX	MAC     1  <***>   545576  (undated)	     	24-Jan-74  13
+INTERP	CTL     1  <***>   103733  (undated)	 0:01	27-Mar-74   0
+INTERP	MAC    12  <***>   727176  (undated)	23:28	26-Feb-74   0
+INTERP	SAV     5  <***>   601045  (undated)	 0:01	27-Mar-74  16	1(4)
+INTI	MAC     5  <***>   374633  (undated)	15:45	27-Feb-74  14
+INTO	MAC     5  <***>   471642  (undated)	15:45	27-Feb-74  14
+IPLDST	ERR     1  <***>   170546  (undated)	15:43	27-Feb-74  14
+IPLDST	F4      3  <***>   063350  (undated)	15:43	27-Feb-74  14
+IPLHIT	F4      6  <***>   555212  (undated)	15:43	27-Feb-74  14
+ISM	IDA   446  <***>   456652  (undated)	19:28	17-Jan-75  14
+ISM	IDX    18  <***>   751701  (undated)	17:17	19-Jan-75  17
+ISMTAP	IDA     3  <***>   024233  (undated)	23:58	 5-Feb-75  14
+ISMTAP	IDX     4  <***>   714212  (undated)	23:58	 5-Feb-75  17
+JOBDAT	CCL     2  <***>   705174  (undated)	23:04	16-Sep-74   1
+KD	MAC     5  <***>   102266  (undated)	23:52	15-Jan-75   0
+KEEP	MAC     3  <***>   746212  (undated)	17:53	22-Aug-74   0
+KEEPER	SAV     1  <***>   147203  (undated)	17:55	22-Aug-74   1
+KOSTER	MAC     7  <***>   333025  (undated)	19:56	22-Jan-75  14
+KOSTER	UNV     4  <***>   177347  (undated)	22:56	22-Jan-75  14
+LABEL	SAV    12  <***>   676343  (undated)	15:46	27-Feb-74  14	32(436)
+LAP	       16  <***>   140310  (undated)	15:42	27-Feb-74  14
+LEM	091   242  <***>   336627  (undated)	21:42	10-Sep-74   0
+LEM	BAS    15  <***>   567115  (undated)	15:46	27-Feb-74  14
+LEM	BIN    26  <***>   131711  (undated)	21:36	10-Sep-74  10
+LEMA	BAS     5  <***>   467644  (undated)	15:46	27-Feb-74  14
+LEMB	BAS     7  <***>   672454  (undated)	15:46	27-Feb-74  14
+LEMZ	BIN    26  <***>   476135  (undated)	21:46	10-Sep-74  10
+LINE	CRF     2  <***>   662045  (undated)	14:41	 4-Feb-75   1
+LINE	MAC     1  <***>   634436  (undated)	14:38	 4-Feb-75   0
+LINE	REL     1  <***>   064315  (undated)	14:41	 4-Feb-75  14
+LINE	SAV     1  <***>   376674  (undated)	14:42	 4-Feb-75  16
+LINPLT	F4      3  <***>   571522  (undated)	15:43	27-Feb-74  14
+LINUS	       39  <***>   656320  (undated)	15:45	27-Feb-74  14
+LINUS	DAT    34  <***>   311430  (undated)	15:45	27-Feb-74  14
+LISA	DAT     5  <***>   566076  (undated)	15:42	27-Feb-74  14
+LIST	CTL     1  <***>   125627  (undated)	13:38	23-Jan-75   0
+LIST	F4      6  <***>   533114  (undated)	11:49	13-Jun-74   1
+M	CCL     1  <***>   624330  (undated)	12:17	15-Jan-75  14
+MAC	DAT    15  <***>   550125  (undated)	     	10-Jan-74  13
+MACRO	LIB    86  <***>   215526  (undated)	19:04	21-Jan-75  10
+MADON	DAT    11  <***>   763534  (undated)	15:42	27-Feb-74  14
+MARK	F4      2  <***>   036715  (undated)	15:41	27-Feb-74  14
+MASK4	MAC     2  <***>   604524  (undated)	10:32	29-Aug-74   1
+MAZE	F4      9  <***>   370236  (undated)	19:57	17-May-74   1
+MAZES	F4      9  <***>   370236  (undated)	15:45	27-Feb-74  14
+MD	DAT    27  <***>   536364  (undated)	20:58	27-Jan-75   0
+MDINT	DAT   968  <***>   005547  (undated)	20:55	27-Jan-75   0
+MDMIS	DAT   296  <***>   045302  (undated)	20:59	27-Jan-75   0
+MER4	F4      5  <***>   010566  (undated)	17:45	21-May-74   1
+MERGE	F10    10  <***>   523537  (undated)	20:28	30-Apr-74   0
+MERGE	SAV    10  <***>   317351  (undated)	21:13	30-Apr-74  16
+METEOR	BIN    14  <***>   553030  (undated)	20:02	 5-Aug-74  10
+METEOR	P11   122  <***>   734555  (undated)	     	23-Jul-74   1
+MISC	MAC    36  <***>   104347  (undated)	15:45	27-Feb-74  14
+MISC	REL    40  <***>   236443  (undated)	 2:05	13-Feb-74  14
+MISS	DAT   128  <***>   005145  (undated)	21:09	27-Jan-75   0
+MISXPN	DIR     1  <***>   722715  (undated)	15:25	 3-Jul-74   0
+MOD	P11     5  <***>   262310  (undated)	23:38	29-Jul-74   0
+MONIT	F4     13  <***>   410014  (undated)	15:46	27-Feb-74  14
+MONOP	BAS    44  <***>   557425  (undated)	15:42	27-Feb-74  14
+MPX	CMD     1  <***>   410627  (undated)	15:24	 8-Sep-74   0
+MPX	MAC     3  <***>   410601  (undated)	19:03	 8-Sep-74   0
+MPX	SAV     1  <***>   575607  (undated)	19:04	 8-Sep-74  16
+MT1010	NEW    11  <***>   532037  (undated)	16:05	18-Dec-74  17
+MTA1	SHR     4  <***>   536574  (undated)	23:17	16-May-74   1	6
+MTA2	SHR    24  <***>   267526  (undated)	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <***>   205116  (undated)	23:18	16-May-74   1	11
+MTADIR	SHR     6  <***>   321041  (undated)	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <***>   750725  (undated)	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <***>   173516  (undated)	15:06	27-Feb-74  17
+NEVADA	DAT    19  <***>   062555  (undated)	23:43	27-Jan-75   0
+NEVMIS	DAT   167  <***>   761663  (undated)	21:25	27-Jan-75   0
+NEVNEW	DAT    70  <***>   547500  (undated)	21:15	27-Jan-75   0
+NMBPLT	F4      6  <***>   544347  (undated)	15:43	27-Feb-74  14
+NOTICE	BRD     1  <***>   131735  (undated)	11:35	15-Jan-75   0
+NOTICE	CHS     1  <***>   201316  (undated)	14:53	 3-Feb-75   1
+NOTICE	TXT     3  <***>   250607  (undated)	20:19	21-Feb-74   0
+NUMBER	FOC     3  <***>   536662  (undated)	15:41	27-Feb-74  14
+NUMS	       20  <***>   354140  (undated)	15:45	27-Feb-74  14
+NWYORK	DAT    65  <***>   067510  (undated)	23:44	27-Jan-75   0
+NYVIRG	DAT  1033  <***>   611262  (undated)	21:18	27-Jan-75   0
+OCT	F4      1  <***>   743022  (undated)	18:44	 1-Aug-74   0
+OCT2	F4      1  <***>   056676  (undated)	15:46	27-Feb-74  14
+OCTI	MAC     5  <***>   420376  (undated)	15:45	27-Feb-74  14
+OCTO	MAC     4  <***>   601510  (undated)	15:45	27-Feb-74  14
+OPR	MAC     7  <***>   435653  (undated)	     	22-Jul-74   1
+OUTDEC	MAC     2  <***>   417645  (undated)	     	13-Jan-75   1
+PAUSE	MAC     4  <***>   065555  (undated)	15:45	27-Feb-74  14
+PCFIT	F4     14  <***>   254374  (undated)	15:45	27-Feb-74  14
+PENTST	F4     14  <***>   520303  (undated)	15:43	27-Feb-74  14
+PERSPD	RNO    12  <***>   375220  (undated)	15:29	 9-Feb-74  14
+PERSPE	REL     2  <***>   756635  (undated)	 2:05	13-Feb-74  14
+PICT	F4      3  <***>   673050  (undated)	15:42	27-Feb-74  14
+PING	ALG     7  <***>   540740  (undated)	     	 8-Aug-74   0
+PIP	33    218  <***>   251233  (undated)	15:43	27-Feb-74  14
+PIP	MAC   218  <***>   251233  (undated)	15:43	27-Feb-74  14
+PIP2	SHR    24  <***>   077154  (undated)	22:06	16-Sep-74   1	(30)
+PLOTF4	        1  <***>   304126  (undated)	23:16	16-Sep-74   1
+PLOTR	MAC     3  <***>   233674  (undated)	22:51	16-Sep-74   1
+PLOTS1	        1  <***>   761640  (undated)	23:14	16-Sep-74   1
+PLOTS2	        1  <***>   456304  (undated)	23:15	16-Sep-74   1
+PLTBOX	F4      5  <***>   376734  (undated)	15:43	27-Feb-74  14
+PLTCUT	F4      5  <***>   445352  (undated)	15:43	27-Feb-74  14
+PLTLIN	F4     13  <***>   254143  (undated)	15:43	27-Feb-74  14
+PLTTOP	F4      3  <***>   473173  (undated)	15:43	27-Feb-74  14
+PNTPLT	F4      3  <***>   145572  (undated)	15:43	27-Feb-74  14
+POINT	F4      2  <***>   637747  (undated)	22:11	16-Sep-74   1
+POLISH	CTL     1  <***>   542747  (undated)	17:01	18-Apr-74   0
+POLISH	TEC    12  <***>   416217  (undated)	15:58	18-Apr-74   0
+POLISH	TXT     1  <***>   435650  (undated)	 3:06	24-Apr-74   0
+POLY1	F4      2  <***>   677353  (undated)	     	18-May-74   1
+POLY1	SAV     6  <***>   310767  (undated)	15:46	27-Feb-74  14	P(2)
+PRINT	MAC     1  <***>   626736  (undated)	16:42	24-Jan-74   0
+PROG1	F4      2  <***>   560647  (undated)	 3:09	13-Feb-74  14
+PROG1	REL     3  <***>   077233  (undated)	 3:10	13-Feb-74  14
+PTY	LOG     2  <***>   355425  (undated)	17:04	 4-Feb-75   1
+QUEUE	REL     6  <***>   774020  (undated)	 9:51	22-Jan-75   1
+QUOTA	MAC    21  <***>   006745  (undated)	     	21-Jan-75   1
+RDGEN	SAV     7  <***>   511277  (undated)	10:35	13-Jan-75   1
+READ	F4      3  <***>   143611  (undated)	23:27	27-Jan-75   0
+REFORM	F4      2  <***>   547111  (undated)	 2:33	 1-May-74   0
+REFORM	SAV     5  <***>   576577  (undated)	 2:36	 1-May-74  16	4R
+REL	CMD     1  <***>   575152  (undated)	 0:09	21-Feb-74  14
+RENBR	F4     89  <***>   325041  (undated)	15:45	27-Feb-74  14
+RENBR	HLP     5  <***>   476715  (undated)	15:45	27-Feb-74  14
+RESCUE	SAV     3  <***>   257202  (undated)	     	 4-Sep-73  14
+RESET	CTL     1  <***>   255643  (undated)	10:49	22-Jan-75   0
+RNO	PRE    12  <***>   063773  (undated)	21:41	11-Feb-74  14
+SALVO	MAC    50  <***>   016732  (undated)	23:04	 5-Sep-74   1
+SALVO1	SHR    13  <***>   431431  (undated)	11:58	 2-Sep-74   1
+SAYIT	F4      3  <***>   222475  (undated)	22:24	16-Sep-74   1
+SAYIT	SAV    20  <***>   106300  (undated)	15:45	27-Feb-74  14	2
+SCHEFF	F4     14  <***>   050404  (undated)	 8:25	26-Aug-74   0
+SCLPLT	F4     25  <***>   757562  (undated)	15:43	27-Feb-74  14
+SIM001	      166  <***>   722622  (undated)	13:47	 6-Feb-75   1
+SLEEP	MAC     1  <***>   010247  (undated)	15:46	27-Feb-74  14
+SMILE	        9  <***>   255561  (undated)	15:42	27-Feb-74  14
+SNOBOL	LIB    82  <***>   045527  (undated)	13:34	14-Jan-75  10
+SNOOP	       42  <***>   420202  (undated)	15:45	27-Feb-74  14
+SNOOP	BAS    10  <***>   716245  (undated)	15:45	27-Feb-74  14
+SNOOP	DAT    35  <***>   624305  (undated)	15:45	27-Feb-74  14
+SNOPY	BAS    15  <***>   062703  (undated)	15:45	27-Feb-74  14
+SONGS	DAT     2  <***>   743607  (undated)	15:41	27-Feb-74  14
+SORT2	F4      2  <***>   646747  (undated)	15:46	27-Feb-74  14
+SORT2	SAV     5  <***>   600670  (undated)	15:46	27-Feb-74  14	AR(1)
+STARS	F4     30  <***>   206371  (undated)	23:25	 3-Feb-75   0
+STARS	REL    38  <***>   163751  (undated)	23:37	 3-Feb-75  14
+STARS	SAV    31  <***>   567736  (undated)	23:39	 3-Feb-75  16
+SWITCH	BAK     3  <***>   061456  (undated)	23:30	 3-Feb-75   0
+SWITCH	INI     2  <***>   514451  (undated)	16:57	 4-Feb-75   0
+TAPE	REC     1  <***>   770703  (undated)	12:36	 3-Jan-75  14
+TAPE	SAV     3  <***>   041654  (undated)	23:37	16-May-74   1	6
+TAPES	CBL    24  <***>   142374  (undated)	     	21-Jan-75   1
+TAPES	SAV    17  <***>   773420  (undated)	14:10	27-Jan-75  16
+TAPLIB	CBL    10  <***>   120074  (undated)	23:21	 5-Feb-75   0
+TAPLIB	CFM   123  <***>   734315  (undated)	21:27	16-Jan-75   0
+TAPLIB	HLP    22  <***>   617467  (undated)	20:41	30-Jan-75   0
+TAPLIB	INF   160  <***>   563204  (undated)	21:22	16-Jan-75   0
+TAPLIB	RNO    18  <***>   044453  (undated)	20:23	30-Jan-75   0
+TAPQUE	CBL     5  <***>   365177  (undated)	13:38	27-Jan-75   0
+TAPQUE	SAV     7  <***>   726413  (undated)	14:06	27-Jan-75  16
+TAPTRN	CBL    22  <***>   751760  (undated)	23:24	 5-Feb-75   0
+TAPTRN	DBS   237  <***>   006470  (undated)	19:28	17-Jan-75   0
+TAPTRN	EDS     1  <***>   671134  (undated)	23:47	 5-Feb-75   0
+TAPTRN	SAV    23  <***>   777325  (undated)	23:33	 5-Feb-75  16
+TAPTST	HLP     7  <***>   551714  (undated)	15:45	27-Feb-74  14
+TEC	MAC     1  <***>   030577  (undated)	15:19	 3-Apr-74   0
+TECH	MAC     1  <***>   246700  (undated)	 1:33	12-Feb-74   0
+TECO	HLP    12  <***>   761610  (undated)	21:00	26-Feb-74   0
+TECO	PAT     1  <***>   511670  (undated)	16:34	 5-Apr-74   0
+TECO	RNO    13  <***>   172246  (undated)	23:48	19-Feb-74   0
+TECO	SHR    24  <***>   544574  (undated)	15:10	 3-Apr-74   1	23(113)-6
+TEST	MAC     1  <***>   623136  (undated)	15:42	 8-Sep-74   0
+TEST	SNO     2  <***>   613620  (undated)	23:25	20-Feb-74   0
+TESTQ	CBL     3  <***>   141013  (undated)	11:42	11-Sep-74   0
+TESTQ	LST     6  <***>   534265  (undated)	11:57	11-Sep-74   0
+TESTQ	SAV     7  <***>   077350  (undated)	13:14	13-Sep-74  16
+TRACE	        6  <***>   676652  (undated)	15:42	27-Feb-74  14
+TRAPS	MAC    20  <***>   055216  (undated)	15:46	27-Feb-74  14
+TRIG	F4      4  <***>   305630  (undated)	15:45	27-Feb-74  14
+TRIG	SAV    11  <***>   252773  (undated)	22:45	16-Apr-74  16	4C
+TT3DT	FOC     5  <***>   361171  (undated)	15:45	27-Feb-74  14
+TTT2D	FOC     2  <***>   272761  (undated)	15:41	27-Feb-74  14
+TTT3D	F4     17  <***>   437574  (undated)	23:23	 5-Feb-74  14
+TTT3D	FOC     5  <***>   361171  (undated)	22:59	 6-Feb-74  14
+TTTNOT	FIN    18  <***>   442674  (undated)	15:45	27-Feb-74  14
+TTY	MAC     1  <***>   200154  (undated)	19:16	 8-Sep-74   0
+TYPE	MAC     5  <***>   250704  (undated)	15:25	 3-Feb-75   1
+TYPE	REL     2  <***>   651633  (undated)	16:07	 3-Feb-75  14
+TYPPLT	MAC     2  <***>   017107  (undated)	15:42	27-Feb-74  14
+TYPPLT	SAV     1  <***>   165502  (undated)	15:42	27-Feb-74  14
+UDTA	DIR     5  <***>   664412  (undated)	19:16	 2-Sep-74   0
+UHAUL	CBL     5  <***>   347077  (undated)	     	16-Jan-75   1
+UNIMK	F4      6  <***>   764663  (undated)	21:45	21-Feb-74   0
+UPDATE	BAK    13  <***>   203653  (undated)	23:48	 5-Feb-75   0
+UPDATE	CBL    13  <***>   007241  (undated)	23:56	 5-Feb-75   0
+UPDATE	REL    18  <***>   666777  (undated)	23:57	 5-Feb-75  14
+UPDATE	SAV    11  <***>   634407  (undated)	23:58	 5-Feb-75  16
+UUO	MAC     3  <***>   142454  (undated)	15:45	27-Feb-74  14
+VECTOR	FOC     2  <***>   464757  (undated)	15:41	27-Feb-74  14
+VIRGIN	DAT   149  <***>   144562  (undated)	21:31	27-Jan-75   0
+WAITAC	SAV     9  <***>   014112  (undated)	22:19	 5-Sep-74  16	(2)-1
+WASH	DAT     3  <***>   731645  (undated)	21:32	27-Jan-75   0
+WHIST	DAT    12  <***>   061236  (undated)	15:42	27-Feb-74  14
+WHOKNO	WS     10  <***>   657225  (undated)	15:46	27-Feb-74  14
+WRDPLT	F4      4  <***>   137305  (undated)	15:43	27-Feb-74  14
+X	CCL     1  <***>   270074  (undated)	17:01	 1-May-74   0
+XFR	       15  <***>   372370  (undated)	23:19	16-Sep-74   1
+XT	F4      1  <***>   556703  (undated)	18:25	 1-Aug-74   0
+XXXDTA	DIR     4  <***>   027166  (undated)	12:08	21-Aug-74   0
+XXX001	        1  <***>   550232  (undated)	15:41	27-Feb-74  14
+XXX002	        2  <***>   036715  (undated)	15:41	27-Feb-74  14
+XXX003	        9  <***>   724643  (undated)	15:41	27-Feb-74  14
+XXX004	       16  <***>   163016  (undated)	15:41	27-Feb-74  14
+XXX005	        5  <***>   305635  (undated)	15:41	27-Feb-74  14
+XXX006	        2  <***>   743607  (undated)	15:41	27-Feb-74  14
+XXX007	        3  <***>   536662  (undated)	15:41	27-Feb-74  14
+XXX008	        2  <***>   272761  (undated)	15:41	27-Feb-74  14
+XXX009	        2  <***>   464757  (undated)	15:41	27-Feb-74  14
+XXX010	        2  <***>   552322  (undated)	15:41	27-Feb-74  14
+XXX011	       80  <***>   154175  (undated)	15:42	27-Feb-74  14
+XXX012	        5  <***>   412243  (undated)	15:42	27-Feb-74  14
+XXX013	       10  <***>   776267  (undated)	15:42	27-Feb-74  14
+XXX014	       23  <***>   613263  (undated)	15:42	27-Feb-74  14
+XXX015	       44  <***>   557425  (undated)	15:42	27-Feb-74  14
+XXX016	       45  <***>   670371  (undated)	15:42	27-Feb-74  14
+XXX017	        5  <***>   566076  (undated)	15:42	27-Feb-74  14
+XXX018	       11  <***>   763534  (undated)	15:42	27-Feb-74  14
+XXX019	        5  <***>   367457  (undated)	15:42	27-Feb-74  14
+XXX020	       12  <***>   061236  (undated)	15:42	27-Feb-74  14
+XXX021	       16  <***>   140310  (undated)	15:42	27-Feb-74  14
+XXX022	        5  <***>   613626  (undated)	15:42	27-Feb-74  14
+XXX023	        9  <***>   255561  (undated)	15:42	27-Feb-74  14
+XXX024	        6  <***>   676652  (undated)	15:42	27-Feb-74  14
+XXX025	      100  <***>   122373  (undated)	15:42	27-Feb-74  14
+XXX026	       95  <***>   131644  (undated)	15:42	27-Feb-74  14
+XXX027	        1  <***>   664732  (undated)	15:42	27-Feb-74  14
+XXX028	        2  <***>   017107  (undated)	15:42	27-Feb-74  14
+XXX029	        1  <***>   165502  (undated)	15:42	27-Feb-74  14
+XXX030	       50  <***>   751051  (undated)	15:42	27-Feb-74  14
+XXX031	        3  <***>   673050  (undated)	15:42	27-Feb-74  14
+XXX032	       29  <***>   665327  (undated)	15:42	27-Feb-74  14
+XXX033	        3  <***>   760522  (undated)	15:42	27-Feb-74  14
+XXX034	       22  <***>   304714  (undated)	15:42	27-Feb-74  14
+XXX035	      124  <***>   665062  (undated)	15:42	27-Feb-74  14
+XXX036	       25  <***>   474077  (undated)	15:42	27-Feb-74  14
+XXX037	      124  <***>   206303  (undated)	15:42	27-Feb-74  14
+XXX038	       18  <***>   524546  (undated)	15:43	27-Feb-74  14
+XXX039	        9  <***>   314103  (undated)	15:43	27-Feb-74  14
+XXX040	        8  <***>   772061  (undated)	15:43	27-Feb-74  14
+XXX041	        7  <***>   212521  (undated)	15:43	27-Feb-74  14
+XXX042	       15  <***>   523021  (undated)	15:43	27-Feb-74  14
+XXX043	       16  <***>   633536  (undated)	15:43	27-Feb-74  14
+XXX044	        8  <***>   342743  (undated)	15:43	27-Feb-74  14
+XXX045	       16  <***>   070521  (undated)	15:43	27-Feb-74  14
+XXX046	        4  <***>   137305  (undated)	15:43	27-Feb-74  14
+XXX047	        9  <***>   135760  (undated)	15:43	27-Feb-74  14
+XXX048	        3  <***>   571522  (undated)	15:43	27-Feb-74  14
+XXX049	        6  <***>   544347  (undated)	15:43	27-Feb-74  14
+XXX050	        3  <***>   145572  (undated)	15:43	27-Feb-74  14
+XXX051	       25  <***>   757562  (undated)	15:43	27-Feb-74  14
+XXX052	        7  <***>   762121  (undated)	15:43	27-Feb-74  14
+XXX053	        1  <***>   170546  (undated)	15:43	27-Feb-74  14
+XXX054	        3  <***>   063350  (undated)	15:43	27-Feb-74  14
+XXX055	        6  <***>   555212  (undated)	15:43	27-Feb-74  14
+XXX056	        5  <***>   376734  (undated)	15:43	27-Feb-74  14
+XXX057	        5  <***>   445352  (undated)	15:43	27-Feb-74  14
+XXX058	       13  <***>   254143  (undated)	15:43	27-Feb-74  14
+XXX059	        3  <***>   473173  (undated)	15:43	27-Feb-74  14
+XXX060	       14  <***>   520303  (undated)	15:43	27-Feb-74  14
+XXX061	      218  <***>   251233  (undated)	15:43	27-Feb-74  14
+XXX062	      218  <***>   251233  (undated)	15:43	27-Feb-74  14
+XXX063	        7  <***>   207671  (undated)	15:43	27-Feb-74  14
+XXX064	       38  <***>   353336  (undated)	15:43	27-Feb-74  14
+XXX065	       64  <***>   352706  (undated)	15:43	27-Feb-74  14
+XXX066	      329  <***>   071233  (undated)	15:43	27-Feb-74  14
+XXX067	       46  <***>   724732  (undated)	15:44	27-Feb-74  14
+XXX068	       43  <***>   046065  (undated)	15:44	27-Feb-74  14
+XXX069	       40  <***>   740463  (undated)	15:44	27-Feb-74  14
+XXX070	       66  <***>   664532  (undated)	15:44	27-Feb-74  14
+XXX071	      191  <***>   414545  (undated)	15:44	27-Feb-74  14
+XXX072	       77  <***>   072733  (undated)	15:44	27-Feb-74  14
+XXX073	       85  <***>   740325  (undated)	15:44	27-Feb-74  14
+XXX074	        5  <***>   716055  (undated)	15:44	27-Feb-74  14
+XXX075	       97  <***>   350257  (undated)	15:44	27-Feb-74  14
+XXX076	      232  <***>   025615  (undated)	15:44	27-Feb-74  14
+XXX077	        6  <***>   045455  (undated)	15:45	27-Feb-74  14
+XXX078	       85  <***>   433520  (undated)	15:45	27-Feb-74  14
+XXX079	       21  <***>   137745  (undated)	15:45	27-Feb-74  14
+XXX080	        9  <***>   075021  (undated)	15:45	27-Feb-74  14
+XXX081	       42  <***>   646245  (undated)	15:45	27-Feb-74  14
+XXX082	        7  <***>   551714  (undated)	15:45	27-Feb-74  14
+XXX083	      160  <***>   614071  (undated)	15:45	27-Feb-74  14
+XXX084	        5  <***>   476715  (undated)	15:45	27-Feb-74  14
+XXX085	       89  <***>   325041  (undated)	15:45	27-Feb-74  14
+XXX086	       14  <***>   254374  (undated)	15:45	27-Feb-74  14
+XXX087	        2  <***>   463435  (undated)	15:45	27-Feb-74  14
+XXX088	        4  <***>   305630  (undated)	15:45	27-Feb-74  14
+XXX089	       20  <***>   106300  (undated)	15:45	27-Feb-74  14
+XXX090	       20  <***>   354140  (undated)	15:45	27-Feb-74  14
+XXX091	       42  <***>   420202  (undated)	15:45	27-Feb-74  14
+XXX092	       35  <***>   624305  (undated)	15:45	27-Feb-74  14
+XXX093	       39  <***>   656320  (undated)	15:45	27-Feb-74  14
+XXX094	       34  <***>   311430  (undated)	15:45	27-Feb-74  14
+XXX095	       56  <***>   756001  (undated)	15:45	27-Feb-74  14
+  BACKUP end of volume
+XXX096	       45  <***>   000000  (undated)	15:45	27-Feb-74  14
+%DRTMFS Tape mark during BACKUP/FRS save set
+%DRTIDE Error reading :XXX096.; I/O status = 200014 (Hard device error)
+   n@@v
