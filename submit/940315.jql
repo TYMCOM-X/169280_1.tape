@@ -1,0 +1,53 @@
+00:00:59 S 15-Mar-94
+00:30:03 S -S- stream #1 Req #7723 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+00:30:14 S Processor status JSU EXECX Setup in frame 63
+00:30:14 P Waiting for interlock
+00:30:16 P Got interlock
+00:30:16 P EXECX Job Processor %1(226) starting in frame 63
+00:30:17 S Starting job processor in frame 63
+00:30:17 P Stream #1 Req #7723 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+00:31:46 P Stream #1 Req #7723 * completed *
+00:31:49 S -R- stream #1 Done-End <0>
+00:47:18 P Signing off.
+03:00:30 S 15-Mar-94
+06:00:40 S 15-Mar-94
+08:45:02 S -S- stream #1 Req #7725 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+08:45:09 S Processor status JSU EXECX Setup in frame 65
+08:45:10 P Waiting for interlock
+08:45:12 P Got interlock
+08:45:12 P EXECX Job Processor %1(226) starting in frame 65
+08:45:12 S Starting job processor in frame 65
+08:45:12 P Stream #1 Req #7725 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+08:49:37 P Stream #1 Req #7725 * completed *
+08:49:39 S -R- stream #1 Done-End <0>
+09:00:15 S 15-Mar-94
+09:05:14 P Signing off.
+11:00:10 S -S- stream #1 Req #7727 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+11:00:20 S Processor status JSU EXECX Setup in frame 19
+11:00:20 P Waiting for interlock
+11:00:21 P Got interlock
+11:00:22 P EXECX Job Processor %1(226) starting in frame 19
+11:00:22 S Starting job processor in frame 19
+11:00:23 P Stream #1 Req #7727 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+11:01:41 P Stream #1 Req #7727 * completed *
+11:01:46 S -R- stream #1 Done-End <0>
+11:17:21 P Signing off.
+12:00:23 S 15-Mar-94
+15:00:00 S 15-Mar-94
+18:00:02 S -S- stream #1 Req #7728 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:00:12 S Processor status JSU EXECX Setup in frame 52
+18:00:13 P Waiting for interlock
+18:00:14 P Got interlock
+18:00:14 P EXECX Job Processor %1(226) starting in frame 52
+18:00:16 S Starting job processor in frame 52
+18:00:17 P Stream #1 Req #7728 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:00:20 S -S- stream #2 Req #7600 DSK:(DANIELSR)FILSAV=DSK:(DANIELSR)FILE26.BU
+18:00:25 P Stream #2 Req #7600 DSK:(DANIELSR)FILSAV=DSK:(DANIELSR)FILE26.BU
+18:01:00 P Stream #2 Req #7600 * completed *
+18:01:02 S -R- stream #2 Done-End <0>
+18:01:16 S 15-Mar-94
+18:01:21 P Stream #1 Req #7728 * completed *
+18:01:23 S -R- stream #1 Done-End <0>
+18:17:15 P Signing off.
+21:00:39 S 15-Mar-94
+00:00:16 S 16-Mar-94
