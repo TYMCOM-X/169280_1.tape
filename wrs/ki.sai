@@ -1,0 +1,78 @@
+begin
+require "(SAILIB)SAIL.DEF" source!file;
+require "ARGS.REQ" source!file;
+require 2500 new!items;
+
+integer C,B,E,LineTab,Digits,Citations,DuplicateCitations;
+boolean CitationFlag,ReviewFlag;
+string Review,CitationHeading;
+string item OUTFILE,INFILE;
+item CITATIONSONLY,REVIEWONLY,DUPLICATES;
+
+string procedure ints( reference string S );
+begin
+    return( scan( S, Digits, !SKIP! ));
+end;
+
+setbreak( LineTab_getbreak,#lf,#ff&#cr&#del,"SIN" );
+setbreak( Digits_getbreak,"0123456789 ",null,"RX" );
+argparse( OUTFILE, INFILE, {CITATIONSONLY,DUPLICATES,REVIEWONLY}, ARGS );
+open( C_getchan,"DSK",0,4,0,132,B,E );
+lookup( C, datum(INFILE), E );
+if E then usererr(0,0,"?input file not found","X");
+if props(OUTFILE) then setprint( datum(OUTFILE), "F" );
+while not E do begin
+	string Line,S;
+	Line := input( C, LineTab );
+	if length(CitationHeading) then begin
+	    boolean PreviouslyUnseen;
+	    cvsi( Line, PreviouslyUnseen );
+	    if props(DUPLICATES) or PreviouslyUnseen then begin
+		if PreviouslyUnseen then new!pname(new,Line);
+		CitationFlag := true;
+	    end
+	    else begin
+		DuplicateCitations := DuplicateCitations + 1;
+		CitationHeading := null;
+	    end;
+	end;
+	if ints( S := Line )
+	and "/" = lop(S)
+	and "L" leq lop(S) leq "S"
+	and "/" = lop(S)
+	and ints( S )
+	and length(S) = 0
+	then begin
+	    CitationHeading := #ff& Line& crlf;
+	    CitationFlag := false;
+	    Citations := Citations + 1;
+	    ReviewFlag := false;
+	end;
+	if equ(Line[1 to 3],"In ")
+	and equ(Line[inf-9 to inf]," database:")
+	then begin
+	    ReviewFlag := true;
+	    Review := null;
+	    CitationHeading := null;
+	    CitationFlag := false;
+	end;
+	if equ(Line[1 to 2],"?"&#dc1) then begin
+	    CitationHeading := null;
+	    CitationFlag := false;
+	    ReviewFlag := kequ(Line[1 to 5],"?"&#dc1&"LOG");
+	end;
+	if CitationFlag then begin
+	    if not props(REVIEWONLY) then
+		print( CitationHeading, Line, crlf );
+	    CitationHeading := null;
+	end;
+	if ReviewFlag and not props(CITATIONSONLY) then
+	    Review := Review& Line& crlf;
+end;
+print( #ff, Review );
+release( C );
+setprint( null, "T" );
+print( Citations, " citations output" );
+if DuplicateCitations then
+    print( " (", DuplicateCitations, " duplicates omited)" );
+end $
