@@ -1,0 +1,2937 @@
+
+  Parity:Odd  9-Track  Write enabled
+
+  BACKUP reel number 1; start save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 21:25:24 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+BILL10	CBL   165  <057>   200317  15-Dec-77	19:20	 7-Oct-77   0		[100,200,EXTRA,BILL10]
+BILSUB	CBL     6  <057>   206045   5-Sep-78	18:23	19-Jul-76   0
+BILSWT	CBL    26  <057>   345300  15-Dec-77	18:27	14-Dec-76   0
+BILSWT	MBC    27  <057>   625161   7-Sep-78	11:00	 6-Dec-76   0
+  Total of 224 blocks in 4 files Checksum = 440022
+
+BIO	SAV    15  <057>   536411   3-Aug-78	     	 6-Mar-75   0	31(225)-3	[100,200,EXTRA,BOTHEL]
+BOTHEL	BAS    16  <057>   060016   3-Aug-78	     	 6-Apr-78   0
+BOTHEL	MIC     1  <057>   073770   3-Aug-78	     	 3-Mar-78   0
+STRTRK	EXE   124  <057>   302661   3-Aug-78	     	13-Jul-78   0	(1)
+  Total of 156 blocks in 4 files Checksum = 011651
+
+EXTRA	COM     2  <455>   212642  26-Sep-78	16:02	20-Sep-78   0		[100,200,EXTRA]
+  Total of 2 blocks in 1 file Checksum = 212642
+
+CIRCLE	FTN     2  <155>   336067  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,FTN]
+ENDPLT	FTN     3  <155>   331500  21-Jul-78	 9:58	21-Jul-78  10
+ERRTST	FTN     1  <155>   365725  21-Jul-78	10:00	21-Jul-78  10
+GRID	FTN     1  <155>   577541  21-Jul-78	 9:57	21-Jul-78  10
+PAGE	FTN     1  <155>   515510  21-Jul-78	 9:57	21-Jul-78  10
+PAPER	FTN     1  <155>   542371  21-Jul-78	 9:59	21-Jul-78  10
+PLTARR	FTN     3  <155>   355724  21-Jul-78	 9:57	21-Jul-78  10
+PLTEQU	FTN     2  <155>   770375  21-Jul-78	 9:57	21-Jul-78  10
+PLTSEG	FTN     7  <155>   422445  21-Jul-78	 9:58	21-Jul-78  10
+PRINT	FTN     2  <155>   723511  21-Jul-78	 9:57	21-Jul-78  10
+SKIP	FTN     1  <155>   234272  21-Jul-78	 9:57	21-Jul-78  10
+TEST	FTN     2  <155>   530120  21-Jul-78	 9:59	21-Jul-78  10
+TEST1	FTN     5  <155>   540576  21-Jul-78	 9:59	21-Jul-78  10
+TICK	FTN     1  <155>   506244  21-Jul-78	 9:57	21-Jul-78  10
+TSTDRV	FTN     2  <155>   744070  21-Jul-78	 9:40	21-Jul-78  10
+TSTLOG	FTN     2  <155>   140756  21-Jul-78	 9:59	21-Jul-78  10
+VATT	FTN     2  <155>   267560  21-Jul-78	 9:40	21-Jul-78  10
+VBLKD	FTN    11  <155>   377565  21-Jul-78	 9:40	21-Jul-78  10
+VCIGT	FTN     1  <155>   601610  21-Jul-78	 9:58	21-Jul-78  10
+VCNCT	FTN     2  <155>   762133  21-Jul-78	 9:59	21-Jul-78  10
+VCNGT	FTN     1  <155>   650147  21-Jul-78	 9:58	21-Jul-78  10
+VCVT	FTN     2  <155>   145770  21-Jul-78	 9:58	21-Jul-78  10
+VDET	FTN     1  <155>   656170  21-Jul-78	 9:40	21-Jul-78  10
+VGETXY	FTN     6  <155>   527374  21-Jul-78	 9:59	21-Jul-78  10
+VIPCN	FTN     2  <155>   622247  21-Jul-78	 9:58	21-Jul-78  10
+VPERR	FTN     1  <155>   636075  21-Jul-78	 9:40	21-Jul-78  10
+VPLT	FTN     2  <155>   616712  21-Jul-78	 9:40	21-Jul-78  10
+VPNT	FTN     2  <155>   701731  21-Jul-78	 9:40	21-Jul-78  10
+VPSYM	FTN     4  <155>   767444  21-Jul-78	 9:59	21-Jul-78  10
+VSINIT	FTN     4  <155>   456136  21-Jul-78	 9:58	21-Jul-78  10
+VSPP	FTN     2  <155>   526157  21-Jul-78	 9:40	21-Jul-78  10
+VXGRID	FTN     3  <155>   541037  21-Jul-78	 9:58	21-Jul-78  10
+VXLAB	FTN     3  <155>   247320  21-Jul-78	 9:58	21-Jul-78  10
+VXTICK	FTN     2  <155>   731570  21-Jul-78	 9:58	21-Jul-78  10
+VYCTGD	FTN     2  <155>   261731  21-Jul-78	 9:58	21-Jul-78  10
+VYLAB	FTN     2  <155>   307060  21-Jul-78	 9:58	21-Jul-78  10
+XAXIS	FTN     3  <155>   335626  21-Jul-78	 9:57	21-Jul-78  10
+XTITLE	FTN     1  <155>   142240  21-Jul-78	 9:57	21-Jul-78  10
+YAXIS	FTN     3  <155>   257303  21-Jul-78	 9:57	21-Jul-78  10
+  Total of 98 blocks in 39 files Checksum = 006146
+
+ALGOL	FUN    12  <155>   677407  21-Jul-78	 9:42	21-Jul-78  10		[100,200,EXTRA,HAZEL,ALGOL]
+CURHAZ	ALG     2  <157>   520474  21-Jul-78	 9:42	21-Jul-78  10
+CURHAZ	REL     7  <057>   141475  21-Jul-78	 9:42	21-Jul-78  10
+HAZBEN	ALG     5  <057>   006645  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	ALG     3  <157>   547173  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	EXE    16  <057>   706035  28-Jul-78	 9:42	21-Jul-78  10
+HAZEL	REL     9  <057>   332525  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	SYM     4  <057>   765325  21-Jul-78	 9:42	21-Jul-78  10
+PING	ALG     7  <157>   620656  21-Jul-78	 9:42	21-Jul-78  10
+PING	EXE    16  <057>   505436  21-Jul-78	 9:42	21-Jul-78  10
+PING	REL    12  <057>   445313  21-Jul-78	 9:42	21-Jul-78  10
+PING	SYM    10  <057>   535440  21-Jul-78	 9:42	21-Jul-78  10
+  Total of 103 blocks in 12 files Checksum = 224762
+
+CURHAZ	DOC    22  <057>   466242  21-Jul-78	 9:51	21-Jul-78  10		[100,200,EXTRA,HAZEL,CURHAZ]
+CURHAZ	MAC    32  <057>   165643  21-Jul-78	 9:51	21-Jul-78  10
+CURHAZ	X01    25  <057>   472650  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	MAC     4  <057>   276543  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	UNV     2  <057>   230676  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 85 blocks in 5 files Checksum = 067444
+
+1	        1  <057>   242546  21-Jul-78	 9:52	21-Jul-78  10		[100,200,EXTRA,HAZEL,DPYLIB]
+BOTHER	CBL     1  <057>   550162  21-Jul-78	 9:51	21-Jul-78  10
+BOTHER	EXE    20  <057>   211623  21-Jul-78	 9:52	21-Jul-78  10
+DPY	CBL    13  <057>   142606  21-Jul-78	 9:52	21-Jul-78  10
+DPY	EXE    40  <057>   124200  21-Jul-78	 9:52	21-Jul-78  10
+DPY	REL    20  <057>   163773  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	CAB   109  <057>   133402  31-Aug-78	 9:51	21-Jul-78  10
+DPYLIB	DOC    46  <057>   343534  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	MAC   116  <057>   513314   1-Sep-78	 9:51	21-Jul-78  10
+DPYLIB	REL    26  <057>   366222   1-Sep-78	 9:52	21-Jul-78  10
+DPYLIB	SPL     3  <057>   461510  21-Jul-78	 9:53	21-Jul-78  10
+MACTEN	CTL     2  <057>   351342  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	MAC    43  <057>   046562  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	UNV    30  <057>   024341  21-Jul-78	 9:52	21-Jul-78  10
+NEW	SAV    82  <057>   543542  21-Jul-78	 9:52	21-Jul-78  10	40(220)
+UUOSYM	CTL     3  <057>   011424  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	MAC   207  <057>   140522  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	UNV    50  <057>   221076  13-Sep-78	 9:52	21-Jul-78  10
+X	MAC     3  <057>   641310  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 815 blocks in 19 files Checksum = 453261
+
+HAZEL	MAC     5  <057>   455355  11-Sep-78	 8:46	26-Aug-74   1		[100,200,EXTRA,HAZEL]
+  Total of 5 blocks in 1 file Checksum = 455355
+
+CURHAZ	ALG     2  <157>   455562  29-Nov-77	     	 9-Jul-74   0		[100,200,EXTRA,HAZEL,MORE]
+CURHAZ	DOC    18  <157>   112074  29-Nov-77	     	17-Aug-74   0
+CURHAZ	MAC    24  <157>   014362   3-Mar-78	     	19-Aug-74   0
+CURHAZ	OLD    23  <157>   121206   3-Mar-78	     	 2-Jul-74   0
+CURHAZ	REL     5  <057>   616601   3-Mar-78	23:15	 3-Mar-78  14
+HAZEL	ALG     2  <157>   321554  29-Nov-77	     	10-Jul-74   0
+HAZEL	MAC     5  <157>   455355   3-Mar-78	     	12-Jan-74   0
+HAZEL	REL     2  <057>   627324   3-Mar-78	23:14	 3-Mar-78  14
+MASK4	MAC     2  <157>   604524  29-Nov-77	     	29-Aug-74   0
+MWHEEL	HLD     1  <157>   031566   3-Mar-78	23:09	 3-Mar-78   0
+PING	ALG     7  <157>   540740  29-Nov-77	     	 8-Aug-74   0
+SCREWS	CUA     1  <057>   031566   3-Mar-78	10:19	 5-Jan-75   0
+SCROLL	MAC     4  <157>   065114   3-Mar-78	     	13-Aug-74   0
+SCROLL	SAV     2  <157>   245427   3-Mar-78	     	13-Aug-74   0
+SCROLL	SRC     4  <157>   226642  29-Nov-77	     	13-Aug-74   0
+TUG	MAC     6  <157>   526675   3-Mar-78	     	12-Feb-75   0
+TUG	REL     3  <057>   402466   3-Mar-78	23:13	 3-Mar-78  14
+UPDATE	MAC    23  <157>   630075  29-Nov-77	     	13-Aug-74   0
+UPDATE	SAV     6  <157>   616527   3-Mar-78	     	13-Aug-74   0	1-2
+UPDATE	SRC    23  <157>   065124  29-Nov-77	     	13-Aug-74   0
+X	        2  <057>   676706   3-Mar-78	23:09	 3-Mar-78   0
+  Total of 165 blocks in 21 files Checksum = 667433
+
+DPY	CBL    25  <455>   443377   9-Aug-78	20:48	 9-Aug-78   0		[100,200,EXTRA,HAZEL,PDP11]
+HAZEL	MAC    32  <455>   244765  13-Sep-78	20:44	 9-Aug-78   0
+  Total of 57 blocks in 2 files Checksum = 564616
+
+ARPA	MAN   172  <057>   174557  24-Jul-78	     	 9-Mar-76   0		[100,200,EXTRA,MIT]
+ARPA	NET     8  <057>   246773  24-Jul-78	     	 2-Mar-76   0
+DDT	HLP     1  <057>   141756  24-Jul-78	     	27-Sep-76   0
+DDT	MAN   251  <057>   513270  24-Jul-78	     	28-Sep-76   0
+HOSTS	IMP    13  <057>   177651  24-Jul-78	     	 8-Mar-76   0
+HOSTS	MCH    21  <057>   172527  24-Jul-78	     	 8-Mar-76   0
+HOSTS	NUM     7  <057>   006026  24-Jul-78	     	 8-Mar-76   0
+MITECO	MAN   249  <057>   232127  24-Jul-78	     	27-Sep-76   0
+TCTYP	HLP     3  <057>   652475  24-Jul-78	     	27-Sep-76   0
+TCTYP	MAN    25  <057>   517561  24-Jul-78	     	27-Sep-76   0
+  Total of 750 blocks in 10 files Checksum = 512675
+
+MPX	CRF    12  <057>   063460  12-Sep-78	 0:48	12-Sep-78   1		[100,200,EXTRA,MPX]
+MPX	MAC     3  <057>   525130  13-Sep-78	 0:47	12-Sep-78   0
+MPX	REL     2  <057>   533601  12-Sep-78	 0:48	12-Sep-78  14
+MPX	SAV     1  <057>   575607  13-Sep-78	19:04	 8-Sep-74  16
+  Total of 18 blocks in 4 files Checksum = 064362
+
+MT1010	NEW    11  <057>   532037  19-Sep-78	16:05	18-Dec-74  17		[100,200,EXTRA,MTADIR]
+MTA	BAK    11  <455>   532037  19-Sep-78	18:29	19-Sep-78  17
+MTA	DIR    11  <455>   532037  19-Sep-78	18:05	19-Sep-78  17
+MTA1	SHR     4  <057>   536574  19-Sep-78	23:17	16-May-74   1	6
+MTA2	SHR    24  <057>   267526  19-Sep-78	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <057>   205116  19-Sep-78	23:18	16-May-74   1	11
+MTADIR	SHR     6  <057>   321041  11-Sep-78	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <057>   750725  11-Sep-78	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <057>   173516  11-Sep-78	15:06	27-Feb-74  17
+PIP2	SHR    24  <057>   077154  19-Sep-78	22:06	16-Sep-74   1	(30)
+  Total of 154 blocks in 10 files Checksum = 753460
+
+PARITY	CCL     1  <057>   152775  24-Nov-76	22:13	 2-Feb-76   0		[100,200,EXTRA,PARITY]
+PARITY	CMD     1  <057>   661551  19-Nov-76	23:11	 9-Feb-76   0
+PARITY	LOW     2  <057>   450701  28-Jun-77	15:54	31-May-77  16
+PARITY	MAC     7  <057>   100277  24-Nov-76	14:27	24-Nov-76   0
+PARITY	SHR     6  <057>   534715  28-Jun-77	15:54	31-May-77  16
+  Total of 17 blocks in 5 files Checksum = 052675
+
+CIO017	ODL    15  <155>   765150  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,PDP11,BUS34]
+CIO027	ODL    15  <155>   563054  21-Jul-78	 9:59	21-Jul-78  10
+CIO037	ODL    15  <155>   100717  21-Jul-78	 9:58	21-Jul-78  10
+CIO047	ODL    15  <155>   574367  21-Jul-78	 9:58	21-Jul-78  10
+CIO057	ODL    15  <155>   126173  21-Jul-78	 9:58	21-Jul-78  10
+CIO067	ODL    15  <155>   604220  21-Jul-78	 9:58	21-Jul-78  10
+CIO077	ODL    15  <155>   345420  21-Jul-78	 9:58	21-Jul-78  10
+DPY	ODL     1  <155>   443250  21-Jul-78	 9:59	21-Jul-78  10
+DPYCBL	CMD     1  <057>   062154  21-Jul-78	 9:59	21-Jul-78  10
+DPYHAZ	ODL     2  <155>   223571  21-Jul-78	10:00	21-Jul-78  10
+KSYS	LOG     1  <057>   244473  21-Jul-78	10:00	21-Jul-78  10
+  Total of 110 blocks in 11 files Checksum = 257525
+
+CAR	P11     2  <155>   165350  21-Jul-78	 9:41	21-Jul-78  10		[100,200,EXTRA,PDP11,OTHER]
+DEF40	P11    21  <155>   321204  21-Jul-78	 9:41	21-Jul-78  10
+TIME	P11     1  <155>   120452  21-Jul-78	 9:41	21-Jul-78  10
+  Total of 24 blocks in 3 files Checksum = 300600
+
+INTERP	CTL     1  <157>   103733  27-Mar-74	 0:01	27-Mar-74   0		[100,200,EXTRA,POLISH]
+INTERP	MAC    12  <157>   727176  11-Sep-78	23:28	26-Feb-74   0
+POLIS2	TEC    14  <155>   134607  21-Jul-78	 9:47	21-Jul-78  10
+POLISH	TEC    12  <155>   416217  21-Jul-78	 9:47	21-Jul-78  10
+PRT	CTL     1  <155>   433052  21-Jul-78	 9:46	21-Jul-78  10
+  Total of 40 blocks in 5 files Checksum = 746556
+
+GETSAT	F4      2  <155>   226144  11-Sep-78	     	18-May-74   1		[100,200,EXTRA,POLY]
+GETSIT	MAC     5  <157>   203606  11-Sep-78	     	18-May-74   1
+POLY1	F4      2  <155>   677353  11-Sep-78	     	18-May-74   1
+POLY1	SAV     6  <155>   310767  11-Sep-78	15:46	27-Feb-74  14	P(2)
+  Total of 15 blocks in 4 files Checksum = 325147
+
+RENBR	F4     89  <155>   325041  11-Sep-78	15:45	27-Feb-74  14		[100,200,EXTRA,RENBR]
+RENBR	HLP     5  <155>   476715  11-Sep-78	15:45	27-Feb-74  14
+  Total of 94 blocks in 2 files Checksum = 570051
+
+FIX	FOR     3  <457>   721214  20-Jul-78	 2:30	 1-Jun-78   0		[100,200,EXTRA,RIPPER]
+FIX	SAI     2  <457>   651461  19-May-78	16:44	 7-Oct-74   1
+RIPPER	EXE    12  <457>   233557  19-Sep-78	 9:17	21-Jul-78  16
+RIPPER	FOR     7  <457>   556054   3-Aug-78	 9:10	21-Jul-78   0
+RIPPER	REL     7  <457>   114001  28-Jul-78	 9:17	21-Jul-78  14
+SIXTO7	MAC     2  <457>   627411  19-Jul-78	16:30	 8-Mar-78   0
+SIXTO7	REL     1  <457>   416166  21-Jul-78	 5:07	19-Jul-78  14
+  Total of 34 blocks in 7 files Checksum = 425712
+
+4010	SML     3  <155>   002674  21-Jul-78	 9:46	21-Jul-78  10		[100,200,EXTRA,RT11]
+BATCON	OBJ     4  <155>   551520  21-Jul-78	 9:46	21-Jul-78  10
+BATCON	P11    24  <155>   514756  21-Jul-78	 9:49	21-Jul-78  10
+CARL	SML     5  <155>   760741  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	OBJ     1  <155>   606777  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	P11     1  <155>   600262  21-Jul-78	 9:49	21-Jul-78  10
+COMAND	OBJ     6  <155>   537242  21-Jul-78	 9:46	21-Jul-78  10
+COMAND	P11    13  <155>   272560  21-Jul-78	 9:49	21-Jul-78  10
+ENGLND	SML    12  <155>   131243  21-Jul-78	 9:46	21-Jul-78  10
+FORTRA	BLB    24  <155>   463052  21-Jul-78	 9:49	21-Jul-78  10
+GETNUM	OBJ     1  <155>   372454  21-Jul-78	 9:46	21-Jul-78  10
+GETNUM	P11     4  <155>   711174  21-Jul-78	 9:49	21-Jul-78  10
+GO	OBJ     2  <155>   244440  21-Jul-78	 9:46	21-Jul-78  10
+GO	P11     4  <155>   215550  21-Jul-78	 9:49	21-Jul-78  10
+HELP	OBJ     2  <155>   473014  21-Jul-78	 9:46	21-Jul-78  10
+HELP	P11     4  <155>   165356  21-Jul-78	 9:49	21-Jul-78  10
+INLINE	OBJ     1  <155>   222733  21-Jul-78	 9:46	21-Jul-78  10
+INLINE	P11     4  <155>   422243  21-Jul-78	 9:49	21-Jul-78  10
+INTERP	OBJ     1  <155>   526443  21-Jul-78	 9:46	21-Jul-78  10
+INTERP	P11     7  <155>   125273  21-Jul-78	 9:49	21-Jul-78  10
+LPSUNV	SML     2  <155>   345741  21-Jul-78	 9:46	21-Jul-78  10
+METEOR	P11   122  <155>   734555  21-Jul-78	 9:48	21-Jul-78  10
+MOD	P11     5  <155>   612221  21-Jul-78	 9:49	21-Jul-78  10
+MPY	OBJ     1  <155>   712651  21-Jul-78	 9:46	21-Jul-78  10
+MPY	P11     3  <155>   042075  21-Jul-78	 9:49	21-Jul-78  10
+MSGOUT	OBJ     1  <155>   753251  21-Jul-78	 9:46	21-Jul-78  10
+MSGOUT	P11     2  <155>   031732  21-Jul-78	 9:49	21-Jul-78  10
+OUTNUM	OBJ     1  <155>   571770  21-Jul-78	 9:46	21-Jul-78  10
+OUTNUM	P11     4  <155>   134150  21-Jul-78	 9:48	21-Jul-78  10
+READ	P11     2  <155>   046751  21-Jul-78	 9:48	21-Jul-78  10
+RSXMC	300    18  <155>   116165  21-Jul-78	 9:46	21-Jul-78  10
+RSXMC	P11     9  <155>   420203  21-Jul-78	 9:48	21-Jul-78  10
+SAVACS	OBJ     1  <155>   071103  21-Jul-78	 9:46	21-Jul-78  10
+SAVACS	P11     2  <155>   711051  21-Jul-78	 9:48	21-Jul-78  10
+SAVERT	OBJ     1  <155>   332531  21-Jul-78	 9:45	21-Jul-78  10
+SAVERT	P11     2  <155>   660200  21-Jul-78	 9:48	21-Jul-78  10
+SPEED	CRF     8  <155>   264367  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	MAC     3  <155>   177040  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	REL     2  <155>   374571  21-Jul-78	 9:45	21-Jul-78  10
+SPOOL	P11     1  <155>   654421  21-Jul-78	 9:48	21-Jul-78  10
+SYSMAC	RT2    15  <155>   730022  21-Jul-78	 9:37	21-Jul-78  10
+T	P11     4  <155>   544556  21-Jul-78	 9:48	21-Jul-78  10
+TAPE	P11    24  <155>   600375  21-Jul-78	 9:48	21-Jul-78  10
+TAPERD	P11    25  <155>   135756  21-Jul-78	 9:48	21-Jul-78  10
+TEST	P11     7  <155>   143611  21-Jul-78	 9:45	21-Jul-78  10
+TTYIN	P11     9  <155>   553742  21-Jul-78	 9:48	21-Jul-78  10
+TTYINT	P11    20  <155>   755537  21-Jul-78	 9:46	21-Jul-78  10
+TTYSPD	EXE     8  <155>   623073  21-Jul-78	 9:45	21-Jul-78  10
+  Total of 425 blocks in 48 files Checksum = 621656
+
+C	SAV     1  <455>   322267  19-Sep-78	15:32	19-Sep-78  16		[100,200,EXTRA,SALVO]
+CHANGE	HLP     1  <057>   200344  19-Sep-78	 0:16	12-Sep-78   0
+CHANGE	MAC     5  <057>   473312  19-Sep-78	12:01	 2-Sep-74   0
+CHANGE	SAV     1  <057>   322267  19-Sep-78	12:02	 2-Sep-74  16
+SALVO	EXE    24  <455>   642512  19-Sep-78	15:32	19-Sep-78  16	P(14)
+SALVO	LST   110  <455>   004752  19-Sep-78	16:07	19-Sep-78   0
+SALVO	MAC    50  <057>   016732  19-Sep-78	23:04	 5-Sep-74   1
+SALVO	REL    18  <455>   463202  19-Sep-78	15:26	19-Sep-78  14
+SALVO1	SHR    13  <057>   431431  19-Sep-78	11:58	 2-Sep-74   1
+  Total of 223 blocks in 9 files Checksum = 015065
+
+CLASS2	001     2  <155>   770362  21-Jul-78	 9:47	21-Jul-78  10		[100,200,EXTRA,SIGN]
+TESTST	WRD     1  <155>   046337  21-Jul-78	 9:47	21-Jul-78  10
+VOCABU	        4  <155>   037730  21-Jul-78	 9:47	21-Jul-78  10
+  Total of 7 blocks in 3 files Checksum = 534163
+
+ED	TEC     2  <157>   511610  20-Apr-74	 0:09	 8-Apr-74   0		[100,200,EXTRA,TEC]
+EDIT	TEC     2  <155>   537644  21-Jul-78	 9:26	21-Jul-78  10
+FILE	EXT     1  <155>   542027  12-Sep-78	10:54	11-Sep-74   0
+LOCAL	TEC     2  <155>   200342  21-Jul-78	 9:26	21-Jul-78  10
+MRHRNO	TEC     2  <155>   277270  21-Jul-78	 9:53	21-Jul-78  10
+NOTICE	SYS     3  <057>   773615   3-Aug-78	17:09	25-Jul-78   0
+NOTICE	TXT     3  <157>   250607  11-Sep-78	20:19	21-Feb-74   0
+ORDER	TEC     1  <155>   603524  21-Jul-78	 9:26	21-Jul-78  10
+PI	TEC     1  <155>   451062  21-Jul-78	 9:26	21-Jul-78  10
+SORT	TEC     1  <155>   126252  21-Jul-78	 9:26	21-Jul-78  10
+TEC	RNO    13  <157>   172246  11-Sep-78	23:48	19-Feb-74   0
+TECO	DOC   352  <155>   564661   2-Sep-78	 9:25	21-Jul-78  10
+TECO	HLP    12  <157>   761610  11-Sep-78	21:00	26-Feb-74   0
+TECO	RNO   190  <155>   045522  21-Jul-78	 9:26	21-Jul-78  10
+TECO28	DOC     4  <155>   064771  21-Jul-78	 9:25	21-Jul-78  10
+TECO29	DOC     8  <155>   617335  21-Jul-78	 9:25	21-Jul-78  10
+VERSIO	TEC     2  <155>   613676  21-Jul-78	 9:26	21-Jul-78  10
+VT05	TEC     1  <155>   540035  21-Jul-78	 9:49	21-Jul-78  10
+VT52	TEC     7  <155>   466026  21-Jul-78	 9:25	21-Jul-78  10
+  Total of 607 blocks in 19 files Checksum = 527641
+
+CP	MAC     5  <155>   144625  11-Aug-78	 3:32	11-Aug-78   0		[100,200,EXTRA,TEST]
+CP	REL     3  <155>   272165  11-Aug-78	 3:46	11-Aug-78  14
+T	EXE     8  <155>   371606  11-Aug-78	 9:33	21-Jul-78  10
+TEST	MAC     1  <155>   623136  11-Sep-78	15:42	 8-Sep-74   0
+TEST2	MAC     5  <155>   57 11-Aug-78	 9:33	21-Jul-78  10
+TEST2	REL     2  <155>   212104  11-Aug-78	 3:46	11-Aug-78  14
+TTY	EXE     8  <155>   234026  11-Aug-78	 9:33	21-Jul-78  10
+TTY	MAC     7  <155>   562226  11-Aug-78	 9:33	21-Jul-78  10
+TTY	REL     3  <155>   026066  11-Aug-78	 3:46	11-Aug-78  14
+TTYX	EXE     8  <155>   140462  21-Jul-78	 9:33	21-Jul-78  10
+TTYX	MAC     3  <155>   415003  11-Aug-78	 9:33	21-Jul-78  10
+TTYX	REL     2  <155>   142101  11-Aug-78	 3:46	11-Aug-78  14
+U	EXE     8  <057>   043146  11-Aug-78	 3:36	11-Aug-78  16
+  Total of 63 blocks in 13 files Checksum = 345032
+
+DSKCHR	MAC    14  <155>   571650  21-Jul-78	 9:58	21-Jul-78  10		[100,200,EXTRA,TEST1]
+DSKCHR	REL     4  <155>   657241  21-Jul-78	 9:57	21-Jul-78  10
+G	FOR     1  <155>   462700  21-Jul-78	 9:34	21-Jul-78  10
+GRID	FOR     3  <155>   256352  21-Jul-78	 9:34	21-Jul-78  10
+IGNORE	MAC     1  <155>   041351  11-Aug-78	 9:33	21-Jul-78  10
+IGNORE	REL     1  <155>   175074  11-Aug-78	 3:48	11-Aug-78  14
+STRTRK	VEC     7  <155>   127662  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	MEM     4  <155>   144654  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	RNO     3  <155>   351262  21-Jul-78	 9:34	21-Jul-78  10
+  Total of 38 blocks in 9 files Checksum = 712650
+
+ARTIST	BX      5  <155>   272745   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE,OLD]
+LIBOL6	SHR    67  <057>   545576   9-Sep-78	18:41	17-Dec-74   1	6(262)
+OLD	COM     1  <057>   165150  26-Sep-78	16:02	20-Sep-78   0
+RECORD	XXX    17  <057>   361515   9-Sep-78	19:02	 9-Sep-78   0
+T	M01    17  <155>   566230  25-Aug-78	 9:18	21-Jul-78  10
+TAPSUB	M01    48  <155>   532613  25-Aug-78	 9:18	21-Jul-78  10
+TITLE	S01    11  <155>   647217   9-Sep-78	 9:18	21-Jul-78  10
+TITLES	BX      6  <155>   650210   9-Sep-78	 9:18	21-Jul-78  10
+  Total of 172 blocks in 8 files Checksum = 631266
+
+RECORD	INP     8  <155>   230743   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE]
+SONGS	DAT     2  <155>   743607  11-Sep-78	15:41	27-Feb-74  14
+TAPMAC	MAC     1  <155>   015574  25-Aug-78	 9:18	21-Jul-78  10
+TAPMAC	UNV     1  <155>   217351  25-Aug-78	 1:24	25-Aug-78  14
+TAPSUB	MAC    47  <155>   052277   9-Sep-78	 9:18	21-Jul-78  10
+TITLE	CBL    16  <155>   275175  21-Jul-78	 9:19	21-Jul-78  10
+TITLE	COM     2  <057>   033165  26-Sep-78	16:02	20-Sep-78   0
+X	X      10  <057>   044112   9-Sep-78	20:28	 9-Sep-78   0
+  Total of 87 blocks in 8 files Checksum = 777416
+  Grand total of 4588 blocks in 286 files Checksum = 067436
+
+  BACKUP reel number 1; end save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 21:26:38 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+
+  BACKUP reel number 1; start save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 21:26:50 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+BILL10	CBL   165  <057>   200317  15-Dec-77	19:20	 7-Oct-77   0		[100,200,EXTRA,BILL10]
+BILSUB	CBL     6  <057>   206045   5-Sep-78	18:23	19-Jul-76   0
+BILSWT	CBL    26  <057>   345300  15-Dec-77	18:27	14-Dec-76   0
+BILSWT	MBC    27  <057>   625161   7-Sep-78	11:00	 6-Dec-76   0
+  Total of 224 blocks in 4 files Checksum = 440022
+
+BIO	SAV    15  <057>   536411   3-Aug-78	     	 6-Mar-75   0	31(225)-3	[100,200,EXTRA,BOTHEL]
+BOTHEL	BAS    16  <057>   060016   3-Aug-78	     	 6-Apr-78   0
+BOTHEL	MIC     1  <057>   073770   3-Aug-78	     	 3-Mar-78   0
+STRTRK	EXE   124  <057>   302661   3-Aug-78	     	13-Jul-78   0	(1)
+  Total of 156 blocks in 4 files Checksum = 011651
+
+EXTRA	COM     2  <455>   212642  26-Sep-78	16:02	20-Sep-78   0		[100,200,EXTRA]
+  Total of 2 blocks in 1 file Checksum = 212642
+
+CIRCLE	FTN     2  <155>   336067  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,FTN]
+ENDPLT	FTN     3  <155>   331500  21-Jul-78	 9:58	21-Jul-78  10
+ERRTST	FTN     1  <155>   365725  21-Jul-78	10:00	21-Jul-78  10
+GRID	FTN     1  <155>   577541  21-Jul-78	 9:57	21-Jul-78  10
+PAGE	FTN     1  <155>   515510  21-Jul-78	 9:57	21-Jul-78  10
+PAPER	FTN     1  <155>   542371  21-Jul-78	 9:59	21-Jul-78  10
+PLTARR	FTN     3  <155>   355724  21-Jul-78	 9:57	21-Jul-78  10
+PLTEQU	FTN     2  <155>   770375  21-Jul-78	 9:57	21-Jul-78  10
+PLTSEG	FTN     7  <155>   422445  21-Jul-78	 9:58	21-Jul-78  10
+PRINT	FTN     2  <155>   723511  21-Jul-78	 9:57	21-Jul-78  10
+SKIP	FTN     1  <155>   234272  21-Jul-78	 9:57	21-Jul-78  10
+TEST	FTN     2  <155>   530120  21-Jul-78	 9:59	21-Jul-78  10
+TEST1	FTN     5  <155>   540576  21-Jul-78	 9:59	21-Jul-78  10
+TICK	FTN     1  <155>   506244  21-Jul-78	 9:57	21-Jul-78  10
+TSTDRV	FTN     2  <155>   744070  21-Jul-78	 9:40	21-Jul-78  10
+TSTLOG	FTN     2  <155>   140756  21-Jul-78	 9:59	21-Jul-78  10
+VATT	FTN     2  <155>   267560  21-Jul-78	 9:40	21-Jul-78  10
+VBLKD	FTN    11  <155>   377565  21-Jul-78	 9:40	21-Jul-78  10
+VCIGT	FTN     1  <155>   601610  21-Jul-78	 9:58	21-Jul-78  10
+VCNCT	FTN     2  <155>   762133  21-Jul-78	 9:59	21-Jul-78  10
+VCNGT	FTN     1  <155>   650147  21-Jul-78	 9:58	21-Jul-78  10
+VCVT	FTN     2  <155>   145770  21-Jul-78	 9:58	21-Jul-78  10
+VDET	FTN     1  <155>   656170  21-Jul-78	 9:40	21-Jul-78  10
+VGETXY	FTN     6  <155>   527374  21-Jul-78	 9:59	21-Jul-78  10
+VIPCN	FTN     2  <155>   622247  21-Jul-78	 9:58	21-Jul-78  10
+VPERR	FTN     1  <155>   636075  21-Jul-78	 9:40	21-Jul-78  10
+VPLT	FTN     2  <155>   616712  21-Jul-78	 9:40	21-Jul-78  10
+VPNT	FTN     2  <155>   701731  21-Jul-78	 9:40	21-Jul-78  10
+VPSYM	FTN     4  <155>   767444  21-Jul-78	 9:59	21-Jul-78  10
+VSINIT	FTN     4  <155>   456136  21-Jul-78	 9:58	21-Jul-78  10
+VSPP	FTN     2  <155>   526157  21-Jul-78	 9:40	21-Jul-78  10
+VXGRID	FTN     3  <155>   541037  21-Jul-78	 9:58	21-Jul-78  10
+VXLAB	FTN     3  <155>   247320  21-Jul-78	 9:58	21-Jul-78  10
+VXTICK	FTN     2  <155>   731570  21-Jul-78	 9:58	21-Jul-78  10
+VYCTGD	FTN     2  <155>   261731  21-Jul-78	 9:58	21-Jul-78  10
+VYLAB	FTN     2  <155>   307060  21-Jul-78	 9:58	21-Jul-78  10
+XAXIS	FTN     3  <155>   335626  21-Jul-78	 9:57	21-Jul-78  10
+XTITLE	FTN     1  <155>   142240  21-Jul-78	 9:57	21-Jul-78  10
+YAXIS	FTN     3  <155>   257303  21-Jul-78	 9:57	21-Jul-78  10
+  Total of 98 blocks in 39 files Checksum = 006146
+
+ALGOL	FUN    12  <155>   677407  21-Jul-78	 9:42	21-Jul-78  10		[100,200,EXTRA,HAZEL,ALGOL]
+CURHAZ	ALG     2  <157>   520474  21-Jul-78	 9:42	21-Jul-78  10
+CURHAZ	REL     7  <057>   141475  21-Jul-78	 9:42	21-Jul-78  10
+HAZBEN	ALG     5  <057>   006645  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	ALG     3  <157>   547173  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	EXE    16  <057>   706035  28-Jul-78	 9:42	21-Jul-78  10
+HAZEL	REL     9  <057>   332525  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	SYM     4  <057>   765325  21-Jul-78	 9:42	21-Jul-78  10
+PING	ALG     7  <157>   620656  21-Jul-78	 9:42	21-Jul-78  10
+PING	EXE    16  <057>   505436  21-Jul-78	 9:42	21-Jul-78  10
+PING	REL    12  <057>   445313  21-Jul-78	 9:42	21-Jul-78  10
+PING	SYM    10  <057>   535440  21-Jul-78	 9:42	21-Jul-78  10
+  Total of 103 blocks in 12 files Checksum = 224762
+
+CURHAZ	DOC    22  <057>   466242  21-Jul-78	 9:51	21-Jul-78  10		[100,200,EXTRA,HAZEL,CURHAZ]
+CURHAZ	MAC    32  <057>   165643  21-Jul-78	 9:51	21-Jul-78  10
+CURHAZ	X01    25  <057>   472650  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	MAC     4  <057>   276543  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	UNV     2  <057>   230676  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 85 blocks in 5 files Checksum = 067444
+
+1	        1  <057>   242546  21-Jul-78	 9:52	21-Jul-78  10		[100,200,EXTRA,HAZEL,DPYLIB]
+BOTHER	CBL     1  <057>   550162  21-Jul-78	 9:51	21-Jul-78  10
+BOTHER	EXE    20  <057>   211623  21-Jul-78	 9:52	21-Jul-78  10
+DPY	CBL    13  <057>   142606  21-Jul-78	 9:52	21-Jul-78  10
+DPY	EXE    40  <057>   124200  21-Jul-78	 9:52	21-Jul-78  10
+DPY	REL    20  <057>   163773  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	CAB   109  <057>   133402  31-Aug-78	 9:51	21-Jul-78  10
+DPYLIB	DOC    46  <057>   343534  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	MAC   116  <057>   513314   1-Sep-78	 9:51	21-Jul-78  10
+DPYLIB	REL    26  <057>   366222   1-Sep-78	 9:52	21-Jul-78  10
+DPYLIB	SPL     3  <057>   461510  21-Jul-78	 9:53	21-Jul-78  10
+MACTEN	CTL     2  <057>   351342  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	MAC    43  <057>   046562  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	UNV    30  <057>   024341  21-Jul-78	 9:52	21-Jul-78  10
+NEW	SAV    82  <057>   543542  21-Jul-78	 9:52	21-Jul-78  10	40(220)
+UUOSYM	CTL     3  <057>   011424  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	MAC   207  <057>   140522  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	UNV    50  <057>   221076  13-Sep-78	 9:52	21-Jul-78  10
+X	MAC     3  <057>   641310  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 815 blocks in 19 files Checksum = 453261
+
+HAZEL	MAC     5  <057>   455355  11-Sep-78	 8:46	26-Aug-74   1		[100,200,EXTRA,HAZEL]
+  Total of 5 blocks in 1 file Checksum = 455355
+
+CURHAZ	ALG     2  <157>   455562  29-Nov-77	     	 9-Jul-74   0		[100,200,EXTRA,HAZEL,MORE]
+CURHAZ	DOC    18  <157>   112074  29-Nov-77	     	17-Aug-74   0
+CURHAZ	MAC    24  <157>   014362   3-Mar-78	     	19-Aug-74   0
+CURHAZ	OLD    23  <157>   121206   3-Mar-78	     	 2-Jul-74   0
+CURHAZ	REL     5  <057>   616601   3-Mar-78	23:15	 3-Mar-78  14
+HAZEL	ALG     2  <157>   321554  29-Nov-77	     	10-Jul-74   0
+HAZEL	MAC     5  <157>   455355   3-Mar-78	     	12-Jan-74   0
+HAZEL	REL     2  <057>   627324   3-Mar-78	23:14	 3-Mar-78  14
+MASK4	MAC     2  <157>   604524  29-Nov-77	     	29-Aug-74   0
+MWHEEL	HLD     1  <157>   031566   3-Mar-78	23:09	 3-Mar-78   0
+PING	ALG     7  <157>   540740  29-Nov-77	     	 8-Aug-74   0
+SCREWS	CUA     1  <057>   031566   3-Mar-78	10:19	 5-Jan-75   0
+SCROLL	MAC     4  <157>   065114   3-Mar-78	     	13-Aug-74   0
+SCROLL	SAV     2  <157>   245427   3-Mar-78	     	13-Aug-74   0
+SCROLL	SRC     4  <157>   226642  29-Nov-77	     	13-Aug-74   0
+TUG	MAC     6  <157>   526675   3-Mar-78	     	12-Feb-75   0
+TUG	REL     3  <057>   402466   3-Mar-78	23:13	 3-Mar-78  14
+UPDATE	MAC    23  <157>   630075  29-Nov-77	     	13-Aug-74   0
+UPDATE	SAV     6  <157>   616527   3-Mar-78	     	13-Aug-74   0	1-2
+UPDATE	SRC    23  <157>   065124  29-Nov-77	     	13-Aug-74   0
+X	        2  <057>   676706   3-Mar-78	23:09	 3-Mar-78   0
+  Total of 165 blocks in 21 files Checksum = 667433
+
+DPY	CBL    25  <455>   443377   9-Aug-78	20:48	 9-Aug-78   0		[100,200,EXTRA,HAZEL,PDP11]
+HAZEL	MAC    32  <455>   244765  13-Sep-78	20:44	 9-Aug-78   0
+  Total of 57 blocks in 2 files Checksum = 564616
+
+ARPA	MAN   172  <057>   174557  24-Jul-78	     	 9-Mar-76   0		[100,200,EXTRA,MIT]
+ARPA	NET     8  <057>   246773  24-Jul-78	     	 2-Mar-76   0
+DDT	HLP     1  <057>   141756  24-Jul-78	     	27-Sep-76   0
+DDT	MAN   251  <057>   513270  24-Jul-78	     	28-Sep-76   0
+HOSTS	IMP    13  <057>   177651  24-Jul-78	     	 8-Mar-76   0
+HOSTS	MCH    21  <057>   172527  24-Jul-78	     	 8-Mar-76   0
+HOSTS	NUM     7  <057>   006026  24-Jul-78	     	 8-Mar-76   0
+MITECO	MAN   249  <057>   232127  24-Jul-78	     	27-Sep-76   0
+TCTYP	HLP     3  <057>   652475  24-Jul-78	     	27-Sep-76   0
+TCTYP	MAN    25  <057>   517561  24-Jul-78	     	27-Sep-76   0
+  Total of 750 blocks in 10 files Checksum = 512675
+
+MPX	CRF    12  <057>   063460  12-Sep-78	 0:48	12-Sep-78   1		[100,200,EXTRA,MPX]
+MPX	MAC     3  <057>   525130  13-Sep-78	 0:47	12-Sep-78   0
+MPX	REL     2  <057>   533601  12-Sep-78	 0:48	12-Sep-78  14
+MPX	SAV     1  <057>   575607  13-Sep-78	19:04	 8-Sep-74  16
+  Total of 18 blocks in 4 files Checksum = 064362
+
+MT1010	NEW    11  <057>   532037  19-Sep-78	16:05	18-Dec-74  17		[100,200,EXTRA,MTADIR]
+MTA	BAK    11  <455>   532037  19-Sep-78	18:29	19-Sep-78  17
+MTA	DIR    11  <455>   532037  19-Sep-78	18:05	19-Sep-78  17
+MTA1	SHR     4  <057>   536574  19-Sep-78	23:17	16-May-74   1	6
+MTA2	SHR    24  <057>   267526  19-Sep-78	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <057>   205116  19-Sep-78	23:18	16-May-74   1	11
+MTADIR	SHR     6  <057>   321041  11-Sep-78	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <057>   750725  11-Sep-78	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <057>   173516  11-Sep-78	15:06	27-Feb-74  17
+PIP2	SHR    24  <057>   077154  19-Sep-78	22:06	16-Sep-74   1	(30)
+  Total of 154 blocks in 10 files Checksum = 753460
+
+PARITY	CCL     1  <057>   152775  24-Nov-76	22:13	 2-Feb-76   0		[100,200,EXTRA,PARITY]
+PARITY	CMD     1  <057>   661551  19-Nov-76	23:11	 9-Feb-76   0
+PARITY	LOW     2  <057>   450701  28-Jun-77	15:54	31-May-77  16
+PARITY	MAC     7  <057>   100277  24-Nov-76	14:27	24-Nov-76   0
+PARITY	SHR     6  <057>   534715  28-Jun-77	15:54	31-May-77  16
+  Total of 17 blocks in 5 files Checksum = 052675
+
+CIO017	ODL    15  <155>   765150  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,PDP11,BUS34]
+CIO027	ODL    15  <155>   563054  21-Jul-78	 9:59	21-Jul-78  10
+CIO037	ODL    15  <155>   100717  21-Jul-78	 9:58	21-Jul-78  10
+CIO047	ODL    15  <155>   574367  21-Jul-78	 9:58	21-Jul-78  10
+CIO057	ODL    15  <155>   126173  21-Jul-78	 9:58	21-Jul-78  10
+CIO067	ODL    15  <155>   604220  21-Jul-78	 9:58	21-Jul-78  10
+CIO077	ODL    15  <155>   345420  21-Jul-78	 9:58	21-Jul-78  10
+DPY	ODL     1  <155>   443250  21-Jul-78	 9:59	21-Jul-78  10
+DPYCBL	CMD     1  <057>   062154  21-Jul-78	 9:59	21-Jul-78  10
+DPYHAZ	ODL     2  <155>   223571  21-Jul-78	10:00	21-Jul-78  10
+KSYS	LOG     1  <057>   244473  21-Jul-78	10:00	21-Jul-78  10
+  Total of 110 blocks in 11 files Checksum = 257525
+
+CAR	P11     2  <155>   165350  21-Jul-78	 9:41	21-Jul-78  10		[100,200,EXTRA,PDP11,OTHER]
+DEF40	P11    21  <155>   321204  21-Jul-78	 9:41	21-Jul-78  10
+TIME	P11     1  <155>   120452  21-Jul-78	 9:41	21-Jul-78  10
+  Total of 24 blocks in 3 files Checksum = 300600
+
+INTERP	CTL     1  <157>   103733  27-Mar-74	 0:01	27-Mar-74   0		[100,200,EXTRA,POLISH]
+INTERP	MAC    12  <157>   727176  11-Sep-78	23:28	26-Feb-74   0
+POLIS2	TEC    14  <155>   134607  21-Jul-78	 9:47	21-Jul-78  10
+POLISH	TEC    12  <155>   416217  21-Jul-78	 9:47	21-Jul-78  10
+PRT	CTL     1  <155>   433052  21-Jul-78	 9:46	21-Jul-78  10
+  Total of 40 blocks in 5 files Checksum = 746556
+
+GETSAT	F4      2  <155>   226144  11-Sep-78	     	18-May-74   1		[100,200,EXTRA,POLY]
+GETSIT	MAC     5  <157>   203606  11-Sep-78	     	18-May-74   1
+POLY1	F4      2  <155>   677353  11-Sep-78	     	18-May-74   1
+POLY1	SAV     6  <155>   310767  11-Sep-78	15:46	27-Feb-74  14	P(2)
+  Total of 15 blocks in 4 files Checksum = 325147
+
+RENBR	F4     89  <155>   325041  11-Sep-78	15:45	27-Feb-74  14		[100,200,EXTRA,RENBR]
+RENBR	HLP     5  <155>   476715  11-Sep-78	15:45	27-Feb-74  14
+  Total of 94 blocks in 2 files Checksum = 570051
+
+FIX	FOR     3  <457>   721214  20-Jul-78	 2:30	 1-Jun-78   0		[100,200,EXTRA,RIPPER]
+FIX	SAI     2  <457>   651461  19-May-78	16:44	 7-Oct-74   1
+RIPPER	EXE    12  <457>   233557  19-Sep-78	 9:17	21-Jul-78  16
+RIPPER	FOR     7  <457>   556054   3-Aug-78	 9:10	21-Jul-78   0
+RIPPER	REL     7  <457>   114001  28-Jul-78	 9:17	21-Jul-78  14
+SIXTO7	MAC     2  <457>   627411  19-Jul-78	16:30	 8-Mar-78   0
+SIXTO7	REL     1  <457>   416166  21-Jul-78	 5:07	19-Jul-78  14
+  Total of 34 blocks in 7 files Checksum = 425712
+
+4010	SML     3  <155>   002674  21-Jul-78	 9:46	21-Jul-78  10		[100,200,EXTRA,RT11]
+BATCON	OBJ     4  <155>   551520  21-Jul-78	 9:46	21-Jul-78  10
+BATCON	P11    24  <155>   514756  21-Jul-78	 9:49	21-Jul-78  10
+CARL	SML     5  <155>   760741  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	OBJ     1  <155>   606777  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	P11     1  <155>   600262  21-Jul-78	 9:49	21-Jul-78  10
+COMAND	OBJ     6  <155>   537242  21-Jul-78	 9:46	21-Jul-78  10
+COMAND	P11    13  <155>   272560  21-Jul-78	 9:49	21-Jul-78  10
+ENGLND	SML    12  <155>   131243  21-Jul-78	 9:46	21-Jul-78  10
+FORTRA	BLB    24  <155>   463052  21-Jul-78	 9:49	21-Jul-78  10
+GETNUM	OBJ     1  <155>   372454  21-Jul-78	 9:46	21-Jul-78  10
+GETNUM	P11     4  <155>   711174  21-Jul-78	 9:49	21-Jul-78  10
+GO	OBJ     2  <155>   244440  21-Jul-78	 9:46	21-Jul-78  10
+GO	P11     4  <155>   215550  21-Jul-78	 9:49	21-Jul-78  10
+HELP	OBJ     2  <155>   473014  21-Jul-78	 9:46	21-Jul-78  10
+HELP	P11     4  <155>   165356  21-Jul-78	 9:49	21-Jul-78  10
+INLINE	OBJ     1  <155>   222733  21-Jul-78	 9:46	21-Jul-78  10
+INLINE	P11     4  <155>   422243  21-Jul-78	 9:49	21-Jul-78  10
+INTERP	OBJ     1  <155>   526443  21-Jul-78	 9:46	21-Jul-78  10
+INTERP	P11     7  <155>   125273  21-Jul-78	 9:49	21-Jul-78  10
+LPSUNV	SML     2  <155>   345741  21-Jul-78	 9:46	21-Jul-78  10
+METEOR	P11   122  <155>   734555  21-Jul-78	 9:48	21-Jul-78  10
+MOD	P11     5  <155>   612221  21-Jul-78	 9:49	21-Jul-78  10
+MPY	OBJ     1  <155>   712651  21-Jul-78	 9:46	21-Jul-78  10
+MPY	P11     3  <155>   042075  21-Jul-78	 9:49	21-Jul-78  10
+MSGOUT	OBJ     1  <155>   753251  21-Jul-78	 9:46	21-Jul-78  10
+MSGOUT	P11     2  <155>   031732  21-Jul-78	 9:49	21-Jul-78  10
+OUTNUM	OBJ     1  <155>   571770  21-Jul-78	 9:46	21-Jul-78  10
+OUTNUM	P11     4  <155>   134150  21-Jul-78	 9:48	21-Jul-78  10
+READ	P11     2  <155>   046751  21-Jul-78	 9:48	21-Jul-78  10
+RSXMC	300    18  <155>   116165  21-Jul-78	 9:46	21-Jul-78  10
+RSXMC	P11     9  <155>   420203  21-Jul-78	 9:48	21-Jul-78  10
+SAVACS	OBJ     1  <155>   071103  21-Jul-78	 9:46	21-Jul-78  10
+SAVACS	P11     2  <155>   711051  21-Jul-78	 9:48	21-Jul-78  10
+SAVERT	OBJ     1  <155>   332531  21-Jul-78	 9:45	21-Jul-78  10
+SAVERT	P11     2  <155>   660200  21-Jul-78	 9:48	21-Jul-78  10
+SPEED	CRF     8  <155>   264367  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	MAC     3  <155>   177040  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	REL     2  <155>   374571  21-Jul-78	 9:45	21-Jul-78  10
+SPOOL	P11     1  <155>   654421  21-Jul-78	 9:48	21-Jul-78  10
+SYSMAC	RT2    15  <155>   730022  21-Jul-78	 9:37	21-Jul-78  10
+T	P11     4  <155>   544556  21-Jul-78	 9:48	21-Jul-78  10
+TAPE	P11    24  <155>   600375  21-Jul-78	 9:48	21-Jul-78  10
+TAPERD	P11    25  <155>   135756  21-Jul-78	 9:48	21-Jul-78  10
+TEST	P11     7  <155>   143611  21-Jul-78	 9:45	21-Jul-78  10
+TTYIN	P11     9  <155>   553742  21-Jul-78	 9:48	21-Jul-78  10
+TTYINT	P11    20  <155>   755537  21-Jul-78	 9:46	21-Jul-78  10
+TTYSPD	EXE     8  <155>   623073  21-Jul-78	 9:45	21-Jul-78  10
+  Total of 425 blocks in 48 files Checksum = 621656
+
+C	SAV     1  <455>   322267  19-Sep-78	15:32	19-Sep-78  16		[100,200,EXTRA,SALVO]
+CHANGE	HLP     1  <057>   200344  19-Sep-78	 0:16	12-Sep-78   0
+CHANGE	MAC     5  <057>   473312  19-Sep-78	12:01	 2-Sep-74   0
+CHANGE	SAV     1  <057>   322267  19-Sep-78	12:02	 2-Sep-74  16
+SALVO	EXE    24  <455>   642512  19-Sep-78	15:32	19-Sep-78  16	P(14)
+SALVO	LST   110  <455>   004752  19-Sep-78	16:07	19-Sep-78   0
+SALVO	MAC    50  <057>   016732  19-Sep-78	23:04	 5-Sep-74   1
+SALVO	REL    18  <455>   463202  19-Sep-78	15:26	19-Sep-78  14
+SALVO1	SHR    13  <057>   431431  19-Sep-78	11:58	 2-Sep-74   1
+  Total of 223 blocks in 9 files Checksum = 015065
+
+CLASS2	001     2  <155>   770362  21-Jul-78	 9:47	21-Jul-78  10		[100,200,EXTRA,SIGN]
+TESTST	WRD     1  <155>   046337  21-Jul-78	 9:47	21-Jul-78  10
+VOCABU	        4  <155>   037730  21-Jul-78	 9:47	21-Jul-78  10
+  Total of 7 blocks in 3 files Checksum = 534163
+
+ED	TEC     2  <157>   511610  20-Apr-74	 0:09	 8-Apr-74   0		[100,200,EXTRA,TEC]
+EDIT	TEC     2  <155>   537644  21-Jul-78	 9:26	21-Jul-78  10
+FILE	EXT     1  <155>   542027  12-Sep-78	10:54	11-Sep-74   0
+LOCAL	TEC     2  <155>   200342  21-Jul-78	 9:26	21-Jul-78  10
+MRHRNO	TEC     2  <155>   277270  21-Jul-78	 9:53	21-Jul-78  10
+NOTICE	SYS     3  <057>   773615   3-Aug-78	17:09	25-Jul-78   0
+NOTICE	TXT     3  <157>   250607  11-Sep-78	20:19	21-Feb-74   0
+ORDER	TEC     1  <155>   603524  21-Jul-78	 9:26	21-Jul-78  10
+PI	TEC     1  <155>   451062  21-Jul-78	 9:26	21-Jul-78  10
+SORT	TEC     1  <155>   126252  21-Jul-78	 9:26	21-Jul-78  10
+TEC	RNO    13  <157>   172246  11-Sep-78	23:48	19-Feb-74   0
+TECO	DOC   352  <155>   564661   2-Sep-78	 9:25	21-Jul-78  10
+TECO	HLP    12  <157>   761610  11-Sep-78	21:00	26-Feb-74   0
+TECO	RNO   190  <155>   045522  21-Jul-78	 9:26	21-Jul-78  10
+TECO28	DOC     4  <155>   064771  21-Jul-78	 9:25	21-Jul-78  10
+TECO29	DOC     8  <155>   617335  21-Jul-78	 9:25	21-Jul-78  10
+VERSIO	TEC     2  <155>   613676  21-Jul-78	 9:26	21-Jul-78  10
+VT05	TEC     1  <155>   540035  21-Jul-78	 9:49	21-Jul-78  10
+VT52	TEC     7  <155>   466026  21-Jul-78	 9:25	21-Jul-78  10
+  Total of 607 blocks in 19 files Checksum = 527641
+
+CP	MAC     5  <155>   144625  11-Aug-78	 3:32	11-Aug-78   0		[100,200,EXTRA,TEST]
+CP	REL     3  <155>   272165  11-Aug-78	 3:46	11-Aug-78  14
+T	EXE     8  <155>   371606  11-Aug-78	 9:33	21-Jul-78  10
+TEST	MAC     1  <155>   623136  11-Sep-78	15:42	 8-Sep-74   0
+TEST2	MAC     5  <155>   571552  11-Aug-78	 9:33	21-Jul-78  10
+TEST2	REL     2  <155>   212104  11-Aug-78	 3:46	11-Aug-78  14
+TTY	EXE     8  <155>   234026  11-Aug-78	 9:33	21-Jul-78  10
+TTY	MAC     7  <155>   562226  11-Aug-78	 9:33	21-Jul-78  10
+TTY	REL     3  <155>   026066  11-Aug-78	 3:46	11-Aug-78  14
+TTYX	EXE     8  <155>   140462  21-Jul-78	 9:33	21-Jul-78  10
+TTYX	MAC     3  <155>   415003  11-Aug-78	 9:33	21-Jul-78  10
+TTYX	REL     2  <155>   142101  11-Aug-78	 3:46	11-Aug-78  14
+U	EXE     8  <057>   043146  11-Aug-78	 3:36	11-Aug-78  16
+  Total of 63 blocks in 13 files Checksum = 345032
+
+DSKCHR	MAC    14  <155>   571650  21-Jul-78	 9:58	21-Jul-78  10		[100,200,EXTRA,TEST1]
+DSKCHR	REL     4  <155>   657241  21-Jul-78	 9:57	21-Jul-78  10
+G	FOR     1  <155>   462700  21-Jul-78	 9:34	21-Jul-78  10
+GRID	FOR     3  <155>   256352  21-Jul-78	 9:34	21-Jul-78  10
+IGNORE	MAC     1  <155>   041351  11-Aug-78	 9:33	21-Jul-78  10
+IGNORE	REL     1  <155>   175074  11-Aug-78	 3:48	11-Aug-78  14
+STRTRK	VEC     7  <155>   127662  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	MEM     4  <155>   144654  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	RNO     3  <155>   351262  21-Jul-78	 9:34	21-Jul-78  10
+  Total of 38 blocks in 9 files Checksum = 712650
+
+ARTIST	BX      5  <155>   272745   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE,OLD]
+LIBOL6	SHR    67  <057>   545576   9-Sep-78	18:41	17-Dec-74   1	6(262)
+OLD	COM     1  <057>   165150  26-Sep-78	16:02	20-Sep-78   0
+RECORD	XXX    17  <057>   361515   9-Sep-78	19:02	 9-Sep-78   0
+T	M01    17  <155>   566230  25-Aug-78	 9:18	21-Jul-78  10
+TAPSUB	M01    48  <155>   532613  25-Aug-78	 9:18	21-Jul-78  10
+TITLE	S01    11  <155>   647217   9-Sep-78	 9:18	21-Jul-78  10
+TITLES	BX      6  <155>   650210   9-Sep-78	 9:18	21-Jul-78  10
+  Total of 172 blocks in 8 files Checksum = 631266
+
+RECORD	INP     8  <155>   230743   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE]
+SONGS	DAT     2  <155>   743607  11-Sep-78	15:41	27-Feb-74  14
+TAPMAC	MAC     1  <155>   015574  25-Aug-78	 9:18	21-Jul-78  10
+TAPMAC	UNV     1  <155>   217351  25-Aug-78	 1:24	25-Aug-78  14
+TAPSUB	MAC    47  <155>   052277   9-Sep-78	 9:18	21-Jul-78  10
+TITLE	CBL    16  <155>   275175  21-Jul-78	 9:19	21-Jul-78  10
+TITLE	COM     2  <057>   033165  26-Sep-78	16:02	20-Sep-78   0
+X	X      10  <057>   044112   9-Sep-78	20:28	 9-Sep-78   0
+  Total of 87 blocks in 8 files Checksum = 777416
+  Grand total of 4588 blocks in 286 files Checksum = 067436
+
+  BACKUP reel number 1; end save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 21:28:03 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+
+  BACKUP reel number 1; start save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 21:28:36 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+BILL10	CBL   165  <057>   200317  15-Dec-77	19:20	 7-Oct-77   0		[100,200,EXTRA,BILL10]
+BILSUB	CBL     6  <057>   206045   5-Sep-78	18:23	19-Jul-76   0
+BILSWT	CBL    26  <057>   345300  15-Dec-77	18:27	14-Dec-76   0
+BILSWT	MBC    27  <057>   625161   7-Sep-78	11:00	 6-Dec-76   0
+  Total of 224 blocks in 4 files Checksum = 440022
+
+BIO	SAV    15  <057>   536411   3-Aug-78	     	 6-Mar-75   0	31(225)-3	[100,200,EXTRA,BOTHEL]
+BOTHEL	BAS    16  <057>   060016   3-Aug-78	     	 6-Apr-78   0
+BOTHEL	MIC     1  <057>   073770   3-Aug-78	     	 3-Mar-78   0
+STRTRK	EXE   124  <057>   302661   3-Aug-78	     	13-Jul-78   0	(1)
+  Total of 156 blocks in 4 files Checksum = 011651
+
+EXTRA	COM     2  <455>   212642  26-Sep-78	16:02	20-Sep-78   0		[100,200,EXTRA]
+  Total of 2 blocks in 1 file Checksum = 212642
+
+CIRCLE	FTN     2  <155>   336067  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,FTN]
+ENDPLT	FTN     3  <155>   331500  21-Jul-78	 9:58	21-Jul-78  10
+ERRTST	FTN     1  <155>   365725  21-Jul-78	10:00	21-Jul-78  10
+GRID	FTN     1  <155>   577541  21-Jul-78	 9:57	21-Jul-78  10
+PAGE	FTN     1  <155>   515510  21-Jul-78	 9:57	21-Jul-78  10
+PAPER	FTN     1  <155>   542371  21-Jul-78	 9:59	21-Jul-78  10
+PLTARR	FTN     3  <155>   355724  21-Jul-78	 9:57	21-Jul-78  10
+PLTEQU	FTN     2  <155>   770375  21-Jul-78	 9:57	21-Jul-78  10
+PLTSEG	FTN     7  <155>   422445  21-Jul-78	 9:58	21-Jul-78  10
+PRINT	FTN     2  <155>   723511  21-Jul-78	 9:57	21-Jul-78  10
+SKIP	FTN     1  <155>   234272  21-Jul-78	 9:57	21-Jul-78  10
+TEST	FTN     2  <155>   530120  21-Jul-78	 9:59	21-Jul-78  10
+TEST1	FTN     5  <155>   540576  21-Jul-78	 9:59	21-Jul-78  10
+TICK	FTN     1  <155>   506244  21-Jul-78	 9:57	21-Jul-78  10
+TSTDRV	FTN     2  <155>   744070  21-Jul-78	 9:40	21-Jul-78  10
+TSTLOG	FTN     2  <155>   140756  21-Jul-78	 9:59	21-Jul-78  10
+VATT	FTN     2  <155>   267560  21-Jul-78	 9:40	21-Jul-78  10
+VBLKD	FTN    11  <155>   377565  21-Jul-78	 9:40	21-Jul-78  10
+VCIGT	FTN     1  <155>   601610  21-Jul-78	 9:58	21-Jul-78  10
+VCNCT	FTN     2  <155>   762133  21-Jul-78	 9:59	21-Jul-78  10
+VCNGT	FTN     1  <155>   650147  21-Jul-78	 9:58	21-Jul-78  10
+VCVT	FTN     2  <155>   145770  21-Jul-78	 9:58	21-Jul-78  10
+VDET	FTN     1  <155>   656170  21-Jul-78	 9:40	21-Jul-78  10
+VGETXY	FTN     6  <155>   527374  21-Jul-78	 9:59	21-Jul-78  10
+VIPCN	FTN     2  <155>   622247  21-Jul-78	 9:58	21-Jul-78  10
+VPERR	FTN     1  <155>   636075  21-Jul-78	 9:40	21-Jul-78  10
+VPLT	FTN     2  <155>   616712  21-Jul-78	 9:40	21-Jul-78  10
+VPNT	FTN     2  <155>   701731  21-Jul-78	 9:40	21-Jul-78  10
+VPSYM	FTN     4  <155>   767444  21-Jul-78	 9:59	21-Jul-78  10
+VSINIT	FTN     4  <155>   456136  21-Jul-78	 9:58	21-Jul-78  10
+VSPP	FTN     2  <155>   526157  21-Jul-78	 9:40	21-Jul-78  10
+VXGRID	FTN     3  <155>   541037  21-Jul-78	 9:58	21-Jul-78  10
+VXLAB	FTN     3  <155>   247320  21-Jul-78	 9:58	21-Jul-78  10
+VXTICK	FTN     2  <155>   731570  21-Jul-78	 9:58	21-Jul-78  10
+VYCTGD	FTN     2  <155>   261731  21-Jul-78	 9:58	21-Jul-78  10
+VYLAB	FTN     2  <155>   307060  21-Jul-78	 9:58	21-Jul-78  10
+XAXIS	FTN     3  <155>   335626  21-Jul-78	 9:57	21-Jul-78  10
+XTITLE	FTN     1  <155>   142240  21-Jul-78	 9:57	21-Jul-78  10
+YAXIS	FTN     3  <155>   257303  21-Jul-78	 9:57	21-Jul-78  10
+  Total of 98 blocks in 39 files Checksum = 006146
+
+ALGOL	FUN    12  <155>   677407  21-Jul-78	 9:42	21-Jul-78  10		[100,200,EXTRA,HAZEL,ALGOL]
+CURHAZ	ALG     2  <157>   520474  21-Jul-78	 9:42	21-Jul-78  10
+CURHAZ	REL     7  <057>   141475  21-Jul-78	 9:42	21-Jul-78  10
+HAZBEN	ALG     5  <057>   006645  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	ALG     3  <157>   547173  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	EXE    16  <057>   706035  28-Jul-78	 9:42	21-Jul-78  10
+HAZEL	REL     9  <057>   332525  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	SYM     4  <057>   765325  21-Jul-78	 9:42	21-Jul-78  10
+PING	ALG     7  <157>   620656  21-Jul-78	 9:42	21-Jul-78  10
+PING	EXE    16  <057>   505436  21-Jul-78	 9:42	21-Jul-78  10
+PING	REL    12  <057>   445313  21-Jul-78	 9:42	21-Jul-78  10
+PING	SYM    10  <057>   535440  21-Jul-78	 9:42	21-Jul-78  10
+  Total of 103 blocks in 12 files Checksum = 224762
+
+CURHAZ	DOC    22  <057>   466242  21-Jul-78	 9:51	21-Jul-78  10		[100,200,EXTRA,HAZEL,CURHAZ]
+CURHAZ	MAC    32  <057>   165643  21-Jul-78	 9:51	21-Jul-78  10
+CURHAZ	X01    25  <057>   472650  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	MAC     4  <057>   276543  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	UNV     2  <057>   230676  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 85 blocks in 5 files Checksum = 067444
+
+1	        1  <057>   242546  21-Jul-78	 9:52	21-Jul-78  10		[100,200,EXTRA,HAZEL,DPYLIB]
+BOTHER	CBL     1  <057>   550162  21-Jul-78	 9:51	21-Jul-78  10
+BOTHER	EXE    20  <057>   211623  21-Jul-78	 9:52	21-Jul-78  10
+DPY	CBL    13  <057>   142606  21-Jul-78	 9:52	21-Jul-78  10
+DPY	EXE    40  <057>   124200  21-Jul-78	 9:52	21-Jul-78  10
+DPY	REL    20  <057>   163773  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	CAB   109  <057>   133402  31-Aug-78	 9:51	21-Jul-78  10
+DPYLIB	DOC    46  <057>   343534  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	MAC   116  <057>   513314   1-Sep-78	 9:51	21-Jul-78  10
+DPYLIB	REL    26  <057>   366222   1-Sep-78	 9:52	21-Jul-78  10
+DPYLIB	SPL     3  <057>   461510  21-Jul-78	 9:53	21-Jul-78  10
+MACTEN	CTL     2  <057>   351342  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	MAC    43  <057>   046562  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	UNV    30  <057>   024341  21-Jul-78	 9:52	21-Jul-78  10
+NEW	SAV    82  <057>   543542  21-Jul-78	 9:52	21-Jul-78  10	40(220)
+UUOSYM	CTL     3  <057>   011424  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	MAC   207  <057>   140522  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	UNV    50  <057>   221076  13-Sep-78	 9:52	21-Jul-78  10
+X	MAC     3  <057>   641310  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 815 blocks in 19 files Checksum = 453261
+
+HAZEL	MAC     5  <057>   455355  11-Sep-78	 8:46	26-Aug-74   1		[100,200,EXTRA,HAZEL]
+  Total of 5 blocks in 1 file Checksum = 455355
+
+CURHAZ	ALG     2  <157>   455562  29-Nov-77	     	 9-Jul-74   0		[100,200,EXTRA,HAZEL,MORE]
+CURHAZ	DOC    18  <157>   112074  29-Nov-77	     	17-Aug-74   0
+CURHAZ	MAC    24  <157>   014362   3-Mar-78	     	19-Aug-74   0
+CURHAZ	OLD    23  <157>   121206   3-Mar-78	     	 2-Jul-74   0
+CURHAZ	REL     5  <057>   616601   3-Mar-78	23:15	 3-Mar-78  14
+HAZEL	ALG     2  <157>   321554  29-Nov-77	     	10-Jul-74   0
+HAZEL	MAC     5  <157>   455355   3-Mar-78	     	12-Jan-74   0
+HAZEL	REL     2  <057>   627324   3-Mar-78	23:14	 3-Mar-78  14
+MASK4	MAC     2  <157>   604524  29-Nov-77	     	29-Aug-74   0
+MWHEEL	HLD     1  <157>   031566   3-Mar-78	23:09	 3-Mar-78   0
+PING	ALG     7  <157>   540740  29-Nov-77	     	 8-Aug-74   0
+SCREWS	CUA     1  <057>   031566   3-Mar-78	10:19	 5-Jan-75   0
+SCROLL	MAC     4  <157>   065114   3-Mar-78	     	13-Aug-74   0
+SCROLL	SAV     2  <157>   245427   3-Mar-78	     	13-Aug-74   0
+SCROLL	SRC     4  <157>   226642  29-Nov-77	     	13-Aug-74   0
+TUG	MAC     6  <157>   526675   3-Mar-78	     	12-Feb-75   0
+TUG	REL     3  <057>   402466   3-Mar-78	23:13	 3-Mar-78  14
+UPDATE	MAC    23  <157>   630075  29-Nov-77	     	13-Aug-74   0
+UPDATE	SAV     6  <157>   616527   3-Mar-78	     	13-Aug-74   0	1-2
+UPDATE	SRC    23  <157>   065124  29-Nov-77	     	13-Aug-74   0
+X	        2  <057>   676706   3-Mar-78	23:09	 3-Mar-78   0
+  Total of 165 blocks in 21 files Checksum = 667433
+
+DPY	CBL    25  <455>   443377   9-Aug-78	20:48	 9-Aug-78   0		[100,200,EXTRA,HAZEL,PDP11]
+HAZEL	MAC    32  <455>   244765  13-Sep-78	20:44	 9-Aug-78   0
+  Total of 57 blocks in 2 files Checksum = 564616
+
+ARPA	MAN   172  <057>   174557  24-Jul-78	     	 9-Mar-76   0		[100,200,EXTRA,MIT]
+ARPA	NET     8  <057>   246773  24-Jul-78	     	 2-Mar-76   0
+DDT	HLP     1  <057>   141756  24-Jul-78	     	27-Sep-76   0
+DDT	MAN   251  <057>   513270  24-Jul-78	     	28-Sep-76   0
+HOSTS	IMP    13  <057>   177651  24-Jul-78	     	 8-Mar-76   0
+HOSTS	MCH    21  <057>   172527  24-Jul-78	     	 8-Mar-76   0
+HOSTS	NUM     7  <057>   006026  24-Jul-78	     	 8-Mar-76   0
+MITECO	MAN   249  <057>   232127  24-Jul-78	     	27-Sep-76   0
+TCTYP	HLP     3  <057>   652475  24-Jul-78	     	27-Sep-76   0
+TCTYP	MAN    25  <057>   517561  24-Jul-78	     	27-Sep-76   0
+  Total of 750 blocks in 10 files Checksum = 512675
+
+MPX	CRF    12  <057>   063460  12-Sep-78	 0:48	12-Sep-78   1		[100,200,EXTRA,MPX]
+MPX	MAC     3  <057>   525130  13-Sep-78	 0:47	12-Sep-78   0
+MPX	REL     2  <057>   533601  12-Sep-78	 0:48	12-Sep-78  14
+MPX	SAV     1  <057>   575607  13-Sep-78	19:04	 8-Sep-74  16
+  Total of 18 blocks in 4 files Checksum = 064362
+
+MT1010	NEW    11  <057>   532037  19-Sep-78	16:05	18-Dec-74  17		[100,200,EXTRA,MTADIR]
+MTA	BAK    11  <455>   532037  19-Sep-78	18:29	19-Sep-78  17
+MTA	DIR    11  <455>   532037  19-Sep-78	18:05	19-Sep-78  17
+MTA1	SHR     4  <057>   536574  19-Sep-78	23:17	16-May-74   1	6
+MTA2	SHR    24  <057>   267526  19-Sep-78	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <057>   205116  19-Sep-78	23:18	16-May-74   1	11
+MTADIR	SHR     6  <057>   321041  11-Sep-78	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <057>   750725  11-Sep-78	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <057>   173516  11-Sep-78	15:06	27-Feb-74  17
+PIP2	SHR    24  <057>   077154  19-Sep-78	22:06	16-Sep-74   1	(30)
+  Total of 154 blocks in 10 files Checksum = 753460
+
+PARITY	CCL     1  <057>   152775  24-Nov-76	22:13	 2-Feb-76   0		[100,200,EXTRA,PARITY]
+PARITY	CMD     1  <057>   661551  19-Nov-76	23:11	 9-Feb-76   0
+PARITY	LOW     2  <057>   450701  28-Jun-77	15:54	31-May-77  16
+PARITY	MAC     7  <057>   100277  24-Nov-76	14:27	24-Nov-76   0
+PARITY	SHR     6  <057>   534715  28-Jun-77	15:54	31-May-77  16
+  Total of 17 blocks in 5 files Checksum = 052675
+
+CIO017	ODL    15  <155>   765150  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,PDP11,BUS34]
+CIO027	ODL    15  <155>   563054  21-Jul-78	 9:59	21-Jul-78  10
+CIO037	ODL    15  <155>   100717  21-Jul-78	 9:58	21-Jul-78  10
+CIO047	ODL    15  <155>   574367  21-Jul-78	 9:58	21-Jul-78  10
+CIO057	ODL    15  <155>   126173  21-Jul-78	 9:58	21-Jul-78  10
+CIO067	ODL    15  <155>   604220  21-Jul-78	 9:58	21-Jul-78  10
+CIO077	ODL    15  <155>   345420  21-Jul-78	 9:58	21-Jul-78  10
+DPY	ODL     1  <155>   443250  21-Jul-78	 9:59	21-Jul-78  10
+DPYCBL	CMD     1  <057>   062154  21-Jul-78	 9:59	21-Jul-78  10
+DPYHAZ	ODL     2  <155>   223571  21-Jul-78	10:00	21-Jul-78  10
+KSYS	LOG     1  <057>   244473  21-Jul-78	10:00	21-Jul-78  10
+  Total of 110 blocks in 11 files Checksum = 257525
+
+CAR	P11     2  <155>   165350  21-Jul-78	 9:41	21-Jul-78  10		[100,200,EXTRA,PDP11,OTHER]
+DEF40	P11    21  <155>   321204  21-Jul-78	 9:41	21-Jul-78  10
+TIME	P11     1  <155>   120452  21-Jul-78	 9:41	21-Jul-78  10
+  Total of 24 blocks in 3 files Checksum = 300600
+
+INTERP	CTL     1  <157>   103733  27-Mar-74	 0:01	27-Mar-74   0		[100,200,EXTRA,POLISH]
+INTERP	MAC    12  <157>   727176  11-Sep-78	23:28	26-Feb-74   0
+POLIS2	TEC    14  <155>   134607  21-Jul-78	 9:47	21-Jul-78  10
+POLISH	TEC    12  <155>   416217  21-Jul-78	 9:47	21-Jul-78  10
+PRT	CTL     1  <155>   433052  21-Jul-78	 9:46	21-Jul-78  10
+  Total of 40 blocks in 5 files Checksum = 746556
+
+GETSAT	F4      2  <155>   226144  11-Sep-78	     	18-May-74   1		[100,200,EXTRA,POLY]
+GETSIT	MAC     5  <157>   203606  11-Sep-78	     	18-May-74   1
+POLY1	F4      2  <155>   677353  11-Sep-78	     	18-May-74   1
+POLY1	SAV     6  <155>   310767  11-Sep-78	15:46	27-Feb-74  14	P(2)
+  Total of 15 blocks in 4 files Checksum = 325147
+
+RENBR	F4     89  <155>   325041  11-Sep-78	15:45	27-Feb-74  14		[100,200,EXTRA,RENBR]
+RENBR	HLP     5  <155>   476715  11-Sep-78	15:45	27-Feb-74  14
+  Total of 94 blocks in 2 files Checksum = 570051
+
+FIX	FOR     3  <457>   721214  20-Jul-78	 2:30	 1-Jun-78   0		[100,200,EXTRA,RIPPER]
+FIX	SAI     2  <457>   651461  19-May-78	16:44	 7-Oct-74   1
+RIPPER	EXE    12  <457>   233557  19-Sep-78	 9:17	21-Jul-78  16
+RIPPER	FOR     7  <457>   556054   3-Aug-78	 9:10	21-Jul-78   0
+RIPPER	REL     7  <457>   114001  28-Jul-78	 9:17	21-Jul-78  14
+SIXTO7	MAC     2  <457>   627411  19-Jul-78	16:30	 8-Mar-78   0
+SIXTO7	REL     1  <457>   416166  21-Jul-78	 5:07	19-Jul-78  14
+  Total of 34 blocks in 7 files Checksum = 425712
+
+4010	SML     3  <155>   002674  21-Jul-78	 9:46	21-Jul-78  10		[100,200,EXTRA,RT11]
+BATCON	OBJ     4  <155>   551520  21-Jul-78	 9:46	21-Jul-78  10
+BATCON	P11    24  <155>   514756  21-Jul-78	 9:49	21-Jul-78  10
+CARL	SML     5  <155>   760741  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	OBJ     1  <155>   606777  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	P11     1  <155>   600262  21-Jul-78	 9:49	21-Jul-78  10
+COMAND	OBJ     6  <155>   537242  21-Jul-78	 9:46	21-Jul-78  10
+COMAND	P11    13  <155>   272560  21-Jul-78	 9:49	21-Jul-78  10
+ENGLND	SML    12  <155>   131243  21-Jul-78	 9:46	21-Jul-78  10
+FORTRA	BLB    24  <155>   463052  21-Jul-78	 9:49	21-Jul-78  10
+GETNUM	OBJ     1  <155>   372454  21-Jul-78	 9:46	21-Jul-78  10
+GETNUM	P11     4  <155>   711174  21-Jul-78	 9:49	21-Jul-78  10
+GO	OBJ     2  <155>   244440  21-Jul-78	 9:46	21-Jul-78  10
+GO	P11     4  <155>   215550  21-Jul-78	 9:49	21-Jul-78  10
+HELP	OBJ     2  <155>   473014  21-Jul-78	 9:46	21-Jul-78  10
+HELP	P11     4  <155>   165356  21-Jul-78	 9:49	21-Jul-78  10
+INLINE	OBJ     1  <155>   222733  21-Jul-78	 9:46	21-Jul-78  10
+INLINE	P11     4  <155>   422243  21-Jul-78	 9:49	21-Jul-78  10
+INTERP	OBJ     1  <155>   526443  21-Jul-78	 9:46	21-Jul-78  10
+INTERP	P11     7  <155>   125273  21-Jul-78	 9:49	21-Jul-78  10
+LPSUNV	SML     2  <155>   345741  21-Jul-78	 9:46	21-Jul-78  10
+METEOR	P11   122  <155>   734555  21-Jul-78	 9:48	21-Jul-78  10
+MOD	P11     5  <155>   612221  21-Jul-78	 9:49	21-Jul-78  10
+MPY	OBJ     1  <155>   712651  21-Jul-78	 9:46	21-Jul-78  10
+MPY	P11     3  <155>   042075  21-Jul-78	 9:49	21-Jul-78  10
+MSGOUT	OBJ     1  <155>   753251  21-Jul-78	 9:46	21-Jul-78  10
+MSGOUT	P11     2  <155>   031732  21-Jul-78	 9:49	21-Jul-78  10
+OUTNUM	OBJ     1  <155>   571770  21-Jul-78	 9:46	21-Jul-78  10
+OUTNUM	P11     4  <155>   134150  21-Jul-78	 9:48	21-Jul-78  10
+READ	P11     2  <155>   046751  21-Jul-78	 9:48	21-Jul-78  10
+RSXMC	300    18  <155>   116165  21-Jul-78	 9:46	21-Jul-78  10
+RSXMC	P11     9  <155>   420203  21-Jul-78	 9:48	21-Jul-78  10
+SAVACS	OBJ     1  <155>   071103  21-Jul-78	 9:46	21-Jul-78  10
+SAVACS	P11     2  <155>   711051  21-Jul-78	 9:48	21-Jul-78  10
+SAVERT	OBJ     1  <155>   332531  21-Jul-78	 9:45	21-Jul-78  10
+SAVERT	P11     2  <155>   660200  21-Jul-78	 9:48	21-Jul-78  10
+SPEED	CRF     8  <155>   264367  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	MAC     3  <155>   177040  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	REL     2  <155>   374571  21-Jul-78	 9:45	21-Jul-78  10
+SPOOL	P11     1  <155>   654421  21-Jul-78	 9:48	21-Jul-78  10
+SYSMAC	RT2    15  <155>   730022  21-Jul-78	 9:37	21-Jul-78  10
+T	P11     4  <155>   544556  21-Jul-78	 9:48	21-Jul-78  10
+TAPE	P11    24  <155>   600375  21-Jul-78	 9:48	21-Jul-78  10
+TAPERD	P11    25  <155>   135756  21-Jul-78	 9:48	21-Jul-78  10
+TEST	P11     7  <155>   143611  21-Jul-78	 9:45	21-Jul-78  10
+TTYIN	P11     9  <155>   553742  21-Jul-78	 9:48	21-Jul-78  10
+TTYINT	P11    20  <155>   755537  21-Jul-78	 9:46	21-Jul-78  10
+TTYSPD	EXE     8  <155>   623073  21-Jul-78	 9:45	21-Jul-78  10
+  Total of 425 blocks in 48 files Checksum = 621656
+
+C	SAV     1  <455>   322267  19-Sep-78	15:32	19-Sep-78  16		[100,200,EXTRA,SALVO]
+CHANGE	HLP     1  <057>   200344  19-Sep-78	 0:16	12-Sep-78   0
+CHANGE	MAC     5  <057>   473312  19-Sep-78	12:01	 2-Sep-74   0
+CHANGE	SAV     1  <057>   322267  19-Sep-78	12:02	 2-Sep-74  16
+SALVO	EXE    24  <455>   642512  19-Sep-78	15:32	19-Sep-78  16	P(14)
+SALVO	LST   110  <455>   004752  19-Sep-78	16:07	19-Sep-78   0
+SALVO	MAC    50  <057>   016732  19-Sep-78	23:04	 5-Sep-74   1
+SALVO	REL    18  <455>   463202  19-Sep-78	15:26	19-Sep-78  14
+SALVO1	SHR    13  <057>   431431  19-Sep-78	11:58	 2-Sep-74   1
+  Total of 223 blocks in 9 files Checksum = 015065
+
+CLASS2	001     2  <155>   770362  21-Jul-78	 9:47	21-Jul-78  10		[100,200,EXTRA,SIGN]
+TESTST	WRD     1  <155>   046337  21-Jul-78	 9:47	21-Jul-78  10
+VOCABU	        4  <155>   037730  21-Jul-78	 9:47	21-Jul-78  10
+  Total of 7 blocks in 3 files Checksum = 534163
+
+ED	TEC     2  <157>   511610  20-Apr-74	 0:09	 8-Apr-74   0		[100,200,EXTRA,TEC]
+EDIT	TEC     2  <155>   537644  21-Jul-78	 9:26	21-Jul-78  10
+FILE	EXT     1  <155>   542027  12-Sep-78	10:54	11-Sep-74   0
+LOCAL	TEC     2  <155>   200342  21-Jul-78	 9:26	21-Jul-78  10
+MRHRNO	TEC     2  <155>   277270  21-Jul-78	 9:53	21-Jul-78  10
+NOTICE	SYS     3  <057>   773615   3-Aug-78	17:09	25-Jul-78   0
+NOTICE	TXT     3  <157>   250607  11-Sep-78	20:19	21-Feb-74   0
+ORDER	TEC     1  <155>   603524  21-Jul-78	 9:26	21-Jul-78  10
+PI	TEC     1  <155>   451062  21-Jul-78	 9:26	21-Jul-78  10
+SORT	TEC     1  <155>   126252  21-Jul-78	 9:26	21-Jul-78  10
+TEC	RNO    13  <157>   172246  11-Sep-78	23:48	19-Feb-74   0
+TECO	DOC   352  <155>   564661   2-Sep-78	 9:25	21-Jul-78  10
+TECO	HLP    12  <157>   761610  11-Sep-78	21:00	26-Feb-74   0
+TECO	RNO   190  <155>   045522  21-Jul-78	 9:26	21-Jul-78  10
+TECO28	DOC     4  <155>   064771  21-Jul-78	 9:25	21-Jul-78  10
+TECO29	DOC     8  <155>   617335  21-Jul-78	 9:25	21-Jul-78  10
+VERSIO	TEC     2  <155>   613676  21-Jul-78	 9:26	21-Jul-78  10
+VT05	TEC     1  <155>   540035  21-Jul-78	 9:49	21-Jul-78  10
+VT52	TEC     7  <155>   466026  21-Jul-78	 9:25	21-Jul-78  10
+  Total of 607 blocks in 19 files Checksum = 527641
+
+CP	MAC     5  <155>   144625  11-Aug-78	 3:32	11-Aug-78   0		[100,200,EXTRA,TEST]
+CP	REL     3  <155>   272165  11-Aug-78	 3:46	11-Aug-78  14
+T	EXE     8  <155>   371606  11-Aug-78	 9:33	21-Jul-78  10
+TEST	MAC     1  <155>   623136  11-Sep-78	15:42	 8-Sep-74   0
+TEST2	MAC     5  <155>   571552  11-Aug-78	 9:33	21-Jul-78  10
+TEST2	REL     2  <155>   212104  11-Aug-78	 3:46	11-Aug-78  14
+TTY	EXE     8  <155>   234026  11-Aug-78	 9:33	21-Jul-78  10
+TTY	MAC     7  <155>   562226  11-Aug-78	 9:33	21-Jul-78  10
+TTY	REL     3  <155>   026066  11-Aug-78	 3:46	11-Aug-78  14
+TTYX	EXE     8  <155>   140462  21-Jul-78	 9:33	21-Jul-78  10
+TTYX	MAC     3  <155>   415003  11-Aug-78	 9:33	21-Jul-78  10
+TTYX	REL     2  <155>   142101  11-Aug-78	 3:46	11-Aug-78  14
+U	EXE     8  <057>   043146  11-Aug-78	 3:36	11-Aug-78  16
+  Total of 63 blocks in 13 files Checksum = 345032
+
+DSKCHR	MAC    14  <155>   571650  21-Jul-78	 9:58	21-Jul-78  10		[100,200,EXTRA,TEST1]
+DSKCHR	REL     4  <155>   657241  21-Jul-78	 9:57	21-Jul-78  10
+G	FOR     1  <155>   462700  21-Jul-78	 9:34	21-Jul-78  10
+GRID	FOR     3  <155>   256352  21-Jul-78	 9:34	21-Jul-78  10
+IGNORE	MAC     1  <155>   041351  11-Aug-78	 9:33	21-Jul-78  10
+IGNORE	REL     1  <155>   175074  11-Aug-78	 3:48	11-Aug-78  14
+STRTRK	VEC     7  <155>   127662  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	MEM     4  <155>   144654  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	RNO     3  <155>   351262  21-Jul-78	 9:34	21-Jul-78  10
+  Total of 38 blocks in 9 files Checksum = 712650
+
+ARTIST	BX      5  <155>   272745   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE,OLD]
+LIBOL6	SHR    67  <057>   545576   9-Sep-78	18:41	17-Dec-74   1	6(262)
+OLD	COM     1  <057>   165150  26-Sep-78	16:02	20-Sep-78   0
+RECORD	XXX    17  <057>   361515   9-Sep-78	19:02	 9-Sep-78   0
+T	M01    17  <155>   566230  25-Aug-78	 9:18	21-Jul-78  10
+TAPSUB	M01    48  <155>   532613  25-Aug-78	 9:18	21-Jul-78  10
+TITLE	S01    11  <155>   647217   9-Sep-78	 9:18	21-Jul-78  10
+TITLES	BX      6  <155>   650210   9-Sep-78	 9:18	21-Jul-78  10
+  Total of 172 blocks in 8 files Checksum = 631266
+
+RECORD	INP     8  <155>   230743   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE]
+SONGS	DAT     2  <155>   743607  11-Sep-78	15:41	27-Feb-74  14
+TAPMAC	MAC     1  <155>   015574  25-Aug-78	 9:18	21-Jul-78  10
+TAPMAC	UNV     1  <155>   217351  25-Aug-78	 1:24	25-Aug-78  14
+TAPSUB	MAC    47  <155>   052277   9-Sep-78	 9:18	21-Jul-78  10
+TITLE	CBL    16  <155>   275175  21-Jul-78	 9:19	21-Jul-78  10
+TITLE	COM     2  <057>   033165  26-Sep-78	16:02	20-Sep-78   0
+X	X      10  <057>   044112   9-Sep-78	20:28	 9-Sep-78   0
+  Total of 87 blocks in 8 files Checksum = 777416
+  Grand total of 4588 blocks in 286 files Checksum = 067436
+
+  BACKUP reel number 1; end save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 21:29:53 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+
+  BACKUP reel number 1; start save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 21:32:17 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+BILL10	CBL   165  <057>   200317  15-Dec-77	19:20	 7-Oct-77   0		[100,200,EXTRA,BILL10]
+BILSUB	CBL     6  <057>   206045   5-Sep-78	18:23	19-Jul-76   0
+BILSWT	CBL    26  <057>   345300  15-Dec-77	18:27	14-Dec-76   0
+BILSWT	MBC    27  <057>   625161   7-Sep-78	11:00	 6-Dec-76   0
+  Total of 224 blocks in 4 files Checksum = 440022
+
+BIO	SAV    15  <057>   536411   3-Aug-78	     	 6-Mar-75   0	31(225)-3	[100,200,EXTRA,BOTHEL]
+BOTHEL	BAS    16  <057>   060016   3-Aug-78	     	 6-Apr-78   0
+BOTHEL	MIC     1  <057>   073770   3-Aug-78	     	 3-Mar-78   0
+STRTRK	EXE   124  <057>   302661   3-Aug-78	     	13-Jul-78   0	(1)
+  Total of 156 blocks in 4 files Checksum = 011651
+
+EXTRA	COM     2  <455>   212642  26-Sep-78	16:02	20-Sep-78   0		[100,200,EXTRA]
+  Total of 2 blocks in 1 file Checksum = 212642
+
+CIRCLE	FTN     2  <155>   336067  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,FTN]
+ENDPLT	FTN     3  <155>   331500  21-Jul-78	 9:58	21-Jul-78  10
+ERRTST	FTN     1  <155>   365725  21-Jul-78	10:00	21-Jul-78  10
+GRID	FTN     1  <155>   577541  21-Jul-78	 9:57	21-Jul-78  10
+PAGE	FTN     1  <155>   515510  21-Jul-78	 9:57	21-Jul-78  10
+PAPER	FTN     1  <155>   542371  21-Jul-78	 9:59	21-Jul-78  10
+PLTARR	FTN     3  <155>   355724  21-Jul-78	 9:57	21-Jul-78  10
+PLTEQU	FTN     2  <155>   770375  21-Jul-78	 9:57	21-Jul-78  10
+PLTSEG	FTN     7  <155>   422445  21-Jul-78	 9:58	21-Jul-78  10
+PRINT	FTN     2  <155>   723511  21-Jul-78	 9:57	21-Jul-78  10
+SKIP	FTN     1  <155>   234272  21-Jul-78	 9:57	21-Jul-78  10
+TEST	FTN     2  <155>   530120  21-Jul-78	 9:59	21-Jul-78  10
+TEST1	FTN     5  <155>   540576  21-Jul-78	 9:59	21-Jul-78  10
+TICK	FTN     1  <155>   506244  21-Jul-78	 9:57	21-Jul-78  10
+TSTDRV	FTN     2  <155>   744070  21-Jul-78	 9:40	21-Jul-78  10
+TSTLOG	FTN     2  <155>   140756  21-Jul-78	 9:59	21-Jul-78  10
+VATT	FTN     2  <155>   267560  21-Jul-78	 9:40	21-Jul-78  10
+VBLKD	FTN    11  <155>   377565  21-Jul-78	 9:40	21-Jul-78  10
+VCIGT	FTN     1  <155>   601610  21-Jul-78	 9:58	21-Jul-78  10
+VCNCT	FTN     2  <155>   762133  21-Jul-78	 9:59	21-Jul-78  10
+VCNGT	FTN     1  <155>   650147  21-Jul-78	 9:58	21-Jul-78  10
+VCVT	FTN     2  <155>   145770  21-Jul-78	 9:58	21-Jul-78  10
+VDET	FTN     1  <155>   656170  21-Jul-78	 9:40	21-Jul-78  10
+VGETXY	FTN     6  <155>   527374  21-Jul-78	 9:59	21-Jul-78  10
+VIPCN	FTN     2  <155>   622247  21-Jul-78	 9:58	21-Jul-78  10
+VPERR	FTN     1  <155>   636075  21-Jul-78	 9:40	21-Jul-78  10
+VPLT	FTN     2  <155>   616712  21-Jul-78	 9:40	21-Jul-78  10
+VPNT	FTN     2  <155>   701731  21-Jul-78	 9:40	21-Jul-78  10
+VPSYM	FTN     4  <155>   767444  21-Jul-78	 9:59	21-Jul-78  10
+VSINIT	FTN     4  <155>   456136  21-Jul-78	 9:58	21-Jul-78  10
+VSPP	FTN     2  <155>   526157  21-Jul-78	 9:40	21-Jul-78  10
+VXGRID	FTN     3  <155>   541037  21-Jul-78	 9:58	21-Jul-78  10
+VXLAB	FTN     3  <155>   247320  21-Jul-78	 9:58	21-Jul-78  10
+VXTICK	FTN     2  <155>   731570  21-Jul-78	 9:58	21-Jul-78  10
+VYCTGD	FTN     2  <155>   261731  21-Jul-78	 9:58	21-Jul-78  10
+VYLAB	FTN     2  <155>   307060  21-Jul-78	 9:58	21-Jul-78  10
+XAXIS	FTN     3  <155>   335626  21-Jul-78	 9:57	21-Jul-78  10
+XTITLE	FTN     1  <155>   142240  21-Jul-78	 9:57	21-Jul-78  10
+YAXIS	FTN     3  <155>   257303  21-Jul-78	 9:57	21-Jul-78  10
+  Total of 98 blocks in 39 files Checksum = 006146
+
+ALGOL	FUN    12  <155>   677407  21-Jul-78	 9:42	21-Jul-78  10		[100,200,EXTRA,HAZEL,ALGOL]
+CURHAZ	ALG     2  <157>   520474  21-Jul-78	 9:42	21-Jul-78  10
+CURHAZ	REL     7  <057>   141475  21-Jul-78	 9:42	21-Jul-78  10
+HAZBEN	ALG     5  <057>   006645  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	ALG     3  <157>   547173  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	EXE    16  <057>   706035  28-Jul-78	 9:42	21-Jul-78  10
+HAZEL	REL     9  <057>   332525  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	SYM     4  <057>   765325  21-Jul-78	 9:42	21-Jul-78  10
+PING	ALG     7  <157>   620656  21-Jul-78	 9:42	21-Jul-78  10
+PING	EXE    16  <057>   505436  21-Jul-78	 9:42	21-Jul-78  10
+PING	REL    12  <057>   445313  21-Jul-78	 9:42	21-Jul-78  10
+PING	SYM    10  <057>   535440  21-Jul-78	 9:42	21-Jul-78  10
+  Total of 103 blocks in 12 files Checksum = 224762
+
+CURHAZ	DOC    22  <057>   466242  21-Jul-78	 9:51	21-Jul-78  10		[100,200,EXTRA,HAZEL,CURHAZ]
+CURHAZ	MAC    32  <057>   165643  21-Jul-78	 9:51	21-Jul-78  10
+CURHAZ	X01    25  <057>   472650  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	MAC     4  <057>   276543  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	UNV     2  <057>   230676  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 85 blocks in 5 files Checksum = 067444
+
+1	        1  <057>   242546  21-Jul-78	 9:52	21-Jul-78  10		[100,200,EXTRA,HAZEL,DPYLIB]
+BOTHER	CBL     1  <057>   550162  21-Jul-78	 9:51	21-Jul-78  10
+BOTHER	EXE    20  <057>   211623  21-Jul-78	 9:52	21-Jul-78  10
+DPY	CBL    13  <057>   142606  21-Jul-78	 9:52	21-Jul-78  10
+DPY	EXE    40  <057>   124200  21-Jul-78	 9:52	21-Jul-78  10
+DPY	REL    20  <057>   163773  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	CAB   109  <057>   133402  31-Aug-78	 9:51	21-Jul-78  10
+DPYLIB	DOC    46  <057>   343534  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	MAC   116  <057>   513314   1-Sep-78	 9:51	21-Jul-78  10
+DPYLIB	REL    26  <057>   366222   1-Sep-78	 9:52	21-Jul-78  10
+DPYLIB	SPL     3  <057>   461510  21-Jul-78	 9:53	21-Jul-78  10
+MACTEN	CTL     2  <057>   351342  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	MAC    43  <057>   046562  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	UNV    30  <057>   024341  21-Jul-78	 9:52	21-Jul-78  10
+NEW	SAV    82  <057>   543542  21-Jul-78	 9:52	21-Jul-78  10	40(220)
+UUOSYM	CTL     3  <057>   011424  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	MAC   207  <057>   140522  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	UNV    50  <057>   221076  13-Sep-78	 9:52	21-Jul-78  10
+X	MAC     3  <057>   641310  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 815 blocks in 19 files Checksum = 453261
+
+HAZEL	MAC     5  <057>   455355  11-Sep-78	 8:46	26-Aug-74   1		[100,200,EXTRA,HAZEL]
+  Total of 5 blocks in 1 file Checksum = 455355
+
+CURHAZ	ALG     2  <157>   455562  29-Nov-77	     	 9-Jul-74   0		[100,200,EXTRA,HAZEL,MORE]
+CURHAZ	DOC    18  <157>   112074  29-Nov-77	     	17-Aug-74   0
+CURHAZ	MAC    24  <157>   014362   3-Mar-78	     	19-Aug-74   0
+CURHAZ	OLD    23  <157>   121206   3-Mar-78	     	 2-Jul-74   0
+CURHAZ	REL     5  <057>   616601   3-Mar-78	23:15	 3-Mar-78  14
+HAZEL	ALG     2  <157>   321554  29-Nov-77	     	10-Jul-74   0
+HAZEL	MAC     5  <157>   455355   3-Mar-78	     	12-Jan-74   0
+HAZEL	REL     2  <057>   627324   3-Mar-78	23:14	 3-Mar-78  14
+MASK4	MAC     2  <157>   604524  29-Nov-77	     	29-Aug-74   0
+MWHEEL	HLD     1  <157>   031566   3-Mar-78	23:09	 3-Mar-78   0
+PING	ALG     7  <157>   540740  29-Nov-77	     	 8-Aug-74   0
+SCREWS	CUA     1  <057>   031566   3-Mar-78	10:19	 5-Jan-75   0
+SCROLL	MAC     4  <157>   065114   3-Mar-78	     	13-Aug-74   0
+SCROLL	SAV     2  <157>   245427   3-Mar-78	     	13-Aug-74   0
+SCROLL	SRC     4  <157>   226642  29-Nov-77	     	13-Aug-74   0
+TUG	MAC     6  <157>   526675   3-Mar-78	     	12-Feb-75   0
+TUG	REL     3  <057>   402466   3-Mar-78	23:13	 3-Mar-78  14
+UPDATE	MAC    23  <157>   630075  29-Nov-77	     	13-Aug-74   0
+UPDATE	SAV     6  <157>   616527   3-Mar-78	     	13-Aug-74   0	1-2
+UPDATE	SRC    23  <157>   065124  29-Nov-77	     	13-Aug-74   0
+X	        2  <057>   676706   3-Mar-78	23:09	 3-Mar-78   0
+  Total of 165 blocks in 21 files Checksum = 667433
+
+DPY	CBL    25  <455>   443377   9-Aug-78	20:48	 9-Aug-78   0		[100,200,EXTRA,HAZEL,PDP11]
+HAZEL	MAC    32  <455>   244765  13-Sep-78	20:44	 9-Aug-78   0
+  Total of 57 blocks in 2 files Checksum = 564616
+
+ARPA	MAN   172  <057>   174557  24-Jul-78	     	 9-Mar-76   0		[100,200,EXTRA,MIT]
+ARPA	NET     8  <057>   246773  24-Jul-78	     	 2-Mar-76   0
+DDT	HLP     1  <057>   141756  24-Jul-78	     	27-Sep-76   0
+DDT	MAN   251  <057>   513270  24-Jul-78	     	28-Sep-76   0
+HOSTS	IMP    13  <057>   177651  24-Jul-78	     	 8-Mar-76   0
+HOSTS	MCH    21  <057>   172527  24-Jul-78	     	 8-Mar-76   0
+HOSTS	NUM     7  <057>   006026  24-Jul-78	     	 8-Mar-76   0
+MITECO	MAN   249  <057>   232127  24-Jul-78	     	27-Sep-76   0
+TCTYP	HLP     3  <057>   652475  24-Jul-78	     	27-Sep-76   0
+TCTYP	MAN    25  <057>   517561  24-Jul-78	     	27-Sep-76   0
+  Total of 750 blocks in 10 files Checksum = 512675
+
+MPX	CRF    12  <057>   063460  12-Sep-78	 0:48	12-Sep-78   1		[100,200,EXTRA,MPX]
+MPX	MAC     3  <057>   525130  13-Sep-78	 0:47	12-Sep-78   0
+MPX	REL     2  <057>   533601  12-Sep-78	 0:48	12-Sep-78  14
+MPX	SAV     1  <057>   575607  13-Sep-78	19:04	 8-Sep-74  16
+  Total of 18 blocks in 4 files Checksum = 064362
+
+MT1010	NEW    11  <057>   532037  19-Sep-78	16:05	18-Dec-74  17		[100,200,EXTRA,MTADIR]
+MTA	BAK    11  <455>   532037  19-Sep-78	18:29	19-Sep-78  17
+MTA	DIR    11  <455>   532037  19-Sep-78	18:05	19-Sep-78  17
+MTA1	SHR     4  <057>   536574  19-Sep-78	23:17	16-May-74   1	6
+MTA2	SHR    24  <057>   267526  19-Sep-78	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <057>   205116  19-Sep-78	23:18	16-May-74   1	11
+MTADIR	SHR     6  <057>   321041  11-Sep-78	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <057>   750725  11-Sep-78	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <057>   173516  11-Sep-78	15:06	27-Feb-74  17
+PIP2	SHR    24  <057>   077154  19-Sep-78	22:06	16-Sep-74   1	(30)
+  Total of 154 blocks in 10 files Checksum = 753460
+
+PARITY	CCL     1  <057>   152775  24-Nov-76	22:13	 2-Feb-76   0		[100,200,EXTRA,PARITY]
+PARITY	CMD     1  <057>   661551  19-Nov-76	23:11	 9-Feb-76   0
+PARITY	LOW     2  <057>   450701  28-Jun-77	15:54	31-May-77  16
+PARITY	MAC     7  <057>   100277  24-Nov-76	14:27	24-Nov-76   0
+PARITY	SHR     6  <057>   534715  28-Jun-77	15:54	31-May-77  16
+  Total of 17 blocks in 5 files Checksum = 052675
+
+CIO017	ODL    15  <155>   765150  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,PDP11,BUS34]
+CIO027	ODL    15  <155>   563054  21-Jul-78	 9:59	21-Jul-78  10
+CIO037	ODL    15  <155>   100717  21-Jul-78	 9:58	21-Jul-78  10
+CIO047	ODL    15  <155>   574367  21-Jul-78	 9:58	21-Jul-78  10
+CIO057	ODL    15  <155>   126173  21-Jul-78	 9:58	21-Jul-78  10
+CIO067	ODL    15  <155>   604220  21-Jul-78	 9:58	21-Jul-78  10
+CIO077	ODL    15  <155>   345420  21-Jul-78	 9:58	21-Jul-78  10
+DPY	ODL     1  <155>   443250  21-Jul-78	 9:59	21-Jul-78  10
+DPYCBL	CMD     1  <057>   062154  21-Jul-78	 9:59	21-Jul-78  10
+DPYHAZ	ODL     2  <155>   223571  21-Jul-78	10:00	21-Jul-78  10
+KSYS	LOG     1  <057>   244473  21-Jul-78	10:00	21-Jul-78  10
+  Total of 110 blocks in 11 files Checksum = 257525
+
+CAR	P11     2  <155>   165350  21-Jul-78	 9:41	21-Jul-78  10		[100,200,EXTRA,PDP11,OTHER]
+DEF40	P11    21  <155>   321204  21-Jul-78	 9:41	21-Jul-78  10
+TIME	P11     1  <155>   120452  21-Jul-78	 9:41	21-Jul-78  10
+  Total of 24 blocks in 3 files Checksum = 300600
+
+INTERP	CTL     1  <157>   103733  27-Mar-74	 0:01	27-Mar-74   0		[100,200,EXTRA,POLISH]
+INTERP	MAC    12  <157>   727176  11-Sep-78	23:28	26-Feb-74   0
+POLIS2	TEC    14  <155>   134607  21-Jul-78	 9:47	21-Jul-78  10
+POLISH	TEC    12  <155>   416217  21-Jul-78	 9:47	21-Jul-78  10
+PRT	CTL     1  <155>   433052  21-Jul-78	 9:46	21-Jul-78  10
+  Total of 40 blocks in 5 files Checksum = 746556
+
+GETSAT	F4      2  <155>   226144  11-Sep-78	     	18-May-74   1		[100,200,EXTRA,POLY]
+GETSIT	MAC     5  <157>   203606  11-Sep-78	     	18-May-74   1
+POLY1	F4      2  <155>   677353  11-Sep-78	     	18-May-74   1
+POLY1	SAV     6  <155>   310767  11-Sep-78	15:46	27-Feb-74  14	P(2)
+  Total of 15 blocks in 4 files Checksum = 325147
+
+RENBR	F4     89  <155>   325041  11-Sep-78	15:45	27-Feb-74  14		[100,200,EXTRA,RENBR]
+RENBR	HLP     5  <155>   476715  11-Sep-78	15:45	27-Feb-74  14
+  Total of 94 blocks in 2 files Checksum = 570051
+
+FIX	FOR     3  <457>   721214  20-Jul-78	 2:30	 1-Jun-78   0		[100,200,EXTRA,RIPPER]
+FIX	SAI     2  <457>   651461  19-May-78	16:44	 7-Oct-74   1
+RIPPER	EXE    12  <457>   233557  19-Sep-78	 9:17	21-Jul-78  16
+RIPPER	FOR     7  <457>   556054   3-Aug-78	 9:10	21-Jul-78   0
+RIPPER	REL     7  <457>   114001  28-Jul-78	 9:17	21-Jul-78  14
+SIXTO7	MAC     2  <457>   627411  19-Jul-78	16:30	 8-Mar-78   0
+SIXTO7	REL     1  <457>   416166  21-Jul-78	 5:07	19-Jul-78  14
+  Total of 34 blocks in 7 files Checksum = 425712
+
+4010	SML     3  <155>   002674  21-Jul-78	 9:46	21-Jul-78  10		[100,200,EXTRA,RT11]
+BATCON	OBJ     4  <155>   551520  21-Jul-78	 9:46	21-Jul-78  10
+BATCON	P11    24  <155>   514756  21-Jul-78	 9:49	21-Jul-78  10
+CARL	SML     5  <155>   760741  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	OBJ     1  <155>   606777  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	P11     1  <155>   600262  21-Jul-78	 9:49	21-Jul-78  10
+COMAND	OBJ     6  <155>   537242  21-Jul-78	 9:46	21-Jul-78  10
+COMAND	P11    13  <155>   272560  21-Jul-78	 9:49	21-Jul-78  10
+ENGLND	SML    12  <155>   131243  21-Jul-78	 9:46	21-Jul-78  10
+FORTRA	BLB    24  <155>   463052  21-Jul-78	 9:49	21-Jul-78  10
+GETNUM	OBJ     1  <155>   372454  21-Jul-78	 9:46	21-Jul-78  10
+GETNUM	P11     4  <155>   711174  21-Jul-78	 9:49	21-Jul-78  10
+GO	OBJ     2  <155>   244440  21-Jul-78	 9:46	21-Jul-78  10
+GO	P11     4  <155>   215550  21-Jul-78	 9:49	21-Jul-78  10
+HELP	OBJ     2  <155>   473014  21-Jul-78	 9:46	21-Jul-78  10
+HELP	P11     4  <155>   165356  21-Jul-78	 9:49	21-Jul-78  10
+INLINE	OBJ     1  <155>   222733  21-Jul-78	 9:46	21-Jul-78  10
+INLINE	P11     4  <155>   422243  21-Jul-78	 9:49	21-Jul-78  10
+INTERP	OBJ     1  <155>   526443  21-Jul-78	 9:46	21-Jul-78  10
+INTERP	P11     7  <155>   125273  21-Jul-78	 9:49	21-Jul-78  10
+LPSUNV	SML     2  <155>   345741  21-Jul-78	 9:46	21-Jul-78  10
+METEOR	P11   122  <155>   734555  21-Jul-78	 9:48	21-Jul-78  10
+MOD	P11     5  <155>   612221  21-Jul-78	 9:49	21-Jul-78  10
+MPY	OBJ     1  <155>   712651  21-Jul-78	 9:46	21-Jul-78  10
+MPY	P11     3  <155>   042075  21-Jul-78	 9:49	21-Jul-78  10
+MSGOUT	OBJ     1  <155>   753251  21-Jul-78	 9:46	21-Jul-78  10
+MSGOUT	P11     2  <155>   031732  21-Jul-78	 9:49	21-Jul-78  10
+OUTNUM	OBJ     1  <155>   571770  21-Jul-78	 9:46	21-Jul-78  10
+OUTNUM	P11     4  <155>   134150  21-Jul-78	 9:48	21-Jul-78  10
+READ	P11     2  <155>   046751  21-Jul-78	 9:48	21-Jul-78  10
+RSXMC	300    18  <155>   116165  21-Jul-78	 9:46	21-Jul-78  10
+RSXMC	P11     9  <155>   420203  21-Jul-78	 9:48	21-Jul-78  10
+SAVACS	OBJ     1  <155>   071103  21-Jul-78	 9:46	21-Jul-78  10
+SAVACS	P11     2  <155>   711051  21-Jul-78	 9:48	21-Jul-78  10
+SAVERT	OBJ     1  <155>   332531  21-Jul-78	 9:45	21-Jul-78  10
+SAVERT	P11     2  <155>   660200  21-Jul-78	 9:48	21-Jul-78  10
+SPEED	CRF     8  <155>   264367  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	MAC     3  <155>   177040  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	REL     2  <155>   374571  21-Jul-78	 9:45	21-Jul-78  10
+SPOOL	P11     1  <155>   654421  21-Jul-78	 9:48	21-Jul-78  10
+SYSMAC	RT2    15  <155>   730022  21-Jul-78	 9:37	21-Jul-78  10
+T	P11     4  <155>   544556  21-Jul-78	 9:48	21-Jul-78  10
+TAPE	P11    24  <155>   600375  21-Jul-78	 9:48	21-Jul-78  10
+TAPERD	P11    25  <155>   135756  21-Jul-78	 9:48	21-Jul-78  10
+TEST	P11     7  <155>   143611  21-Jul-78	 9:45	21-Jul-78  10
+TTYIN	P11     9  <155>   553742  21-Jul-78	 9:48	21-Jul-78  10
+TTYINT	P11    20  <155>   755537  21-Jul-78	 9:46	21-Jul-78  10
+TTYSPD	EXE     8  <155>   623073  21-Jul-78	 9:45	21-Jul-78  10
+  Total of 425 blocks in 48 files Checksum = 621656
+
+C	SAV     1  <455>   322267  19-Sep-78	15:32	19-Sep-78  16		[100,200,EXTRA,SALVO]
+CHANGE	HLP     1  <057>   200344  19-Sep-78	 0:16	12-Sep-78   0
+CHANGE	MAC     5  <057>   473312  19-Sep-78	12:01	 2-Sep-74   0
+CHANGE	SAV     1  <057>   322267  19-Sep-78	12:02	 2-Sep-74  16
+SALVO	EXE    24  <455>   642512  19-Sep-78	15:32	19-Sep-78  16	P(14)
+SALVO	LST   110  <455>   004752  19-Sep-78	16:07	19-Sep-78   0
+SALVO	MAC    50  <057>   016732  19-Sep-78	23:04	 5-Sep-74   1
+SALVO	REL    18  <455>   463202  19-Sep-78	15:26	19-Sep-78  14
+SALVO1	SHR    13  <057>   431431  19-Sep-78	11:58	 2-Sep-74   1
+  Total of 223 blocks in 9 files Checksum = 015065
+
+CLASS2	001     2  <155>   770362  21-Jul-78	 9:47	21-Jul-78  10		[100,200,EXTRA,SIGN]
+TESTST	WRD     1  <155>   046337  21-Jul-78	 9:47	21-Jul-78  10
+VOCABU	        4  <155>   037730  21-Jul-78	 9:47	21-Jul-78  10
+  Total of 7 blocks in 3 files Checksum = 534163
+
+ED	TEC     2  <157>   511610  20-Apr-74	 0:09	 8-Apr-74   0		[100,200,EXTRA,TEC]
+EDIT	TEC     2  <155>   537644  21-Jul-78	 9:26	21-Jul-78  10
+FILE	EXT     1  <155>   542027  12-Sep-78	10:54	11-Sep-74   0
+LOCAL	TEC     2  <155>   200342  21-Jul-78	 9:26	21-Jul-78  10
+MRHRNO	TEC     2  <155>   277270  21-Jul-78	 9:53	21-Jul-78  10
+NOTICE	SYS     3  <057>   773615   3-Aug-78	17:09	25-Jul-78   0
+NOTICE	TXT     3  <157>   250607  11-Sep-78	20:19	21-Feb-74   0
+ORDER	TEC     1  <155>   603524  21-Jul-78	 9:26	21-Jul-78  10
+PI	TEC     1  <155>   451062  21-Jul-78	 9:26	21-Jul-78  10
+SORT	TEC     1  <155>   126252  21-Jul-78	 9:26	21-Jul-78  10
+TEC	RNO    13  <157>   172246  11-Sep-78	23:48	19-Feb-74   0
+TECO	DOC   352  <155>   564661   2-Sep-78	 9:25	21-Jul-78  10
+TECO	HLP    12  <157>   761610  11-Sep-78	21:00	26-Feb-74   0
+TECO	RNO   190  <155>   045522  21-Jul-78	 9:26	21-Jul-78  10
+TECO28	DOC     4  <155>   064771  21-Jul-78	 9:25	21-Jul-78  10
+TECO29	DOC     8  <155>   617335  21-Jul-78	 9:25	21-Jul-78  10
+VERSIO	TEC     2  <155>   613676  21-Jul-78	 9:26	21-Jul-78  10
+VT05	TEC     1  <155>   540035  21-Jul-78	 9:49	21-Jul-78  10
+VT52	TEC     7  <155>   466026  21-Jul-78	 9:25	21-Jul-78  10
+  Total of 607 blocks in 19 files Checksum = 527641
+
+CP	MAC     5  <155>   144625  11-Aug-78	 3:32	11-Aug-78   0		[100,200,EXTRA,TEST]
+CP	REL     3  <155>   272165  11-Aug-78	 3:46	11-Aug-78  14
+T	EXE     8  <155>   371606  11-Aug-78	 9:33	21-Jul-78  10
+TEST	MAC     1  <155>   623136  11-Sep-78	15:42	 8-Sep-74   0
+TEST2	MAC     5  <155>   571552  11-Aug-78	 9:33	21-Jul-78  10
+TEST2	REL     2  <155>   212104  11-Aug-78	 3:46	11-Aug-78  14
+TTY	EXE     8  <155>   234026  11-Aug-78	 9:33	21-Jul-78  10
+TTY	MAC     7  <155>   562226  11-Aug-78	 9:33	21-Jul-78  10
+TTY	REL     3  <155>   026066  11-Aug-78	 3:46	11-Aug-78  14
+TTYX	EXE     8  <155>   140462  21-Jul-78	 9:33	21-Jul-78  10
+TTYX	MAC     3  <155>   415003  11-Aug-78	 9:33	21-Jul-78  10
+TTYX	REL     2  <155>   142101  11-Aug-78	 3:46	11-Aug-78  14
+U	EXE     8  <057>   043146  11-Aug-78	 3:36	11-Aug-78  16
+  Total of 63 blocks in 13 files Checksum = 345032
+
+DSKCHR	MAC    14  <155>   571650  21-Jul-78	 9:58	21-Jul-78  10		[100,200,EXTRA,TEST1]
+DSKCHR	REL     4  <155>   657241  21-Jul-78	 9:57	21-Jul-78  10
+G	FOR     1  <155>   462700  21-Jul-78	 9:34	21-Jul-78  10
+GRID	FOR     3  <155>   256352  21-Jul-78	 9:34	21-Jul-78  10
+IGNORE	MAC     1  <155>   041351  11-Aug-78	 9:33	21-Jul-78  10
+IGNORE	REL     1  <155>   175074  11-Aug-78	 3:48	11-Aug-78  14
+STRTRK	VEC     7  <155>   127662  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	MEM     4  <155>   144654  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	RNO     3  <155>   351262  21-Jul-78	 9:34	21-Jul-78  10
+  Total of 38 blocks in 9 files Checksum = 712650
+
+ARTIST	BX      5  <155>   272745   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE,OLD]
+LIBOL6	SHR    67  <057>   545576   9-Sep-78	18:41	17-Dec-74   1	6(262)
+OLD	COM     1  <057>   165150  26-Sep-78	16:02	20-Sep-78   0
+RECORD	XXX    17  <057>   361515   9-Sep-78	19:02	 9-Sep-78   0
+T	M01    17  <155>   566230  25-Aug-78	 9:18	21-Jul-78  10
+TAPSUB	M01    48  <155>   532613  25-Aug-78	 9:18	21-Jul-78  10
+TITLE	S01    11  <155>   647217   9-Sep-78	 9:18	21-Jul-78  10
+TITLES	BX      6  <155>   650210   9-Sep-78	 9:18	21-Jul-78  10
+  Total of 172 blocks in 8 files Checksum = 631266
+
+RECORD	INP     8  <155>   230743   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE]
+SONGS	DAT     2  <155>   743607  11-Sep-78	15:41	27-Feb-74  14
+TAPMAC	MAC     1  <155>   015574  25-Aug-78	 9:18	21-Jul-78  10
+TAPMAC	UNV     1  <155>   217351  25-Aug-78	 1:24	25-Aug-78  14
+TAPSUB	MAC    47  <155>   052277   9-Sep-78	 9:18	21-Jul-78  10
+TITLE	CBL    16  <155>   275175  21-Jul-78	 9:19	21-Jul-78  10
+TITLE	COM     2  <057>   033165  26-Sep-78	16:02	20-Sep-78   0
+X	X      10  <057>   044112   9-Sep-78	20:28	 9-Sep-78   0
+  Total of 87 blocks in 8 files Checksum = 777416
+  Grand total of 4588 blocks in 286 files Checksum = 067436
+
+  BACKUP reel number 1; end save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 21:33:38 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+
+  BACKUP reel number 1; start save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 22:26:29 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+BILL10	CBL   165  <057>   200317  15-Dec-77	19:20	 7-Oct-77   0		[100,200,EXTRA,BILL10]
+BILSUB	CBL     6  <057>   206045   5-Sep-78	18:23	19-Jul-76   0
+BILSWT	CBL    26  <057>   345300  15-Dec-77	18:27	14-Dec-76   0
+BILSWT	MBC    27  <057>   625161   7-Sep-78	11:00	 6-Dec-76   0
+  Total of 224 blocks in 4 files Checksum = 440022
+
+BIO	SAV    15  <057>   536411   3-Aug-78	     	 6-Mar-75   0	31(225)-3	[100,200,EXTRA,BOTHEL]
+BOTHEL	BAS    16  <057>   060016   3-Aug-78	     	 6-Apr-78   0
+BOTHEL	MIC     1  <057>   073770   3-Aug-78	     	 3-Mar-78   0
+STRTRK	EXE   124  <057>   302661   3-Aug-78	     	13-Jul-78   0	(1)
+  Total of 156 blocks in 4 files Checksum = 011651
+
+EXTRA	COM     2  <455>   212642  26-Sep-78	16:02	20-Sep-78   0		[100,200,EXTRA]
+  Total of 2 blocks in 1 file Checksum = 212642
+
+CIRCLE	FTN     2  <155>   336067  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,FTN]
+ENDPLT	FTN     3  <155>   331500  21-Jul-78	 9:58	21-Jul-78  10
+ERRTST	FTN     1  <155>   365725  21-Jul-78	10:00	21-Jul-78  10
+GRID	FTN     1  <155>   577541  21-Jul-78	 9:57	21-Jul-78  10
+PAGE	FTN     1  <155>   515510  21-Jul-78	 9:57	21-Jul-78  10
+PAPER	FTN     1  <155>   542371  21-Jul-78	 9:59	21-Jul-78  10
+PLTARR	FTN     3  <155>   355724  21-Jul-78	 9:57	21-Jul-78  10
+PLTEQU	FTN     2  <155>   770375  21-Jul-78	 9:57	21-Jul-78  10
+PLTSEG	FTN     7  <155>   422445  21-Jul-78	 9:58	21-Jul-78  10
+PRINT	FTN     2  <155>   723511  21-Jul-78	 9:57	21-Jul-78  10
+SKIP	FTN     1  <155>   234272  21-Jul-78	 9:57	21-Jul-78  10
+TEST	FTN     2  <155>   530120  21-Jul-78	 9:59	21-Jul-78  10
+TEST1	FTN     5  <155>   540576  21-Jul-78	 9:59	21-Jul-78  10
+TICK	FTN     1  <155>   506244  21-Jul-78	 9:57	21-Jul-78  10
+TSTDRV	FTN     2  <155>   744070  21-Jul-78	 9:40	21-Jul-78  10
+TSTLOG	FTN     2  <155>   140756  21-Jul-78	 9:59	21-Jul-78  10
+VATT	FTN     2  <155>   267560  21-Jul-78	 9:40	21-Jul-78  10
+VBLKD	FTN    11  <155>   377565  21-Jul-78	 9:40	21-Jul-78  10
+VCIGT	FTN     1  <155>   601610  21-Jul-78	 9:58	21-Jul-78  10
+VCNCT	FTN     2  <155>   762133  21-Jul-78	 9:59	21-Jul-78  10
+VCNGT	FTN     1  <155>   650147  21-Jul-78	 9:58	21-Jul-78  10
+VCVT	FTN     2  <155>   145770  21-Jul-78	 9:58	21-Jul-78  10
+VDET	FTN     1  <155>   656170  21-Jul-78	 9:40	21-Jul-78  10
+VGETXY	FTN     6  <155>   527374  21-Jul-78	 9:59	21-Jul-78  10
+VIPCN	FTN     2  <155>   622247  21-Jul-78	 9:58	21-Jul-78  10
+VPERR	FTN     1  <155>   636075  21-Jul-78	 9:40	21-Jul-78  10
+VPLT	FTN     2  <155>   616712  21-Jul-78	 9:40	21-Jul-78  10
+VPNT	FTN     2  <155>   701731  21-Jul-78	 9:40	21-Jul-78  10
+VPSYM	FTN     4  <155>   767444  21-Jul-78	 9:59	21-Jul-78  10
+VSINIT	FTN     4  <155>   456136  21-Jul-78	 9:58	21-Jul-78  10
+VSPP	FTN     2  <155>   526157  21-Jul-78	 9:40	21-Jul-78  10
+VXGRID	FTN     3  <155>   541037  21-Jul-78	 9:58	21-Jul-78  10
+VXLAB	FTN     3  <155>   247320  21-Jul-78	 9:58	21-Jul-78  10
+VXTICK	FTN     2  <155>   731570  21-Jul-78	 9:58	21-Jul-78  10
+VYCTGD	FTN     2  <155>   261731  21-Jul-78	 9:58	21-Jul-78  10
+VYLAB	FTN     2  <155>   307060  21-Jul-78	 9:58	21-Jul-78  10
+XAXIS	FTN     3  <155>   335626  21-Jul-78	 9:57	21-Jul-78  10
+XTITLE	FTN     1  <155>   142240  21-Jul-78	 9:57	21-Jul-78  10
+YAXIS	FTN     3  <155>   257303  21-Jul-78	 9:57	21-Jul-78  10
+  Total of 98 blocks in 39 files Checksum = 006146
+
+ALGOL	FUN    12  <155>   677407  21-Jul-78	 9:42	21-Jul-78  10		[100,200,EXTRA,HAZEL,ALGOL]
+CURHAZ	ALG     2  <157>   520474  21-Jul-78	 9:42	21-Jul-78  10
+CURHAZ	REL     7  <057>   141475  21-Jul-78	 9:42	21-Jul-78  10
+HAZBEN	ALG     5  <057>   006645  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	ALG     3  <157>   547173  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	EXE    16  <057>   706035  28-Jul-78	 9:42	21-Jul-78  10
+HAZEL	REL     9  <057>   332525  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	SYM     4  <057>   765325  21-Jul-78	 9:42	21-Jul-78  10
+PING	ALG     7  <157>   620656  21-Jul-78	 9:42	21-Jul-78  10
+PING	EXE    16  <057>   505436  21-Jul-78	 9:42	21-Jul-78  10
+PING	REL    12  <057>   445313  21-Jul-78	 9:42	21-Jul-78  10
+PING	SYM    10  <057>   535440  21-Jul-78	 9:42	21-Jul-78  10
+  Total of 103 blocks in 12 files Checksum = 224762
+
+CURHAZ	DOC    22  <057>   466242  21-Jul-78	 9:51	21-Jul-78  10		[100,200,EXTRA,HAZEL,CURHAZ]
+CURHAZ	MAC    32  <057>   165643  21-Jul-78	 9:51	21-Jul-78  10
+CURHAZ	X01    25  <057>   472650  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	MAC     4  <057>   276543  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	UNV     2  <057>   230676  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 85 blocks in 5 files Checksum = 067444
+
+1	        1  <057>   242546  21-Jul-78	 9:52	21-Jul-78  10		[100,200,EXTRA,HAZEL,DPYLIB]
+BOTHER	CBL     1  <057>   550162  21-Jul-78	 9:51	21-Jul-78  10
+BOTHER	EXE    20  <057>   211623  21-Jul-78	 9:52	21-Jul-78  10
+DPY	CBL    13  <057>   142606  21-Jul-78	 9:52	21-Jul-78  10
+DPY	EXE    40  <057>   124200  21-Jul-78	 9:52	21-Jul-78  10
+DPY	REL    20  <057>   163773  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	CAB   109  <057>   133402  31-Aug-78	 9:51	21-Jul-78  10
+DPYLIB	DOC    46  <057>   343534  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	MAC   116  <057>   513314   1-Sep-78	 9:51	21-Jul-78  10
+DPYLIB	REL    26  <057>   366222   1-Sep-78	 9:52	21-Jul-78  10
+DPYLIB	SPL     3  <057>   461510  21-Jul-78	 9:53	21-Jul-78  10
+MACTEN	CTL     2  <057>   351342  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	MAC    43  <057>   046562  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	UNV    30  <057>   024341  21-Jul-78	 9:52	21-Jul-78  10
+NEW	SAV    82  <057>   543542  21-Jul-78	 9:52	21-Jul-78  10	40(220)
+UUOSYM	CTL     3  <057>   011424  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	MAC   207  <057>   140522  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	UNV    50  <057>   221076  13-Sep-78	 9:52	21-Jul-78  10
+X	MAC     3  <057>   641310  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 815 blocks in 19 files Checksum = 453261
+
+HAZEL	MAC     5  <057>   455355  11-Sep-78	 8:46	26-Aug-74   1		[100,200,EXTRA,HAZEL]
+  Total of 5 blocks in 1 file Checksum = 455355
+
+CURHAZ	ALG     2  <157>   455562  29-Nov-77	     	 9-Jul-74   0		[100,200,EXTRA,HAZEL,MORE]
+CURHAZ	DOC    18  <157>   112074  29-Nov-77	     	17-Aug-74   0
+CURHAZ	MAC    24  <157>   014362   3-Mar-78	     	19-Aug-74   0
+CURHAZ	OLD    23  <157>   121206   3-Mar-78	     	 2-Jul-74   0
+CURHAZ	REL     5  <057>   616601   3-Mar-78	23:15	 3-Mar-78  14
+HAZEL	ALG     2  <157>   321554  29-Nov-77	     	10-Jul-74   0
+HAZEL	MAC     5  <157>   455355   3-Mar-78	     	12-Jan-74   0
+HAZEL	REL     2  <057>   627324   3-Mar-78	23:14	 3-Mar-78  14
+MASK4	MAC     2  <157>   604524  29-Nov-77	     	29-Aug-74   0
+MWHEEL	HLD     1  <157>   031566   3-Mar-78	23:09	 3-Mar-78   0
+PING	ALG     7  <157>   540740  29-Nov-77	     	 8-Aug-74   0
+SCREWS	CUA     1  <057>   031566   3-Mar-78	10:19	 5-Jan-75   0
+SCROLL	MAC     4  <157>   065114   3-Mar-78	     	13-Aug-74   0
+SCROLL	SAV     2  <157>   245427   3-Mar-78	     	13-Aug-74   0
+SCROLL	SRC     4  <157>   226642  29-Nov-77	     	13-Aug-74   0
+TUG	MAC     6  <157>   526675   3-Mar-78	     	12-Feb-75   0
+TUG	REL     3  <057>   402466   3-Mar-78	23:13	 3-Mar-78  14
+UPDATE	MAC    23  <157>   630075  29-Nov-77	     	13-Aug-74   0
+UPDATE	SAV     6  <157>   616527   3-Mar-78	     	13-Aug-74   0	1-2
+UPDATE	SRC    23  <157>   065124  29-Nov-77	     	13-Aug-74   0
+X	        2  <057>   676706   3-Mar-78	23:09	 3-Mar-78   0
+  Total of 165 blocks in 21 files Checksum = 667433
+
+DPY	CBL    25  <455>   443377   9-Aug-78	20:48	 9-Aug-78   0		[100,200,EXTRA,HAZEL,PDP11]
+HAZEL	MAC    32  <455>   244765  13-Sep-78	20:44	 9-Aug-78   0
+  Total of 57 blocks in 2 files Checksum = 564616
+
+ARPA	MAN   172  <057>   174557  24-Jul-78	     	 9-Mar-76   0		[100,200,EXTRA,MIT]
+ARPA	NET     8  <057>   246773  24-Jul-78	     	 2-Mar-76   0
+DDT	HLP     1  <057>   141756  24-Jul-78	     	27-Sep-76   0
+DDT	MAN   251  <057>   513270  24-Jul-78	     	28-Sep-76   0
+HOSTS	IMP    13  <057>   177651  24-Jul-78	     	 8-Mar-76   0
+HOSTS	MCH    21  <057>   172527  24-Jul-78	     	 8-Mar-76   0
+HOSTS	NUM     7  <057>   006026  24-Jul-78	     	 8-Mar-76   0
+MITECO	MAN   249  <057>   232127  24-Jul-78	     	27-Sep-76   0
+TCTYP	HLP     3  <057>   652475  24-Jul-78	     	27-Sep-76   0
+TCTYP	MAN    25  <057>   517561  24-Jul-78	     	27-Sep-76   0
+  Total of 750 blocks in 10 files Checksum = 512675
+
+MPX	CRF    12  <057>   063460  12-Sep-78	 0:48	12-Sep-78   1		[100,200,EXTRA,MPX]
+MPX	MAC     3  <057>   525130  13-Sep-78	 0:47	12-Sep-78   0
+MPX	REL     2  <057>   533601  12-Sep-78	 0:48	12-Sep-78  14
+MPX	SAV     1  <057>   575607  13-Sep-78	19:04	 8-Sep-74  16
+  Total of 18 blocks in 4 files Checksum = 064362
+
+MT1010	NEW    11  <057>   532037  19-Sep-78	16:05	18-Dec-74  17		[100,200,EXTRA,MTADIR]
+MTA	BAK    11  <455>   532037  19-Sep-78	18:29	19-Sep-78  17
+MTA	DIR    11  <455>   532037  19-Sep-78	18:05	19-Sep-78  17
+MTA1	SHR     4  <057>   536574  19-Sep-78	23:17	16-May-74   1	6
+MTA2	SHR    24  <057>   267526  19-Sep-78	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <057>   205116  19-Sep-78	23:18	16-May-74   1	11
+MTADIR	SHR     6  <057>   321041  11-Sep-78	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <057>   750725  11-Sep-78	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <057>   173516  11-Sep-78	15:06	27-Feb-74  17
+PIP2	SHR    24  <057>   077154  19-Sep-78	22:06	16-Sep-74   1	(30)
+  Total of 154 blocks in 10 files Checksum = 753460
+
+PARITY	CCL     1  <057>   152775  24-Nov-76	22:13	 2-Feb-76   0		[100,200,EXTRA,PARITY]
+PARITY	CMD     1  <057>   661551  19-Nov-76	23:11	 9-Feb-76   0
+PARITY	LOW     2  <057>   450701  28-Jun-77	15:54	31-May-77  16
+PARITY	MAC     7  <057>   100277  24-Nov-76	14:27	24-Nov-76   0
+PARITY	SHR     6  <057>   534715  28-Jun-77	15:54	31-May-77  16
+  Total of 17 blocks in 5 files Checksum = 052675
+
+CIO017	ODL    15  <155>   765150  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,PDP11,BUS34]
+CIO027	ODL    15  <155>   563054  21-Jul-78	 9:59	21-Jul-78  10
+CIO037	ODL    15  <155>   100717  21-Jul-78	 9:58	21-Jul-78  10
+CIO047	ODL    15  <155>   574367  21-Jul-78	 9:58	21-Jul-78  10
+CIO057	ODL    15  <155>   126173  21-Jul-78	 9:58	21-Jul-78  10
+CIO067	ODL    15  <155>   604220  21-Jul-78	 9:58	21-Jul-78  10
+CIO077	ODL    15  <155>   345420  21-Jul-78	 9:58	21-Jul-78  10
+DPY	ODL     1  <155>   443250  21-Jul-78	 9:59	21-Jul-78  10
+DPYCBL	CMD     1  <057>   062154  21-Jul-78	 9:59	21-Jul-78  10
+DPYHAZ	ODL     2  <155>   223571  21-Jul-78	10:00	21-Jul-78  10
+KSYS	LOG     1  <057>   244473  21-Jul-78	10:00	21-Jul-78  10
+  Total of 110 blocks in 11 files Checksum = 257525
+
+CAR	P11     2  <155>   165350  21-Jul-78	 9:41	21-Jul-78  10		[100,200,EXTRA,PDP11,OTHER]
+DEF40	P11    21  <155>   321204  21-Jul-78	 9:41	21-Jul-78  10
+TIME	P11     1  <155>   120452  21-Jul-78	 9:41	21-Jul-78  10
+  Total of 24 blocks in 3 files Checksum = 300600
+
+INTERP	CTL     1  <157>   103733  27-Mar-74	 0:01	27-Mar-74   0		[100,200,EXTRA,POLISH]
+INTERP	MAC    12  <157>   727176  11-Sep-78	23:28	26-Feb-74   0
+POLIS2	TEC    14  <155>   134607  21-Jul-78	 9:47	21-Jul-78  10
+POLISH	TEC    12  <155>   416217  21-Jul-78	 9:47	21-Jul-78  10
+PRT	CTL     1  <155>   433052  21-Jul-78	 9:46	21-Jul-78  10
+  Total of 40 blocks in 5 files Checksum = 746556
+
+GETSAT	F4      2  <155>   226144  11-Sep-78	     	18-May-74   1		[100,200,EXTRA,POLY]
+GETSIT	MAC     5  <157>   203606  11-Sep-78	     	18-May-74   1
+POLY1	F4      2  <155>   677353  11-Sep-78	     	18-May-74   1
+POLY1	SAV     6  <155>   310767  11-Sep-78	15:46	27-Feb-74  14	P(2)
+  Total of 15 blocks in 4 files Checksum = 325147
+
+RENBR	F4     89  <155>   325041  11-Sep-78	15:45	27-Feb-74  14		[100,200,EXTRA,RENBR]
+RENBR	HLP     5  <155>   476715  11-Sep-78	15:45	27-Feb-74  14
+  Total of 94 blocks in 2 files Checksum = 570051
+
+FIX	FOR     3  <457>   721214  20-Jul-78	 2:30	 1-Jun-78   0		[100,200,EXTRA,RIPPER]
+FIX	SAI     2  <457>   651461  19-May-78	16:44	 7-Oct-74   1
+RIPPER	EXE    12  <457>   233557  19-Sep-78	 9:17	21-Jul-78  16
+RIPPER	FOR     7  <457>   556054   3-Aug-78	 9:10	21-Jul-78   0
+RIPPER	REL     7  <457>   114001  28-Jul-78	 9:17	21-Jul-78  14
+SIXTO7	MAC     2  <457>   627411  19-Jul-78	16:30	 8-Mar-78   0
+SIXTO7	REL     1  <457>   416166  21-Jul-78	 5:07	19-Jul-78  14
+  Total of 34 blocks in 7 files Checksum = 425712
+
+4010	SML     3  <155>   002674  21-Jul-78	 9:46	21-Jul-78  10		[100,200,EXTRA,RT11]
+BATCON	OBJ     4  <155>   551520  21-Jul-78	 9:46	21-Jul-78  10
+BATCON	P11    24  <155>   514756  21-Jul-78	 9:49	21-Jul-78  10
+CARL	SML     5  <155>   760741  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	OBJ     1  <155>   606777  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	P11     1  <155>   600262  21-Jul-78	 9:49	21-Jul-78  10
+COMAND	OBJ     6  <155>   537242  21-Jul-78	 9:46	21-Jul-78  10
+COMAND	P11    13  <155>   272560  21-Jul-78	 9:49	21-Jul-78  10
+ENGLND	SML    12  <155>   131243  21-Jul-78	 9:46	21-Jul-78  10
+FORTRA	BLB    24  <155>   463052  21-Jul-78	 9:49	21-Jul-78  10
+GETNUM	OBJ     1  <155>   372454  21-Jul-78	 9:46	21-Jul-78  10
+GETNUM	P11     4  <155>   711174  21-Jul-78	 9:49	21-Jul-78  10
+GO	OBJ     2  <155>   244440  21-Jul-78	 9:46	21-Jul-78  10
+GO	P11     4  <155>   215550  21-Jul-78	 9:49	21-Jul-78  10
+HELP	OBJ     2  <155>   473014  21-Jul-78	 9:46	21-Jul-78  10
+HELP	P11     4  <155>   165356  21-Jul-78	 9:49	21-Jul-78  10
+INLINE	OBJ     1  <155>   222733  21-Jul-78	 9:46	21-Jul-78  10
+INLINE	P11     4  <155>   422243  21-Jul-78	 9:49	21-Jul-78  10
+INTERP	OBJ     1  <155>   526443  21-Jul-78	 9:46	21-Jul-78  10
+INTERP	P11     7  <155>   125273  21-Jul-78	 9:49	21-Jul-78  10
+LPSUNV	SML     2  <155>   345741  21-Jul-78	 9:46	21-Jul-78  10
+METEOR	P11   122  <155>   734555  21-Jul-78	 9:48	21-Jul-78  10
+MOD	P11     5  <155>   612221  21-Jul-78	 9:49	21-Jul-78  10
+MPY	OBJ     1  <155>   712651  21-Jul-78	 9:46	21-Jul-78  10
+MPY	P11     3  <155>   042075  21-Jul-78	 9:49	21-Jul-78  10
+MSGOUT	OBJ     1  <155>   753251  21-Jul-78	 9:46	21-Jul-78  10
+MSGOUT	P11     2  <155>   031732  21-Jul-78	 9:49	21-Jul-78  10
+OUTNUM	OBJ     1  <155>   571770  21-Jul-78	 9:46	21-Jul-78  10
+OUTNUM	P11     4  <155>   134150  21-Jul-78	 9:48	21-Jul-78  10
+READ	P11     2  <155>   046751  21-Jul-78	 9:48	21-Jul-78  10
+RSXMC	300    18  <155>   116165  21-Jul-78	 9:46	21-Jul-78  10
+RSXMC	P11     9  <155>   420203  21-Jul-78	 9:48	21-Jul-78  10
+SAVACS	OBJ     1  <155>   071103  21-Jul-78	 9:46	21-Jul-78  10
+SAVACS	P11     2  <155>   711051  21-Jul-78	 9:48	21-Jul-78  10
+SAVERT	OBJ     1  <155>   332531  21-Jul-78	 9:45	21-Jul-78  10
+SAVERT	P11     2  <155>   660200  21-Jul-78	 9:48	21-Jul-78  10
+SPEED	CRF     8  <155>   264367  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	MAC     3  <155>   177040  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	REL     2  <155>   374571  21-Jul-78	 9:45	21-Jul-78  10
+SPOOL	P11     1  <155>   654421  21-Jul-78	 9:48	21-Jul-78  10
+SYSMAC	RT2    15  <155>   730022  21-Jul-78	 9:37	21-Jul-78  10
+T	P11     4  <155>   544556  21-Jul-78	 9:48	21-Jul-78  10
+TAPE	P11    24  <155>   600375  21-Jul-78	 9:48	21-Jul-78  10
+TAPERD	P11    25  <155>   135756  21-Jul-78	 9:48	21-Jul-78  10
+TEST	P11     7  <155>   143611  21-Jul-78	 9:45	21-Jul-78  10
+TTYIN	P11     9  <155>   553742  21-Jul-78	 9:48	21-Jul-78  10
+TTYINT	P11    20  <155>   755537  21-Jul-78	 9:46	21-Jul-78  10
+TTYSPD	EXE     8  <155>   623073  21-Jul-78	 9:45	21-Jul-78  10
+  Total of 425 blocks in 48 files Checksum = 621656
+
+C	SAV     1  <455>   322267  19-Sep-78	15:32	19-Sep-78  16		[100,200,EXTRA,SALVO]
+CHANGE	HLP     1  <057>   200344  19-Sep-78	 0:16	12-Sep-78   0
+CHANGE	MAC     5  <057>   473312  19-Sep-78	12:01	 2-Sep-74   0
+CHANGE	SAV     1  <057>   322267  19-Sep-78	12:02	 2-Sep-74  16
+SALVO	EXE    24  <455>   642512  19-Sep-78	15:32	19-Sep-78  16	P(14)
+SALVO	LST   110  <455>   004752  19-Sep-78	16:07	19-Sep-78   0
+SALVO	MAC    50  <057>   016732  19-Sep-78	23:04	 5-Sep-74   1
+SALVO	REL    18  <455>   463202  19-Sep-78	15:26	19-Sep-78  14
+SALVO1	SHR    13  <057>   431431  19-Sep-78	11:58	 2-Sep-74   1
+  Total of 223 blocks in 9 files Checksum = 015065
+
+CLASS2	001     2  <155>   770362  21-Jul-78	 9:47	21-Jul-78  10		[100,200,EXTRA,SIGN]
+TESTST	WRD     1  <155>   046337  21-Jul-78	 9:47	21-Jul-78  10
+VOCABU	        4  <155>   037730  21-Jul-78	 9:47	21-Jul-78  10
+  Total of 7 blocks in 3 files Checksum = 534163
+
+ED	TEC     2  <157>   511610  20-Apr-74	 0:09	 8-Apr-74   0		[100,200,EXTRA,TEC]
+EDIT	TEC     2  <155>   537644  21-Jul-78	 9:26	21-Jul-78  10
+FILE	EXT     1  <155>   542027  12-Sep-78	10:54	11-Sep-74   0
+LOCAL	TEC     2  <155>   200342  21-Jul-78	 9:26	21-Jul-78  10
+MRHRNO	TEC     2  <155>   277270  21-Jul-78	 9:53	21-Jul-78  10
+NOTICE	SYS     3  <057>   773615   3-Aug-78	17:09	25-Jul-78   0
+NOTICE	TXT     3  <157>   250607  11-Sep-78	20:19	21-Feb-74   0
+ORDER	TEC     1  <155>   603524  21-Jul-78	 9:26	21-Jul-78  10
+PI	TEC     1  <155>   451062  21-Jul-78	 9:26	21-Jul-78  10
+SORT	TEC     1  <155>   126252  21-Jul-78	 9:26	21-Jul-78  10
+TEC	RNO    13  <157>   172246  11-Sep-78	23:48	19-Feb-74   0
+TECO	DOC   352  <155>   564661   2-Sep-78	 9:25	21-Jul-78  10
+TECO	HLP    12  <157>   761610  11-Sep-78	21:00	26-Feb-74   0
+TECO	RNO   190  <155>   045522  21-Jul-78	 9:26	21-Jul-78  10
+TECO28	DOC     4  <155>   064771  21-Jul-78	 9:25	21-Jul-78  10
+TECO29	DOC     8  <155>   617335  21-Jul-78	 9:25	21-Jul-78  10
+VERSIO	TEC     2  <155>   613676  21-Jul-78	 9:26	21-Jul-78  10
+VT05	TEC     1  <155>   540035  21-Jul-78	 9:49	21-Jul-78  10
+VT52	TEC     7  <155>   466026  21-Jul-78	 9:25	21-Jul-78  10
+  Total of 607 blocks in 19 files Checksum = 527641
+
+CP	MAC     5  <155>   144625  11-Aug-78	 3:32	11-Aug-78   0		[100,200,EXTRA,TEST]
+CP	REL     3  <155>   272165  11-Aug-78	 3:46	11-Aug-78  14
+T	EXE     8  <155>   371606  11-Aug-78	 9:33	21-Jul-78  10
+TEST	MAC     1  <155>   623136  11-Sep-78	15:42	 8-Sep-74   0
+TEST2	MAC     5  <155>   571552  11-Aug-78	 9:33	21-Jul-78  10
+TEST2	REL     2  <155>   212104  11-Aug-78	 3:46	11-Aug-78  14
+TTY	EXE     8  <155>   234026  11-Aug-78	 9:33	21-Jul-78  10
+TTY	MAC     7  <155>   562226  11-Aug-78	 9:33	21-Jul-78  10
+TTY	REL     3  <155>   026066  11-Aug-78	 3:46	11-Aug-78  14
+TTYX	EXE     8  <155>   140462  21-Jul-78	 9:33	21-Jul-78  10
+TTYX	MAC     3  <155>   415003  11-Aug-78	 9:33	21-Jul-78  10
+TTYX	REL     2  <155>   142101  11-Aug-78	 3:46	11-Aug-78  14
+U	EXE     8  <057>   043146  11-Aug-78	 3:36	11-Aug-78  16
+  Total of 63 blocks in 13 files Checksum = 345032
+
+DSKCHR	MAC    14  <155>   571650  21-Jul-78	 9:58	21-Jul-78  10		[100,200,EXTRA,TEST1]
+DSKCHR	REL     4  <155>   657241  21-Jul-78	 9:57	21-Jul-78  10
+G	FOR     1  <155>   462700  21-Jul-78	 9:34	21-Jul-78  10
+GRID	FOR     3  <155>   256352  21-Jul-78	 9:34	21-Jul-78  10
+IGNORE	MAC     1  <155>   041351  11-Aug-78	 9:33	21-Jul-78  10
+IGNORE	REL     1  <155>   175074  11-Aug-78	 3:48	11-Aug-78  14
+STRTRK	VEC     7  <155>   127662  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	MEM     4  <155>   144654  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	RNO     3  <155>   351262  21-Jul-78	 9:34	21-Jul-78  10
+  Total of 38 blocks in 9 files Checksum = 712650
+
+ARTIST	BX      5  <155>   272745   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE,OLD]
+LIBOL6	SHR    67  <057>   545576   9-Sep-78	18:41	17-Dec-74   1	6(262)
+OLD	COM     1  <057>   165150  26-Sep-78	16:02	20-Sep-78   0
+RECORD	XXX    17  <057>   361515   9-Sep-78	19:02	 9-Sep-78   0
+T	M01    17  <155>   566230  25-Aug-78	 9:18	21-Jul-78  10
+TAPSUB	M01    48  <155>   532613  25-Aug-78	 9:18	21-Jul-78  10
+TITLE	S01    11  <155>   647217   9-Sep-78	 9:18	21-Jul-78  10
+TITLES	BX      6  <155>   650210   9-Sep-78	 9:18	21-Jul-78  10
+  Total of 172 blocks in 8 files Checksum = 631266
+
+RECORD	INP     8  <155>   230743   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE]
+SONGS	DAT     2  <155>   743607  11-Sep-78	15:41	27-Feb-74  14
+TAPMAC	MAC     1  <155>   015574  25-Aug-78	 9:18	21-Jul-78  10
+TAPMAC	UNV     1  <155>   217351  25-Aug-78	 1:24	25-Aug-78  14
+TAPSUB	MAC    47  <155>   052277   9-Sep-78	 9:18	21-Jul-78  10
+TITLE	CBL    16  <155>   275175  21-Jul-78	 9:19	21-Jul-78  10
+TITLE	COM     2  <057>   033165  26-Sep-78	16:02	20-Sep-78   0
+X	X      10  <057>   044112   9-Sep-78	20:28	 9-Sep-78   0
+  Total of 87 blocks in 8 files Checksum = 777416
+  Grand total of 4588 blocks in 286 files Checksum = 067436
+
+  BACKUP reel number 1; end save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 22:27:31 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+
+  BACKUP reel number 1; start save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 22:27:54 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+BILL10	CBL   165  <057>   200317  15-Dec-77	19:20	 7-Oct-77   0		[100,200,EXTRA,BILL10]
+BILSUB	CBL     6  <057>   206045   5-Sep-78	18:23	19-Jul-76   0
+BILSWT	CBL    26  <057>   345300  15-Dec-77	18:27	14-Dec-76   0
+BILSWT	MBC    27  <057>   625161   7-Sep-78	11:00	 6-Dec-76   0
+  Total of 224 blocks in 4 files Checksum = 440022
+
+BIO	SAV    15  <057>   536411   3-Aug-78	     	 6-Mar-75   0	31(225)-3	[100,200,EXTRA,BOTHEL]
+BOTHEL	BAS    16  <057>   060016   3-Aug-78	     	 6-Apr-78   0
+BOTHEL	MIC     1  <057>   073770   3-Aug-78	     	 3-Mar-78   0
+STRTRK	EXE   124  <057>   302661   3-Aug-78	     	13-Jul-78   0	(1)
+  Total of 156 blocks in 4 files Checksum = 011651
+
+EXTRA	COM     2  <455>   212642  26-Sep-78	16:02	20-Sep-78   0		[100,200,EXTRA]
+  Total of 2 blocks in 1 file Checksum = 212642
+
+CIRCLE	FTN     2  <155>   336067  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,FTN]
+ENDPLT	FTN     3  <155>   331500  21-Jul-78	 9:58	21-Jul-78  10
+ERRTST	FTN     1  <155>   365725  21-Jul-78	10:00	21-Jul-78  10
+GRID	FTN     1  <155>   577541  21-Jul-78	 9:57	21-Jul-78  10
+PAGE	FTN     1  <155>   515510  21-Jul-78	 9:57	21-Jul-78  10
+PAPER	FTN     1  <155>   542371  21-Jul-78	 9:59	21-Jul-78  10
+PLTARR	FTN     3  <155>   355724  21-Jul-78	 9:57	21-Jul-78  10
+PLTEQU	FTN     2  <155>   770375  21-Jul-78	 9:57	21-Jul-78  10
+PLTSEG	FTN     7  <155>   422445  21-Jul-78	 9:58	21-Jul-78  10
+PRINT	FTN     2  <155>   723511  21-Jul-78	 9:57	21-Jul-78  10
+SKIP	FTN     1  <155>   234272  21-Jul-78	 9:57	21-Jul-78  10
+TEST	FTN     2  <155>   530120  21-Jul-78	 9:59	21-Jul-78  10
+TEST1	FTN     5  <155>   540576  21-Jul-78	 9:59	21-Jul-78  10
+TICK	FTN     1  <155>   506244  21-Jul-78	 9:57	21-Jul-78  10
+TSTDRV	FTN     2  <155>   744070  21-Jul-78	 9:40	21-Jul-78  10
+TSTLOG	FTN     2  <155>   140756  21-Jul-78	 9:59	21-Jul-78  10
+VATT	FTN     2  <155>   267560  21-Jul-78	 9:40	21-Jul-78  10
+VBLKD	FTN    11  <155>   377565  21-Jul-78	 9:40	21-Jul-78  10
+VCIGT	FTN     1  <155>   601610  21-Jul-78	 9:58	21-Jul-78  10
+VCNCT	FTN     2  <155>   762133  21-Jul-78	 9:59	21-Jul-78  10
+VCNGT	FTN     1  <155>   650147  21-Jul-78	 9:58	21-Jul-78  10
+VCVT	FTN     2  <155>   145770  21-Jul-78	 9:58	21-Jul-78  10
+VDET	FTN     1  <155>   656170  21-Jul-78	 9:40	21-Jul-78  10
+VGETXY	FTN     6  <155>   527374  21-Jul-78	 9:59	21-Jul-78  10
+VIPCN	FTN     2  <155>   622247  21-Jul-78	 9:58	21-Jul-78  10
+VPERR	FTN     1  <155>   636075  21-Jul-78	 9:40	21-Jul-78  10
+VPLT	FTN     2  <155>   616712  21-Jul-78	 9:40	21-Jul-78  10
+VPNT	FTN     2  <155>   701731  21-Jul-78	 9:40	21-Jul-78  10
+VPSYM	FTN     4  <155>   767444  21-Jul-78	 9:59	21-Jul-78  10
+VSINIT	FTN     4  <155>   456136  21-Jul-78	 9:58	21-Jul-78  10
+VSPP	FTN     2  <155>   526157  21-Jul-78	 9:40	21-Jul-78  10
+VXGRID	FTN     3  <155>   541037  21-Jul-78	 9:58	21-Jul-78  10
+VXLAB	FTN     3  <155>   247320  21-Jul-78	 9:58	21-Jul-78  10
+VXTICK	FTN     2  <155>   731570  21-Jul-78	 9:58	21-Jul-78  10
+VYCTGD	FTN     2  <155>   261731  21-Jul-78	 9:58	21-Jul-78  10
+VYLAB	FTN     2  <155>   307060  21-Jul-78	 9:58	21-Jul-78  10
+XAXIS	FTN     3  <155>   335626  21-Jul-78	 9:57	21-Jul-78  10
+XTITLE	FTN     1  <155>   142240  21-Jul-78	 9:57	21-Jul-78  10
+YAXIS	FTN     3  <155>   257303  21-Jul-78	 9:57	21-Jul-78  10
+  Total of 98 blocks in 39 files Checksum = 006146
+
+ALGOL	FUN    12  <155>   677407  21-Jul-78	 9:42	21-Jul-78  10		[100,200,EXTRA,HAZEL,ALGOL]
+CURHAZ	ALG     2  <157>   520474  21-Jul-78	 9:42	21-Jul-78  10
+CURHAZ	REL     7  <057>   141475  21-Jul-78	 9:42	21-Jul-78  10
+HAZBEN	ALG     5  <057>   006645  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	ALG     3  <157>   547173  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	EXE    16  <057>   706035  28-Jul-78	 9:42	21-Jul-78  10
+HAZEL	REL     9  <057>   332525  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	SYM     4  <057>   765325  21-Jul-78	 9:42	21-Jul-78  10
+PING	ALG     7  <157>   620656  21-Jul-78	 9:42	21-Jul-78  10
+PING	EXE    16  <057>   505436  21-Jul-78	 9:42	21-Jul-78  10
+PING	REL    12  <057>   445313  21-Jul-78	 9:42	21-Jul-78  10
+PING	SYM    10  <057>   535440  21-Jul-78	 9:42	21-Jul-78  10
+  Total of 103 blocks in 12 files Checksum = 224762
+
+CURHAZ	DOC    22  <057>   466242  21-Jul-78	 9:51	21-Jul-78  10		[100,200,EXTRA,HAZEL,CURHAZ]
+CURHAZ	MAC    32  <057>   165643  21-Jul-78	 9:51	21-Jul-78  10
+CURHAZ	X01    25  <057>   472650  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	MAC     4  <057>   276543  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	UNV     2  <057>   230676  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 85 blocks in 5 files Checksum = 067444
+
+1	        1  <057>   242546  21-Jul-78	 9:52	21-Jul-78  10		[100,200,EXTRA,HAZEL,DPYLIB]
+BOTHER	CBL     1  <057>   550162  21-Jul-78	 9:51	21-Jul-78  10
+BOTHER	EXE    20  <057>   211623  21-Jul-78	 9:52	21-Jul-78  10
+DPY	CBL    13  <057>   142606  21-Jul-78	 9:52	21-Jul-78  10
+DPY	EXE    40  <057>   124200  21-Jul-78	 9:52	21-Jul-78  10
+DPY	REL    20  <057>   163773  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	CAB   109  <057>   133402  31-Aug-78	 9:51	21-Jul-78  10
+DPYLIB	DOC    46  <057>   343534  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	MAC   116  <057>   513314   1-Sep-78	 9:51	21-Jul-78  10
+DPYLIB	REL    26  <057>   366222   1-Sep-78	 9:52	21-Jul-78  10
+DPYLIB	SPL     3  <057>   461510  21-Jul-78	 9:53	21-Jul-78  10
+MACTEN	CTL     2  <057>   351342  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	MAC    43  <057>   046562  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	UNV    30  <057>   024341  21-Jul-78	 9:52	21-Jul-78  10
+NEW	SAV    82  <057>   543542  21-Jul-78	 9:52	21-Jul-78  10	40(220)
+UUOSYM	CTL     3  <057>   011424  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	MAC   207  <057>   140522  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	UNV    50  <057>   221076  13-Sep-78	 9:52	21-Jul-78  10
+X	MAC     3  <057>   641310  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 815 blocks in 19 files Checksum = 453261
+
+HAZEL	MAC     5  <057>   455355  11-Sep-78	 8:46	26-Aug-74   1		[100,200,EXTRA,HAZEL]
+  Total of 5 blocks in 1 file Checksum = 455355
+
+CURHAZ	ALG     2  <157>   455562  29-Nov-77	     	 9-Jul-74   0		[100,200,EXTRA,HAZEL,MORE]
+CURHAZ	DOC    18  <157>   112074  29-Nov-77	     	17-Aug-74   0
+CURHAZ	MAC    24  <157>   014362   3-Mar-78	     	19-Aug-74   0
+CURHAZ	OLD    23  <157>   121206   3-Mar-78	     	 2-Jul-74   0
+CURHAZ	REL     5  <057>   616601   3-Mar-78	23:15	 3-Mar-78  14
+HAZEL	ALG     2  <157>   321554  29-Nov-77	     	10-Jul-74   0
+HAZEL	MAC     5  <157>   455355   3-Mar-78	     	12-Jan-74   0
+HAZEL	REL     2  <057>   627324   3-Mar-78	23:14	 3-Mar-78  14
+MASK4	MAC     2  <157>   604524  29-Nov-77	     	29-Aug-74   0
+MWHEEL	HLD     1  <157>   031566   3-Mar-78	23:09	 3-Mar-78   0
+PING	ALG     7  <157>   540740  29-Nov-77	     	 8-Aug-74   0
+SCREWS	CUA     1  <057>   031566   3-Mar-78	10:19	 5-Jan-75   0
+SCROLL	MAC     4  <157>   065114   3-Mar-78	     	13-Aug-74   0
+SCROLL	SAV     2  <157>   245427   3-Mar-78	     	13-Aug-74   0
+SCROLL	SRC     4  <157>   226642  29-Nov-77	     	13-Aug-74   0
+TUG	MAC     6  <157>   526675   3-Mar-78	     	12-Feb-75   0
+TUG	REL     3  <057>   402466   3-Mar-78	23:13	 3-Mar-78  14
+UPDATE	MAC    23  <157>   630075  29-Nov-77	     	13-Aug-74   0
+UPDATE	SAV     6  <157>   616527   3-Mar-78	     	13-Aug-74   0	1-2
+UPDATE	SRC    23  <157>   065124  29-Nov-77	     	13-Aug-74   0
+X	        2  <057>   676706   3-Mar-78	23:09	 3-Mar-78   0
+  Total of 165 blocks in 21 files Checksum = 667433
+
+DPY	CBL    25  <455>   443377   9-Aug-78	20:48	 9-Aug-78   0		[100,200,EXTRA,HAZEL,PDP11]
+HAZEL	MAC    32  <455>   244765  13-Sep-78	20:44	 9-Aug-78   0
+  Total of 57 blocks in 2 files Checksum = 564616
+
+ARPA	MAN   172  <057>   174557  24-Jul-78	     	 9-Mar-76   0		[100,200,EXTRA,MIT]
+ARPA	NET     8  <057>   246773  24-Jul-78	     	 2-Mar-76   0
+DDT	HLP     1  <057>   141756  24-Jul-78	     	27-Sep-76   0
+DDT	MAN   251  <057>   513270  24-Jul-78	     	28-Sep-76   0
+HOSTS	IMP    13  <057>   177651  24-Jul-78	     	 8-Mar-76   0
+HOSTS	MCH    21  <057>   172527  24-Jul-78	     	 8-Mar-76   0
+HOSTS	NUM     7  <057>   006026  24-Jul-78	     	 8-Mar-76   0
+MITECO	MAN   249  <057>   232127  24-Jul-78	     	27-Sep-76   0
+TCTYP	HLP     3  <057>   652475  24-Jul-78	     	27-Sep-76   0
+TCTYP	MAN    25  <057>   517561  24-Jul-78	     	27-Sep-76   0
+  Total of 750 blocks in 10 files Checksum = 512675
+
+MPX	CRF    12  <057>   063460  12-Sep-78	 0:48	12-Sep-78   1		[100,200,EXTRA,MPX]
+MPX	MAC     3  <057>   525130  13-Sep-78	 0:47	12-Sep-78   0
+MPX	REL     2  <057>   533601  12-Sep-78	 0:48	12-Sep-78  14
+MPX	SAV     1  <057>   575607  13-Sep-78	19:04	 8-Sep-74  16
+  Total of 18 blocks in 4 files Checksum = 064362
+
+MT1010	NEW    11  <057>   532037  19-Sep-78	16:05	18-Dec-74  17		[100,200,EXTRA,MTADIR]
+MTA	BAK    11  <455>   532037  19-Sep-78	18:29	19-Sep-78  17
+MTA	DIR    11  <455>   532037  19-Sep-78	18:05	19-Sep-78  17
+MTA1	SHR     4  <057>   536574  19-Sep-78	23:17	16-May-74   1	6
+MTA2	SHR    24  <057>   267526  19-Sep-78	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <057>   205116  19-Sep-78	23:18	16-May-74   1	11
+MTADIR	SHR     6  <057>   321041  11-Sep-78	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <057>   750725  11-Sep-78	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <057>   173516  11-Sep-78	15:06	27-Feb-74  17
+PIP2	SHR    24  <057>   077154  19-Sep-78	22:06	16-Sep-74   1	(30)
+  Total of 154 blocks in 10 files Checksum = 753460
+
+PARITY	CCL     1  <057>   152775  24-Nov-76	22:13	 2-Feb-76   0		[100,200,EXTRA,PARITY]
+PARITY	CMD     1  <057>   661551  19-Nov-76	23:11	 9-Feb-76   0
+PARITY	LOW     2  <057>   450701  28-Jun-77	15:54	31-May-77  16
+PARITY	MAC     7  <057>   100277  24-Nov-76	14:27	24-Nov-76   0
+PARITY	SHR     6  <057>   534715  28-Jun-77	15:54	31-May-77  16
+  Total of 17 blocks in 5 files Checksum = 052675
+
+CIO017	ODL    15  <155>   765150  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,PDP11,BUS34]
+CIO027	ODL    15  <155>   563054  21-Jul-78	 9:59	21-Jul-78  10
+CIO037	ODL    15  <155>   100717  21-Jul-78	 9:58	21-Jul-78  10
+CIO047	ODL    15  <155>   574367  21-Jul-78	 9:58	21-Jul-78  10
+CIO057	ODL    15  <155>   126173  21-Jul-78	 9:58	21-Jul-78  10
+CIO067	ODL    15  <155>   604220  21-Jul-78	 9:58	21-Jul-78  10
+CIO077	ODL    15  <155>   345420  21-Jul-78	 9:58	21-Jul-78  10
+DPY	ODL     1  <155>   443250  21-Jul-78	 9:59	21-Jul-78  10
+DPYCBL	CMD     1  <057>   062154  21-Jul-78	 9:59	21-Jul-78  10
+DPYHAZ	ODL     2  <155>   223571  21-Jul-78	10:00	21-Jul-78  10
+KSYS	LOG     1  <057>   244473  21-Jul-78	10:00	21-Jul-78  10
+  Total of 110 blocks in 11 files Checksum = 257525
+
+CAR	P11     2  <155>   165350  21-Jul-78	 9:41	21-Jul-78  10		[100,200,EXTRA,PDP11,OTHER]
+DEF40	P11    21  <155>   321204  21-Jul-78	 9:41	21-Jul-78  10
+TIME	P11     1  <155>   120452  21-Jul-78	 9:41	21-Jul-78  10
+  Total of 24 blocks in 3 files Checksum = 300600
+
+INTERP	CTL     1  <157>   103733  27-Mar-74	 0:01	27-Mar-74   0		[100,200,EXTRA,POLISH]
+INTERP	MAC    12  <157>   727176  11-Sep-78	23:28	26-Feb-74   0
+POLIS2	TEC    14  <155>   134607  21-Jul-78	 9:47	21-Jul-78  10
+POLISH	TEC    12  <155>   416217  21-Jul-78	 9:47	21-Jul-78  10
+PRT	CTL     1  <155>   433052  21-Jul-78	 9:46	21-Jul-78  10
+  Total of 40 blocks in 5 files Checksum = 746556
+
+GETSAT	F4      2  <155>   226144  11-Sep-78	     	18-May-74   1		[100,200,EXTRA,POLY]
+GETSIT	MAC     5  <157>   203606  11-Sep-78	     	18-May-74   1
+POLY1	F4      2  <155>   677353  11-Sep-78	     	18-May-74   1
+POLY1	SAV     6  <155>   310767  11-Sep-78	15:46	27-Feb-74  14	P(2)
+  Total of 15 blocks in 4 files Checksum = 325147
+
+RENBR	F4     89  <155>   325041  11-Sep-78	15:45	27-Feb-74  14		[100,200,EXTRA,RENBR]
+RENBR	HLP     5  <155>   476715  11-Sep-78	15:45	27-Feb-74  14
+  Total of 94 blocks in 2 files Checksum = 570051
+
+FIX	FOR     3  <457>   721214  20-Jul-78	 2:30	 1-Jun-78   0		[100,200,EXTRA,RIPPER]
+FIX	SAI     2  <457>   651461  19-May-78	16:44	 7-Oct-74   1
+RIPPER	EXE    12  <457>   233557  19-Sep-78	 9:17	21-Jul-78  16
+RIPPER	FOR     7  <457>   556054   3-Aug-78	 9:10	21-Jul-78   0
+RIPPER	REL     7  <457>   114001  28-Jul-78	 9:17	21-Jul-78  14
+SIXTO7	MAC     2  <457>   627411  19-Jul-78	16:30	 8-Mar-78   0
+SIXTO7	REL     1  <457>   416166  21-Jul-78	 5:07	19-Jul-78  14
+  Total of 34 blocks in 7 files Checksum = 425712
+
+4010	SML     3  <155>   002674  21-Jul-78	 9:46	21-Jul-78  10		[100,200,EXTRA,RT11]
+BATCON	OBJ     4  <155>   551520  21-Jul-78	 9:46	21-Jul-78  10
+BATCON	P11    24  <155>   514756  21-Jul-78	 9:49	21-Jul-78  10
+CARL	SML     5  <155>   760741  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	OBJ     1  <155>   606777  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	P11     1  <155>   600262  21-Jul-78	 9:49	21-Jul-78  10
+COMAND	OBJ     6  <155>   537242  21-Jul-78	 9:46	21-Jul-78  10
+COMAND	P11    13  <155>   272560  21-Jul-78	 9:49	21-Jul-78  10
+ENGLND	SML    12  <155>   131243  21-Jul-78	 9:46	21-Jul-78  10
+FORTRA	BLB    24  <155>   463052  21-Jul-78	 9:49	21-Jul-78  10
+GETNUM	OBJ     1  <155>   372454  21-Jul-78	 9:46	21-Jul-78  10
+GETNUM	P11     4  <155>   711174  21-Jul-78	 9:49	21-Jul-78  10
+GO	OBJ     2  <155>   244440  21-Jul-78	 9:46	21-Jul-78  10
+GO	P11     4  <155>   215550  21-Jul-78	 9:49	21-Jul-78  10
+HELP	OBJ     2  <155>   473014  21-Jul-78	 9:46	21-Jul-78  10
+HELP	P11     4  <155>   165356  21-Jul-78	 9:49	21-Jul-78  10
+INLINE	OBJ     1  <155>   222733  21-Jul-78	 9:46	21-Jul-78  10
+INLINE	P11     4  <155>   422243  21-Jul-78	 9:49	21-Jul-78  10
+INTERP	OBJ     1  <155>   526443  21-Jul-78	 9:46	21-Jul-78  10
+INTERP	P11     7  <155>   125273  21-Jul-78	 9:49	21-Jul-78  10
+LPSUNV	SML     2  <155>   345741  21-Jul-78	 9:46	21-Jul-78  10
+METEOR	P11   122  <155>   734555  21-Jul-78	 9:48	21-Jul-78  10
+MOD	P11     5  <155>   612221  21-Jul-78	 9:49	21-Jul-78  10
+MPY	OBJ     1  <155>   712651  21-Jul-78	 9:46	21-Jul-78  10
+MPY	P11     3  <155>   042075  21-Jul-78	 9:49	21-Jul-78  10
+MSGOUT	OBJ     1  <155>   753251  21-Jul-78	 9:46	21-Jul-78  10
+MSGOUT	P11     2  <155>   031732  21-Jul-78	 9:49	21-Jul-78  10
+OUTNUM	OBJ     1  <155>   571770  21-Jul-78	 9:46	21-Jul-78  10
+OUTNUM	P11     4  <155>   134150  21-Jul-78	 9:48	21-Jul-78  10
+READ	P11     2  <155>   046751  21-Jul-78	 9:48	21-Jul-78  10
+RSXMC	300    18  <155>   116165  21-Jul-78	 9:46	21-Jul-78  10
+RSXMC	P11     9  <155>   420203  21-Jul-78	 9:48	21-Jul-78  10
+SAVACS	OBJ     1  <155>   071103  21-Jul-78	 9:46	21-Jul-78  10
+SAVACS	P11     2  <155>   711051  21-Jul-78	 9:48	21-Jul-78  10
+SAVERT	OBJ     1  <155>   332531  21-Jul-78	 9:45	21-Jul-78  10
+SAVERT	P11     2  <155>   660200  21-Jul-78	 9:48	21-Jul-78  10
+SPEED	CRF     8  <155>   264367  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	MAC     3  <155>   177040  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	REL     2  <155>   374571  21-Jul-78	 9:45	21-Jul-78  10
+SPOOL	P11     1  <155>   654421  21-Jul-78	 9:48	21-Jul-78  10
+SYSMAC	RT2    15  <155>   730022  21-Jul-78	 9:37	21-Jul-78  10
+T	P11     4  <155>   544556  21-Jul-78	 9:48	21-Jul-78  10
+TAPE	P11    24  <155>   600375  21-Jul-78	 9:48	21-Jul-78  10
+TAPERD	P11    25  <155>   135756  21-Jul-78	 9:48	21-Jul-78  10
+TEST	P11     7  <155>   143611  21-Jul-78	 9:45	21-Jul-78  10
+TTYIN	P11     9  <155>   553742  21-Jul-78	 9:48	21-Jul-78  10
+TTYINT	P11    20  <155>   755537  21-Jul-78	 9:46	21-Jul-78  10
+TTYSPD	EXE     8  <155>   623073  21-Jul-78	 9:45	21-Jul-78  10
+  Total of 425 blocks in 48 files Checksum = 621656
+
+C	SAV     1  <455>   322267  19-Sep-78	15:32	19-Sep-78  16		[100,200,EXTRA,SALVO]
+CHANGE	HLP     1  <057>   200344  19-Sep-78	 0:16	12-Sep-78   0
+CHANGE	MAC     5  <057>   473312  19-Sep-78	12:01	 2-Sep-74   0
+CHANGE	SAV     1  <057>   322267  19-Sep-78	12:02	 2-Sep-74  16
+SALVO	EXE    24  <455>   642512  19-Sep-78	15:32	19-Sep-78  16	P(14)
+SALVO	LST   110  <455>   004752  19-Sep-78	16:07	19-Sep-78   0
+SALVO	MAC    50  <057>   016732  19-Sep-78	23:04	 5-Sep-74   1
+SALVO	REL    18  <455>   463202  19-Sep-78	15:26	19-Sep-78  14
+SALVO1	SHR    13  <057>   431431  19-Sep-78	11:58	 2-Sep-74   1
+  Total of 223 blocks in 9 files Checksum = 015065
+
+CLASS2	001     2  <155>   770362  21-Jul-78	 9:47	21-Jul-78  10		[100,200,EXTRA,SIGN]
+TESTST	WRD     1  <155>   046337  21-Jul-78	 9:47	21-Jul-78  10
+VOCABU	        4  <155>   037730  21-Jul-78	 9:47	21-Jul-78  10
+  Total of 7 blocks in 3 files Checksum = 534163
+
+ED	TEC     2  <157>   511610  20-Apr-74	 0:09	 8-Apr-74   0		[100,200,EXTRA,TEC]
+EDIT	TEC     2  <155>   537644  21-Jul-78	 9:26	21-Jul-78  10
+FILE	EXT     1  <155>   542027  12-Sep-78	10:54	11-Sep-74   0
+LOCAL	TEC     2  <155>   200342  21-Jul-78	 9:26	21-Jul-78  10
+MRHRNO	TEC     2  <155>   277270  21-Jul-78	 9:53	21-Jul-78  10
+NOTICE	SYS     3  <057>   773615   3-Aug-78	17:09	25-Jul-78   0
+NOTICE	TXT     3  <157>   250607  11-Sep-78	20:19	21-Feb-74   0
+ORDER	TEC     1  <155>   603524  21-Jul-78	 9:26	21-Jul-78  10
+PI	TEC     1  <155>   451062  21-Jul-78	 9:26	21-Jul-78  10
+SORT	TEC     1  <155>   126252  21-Jul-78	 9:26	21-Jul-78  10
+TEC	RNO    13  <157>   172246  11-Sep-78	23:48	19-Feb-74   0
+TECO	DOC   352  <155>   564661   2-Sep-78	 9:25	21-Jul-78  10
+TECO	HLP    12  <157>   761610  11-Sep-78	21:00	26-Feb-74   0
+TECO	RNO   190  <155>   045522  21-Jul-78	 9:26	21-Jul-78  10
+TECO28	DOC     4  <155>   064771  21-Jul-78	 9:25	21-Jul-78  10
+TECO29	DOC     8  <155>   617335  21-Jul-78	 9:25	21-Jul-78  10
+VERSIO	TEC     2  <155>   613676  21-Jul-78	 9:26	21-Jul-78  10
+VT05	TEC     1  <155>   540035  21-Jul-78	 9:49	21-Jul-78  10
+VT52	TEC     7  <155>   466026  21-Jul-78	 9:25	21-Jul-78  10
+  Total of 607 blocks in 19 files Checksum = 527641
+
+CP	MAC     5  <155>   144625  11-Aug-78	 3:32	11-Aug-78   0		[100,200,EXTRA,TEST]
+CP	REL     3  <155>   272165  11-Aug-78	 3:46	11-Aug-78  14
+T	EXE     8  <155>   371606  11-Aug-78	 9:33	21-Jul-78  10
+TEST	MAC     1  <155>   623136  11-Sep-78	15:42	 8-Sep-74   0
+TEST2	MAC     5  <155>   571552  11-Aug-78	 9:33	21-Jul-78  10
+TEST2	REL     2  <155>   212104  11-Aug-78	 3:46	11-Aug-78  14
+TTY	EXE     8  <155>   234026  11-Aug-78	 9:33	21-Jul-78  10
+TTY	MAC     7  <155>   562226  11-Aug-78	 9:33	21-Jul-78  10
+TTY	REL     3  <155>   026066  11-Aug-78	 3:46	11-Aug-78  14
+TTYX	EXE     8  <155>   140462  21-Jul-78	 9:33	21-Jul-78  10
+TTYX	MAC     3  <155>   415003  11-Aug-78	 9:33	21-Jul-78  10
+TTYX	REL     2  <155>   142101  11-Aug-78	 3:46	11-Aug-78  14
+U	EXE     8  <057>   043146  11-Aug-78	 3:36	11-Aug-78  16
+  Total of 63 blocks in 13 files Checksum = 345032
+
+DSKCHR	MAC    14  <155>   571650  21-Jul-78	 9:58	21-Jul-78  10		[100,200,EXTRA,TEST1]
+DSKCHR	REL     4  <155>   657241  21-Jul-78	 9:57	21-Jul-78  10
+G	FOR     1  <155>   462700  21-Jul-78	 9:34	21-Jul-78  10
+GRID	FOR     3  <155>   256352  21-Jul-78	 9:34	21-Jul-78  10
+IGNORE	MAC     1  <155>   041351  11-Aug-78	 9:33	21-Jul-78  10
+IGNORE	REL     1  <155>   175074  11-Aug-78	 3:48	11-Aug-78  14
+STRTRK	VEC     7  <155>   127662  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	MEM     4  <155>   144654  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	RNO     3  <155>   351262  21-Jul-78	 9:34	21-Jul-78  10
+  Total of 38 blocks in 9 files Checksum = 712650
+
+ARTIST	BX      5  <155>   272745   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE,OLD]
+LIBOL6	SHR    67  <057>   545576   9-Sep-78	18:41	17-Dec-74   1	6(262)
+OLD	COM     1  <057>   165150  26-Sep-78	16:02	20-Sep-78   0
+RECORD	XXX    17  <057>   361515   9-Sep-78	19:02	 9-Sep-78   0
+T	M01    17  <155>   566230  25-Aug-78	 9:18	21-Jul-78  10
+TAPSUB	M01    48  <155>   532613  25-Aug-78	 9:18	21-Jul-78  10
+TITLE	S01    11  <155>   647217   9-Sep-78	 9:18	21-Jul-78  10
+TITLES	BX      6  <155>   650210   9-Sep-78	 9:18	21-Jul-78  10
+  Total of 172 blocks in 8 files Checksum = 631266
+
+RECORD	INP     8  <155>   230743   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE]
+SONGS	DAT     2  <155>   743607  11-Sep-78	15:41	27-Feb-74  14
+TAPMAC	MAC     1  <155>   015574  25-Aug-78	 9:18	21-Jul-78  10
+TAPMAC	UNV     1  <155>   217351  25-Aug-78	 1:24	25-Aug-78  14
+TAPSUB	MAC    47  <155>   052277   9-Sep-78	 9:18	21-Jul-78  10
+TITLE	CBL    16  <155>   275175  21-Jul-78	 9:19	21-Jul-78  10
+TITLE	COM     2  <057>   033165  26-Sep-78	16:02	20-Sep-78   0
+X	X      10  <057>   044112   9-Sep-78	20:28	 9-Sep-78   0
+  Total of 87 blocks in 8 files Checksum = 777416
+  Grand total of 4588 blocks in 286 files Checksum = 067436
+
+  BACKUP reel number 1; end save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 22:28:56 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+
+  BACKUP reel number 1; start save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 22:30:28 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+BILL10	CBL   165  <057>   200317  15-Dec-77	19:20	 7-Oct-77   0		[100,200,EXTRA,BILL10]
+BILSUB	CBL     6  <057>   206045   5-Sep-78	18:23	19-Jul-76   0
+BILSWT	CBL    26  <057>   345300  15-Dec-77	18:27	14-Dec-76   0
+BILSWT	MBC    27  <057>   625161   7-Sep-78	11:00	 6-Dec-76   0
+  Total of 224 blocks in 4 files Checksum = 440022
+
+BIO	SAV    15  <057>   536411   3-Aug-78	     	 6-Mar-75   0	31(225)-3	[100,200,EXTRA,BOTHEL]
+BOTHEL	BAS    16  <057>   060016   3-Aug-78	     	 6-Apr-78   0
+BOTHEL	MIC     1  <057>   073770   3-Aug-78	     	 3-Mar-78   0
+STRTRK	EXE   124  <057>   302661   3-Aug-78	     	13-Jul-78   0	(1)
+  Total of 156 blocks in 4 files Checksum = 011651
+
+EXTRA	COM     2  <455>   212642  26-Sep-78	16:02	20-Sep-78   0		[100,200,EXTRA]
+  Total of 2 blocks in 1 file Checksum = 212642
+
+CIRCLE	FTN     2  <155>   336067  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,FTN]
+ENDPLT	FTN     3  <155>   331500  21-Jul-78	 9:58	21-Jul-78  10
+ERRTST	FTN     1  <155>   365725  21-Jul-78	10:00	21-Jul-78  10
+GRID	FTN     1  <155>   577541  21-Jul-78	 9:57	21-Jul-78  10
+PAGE	FTN     1  <155>   515510  21-Jul-78	 9:57	21-Jul-78  10
+PAPER	FTN     1  <155>   542371  21-Jul-78	 9:59	21-Jul-78  10
+PLTARR	FTN     3  <155>   355724  21-Jul-78	 9:57	21-Jul-78  10
+PLTEQU	FTN     2  <155>   770375  21-Jul-78	 9:57	21-Jul-78  10
+PLTSEG	FTN     7  <155>   422445  21-Jul-78	 9:58	21-Jul-78  10
+PRINT	FTN     2  <155>   723511  21-Jul-78	 9:57	21-Jul-78  10
+SKIP	FTN     1  <155>   234272  21-Jul-78	 9:57	21-Jul-78  10
+TEST	FTN     2  <155>   530120  21-Jul-78	 9:59	21-Jul-78  10
+TEST1	FTN     5  <155>   540576  21-Jul-78	 9:59	21-Jul-78  10
+TICK	FTN     1  <155>   506244  21-Jul-78	 9:57	21-Jul-78  10
+TSTDRV	FTN     2  <155>   744070  21-Jul-78	 9:40	21-Jul-78  10
+TSTLOG	FTN     2  <155>   140756  21-Jul-78	 9:59	21-Jul-78  10
+VATT	FTN     2  <155>   267560  21-Jul-78	 9:40	21-Jul-78  10
+VBLKD	FTN    11  <155>   377565  21-Jul-78	 9:40	21-Jul-78  10
+VCIGT	FTN     1  <155>   601610  21-Jul-78	 9:58	21-Jul-78  10
+VCNCT	FTN     2  <155>   762133  21-Jul-78	 9:59	21-Jul-78  10
+VCNGT	FTN     1  <155>   650147  21-Jul-78	 9:58	21-Jul-78  10
+VCVT	FTN     2  <155>   145770  21-Jul-78	 9:58	21-Jul-78  10
+VDET	FTN     1  <155>   656170  21-Jul-78	 9:40	21-Jul-78  10
+VGETXY	FTN     6  <155>   527374  21-Jul-78	 9:59	21-Jul-78  10
+VIPCN	FTN     2  <155>   622247  21-Jul-78	 9:58	21-Jul-78  10
+VPERR	FTN     1  <155>   636075  21-Jul-78	 9:40	21-Jul-78  10
+VPLT	FTN     2  <155>   616712  21-Jul-78	 9:40	21-Jul-78  10
+VPNT	FTN     2  <155>   701731  21-Jul-78	 9:40	21-Jul-78  10
+VPSYM	FTN     4  <155>   767444  21-Jul-78	 9:59	21-Jul-78  10
+VSINIT	FTN     4  <155>   456136  21-Jul-78	 9:58	21-Jul-78  10
+VSPP	FTN     2  <155>   526157  21-Jul-78	 9:40	21-Jul-78  10
+VXGRID	FTN     3  <155>   541037  21-Jul-78	 9:58	21-Jul-78  10
+VXLAB	FTN     3  <155>   247320  21-Jul-78	 9:58	21-Jul-78  10
+VXTICK	FTN     2  <155>   731570  21-Jul-78	 9:58	21-Jul-78  10
+VYCTGD	FTN     2  <155>   261731  21-Jul-78	 9:58	21-Jul-78  10
+VYLAB	FTN     2  <155>   307060  21-Jul-78	 9:58	21-Jul-78  10
+XAXIS	FTN     3  <155>   335626  21-Jul-78	 9:57	21-Jul-78  10
+  Total of 94 blocks in 37 files Checksum = 207614
+
+ALGOL	FUN    12  <155>   677407  21-Jul-78	 9:42	21-Jul-78  10		[100,200,EXTRA,HAZEL,ALGOL]
+CURHAZ	ALG     2  <157>   520474  21-Jul-78	 9:42	21-Jul-78  10
+CURHAZ	REL     7  <057>   141475  21-Jul-78	 9:42	21-Jul-78  10
+HAZBEN	ALG     5  <057>   006645  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	ALG     3  <157>   547173  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	EXE    16  <057>   706035  28-Jul-78	 9:42	21-Jul-78  10
+HAZEL	REL     9  <057>   332525  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	SYM     4  <057>   765325  21-Jul-78	 9:42	21-Jul-78  10
+PING	ALG     7  <157>   620656  21-Jul-78	 9:42	21-Jul-78  10
+PING	EXE    16  <057>   505436  21-Jul-78	 9:42	21-Jul-78  10
+PING	REL    12  <057>   445313  21-Jul-78	 9:42	21-Jul-78  10
+PING	SYM    10  <057>   535440  21-Jul-78	 9:42	21-Jul-78  10
+  Total of 103 blocks in 12 files Checksum = 224762
+
+CURHAZ	DOC    22  <057>   466242  21-Jul-78	 9:51	21-Jul-78  10		[100,200,EXTRA,HAZEL,CURHAZ]
+CURHAZ	MAC    32  <057>   165643  21-Jul-78	 9:51	21-Jul-78  10
+CURHAZ	X01    25  <057>   472650  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	MAC     4  <057>   276543  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	UNV     2  <057>   230676  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 85 blocks in 5 files Checksum = 067444
+
+1	        1  <057>   242546  21-Jul-78	 9:52	21-Jul-78  10		[100,200,EXTRA,HAZEL,DPYLIB]
+BOTHER	CBL     1  <057>   550162  21-Jul-78	 9:51	21-Jul-78  10
+BOTHER	EXE    20  <057>   211623  21-Jul-78	 9:52	21-Jul-78  10
+DPY	CBL    13  <057>   142606  21-Jul-78	 9:52	21-Jul-78  10
+DPY	EXE    40  <057>   124200  21-Jul-78	 9:52	21-Jul-78  10
+DPY	REL    20  <057>   163773  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	CAB   109  <057>   133402  31-Aug-78	 9:51	21-Jul-78  10
+DPYLIB	DOC    46  <057>   343534  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	MAC   116  <057>   513314   1-Sep-78	 9:51	21-Jul-78  10
+DPYLIB	REL    26  <057>   366222   1-Sep-78	 9:52	21-Jul-78  10
+DPYLIB	SPL     3  <057>   461510  21-Jul-78	 9:53	21-Jul-78  10
+MACTEN	CTL     2  <057>   351342  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	MAC    43  <057>   046562  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	UNV    30  <057>   024341  21-Jul-78	 9:52	21-Jul-78  10
+NEW	SAV    82  <057>   543542  21-Jul-78	 9:52	21-Jul-78  10	40(220)
+UUOSYM	CTL     3  <057>   011424  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	MAC   207  <057>   140522  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	UNV    50  <057>   221076  13-Sep-78	 9:52	21-Jul-78  10
+X	MAC     3  <057>   641310  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 815 blocks in 19 files Checksum = 453261
+
+HAZEL	MAC     5  <057>   455355  11-Sep-78	 8:46	26-Aug-74   1		[100,200,EXTRA,HAZEL]
+  Total of 5 blocks in 1 file Checksum = 455355
+
+CURHAZ	ALG     2  <157>   455562  29-Nov-77	     	 9-Jul-74   0		[100,200,EXTRA,HAZEL,MORE]
+CURHAZ	DOC    18  <157>   112074  29-Nov-77	     	17-Aug-74   0
+CURHAZ	MAC    24  <157>   014362   3-Mar-78	     	19-Aug-74   0
+CURHAZ	OLD    23  <157>   121206   3-Mar-78	     	 2-Jul-74   0
+CURHAZ	REL     5  <057>   616601   3-Mar-78	23:15	 3-Mar-78  14
+HAZEL	ALG     2  <157>   321554  29-Nov-77	     	10-Jul-74   0
+HAZEL	MAC     5  <157>   455355   3-Mar-78	     	12-Jan-74   0
+HAZEL	REL     2  <057>   627324   3-Mar-78	23:14	 3-Mar-78  14
+MASK4	MAC     2  <157>   604524  29-Nov-77	     	29-Aug-74   0
+MWHEEL	HLD     1  <157>   031566   3-Mar-78	23:09	 3-Mar-78   0
+PING	ALG     7  <157>   540740  29-Nov-77	     	 8-Aug-74   0
+SCREWS	CUA     1  <057>   031566   3-Mar-78	10:19	 5-Jan-75   0
+SCROLL	MAC     4  <157>   065114   3-Mar-78	     	13-Aug-74   0
+SCROLL	SAV     2  <157>   245427   3-Mar-78	     	13-Aug-74   0
+SCROLL	SRC     4  <157>   226642  29-Nov-77	     	13-Aug-74   0
+TUG	MAC     6  <157>   526675   3-Mar-78	     	12-Feb-75   0
+TUG	REL     3  <057>   402466   3-Mar-78	23:13	 3-Mar-78  14
+UPDATE	MAC    23  <157>   630075  29-Nov-77	     	13-Aug-74   0
+UPDATE	SAV     6  <157>   616527   3-Mar-78	     	13-Aug-74   0	1-2
+UPDATE	SRC    23  <157>   065124  29-Nov-77	     	13-Aug-74   0
+X	        2  <057>   676706   3-Mar-78	23:09	 3-Mar-78   0
+  Total of 165 blocks in 21 files Checksum = 667433
+
+DPY	CBL    25  <455>   443377   9-Aug-78	20:48	 9-Aug-78   0		[100,200,EXTRA,HAZEL,PDP11]
+HAZEL	MAC    32  <455>   244765  13-Sep-78	20:44	 9-Aug-78   0
+  Total of 57 blocks in 2 files Checksum = 564616
+
+ARPA	MAN   172  <057>   174557  24-Jul-78	     	 9-Mar-76   0		[100,200,EXTRA,MIT]
+ARPA	NET     8  <057>   246773  24-Jul-78	     	 2-Mar-76   0
+DDT	HLP     1  <057>   141756  24-Jul-78	     	27-Sep-76   0
+DDT	MAN   251  <057>   513270  24-Jul-78	     	28-Sep-76   0
+HOSTS	IMP    13  <057>   177651  24-Jul-78	     	 8-Mar-76   0
+HOSTS	MCH    21  <057>   172527  24-Jul-78	     	 8-Mar-76   0
+HOSTS	NUM     7  <057>   006026  24-Jul-78	     	 8-Mar-76   0
+MITECO	MAN   249  <057>   232127  24-Jul-78	     	27-Sep-76   0
+TCTYP	HLP     3  <057>   652475  24-Jul-78	     	27-Sep-76   0
+TCTYP	MAN    25  <057>   517561  24-Jul-78	     	27-Sep-76   0
+  Total of 750 blocks in 10 files Checksum = 512675
+
+MPX	CRF    12  <057>   063460  12-Sep-78	 0:48	12-Sep-78   1		[100,200,EXTRA,MPX]
+MPX	MAC     3  <057>   525130  13-Sep-78	 0:47	12-Sep-78   0
+MPX	REL     2  <057>   533601  12-Sep-78	 0:48	12-Sep-78  14
+MPX	SAV     1  <057>   575607  13-Sep-78	19:04	 8-Sep-74  16
+  Total of 18 blocks in 4 files Checksum = 064362
+
+MT1010	NEW    11  <057>   532037  19-Sep-78	16:05	18-Dec-74  17		[100,200,EXTRA,MTADIR]
+MTA	BAK    11  <455>   532037  19-Sep-78	18:29	19-Sep-78  17
+MTA	DIR    11  <455>   532037  19-Sep-78	18:05	19-Sep-78  17
+MTA1	SHR     4  <057>   536574  19-Sep-78	23:17	16-May-74   1	6
+MTA2	SHR    24  <057>   267526  19-Sep-78	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <057>   205116  19-Sep-78	23:18	16-May-74   1	11
+MTADIR	SHR     6  <057>   321041  11-Sep-78	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <057>   750725  11-Sep-78	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <057>   173516  11-Sep-78	15:06	27-Feb-74  17
+PIP2	SHR    24  <057>   077154  19-Sep-78	22:06	16-Sep-74   1	(30)
+  Total of 154 blocks in 10 files Checksum = 753460
+
+PARITY	CCL     1  <057>   152775  24-Nov-76	22:13	 2-Feb-76   0		[100,200,EXTRA,PARITY]
+PARITY	CMD     1  <057>   661551  19-Nov-76	23:11	 9-Feb-76   0
+PARITY	LOW     2  <057>   450701  28-Jun-77	15:54	31-May-77  16
+PARITY	MAC     7  <057>   100277  24-Nov-76	14:27	24-Nov-76   0
+PARITY	SHR     6  <057>   534715  28-Jun-77	15:54	31-May-77  16
+  Total of 17 blocks in 5 files Checksum = 052675
+
+CIO017	ODL    15  <155>   765150  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,PDP11,BUS34]
+CIO027	ODL    15  <155>   563054  21-Jul-78	 9:59	21-Jul-78  10
+CIO037	ODL    15  <155>   100717  21-Jul-78	 9:58	21-Jul-78  10
+CIO047	ODL    15  <155>   574367  21-Jul-78	 9:58	21-Jul-78  10
+CIO057	ODL    15  <155>   126173  21-Jul-78	 9:58	21-Jul-78  10
+CIO067	ODL    15  <155>   604220  21-Jul-78	 9:58	21-Jul-78  10
+CIO077	ODL    15  <155>   345420  21-Jul-78	 9:58	21-Jul-78  10
+DPY	ODL     1  <155>   443250  21-Jul-78	 9:59	21-Jul-78  10
+DPYCBL	CMD     1  <057>   062154  21-Jul-78	 9:59	21-Jul-78  10
+DPYHAZ	ODL     2  <155>   223571  21-Jul-78	10:00	21-Jul-78  10
+KSYS	LOG     1  <057>   244473  21-Jul-78	10:00	21-Jul-78  10
+  Total of 110 blocks in 11 files Checksum = 257525
+
+CAR	P11     2  <155>   165350  21-Jul-78	 9:41	21-Jul-78  10		[100,200,EXTRA,PDP11,OTHER]
+DEF40	P11    21  <155>   321204  21-Jul-78	 9:41	21-Jul-78  10
+TIME	P11     1  <155>   120452  21-Jul-78	 9:41	21-Jul-78  10
+  Total of 24 blocks in 3 files Checksum = 300600
+
+INTERP	CTL     1  <157>   103733  27-Mar-74	 0:01	27-Mar-74   0		[100,200,EXTRA,POLISH]
+INTERP	MAC    12  <157>   727176  11-Sep-78	23:28	26-Feb-74   0
+POLIS2	TEC    14  <155>   134607  21-Jul-78	 9:47	21-Jul-78  10
+POLISH	TEC    12  <155>   416217  21-Jul-78	 9:47	21-Jul-78  10
+PRT	CTL     1  <155>   433052  21-Jul-78	 9:46	21-Jul-78  10
+  Total of 40 blocks in 5 files Checksum = 746556
+
+GETSAT	F4      2  <155>   226144  11-Sep-78	     	18-May-74   1		[100,200,EXTRA,POLY]
+GETSIT	MAC     5  <157>   203606  11-Sep-78	     	18-May-74   1
+POLY1	F4      2  <155>   677353  11-Sep-78	     	18-May-74   1
+POLY1	SAV     6  <155>   310767  11-Sep-78	15:46	27-Feb-74  14	P(2)
+  Total of 15 blocks in 4 files Checksum = 325147
+
+RENBR	F4     89  <155>   325041  11-Sep-78	15:45	27-Feb-74  14		[100,200,EXTRA,RENBR]
+RENBR	HLP     5  <155>   476715  11-Sep-78	15:45	27-Feb-74  14
+  Total of 94 blocks in 2 files Checksum = 570051
+
+FIX	FOR     3  <457>   721214  20-Jul-78	 2:30	 1-Jun-78   0		[100,200,EXTRA,RIPPER]
+FIX	SAI     2  <457>   651461  19-May-78	16:44	 7-Oct-74   1
+RIPPER	EXE    12  <457>   233557  19-Sep-78	 9:17	21-Jul-78  16
+RIPPER	FOR     7  <457>   556054   3-Aug-78	 9:10	21-Jul-78   0
+RIPPER	REL     7  <457>   114001  28-Jul-78	 9:17	21-Jul-78  14
+SIXTO7	MAC     2  <457>   627411  19-Jul-78	16:30	 8-Mar-78   0
+SIXTO7	REL     1  <457>   416166  21-Jul-78	 5:07	19-Jul-78  14
+  Total of 34 blocks in 7 files Checksum = 425712
+
+4010	SML     3  <155>   002674  21-Jul-78	 9:46	21-Jul-78  10		[100,200,EXTRA,RT11]
+BATCON	OBJ     4  <155>   551520  21-Jul-78	 9:46	21-Jul-78  10
+BATCON	P11    24  <155>   514756  21-Jul-78	 9:49	21-Jul-78  10
+CARL	SML     5  <155>   760741  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	OBJ     1  <155>   606777  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	P11     1  <155>   600262  21-Jul-78	 9:49	21-Jul-78  10
+COMAND	OBJ     6  <155>   537242  21-Jul-78	 9:46	21-Jul-78  10
+COMAND	P11    13  <155>   272560  21-Jul-78	 9:49	21-Jul-78  10
+ENGLND	SML    12  <155>   131243  21-Jul-78	 9:46	21-Jul-78  10
+FORTRA	BLB    24  <155>   463052  21-Jul-78	 9:49	21-Jul-78  10
+GETNUM	OBJ     1  <155>   372454  21-Jul-78	 9:46	21-Jul-78  10
+GETNUM	P11     4  <155>   711174  21-Jul-78	 9:49	21-Jul-78  10
+GO	OBJ     2  <155>   244440  21-Jul-78	 9:46	21-Jul-78  10
+GO	P11     4  <155>   215550  21-Jul-78	 9:49	21-Jul-78  10
+HELP	OBJ     2  <155>   473014  21-Jul-78	 9:46	21-Jul-78  10
+HELP	P11     4  <155>   165356  21-Jul-78	 9:49	21-Jul-78  10
+INLINE	OBJ     1  <155>   222733  21-Jul-78	 9:46	21-Jul-78  10
+INLINE	P11     4  <155>   422243  21-Jul-78	 9:49	21-Jul-78  10
+INTERP	OBJ     1  <155>   526443  21-Jul-78	 9:46	21-Jul-78  10
+INTERP	P11     7  <155>   125273  21-Jul-78	 9:49	21-Jul-78  10
+LPSUNV	SML     2  <155>   345741  21-Jul-78	 9:46	21-Jul-78  10
+METEOR	P11   122  <155>   734555  21-Jul-78	 9:48	21-Jul-78  10
+MOD	P11     5  <155>   612221  21-Jul-78	 9:49	21-Jul-78  10
+MPY	OBJ     1  <155>   712651  21-Jul-78	 9:46	21-Jul-78  10
+MPY	P11     3  <155>   042075  21-Jul-78	 9:49	21-Jul-78  10
+MSGOUT	OBJ     1  <155>   753251  21-Jul-78	 9:46	21-Jul-78  10
+MSGOUT	P11     2  <155>   031732  21-Jul-78	 9:49	21-Jul-78  10
+OUTNUM	OBJ     1  <155>   571770  21-Jul-78	 9:46	21-Jul-78  10
+OUTNUM	P11     4  <155>   134150  21-Jul-78	 9:48	21-Jul-78  10
+READ	P11     2  <155>   046751  21-Jul-78	 9:48	21-Jul-78  10
+RSXMC	300    18  <155>   116165  21-Jul-78	 9:46	21-Jul-78  10
+RSXMC	P11     9  <155>   420203  21-Jul-78	 9:48	21-Jul-78  10
+SAVACS	OBJ     1  <155>   071103  21-Jul-78	 9:46	21-Jul-78  10
+SAVACS	P11     2  <155>   711051  21-Jul-78	 9:48	21-Jul-78  10
+SAVERT	OBJ     1  <155>   332531  21-Jul-78	 9:45	21-Jul-78  10
+SAVERT	P11     2  <155>   660200  21-Jul-78	 9:48	21-Jul-78  10
+SPEED	CRF     8  <155>   264367  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	MAC     3  <155>   177040  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	REL     2  <155>   374571  21-Jul-78	 9:45	21-Jul-78  10
+SPOOL	P11     1  <155>   654421  21-Jul-78	 9:48	21-Jul-78  10
+SYSMAC	RT2    15  <155>   730022  21-Jul-78	 9:37	21-Jul-78  10
+T	P11     4  <155>   544556  21-Jul-78	 9:48	21-Jul-78  10
+TAPE	P11    24  <155>   600375  21-Jul-78	 9:48	21-Jul-78  10
+TAPERD	P11    25  <155>   135756  21-Jul-78	 9:48	21-Jul-78  10
+TEST	P11     7  <155>   143611  21-Jul-78	 9:45	21-Jul-78  10
+TTYIN	P11     9  <155>   553742  21-Jul-78	 9:48	21-Jul-78  10
+TTYINT	P11    20  <155>   755537  21-Jul-78	 9:46	21-Jul-78  10
+TTYSPD	EXE     8  <155>   623073  21-Jul-78	 9:45	21-Jul-78  10
+  Total of 425 blocks in 48 files Checksum = 621656
+
+C	SAV     1  <455>   322267  19-Sep-78	15:32	19-Sep-78  16		[100,200,EXTRA,SALVO]
+CHANGE	HLP     1  <057>   200344  19-Sep-78	 0:16	12-Sep-78   0
+CHANGE	MAC     5  <057>   473312  19-Sep-78	12:01	 2-Sep-74   0
+CHANGE	SAV     1  <057>   322267  19-Sep-78	12:02	 2-Sep-74  16
+SALVO	EXE    24  <455>   642512  19-Sep-78	15:32	19-Sep-78  16	P(14)
+SALVO	LST   110  <455>   004752  19-Sep-78	16:07	19-Sep-78   0
+SALVO	MAC    50  <057>   016732  19-Sep-78	23:04	 5-Sep-74   1
+SALVO	REL    18  <455>   463202  19-Sep-78	15:26	19-Sep-78  14
+SALVO1	SHR    13  <057>   431431  19-Sep-78	11:58	 2-Sep-74   1
+  Total of 223 blocks in 9 files Checksum = 015065
+
+CLASS2	001     2  <155>   770362  21-Jul-78	 9:47	21-Jul-78  10		[100,200,EXTRA,SIGN]
+TESTST	WRD     1  <155>   046337  21-Jul-78	 9:47	21-Jul-78  10
+VOCABU	        4  <155>   037730  21-Jul-78	 9:47	21-Jul-78  10
+  Total of 7 blocks in 3 files Checksum = 534163
+
+ED	TEC     2  <157>   511610  20-Apr-74	 0:09	 8-Apr-74   0		[100,200,EXTRA,TEC]
+EDIT	TEC     2  <155>   537644  21-Jul-78	 9:26	21-Jul-78  10
+FILE	EXT     1  <155>   542027  12-Sep-78	10:54	11-Sep-74   0
+LOCAL	TEC     2  <155>   200342  21-Jul-78	 9:26	21-Jul-78  10
+MRHRNO	TEC     2  <155>   277270  21-Jul-78	 9:53	21-Jul-78  10
+NOTICE	SYS     3  <057>   773615   3-Aug-78	17:09	25-Jul-78   0
+NOTICE	TXT     3  <157>   250607  11-Sep-78	20:19	21-Feb-74   0
+ORDER	TEC     1  <155>   603524  21-Jul-78	 9:26	21-Jul-78  10
+PI	TEC     1  <155>   451062  21-Jul-78	 9:26	21-Jul-78  10
+SORT	TEC     1  <155>   126252  21-Jul-78	 9:26	21-Jul-78  10
+TEC	RNO    13  <157>   172246  11-Sep-78	23:48	19-Feb-74   0
+TECO	DOC   352  <155>   564661   2-Sep-78	 9:25	21-Jul-78  10
+TECO	HLP    12  <157>   761610  11-Sep-78	21:00	26-Feb-74   0
+TECO	RNO   190  <155>   045522  21-Jul-78	 9:26	21-Jul-78  10
+TECO28	DOC     4  <155>   064771  21-Jul-78	 9:25	21-Jul-78  10
+TECO29	DOC     8  <155>   617335  21-Jul-78	 9:25	21-Jul-78  10
+VERSIO	TEC     2  <155>   613676  21-Jul-78	 9:26	21-Jul-78  10
+VT05	TEC     1  <155>   540035  21-Jul-78	 9:49	21-Jul-78  10
+VT52	TEC     7  <155>   466026  21-Jul-78	 9:25	21-Jul-78  10
+  Total of 607 blocks in 19 files Checksum = 527641
+
+CP	MAC     5  <155>   144625  11-Aug-78	 3:32	11-Aug-78   0		[100,200,EXTRA,TEST]
+CP	REL     3  <155>   272165  11-Aug-78	 3:46	11-Aug-78  14
+T	EXE     8  <155>   371606  11-Aug-78	 9:33	21-Jul-78  10
+TEST	MAC     1  <155>   623136  11-Sep-78	15:42	 8-Sep-74   0
+TEST2	MAC     5  <155>   571552  11-Aug-78	 9:33	21-Jul-78  10
+TEST2	REL     2  <155>   212104  11-Aug-78	 3:46	11-Aug-78  14
+TTY	EXE     8  <155>   234026  11-Aug-78	 9:33	21-Jul-78  10
+TTY	MAC     7  <155>   562226  11-Aug-78	 9:33	21-Jul-78  10
+TTY	REL     3  <155>   026066  11-Aug-78	 3:46	11-Aug-78  14
+TTYX	EXE     8  <155>   140462  21-Jul-78	 9:33	21-Jul-78  10
+TTYX	MAC     3  <155>   415003  11-Aug-78	 9:33	21-Jul-78  10
+TTYX	REL     2  <155>   142101  11-Aug-78	 3:46	11-Aug-78  14
+U	EXE     8  <057>   043146  11-Aug-78	 3:36	11-Aug-78  16
+  Total of 63 blocks in 13 files Checksum = 345032
+
+DSKCHR	MAC    14  <155>   571650  21-Jul-78	 9:58	21-Jul-78  10		[100,200,EXTRA,TEST1]
+DSKCHR	REL     4  <155>   657241  21-Jul-78	 9:57	21-Jul-78  10
+G	FOR     1  <155>   462700  21-Jul-78	 9:34	21-Jul-78  10
+GRID	FOR     3  <155>   256352  21-Jul-78	 9:34	21-Jul-78  10
+IGNORE	MAC     1  <155>   041351  11-Aug-78	 9:33	21-Jul-78  10
+IGNORE	REL     1  <155>   175074  11-Aug-78	 3:48	11-Aug-78  14
+STRTRK	VEC     7  <155>   127662  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	MEM     4  <155>   144654  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	RNO     3  <155>   351262  21-Jul-78	 9:34	21-Jul-78  10
+  Total of 38 blocks in 9 files Checksum = 712650
+
+ARTIST	BX      5  <155>   272745   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE,OLD]
+LIBOL6	SHR    67  <057>   545576   9-Sep-78	18:41	17-Dec-74   1	6(262)
+OLD	COM     1  <057>   165150  26-Sep-78	16:02	20-Sep-78   0
+RECORD	XXX    17  <057>   361515   9-Sep-78	19:02	 9-Sep-78   0
+T	M01    17  <155>   566230  25-Aug-78	 9:18	21-Jul-78  10
+TAPSUB	M01    48  <155>   532613  25-Aug-78	 9:18	21-Jul-78  10
+TITLE	S01    11  <155>   647217   9-Sep-78	 9:18	21-Jul-78  10
+TITLES	BX      6  <155>   650210   9-Sep-78	 9:18	21-Jul-78  10
+  Total of 172 blocks in 8 files Checksum = 631266
+
+RECORD	INP     8  <155>   230743   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE]
+SONGS	DAT     2  <155>   743607  11-Sep-78	15:41	27-Feb-74  14
+TAPMAC	MAC     1  <155>   015574  25-Aug-78	 9:18	21-Jul-78  10
+TAPMAC	UNV     1  <155>   217351  25-Aug-78	 1:24	25-Aug-78  14
+TAPSUB	MAC    47  <155>   052277   9-Sep-78	 9:18	21-Jul-78  10
+TITLE	CBL    16  <155>   275175  21-Jul-78	 9:19	21-Jul-78  10
+TITLE	COM     2  <057>   033165  26-Sep-78	16:02	20-Sep-78   0
+X	X      10  <057>   044112   9-Sep-78	20:28	 9-Sep-78   0
+  Total of 87 blocks in 8 files Checksum = 777416
+  Grand total of 4584 blocks in 284 files Checksum = 074131
+
+  BACKUP reel number 1; end save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 22:31:30 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+
+  BACKUP reel number 1; start save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 22:31:54 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+BILL10	CBL   165  <057>   200317  15-Dec-77	19:20	 7-Oct-77   0		[100,200,EXTRA,BILL10]
+BILSUB	CBL     6  <057>   206045   5-Sep-78	18:23	19-Jul-76   0
+BILSWT	CBL    26  <057>   345300  15-Dec-77	18:27	14-Dec-76   0
+BILSWT	MBC    27  <057>   625161   7-Sep-78	11:00	 6-Dec-76   0
+  Total of 224 blocks in 4 files Checksum = 440022
+
+BIO	SAV    15  <057>   536411   3-Aug-78	     	 6-Mar-75   0	31(225)-3	[100,200,EXTRA,BOTHEL]
+BOTHEL	BAS    16  <057>   060016   3-Aug-78	     	 6-Apr-78   0
+BOTHEL	MIC     1  <057>   073770   3-Aug-78	     	 3-Mar-78   0
+STRTRK	EXE   124  <057>   302661   3-Aug-78	     	13-Jul-78   0	(1)
+  Total of 156 blocks in 4 files Checksum = 011651
+
+EXTRA	COM     2  <455>   212642  26-Sep-78	16:02	20-Sep-78   0		[100,200,EXTRA]
+  Total of 2 blocks in 1 file Checksum = 212642
+
+CIRCLE	FTN     2  <155>   336067  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,FTN]
+ENDPLT	FTN     3  <155>   331500  21-Jul-78	 9:58	21-Jul-78  10
+ERRTST	FTN     1  <155>   365725  21-Jul-78	10:00	21-Jul-78  10
+GRID	FTN     1  <155>   577541  21-Jul-78	 9:57	21-Jul-78  10
+PAGE	FTN     1  <155>   515510  21-Jul-78	 9:57	21-Jul-78  10
+PAPER	FTN     1  <155>   542371  21-Jul-78	 9:59	21-Jul-78  10
+PLTARR	FTN     3  <155>   355724  21-Jul-78	 9:57	21-Jul-78  10
+PLTEQU	FTN     2  <155>   770375  21-Jul-78	 9:57	21-Jul-78  10
+PLTSEG	FTN     7  <155>   422445  21-Jul-78	 9:58	21-Jul-78  10
+PRINT	FTN     2  <155>   723511  21-Jul-78	 9:57	21-Jul-78  10
+SKIP	FTN     1  <155>   234272  21-Jul-78	 9:57	21-Jul-78  10
+TEST	FTN     2  <155>   530120  21-Jul-78	 9:59	21-Jul-78  10
+TEST1	FTN     5  <155>   540576  21-Jul-78	 9:59	21-Jul-78  10
+TICK	FTN     1  <155>   506244  21-Jul-78	 9:57	21-Jul-78  10
+TSTDRV	FTN     2  <155>   744070  21-Jul-78	 9:40	21-Jul-78  10
+TSTLOG	FTN     2  <155>   140756  21-Jul-78	 9:59	21-Jul-78  10
+VATT	FTN     2  <155>   267560  21-Jul-78	 9:40	21-Jul-78  10
+VBLKD	FTN    11  <155>   377565  21-Jul-78	 9:40	21-Jul-78  10
+VCIGT	FTN     1  <155>   601610  21-Jul-78	 9:58	21-Jul-78  10
+VCNCT	FTN     2  <155>   762133  21-Jul-78	 9:59	21-Jul-78  10
+VCNGT	FTN     1  <155>   650147  21-Jul-78	 9:58	21-Jul-78  10
+VCVT	FTN     2  <155>   145770  21-Jul-78	 9:58	21-Jul-78  10
+VDET	FTN     1  <155>   656170  21-Jul-78	 9:40	21-Jul-78  10
+VGETXY	FTN     6  <155>   527374  21-Jul-78	 9:59	21-Jul-78  10
+VIPCN	FTN     2  <155>   622247  21-Jul-78	 9:58	21-Jul-78  10
+VPERR	FTN     1  <155>   636075  21-Jul-78	 9:40	21-Jul-78  10
+VPLT	FTN     2  <155>   616712  21-Jul-78	 9:40	21-Jul-78  10
+VPNT	FTN     2  <155>   701731  21-Jul-78	 9:40	21-Jul-78  10
+VPSYM	FTN     4  <155>   767444  21-Jul-78	 9:59	21-Jul-78  10
+VSINIT	FTN     4  <155>   456136  21-Jul-78	 9:58	21-Jul-78  10
+VSPP	FTN     2  <155>   526157  21-Jul-78	 9:40	21-Jul-78  10
+VXGRID	FTN     3  <155>   541037  21-Jul-78	 9:58	21-Jul-78  10
+VXLAB	FTN     3  <155>   247320  21-Jul-78	 9:58	21-Jul-78  10
+VXTICK	FTN     2  <155>   731570  21-Jul-78	 9:58	21-Jul-78  10
+VYCTGD	FTN     2  <155>   261731  21-Jul-78	 9:58	21-Jul-78  10
+VYLAB	FTN     2  <155>   307060  21-Jul-78	 9:58	21-Jul-78  10
+XAXIS	FTN     3  <155>   335626  21-Jul-78	 9:57	21-Jul-78  10
+XTITLE	FTN     1  <155>   142240  21-Jul-78	 9:57	21-Jul-78  10
+YAXIS	FTN     3  <155>   257303  21-Jul-78	 9:57	21-Jul-78  10
+  Total of 98 blocks in 39 files Checksum = 006146
+
+ALGOL	FUN    12  <155>   677407  21-Jul-78	 9:42	21-Jul-78  10		[100,200,EXTRA,HAZEL,ALGOL]
+CURHAZ	ALG     2  <157>   520474  21-Jul-78	 9:42	21-Jul-78  10
+CURHAZ	REL     7  <057>   141475  21-Jul-78	 9:42	21-Jul-78  10
+HAZBEN	ALG     5  <057>   006645  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	ALG     3  <157>   547173  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	EXE    16  <057>   706035  28-Jul-78	 9:42	21-Jul-78  10
+HAZEL	REL     9  <057>   332525  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	SYM     4  <057>   765325  21-Jul-78	 9:42	21-Jul-78  10
+PING	ALG     7  <157>   620656  21-Jul-78	 9:42	21-Jul-78  10
+PING	EXE    16  <057>   505436  21-Jul-78	 9:42	21-Jul-78  10
+PING	REL    12  <057>   445313  21-Jul-78	 9:42	21-Jul-78  10
+PING	SYM    10  <057>   535440  21-Jul-78	 9:42	21-Jul-78  10
+  Total of 103 blocks in 12 files Checksum = 224762
+
+CURHAZ	DOC    22  <057>   466242  21-Jul-78	 9:51	21-Jul-78  10		[100,200,EXTRA,HAZEL,CURHAZ]
+CURHAZ	MAC    32  <057>   165643  21-Jul-78	 9:51	21-Jul-78  10
+CURHAZ	X01    25  <057>   472650  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	MAC     4  <057>   276543  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	UNV     2  <057>   230676  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 85 blocks in 5 files Checksum = 067444
+
+1	        1  <057>   242546  21-Jul-78	 9:52	21-Jul-78  10		[100,200,EXTRA,HAZEL,DPYLIB]
+BOTHER	CBL     1  <057>   550162  21-Jul-78	 9:51	21-Jul-78  10
+BOTHER	EXE    20  <057>   211623  21-Jul-78	 9:52	21-Jul-78  10
+DPY	CBL    13  <057>   142606  21-Jul-78	 9:52	21-Jul-78  10
+DPY	EXE    40  <057>   124200  21-Jul-78	 9:52	21-Jul-78  10
+DPY	REL    20  <057>   163773  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	CAB   109  <057>   133402  31-Aug-78	 9:51	21-Jul-78  10
+DPYLIB	DOC    46  <057>   343534  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	MAC   116  <057>   513314   1-Sep-78	 9:51	21-Jul-78  10
+DPYLIB	REL    26  <057>   366222   1-Sep-78	 9:52	21-Jul-78  10
+DPYLIB	SPL     3  <057>   461510  21-Jul-78	 9:53	21-Jul-78  10
+MACTEN	CTL     2  <057>   351342  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	MAC    43  <057>   046562  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	UNV    30  <057>   024341  21-Jul-78	 9:52	21-Jul-78  10
+NEW	SAV    82  <057>   543542  21-Jul-78	 9:52	21-Jul-78  10	40(220)
+UUOSYM	CTL     3  <057>   011424  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	MAC   207  <057>   140522  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	UNV    50  <057>   221076  13-Sep-78	 9:52	21-Jul-78  10
+X	MAC     3  <057>   641310  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 815 blocks in 19 files Checksum = 453261
+
+HAZEL	MAC     5  <057>   455355  11-Sep-78	 8:46	26-Aug-74   1		[100,200,EXTRA,HAZEL]
+  Total of 5 blocks in 1 file Checksum = 455355
+
+CURHAZ	ALG     2  <157>   455562  29-Nov-77	     	 9-Jul-74   0		[100,200,EXTRA,HAZEL,MORE]
+CURHAZ	DOC    18  <157>   112074  29-Nov-77	     	17-Aug-74   0
+CURHAZ	MAC    24  <157>   014362   3-Mar-78	     	19-Aug-74   0
+CURHAZ	OLD    23  <157>   121206   3-Mar-78	     	 2-Jul-74   0
+CURHAZ	REL     5  <057>   616601   3-Mar-78	23:15	 3-Mar-78  14
+HAZEL	ALG     2  <157>   321554  29-Nov-77	     	10-Jul-74   0
+HAZEL	MAC     5  <157>   455355   3-Mar-78	     	12-Jan-74   0
+HAZEL	REL     2  <057>   627324   3-Mar-78	23:14	 3-Mar-78  14
+MASK4	MAC     2  <157>   604524  29-Nov-77	     	29-Aug-74   0
+MWHEEL	HLD     1  <157>   031566   3-Mar-78	23:09	 3-Mar-78   0
+PING	ALG     7  <157>   540740  29-Nov-77	     	 8-Aug-74   0
+SCREWS	CUA     1  <057>   031566   3-Mar-78	10:19	 5-Jan-75   0
+SCROLL	MAC     4  <157>   065114   3-Mar-78	     	13-Aug-74   0
+SCROLL	SAV     2  <157>   245427   3-Mar-78	     	13-Aug-74   0
+SCROLL	SRC     4  <157>   226642  29-Nov-77	     	13-Aug-74   0
+TUG	MAC     6  <157>   526675   3-Mar-78	     	12-Feb-75   0
+TUG	REL     3  <057>   402466   3-Mar-78	23:13	 3-Mar-78  14
+UPDATE	MAC    23  <157>   630075  29-Nov-77	     	13-Aug-74   0
+UPDATE	SAV     6  <157>   616527   3-Mar-78	     	13-Aug-74   0	1-2
+UPDATE	SRC    23  <157>   065124  29-Nov-77	     	13-Aug-74   0
+X	        2  <057>   676706   3-Mar-78	23:09	 3-Mar-78   0
+  Total of 165 blocks in 21 files Checksum = 667433
+
+DPY	CBL    25  <455>   443377   9-Aug-78	20:48	 9-Aug-78   0		[100,200,EXTRA,HAZEL,PDP11]
+HAZEL	MAC    32  <455>   244765  13-Sep-78	20:44	 9-Aug-78   0
+  Total of 57 blocks in 2 files Checksum = 564616
+
+ARPA	MAN   172  <057>   174557  24-Jul-78	     	 9-Mar-76   0		[100,200,EXTRA,MIT]
+ARPA	NET     8  <057>   246773  24-Jul-78	     	 2-Mar-76   0
+DDT	HLP     1  <057>   141756  24-Jul-78	     	27-Sep-76   0
+DDT	MAN   251  <057>   513270  24-Jul-78	     	28-Sep-76   0
+HOSTS	IMP    13  <057>   177651  24-Jul-78	     	 8-Mar-76   0
+HOSTS	MCH    21  <057>   172527  24-Jul-78	     	 8-Mar-76   0
+HOSTS	NUM     7  <057>   006026  24-Jul-78	     	 8-Mar-76   0
+MITECO	MAN   249  <057>   232127  24-Jul-78	     	27-Sep-76   0
+TCTYP	HLP     3  <057>   652475  24-Jul-78	     	27-Sep-76   0
+TCTYP	MAN    25  <057>   517561  24-Jul-78	     	27-Sep-76   0
+  Total of 750 blocks in 10 files Checksum = 512675
+
+MPX	CRF    12  <057>   063460  12-Sep-78	 0:48	12-Sep-78   1		[100,200,EXTRA,MPX]
+MPX	MAC     3  <057>   525130  13-Sep-78	 0:47	12-Sep-78   0
+MPX	REL     2  <057>   533601  12-Sep-78	 0:48	12-Sep-78  14
+MPX	SAV     1  <057>   575607  13-Sep-78	19:04	 8-Sep-74  16
+  Total of 18 blocks in 4 files Checksum = 064362
+
+MT1010	NEW    11  <057>   532037  19-Sep-78	16:05	18-Dec-74  17		[100,200,EXTRA,MTADIR]
+MTA	BAK    11  <455>   532037  19-Sep-78	18:29	19-Sep-78  17
+MTA	DIR    11  <455>   532037  19-Sep-78	18:05	19-Sep-78  17
+MTA1	SHR     4  <057>   536574  19-Sep-78	23:17	16-May-74   1	6
+MTA2	SHR    24  <057>   267526  19-Sep-78	23:45	16-May-74   1	30(2)
+MTA3	SAV    17  <057>   205116  19-Sep-78	23:18	16-May-74   1	11
+MTADIR	SHR     6  <057>   321041  11-Sep-78	21:41	17-Jul-74   1	7(3)
+MTADIR	SRT    35  <057>   750725  11-Sep-78	21:51	16-Sep-74   0
+MTAPRV	DIR    11  <057>   173516  11-Sep-78	15:06	27-Feb-74  17
+PIP2	SHR    24  <057>   077154  19-Sep-78	22:06	16-Sep-74   1	(30)
+  Total of 154 blocks in 10 files Checksum = 753460
+
+PARITY	CCL     1  <057>   152775  24-Nov-76	22:13	 2-Feb-76   0		[100,200,EXTRA,PARITY]
+PARITY	CMD     1  <057>   661551  19-Nov-76	23:11	 9-Feb-76   0
+PARITY	LOW     2  <057>   450701  28-Jun-77	15:54	31-May-77  16
+PARITY	MAC     7  <057>   100277  24-Nov-76	14:27	24-Nov-76   0
+PARITY	SHR     6  <057>   534715  28-Jun-77	15:54	31-May-77  16
+  Total of 17 blocks in 5 files Checksum = 052675
+
+CIO017	ODL    15  <155>   765150  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,PDP11,BUS34]
+CIO027	ODL    15  <155>   563054  21-Jul-78	 9:59	21-Jul-78  10
+CIO037	ODL    15  <155>   100717  21-Jul-78	 9:58	21-Jul-78  10
+CIO047	ODL    15  <155>   574367  21-Jul-78	 9:58	21-Jul-78  10
+CIO057	ODL    15  <155>   126173  21-Jul-78	 9:58	21-Jul-78  10
+CIO067	ODL    15  <155>   604220  21-Jul-78	 9:58	21-Jul-78  10
+CIO077	ODL    15  <155>   345420  21-Jul-78	 9:58	21-Jul-78  10
+DPY	ODL     1  <155>   443250  21-Jul-78	 9:59	21-Jul-78  10
+DPYCBL	CMD     1  <057>   062154  21-Jul-78	 9:59	21-Jul-78  10
+DPYHAZ	ODL     2  <155>   223571  21-Jul-78	10:00	21-Jul-78  10
+KSYS	LOG     1  <057>   244473  21-Jul-78	10:00	21-Jul-78  10
+  Total of 110 blocks in 11 files Checksum = 257525
+
+CAR	P11     2  <155>   165350  21-Jul-78	 9:41	21-Jul-78  10		[100,200,EXTRA,PDP11,OTHER]
+DEF40	P11    21  <155>   321204  21-Jul-78	 9:41	21-Jul-78  10
+TIME	P11     1  <155>   120452  21-Jul-78	 9:41	21-Jul-78  10
+  Total of 24 blocks in 3 files Checksum = 300600
+
+INTERP	CTL     1  <157>   103733  27-Mar-74	 0:01	27-Mar-74   0		[100,200,EXTRA,POLISH]
+INTERP	MAC    12  <157>   727176  11-Sep-78	23:28	26-Feb-74   0
+POLIS2	TEC    14  <155>   134607  21-Jul-78	 9:47	21-Jul-78  10
+POLISH	TEC    12  <155>   416217  21-Jul-78	 9:47	21-Jul-78  10
+PRT	CTL     1  <155>   433052  21-Jul-78	 9:46	21-Jul-78  10
+  Total of 40 blocks in 5 files Checksum = 746556
+
+GETSAT	F4      2  <155>   226144  11-Sep-78	     	18-May-74   1		[100,200,EXTRA,POLY]
+GETSIT	MAC     5  <157>   203606  11-Sep-78	     	18-May-74   1
+POLY1	F4      2  <155>   677353  11-Sep-78	     	18-May-74   1
+POLY1	SAV     6  <155>   310767  11-Sep-78	15:46	27-Feb-74  14	P(2)
+  Total of 15 blocks in 4 files Checksum = 325147
+
+RENBR	F4     89  <155>   325041  11-Sep-78	15:45	27-Feb-74  14		[100,200,EXTRA,RENBR]
+RENBR	HLP     5  <155>   476715  11-Sep-78	15:45	27-Feb-74  14
+  Total of 94 blocks in 2 files Checksum = 570051
+
+FIX	FOR     3  <457>   721214  20-Jul-78	 2:30	 1-Jun-78   0		[100,200,EXTRA,RIPPER]
+FIX	SAI     2  <457>   651461  19-May-78	16:44	 7-Oct-74   1
+RIPPER	EXE    12  <457>   233557  19-Sep-78	 9:17	21-Jul-78  16
+RIPPER	FOR     7  <457>   556054   3-Aug-78	 9:10	21-Jul-78   0
+RIPPER	REL     7  <457>   114001  28-Jul-78	 9:17	21-Jul-78  14
+SIXTO7	MAC     2  <457>   627411  19-Jul-78	16:30	 8-Mar-78   0
+SIXTO7	REL     1  <457>   416166  21-Jul-78	 5:07	19-Jul-78  14
+  Total of 34 blocks in 7 files Checksum = 425712
+
+4010	SML     3  <155>   002674  21-Jul-78	 9:46	21-Jul-78  10		[100,200,EXTRA,RT11]
+BATCON	OBJ     4  <155>   551520  21-Jul-78	 9:46	21-Jul-78  10
+BATCON	P11    24  <155>   514756  21-Jul-78	 9:49	21-Jul-78  10
+CARL	SML     5  <155>   760741  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	OBJ     1  <155>   606777  21-Jul-78	 9:46	21-Jul-78  10
+CLRCOR	P11     1  <155>   600262  21-Jul-78	 9:49	21-Jul-78  10
+COMAND	OBJ     6  <155>   537242  21-Jul-78	 9:46	21-Jul-78  10
+COMAND	P11    13  <155>   272560  21-Jul-78	 9:49	21-Jul-78  10
+ENGLND	SML    12  <155>   131243  21-Jul-78	 9:46	21-Jul-78  10
+FORTRA	BLB    24  <155>   463052  21-Jul-78	 9:49	21-Jul-78  10
+GETNUM	OBJ     1  <155>   372454  21-Jul-78	 9:46	21-Jul-78  10
+GETNUM	P11     4  <155>   711174  21-Jul-78	 9:49	21-Jul-78  10
+GO	OBJ     2  <155>   244440  21-Jul-78	 9:46	21-Jul-78  10
+GO	P11     4  <155>   215550  21-Jul-78	 9:49	21-Jul-78  10
+HELP	OBJ     2  <155>   473014  21-Jul-78	 9:46	21-Jul-78  10
+HELP	P11     4  <155>   165356  21-Jul-78	 9:49	21-Jul-78  10
+INLINE	OBJ     1  <155>   222733  21-Jul-78	 9:46	21-Jul-78  10
+INLINE	P11     4  <155>   422243  21-Jul-78	 9:49	21-Jul-78  10
+INTERP	OBJ     1  <155>   526443  21-Jul-78	 9:46	21-Jul-78  10
+INTERP	P11     7  <155>   125273  21-Jul-78	 9:49	21-Jul-78  10
+LPSUNV	SML     2  <155>   345741  21-Jul-78	 9:46	21-Jul-78  10
+METEOR	P11   122  <155>   734555  21-Jul-78	 9:48	21-Jul-78  10
+MOD	P11     5  <155>   612221  21-Jul-78	 9:49	21-Jul-78  10
+MPY	OBJ     1  <155>   712651  21-Jul-78	 9:46	21-Jul-78  10
+MPY	P11     3  <155>   042075  21-Jul-78	 9:49	21-Jul-78  10
+MSGOUT	OBJ     1  <155>   753251  21-Jul-78	 9:46	21-Jul-78  10
+MSGOUT	P11     2  <155>   031732  21-Jul-78	 9:49	21-Jul-78  10
+OUTNUM	OBJ     1  <155>   571770  21-Jul-78	 9:46	21-Jul-78  10
+OUTNUM	P11     4  <155>   134150  21-Jul-78	 9:48	21-Jul-78  10
+READ	P11     2  <155>   046751  21-Jul-78	 9:48	21-Jul-78  10
+RSXMC	300    18  <155>   116165  21-Jul-78	 9:46	21-Jul-78  10
+RSXMC	P11     9  <155>   420203  21-Jul-78	 9:48	21-Jul-78  10
+SAVACS	OBJ     1  <155>   071103  21-Jul-78	 9:46	21-Jul-78  10
+SAVACS	P11     2  <155>   711051  21-Jul-78	 9:48	21-Jul-78  10
+SAVERT	OBJ     1  <155>   332531  21-Jul-78	 9:45	21-Jul-78  10
+SAVERT	P11     2  <155>   660200  21-Jul-78	 9:48	21-Jul-78  10
+SPEED	CRF     8  <155>   264367  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	MAC     3  <155>   177040  21-Jul-78	 9:45	21-Jul-78  10
+SPEED	REL     2  <155>   374571  21-Jul-78	 9:45	21-Jul-78  10
+SPOOL	P11     1  <155>   654421  21-Jul-78	 9:48	21-Jul-78  10
+SYSMAC	RT2    15  <155>   730022  21-Jul-78	 9:37	21-Jul-78  10
+T	P11     4  <155>   544556  21-Jul-78	 9:48	21-Jul-78  10
+TAPE	P11    24  <155>   600375  21-Jul-78	 9:48	21-Jul-78  10
+TAPERD	P11    25  <155>   135756  21-Jul-78	 9:48	21-Jul-78  10
+TEST	P11     7  <155>   143611  21-Jul-78	 9:45	21-Jul-78  10
+TTYIN	P11     9  <155>   553742  21-Jul-78	 9:48	21-Jul-78  10
+TTYINT	P11    20  <155>   755537  21-Jul-78	 9:46	21-Jul-78  10
+TTYSPD	EXE     8  <155>   623073  21-Jul-78	 9:45	21-Jul-78  10
+  Total of 425 blocks in 48 files Checksum = 621656
+
+C	SAV     1  <455>   322267  19-Sep-78	15:32	19-Sep-78  16		[100,200,EXTRA,SALVO]
+CHANGE	HLP     1  <057>   200344  19-Sep-78	 0:16	12-Sep-78   0
+CHANGE	MAC     5  <057>   473312  19-Sep-78	12:01	 2-Sep-74   0
+CHANGE	SAV     1  <057>   322267  19-Sep-78	12:02	 2-Sep-74  16
+SALVO	EXE    24  <455>   642512  19-Sep-78	15:32	19-Sep-78  16	P(14)
+SALVO	LST   110  <455>   004752  19-Sep-78	16:07	19-Sep-78   0
+SALVO	MAC    50  <057>   016732  19-Sep-78	23:04	 5-Sep-74   1
+SALVO	REL    18  <455>   463202  19-Sep-78	15:26	19-Sep-78  14
+SALVO1	SHR    13  <057>   431431  19-Sep-78	11:58	 2-Sep-74   1
+  Total of 223 blocks in 9 files Checksum = 015065
+
+CLASS2	001     2  <155>   770362  21-Jul-78	 9:47	21-Jul-78  10		[100,200,EXTRA,SIGN]
+TESTST	WRD     1  <155>   046337  21-Jul-78	 9:47	21-Jul-78  10
+VOCABU	        4  <155>   037730  21-Jul-78	 9:47	21-Jul-78  10
+  Total of 7 blocks in 3 files Checksum = 534163
+
+ED	TEC     2  <157>   511610  20-Apr-74	 0:09	 8-Apr-74   0		[100,200,EXTRA,TEC]
+EDIT	TEC     2  <155>   537644  21-Jul-78	 9:26	21-Jul-78  10
+FILE	EXT     1  <155>   542027  12-Sep-78	10:54	11-Sep-74   0
+LOCAL	TEC     2  <155>   200342  21-Jul-78	 9:26	21-Jul-78  10
+MRHRNO	TEC     2  <155>   277270  21-Jul-78	 9:53	21-Jul-78  10
+NOTICE	SYS     3  <057>   773615   3-Aug-78	17:09	25-Jul-78   0
+NOTICE	TXT     3  <157>   250607  11-Sep-78	20:19	21-Feb-74   0
+ORDER	TEC     1  <155>   603524  21-Jul-78	 9:26	21-Jul-78  10
+PI	TEC     1  <155>   451062  21-Jul-78	 9:26	21-Jul-78  10
+SORT	TEC     1  <155>   126252  21-Jul-78	 9:26	21-Jul-78  10
+TEC	RNO    13  <157>   172246  11-Sep-78	23:48	19-Feb-74   0
+TECO	DOC   352  <155>   564661   2-Sep-78	 9:25	21-Jul-78  10
+TECO	HLP    12  <157>   761610  11-Sep-78	21:00	26-Feb-74   0
+TECO	RNO   190  <155>   045522  21-Jul-78	 9:26	21-Jul-78  10
+TECO28	DOC     4  <155>   064771  21-Jul-78	 9:25	21-Jul-78  10
+TECO29	DOC     8  <155>   617335  21-Jul-78	 9:25	21-Jul-78  10
+VERSIO	TEC     2  <155>   613676  21-Jul-78	 9:26	21-Jul-78  10
+VT05	TEC     1  <155>   540035  21-Jul-78	 9:49	21-Jul-78  10
+VT52	TEC     7  <155>   466026  21-Jul-78	 9:25	21-Jul-78  10
+  Total of 607 blocks in 19 files Checksum = 527641
+
+CP	MAC     5  <155>   144625  11-Aug-78	 3:32	11-Aug-78   0		[100,200,EXTRA,TEST]
+CP	REL     3  <155>   272165  11-Aug-78	 3:46	11-Aug-78  14
+T	EXE     8  <155>   371606  11-Aug-78	 9:33	21-Jul-78  10
+TEST	MAC     1  <155>   623136  11-Sep-78	15:42	 8-Sep-74   0
+TEST2	MAC     5  <155>   571552  11-Aug-78	 9:33	21-Jul-78  10
+TEST2	REL     2  <155>   212104  11-Aug-78	 3:46	11-Aug-78  14
+TTY	EXE     8  <155>   234026  11-Aug-78	 9:33	21-Jul-78  10
+TTY	MAC     7  <155>   562226  11-Aug-78	 9:33	21-Jul-78  10
+TTY	REL     3  <155>   026066  11-Aug-78	 3:46	11-Aug-78  14
+TTYX	EXE     8  <155>   140462  21-Jul-78	 9:33	21-Jul-78  10
+TTYX	MAC     3  <155>   415003  11-Aug-78	 9:33	21-Jul-78  10
+TTYX	REL     2  <155>   142101  11-Aug-78	 3:46	11-Aug-78  14
+U	EXE     8  <057>   043146  11-Aug-78	 3:36	11-Aug-78  16
+  Total of 63 blocks in 13 files Checksum = 345032
+
+DSKCHR	MAC    14  <155>   571650  21-Jul-78	 9:58	21-Jul-78  10		[100,200,EXTRA,TEST1]
+DSKCHR	REL     4  <155>   657241  21-Jul-78	 9:57	21-Jul-78  10
+G	FOR     1  <155>   462700  21-Jul-78	 9:34	21-Jul-78  10
+GRID	FOR     3  <155>   256352  21-Jul-78	 9:34	21-Jul-78  10
+IGNORE	MAC     1  <155>   041351  11-Aug-78	 9:33	21-Jul-78  10
+IGNORE	REL     1  <155>   175074  11-Aug-78	 3:48	11-Aug-78  14
+STRTRK	VEC     7  <155>   127662  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	MEM     4  <155>   144654  21-Jul-78	 9:34	21-Jul-78  10
+WOMAN	RNO     3  <155>   351262  21-Jul-78	 9:34	21-Jul-78  10
+  Total of 38 blocks in 9 files Checksum = 712650
+
+ARTIST	BX      5  <155>   272745   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE,OLD]
+LIBOL6	SHR    67  <057>   545576   9-Sep-78	18:41	17-Dec-74   1	6(262)
+OLD	COM     1  <057>   165150  26-Sep-78	16:02	20-Sep-78   0
+RECORD	XXX    17  <057>   361515   9-Sep-78	19:02	 9-Sep-78   0
+T	M01    17  <155>   566230  25-Aug-78	 9:18	21-Jul-78  10
+TAPSUB	M01    48  <155>   532613  25-Aug-78	 9:18	21-Jul-78  10
+TITLE	S01    11  <155>   647217   9-Sep-78	 9:18	21-Jul-78  10
+TITLES	BX      6  <155>   650210   9-Sep-78	 9:18	21-Jul-78  10
+  Total of 172 blocks in 8 files Checksum = 631266
+
+RECORD	INP     8  <155>   230743   9-Sep-78	 9:18	21-Jul-78  10		[100,200,EXTRA,TITLE]
+SONGS	DAT     2  <155>   743607  11-Sep-78	15:41	27-Feb-74  14
+TAPMAC	MAC     1  <155>   015574  25-Aug-78	 9:18	21-Jul-78  10
+TAPMAC	UNV     1  <155>   217351  25-Aug-78	 1:24	25-Aug-78  14
+TAPSUB	MAC    47  <155>   052277   9-Sep-78	 9:18	21-Jul-78  10
+TITLE	CBL    16  <155>   275175  21-Jul-78	 9:19	21-Jul-78  10
+TITLE	COM     2  <057>   033165  26-Sep-78	16:02	20-Sep-78   0
+X	X      10  <057>   044112   9-Sep-78	20:28	 9-Sep-78   0
+  Total of 87 blocks in 8 files Checksum = 777416
+  Grand total of 4588 blocks in 286 files Checksum = 067436
+
+  BACKUP reel number 1; end save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 22:33:01 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+
+  BACKUP reel number 1; start save set: [100,200] EXTRA WEIGHT
+    by version 2(232) at 22:35:24 on 26-Sep-78
+    written on MTA100: on S/N 1113 at 1600 9-track
+    under TOPS-10 system 603(15717): GALLAUDET 603 NETWORK V3
+
+BILL10	CBL   165  <057>   200317  15-Dec-77	19:20	 7-Oct-77   0		[100,200,EXTRA,BILL10]
+BILSUB	CBL     6  <057>   206045   5-Sep-78	18:23	19-Jul-76   0
+BILSWT	CBL    26  <057>   345300  15-Dec-77	18:27	14-Dec-76   0
+BILSWT	MBC    27  <057>   625161   7-Sep-78	11:00	 6-Dec-76   0
+  Total of 224 blocks in 4 files Checksum = 440022
+
+BIO	SAV    15  <057>   536411   3-Aug-78	     	 6-Mar-75   0	31(225)-3	[100,200,EXTRA,BOTHEL]
+BOTHEL	BAS    16  <057>   060016   3-Aug-78	     	 6-Apr-78   0
+BOTHEL	MIC     1  <057>   073770   3-Aug-78	     	 3-Mar-78   0
+STRTRK	EXE   124  <057>   302661   3-Aug-78	     	13-Jul-78   0	(1)
+  Total of 156 blocks in 4 files Checksum = 011651
+
+EXTRA	COM     2  <455>   212642  26-Sep-78	16:02	20-Sep-78   0		[100,200,EXTRA]
+  Total of 2 blocks in 1 file Checksum = 212642
+
+CIRCLE	FTN     2  <155>   336067  21-Jul-78	 9:59	21-Jul-78  10		[100,200,EXTRA,FTN]
+ENDPLT	FTN     3  <155>   331500  21-Jul-78	 9:58	21-Jul-78  10
+ERRTST	FTN     1  <155>   365725  21-Jul-78	10:00	21-Jul-78  10
+GRID	FTN     1  <155>   577541  21-Jul-78	 9:57	21-Jul-78  10
+PAGE	FTN     1  <155>   515510  21-Jul-78	 9:57	21-Jul-78  10
+PAPER	FTN     1  <155>   542371  21-Jul-78	 9:59	21-Jul-78  10
+PLTARR	FTN     3  <155>   355724  21-Jul-78	 9:57	21-Jul-78  10
+PLTEQU	FTN     2  <155>   770375  21-Jul-78	 9:57	21-Jul-78  10
+PLTSEG	FTN     7  <155>   422445  21-Jul-78	 9:58	21-Jul-78  10
+PRINT	FTN     2  <155>   723511  21-Jul-78	 9:57	21-Jul-78  10
+SKIP	FTN     1  <155>   234272  21-Jul-78	 9:57	21-Jul-78  10
+TEST	FTN     2  <155>   530120  21-Jul-78	 9:59	21-Jul-78  10
+TEST1	FTN     5  <155>   540576  21-Jul-78	 9:59	21-Jul-78  10
+TICK	FTN     1  <155>   506244  21-Jul-78	 9:57	21-Jul-78  10
+TSTDRV	FTN     2  <155>   744070  21-Jul-78	 9:40	21-Jul-78  10
+TSTLOG	FTN     2  <155>   140756  21-Jul-78	 9:59	21-Jul-78  10
+VATT	FTN     2  <155>   267560  21-Jul-78	 9:40	21-Jul-78  10
+VBLKD	FTN    11  <155>   377565  21-Jul-78	 9:40	21-Jul-78  10
+VCIGT	FTN     1  <155>   601610  21-Jul-78	 9:58	21-Jul-78  10
+VCNCT	FTN     2  <155>   762133  21-Jul-78	 9:59	21-Jul-78  10
+VCNGT	FTN     1  <155>   650147  21-Jul-78	 9:58	21-Jul-78  10
+VCVT	FTN     2  <155>   145770  21-Jul-78	 9:58	21-Jul-78  10
+VDET	FTN     1  <155>   656170  21-Jul-78	 9:40	21-Jul-78  10
+VGETXY	FTN     6  <155>   527374  21-Jul-78	 9:59	21-Jul-78  10
+VIPCN	FTN     2  <155>   622247  21-Jul-78	 9:58	21-Jul-78  10
+VPERR	FTN     1  <155>   636075  21-Jul-78	 9:40	21-Jul-78  10
+VPLT	FTN     2  <155>   616712  21-Jul-78	 9:40	21-Jul-78  10
+VPNT	FTN     2  <155>   701731  21-Jul-78	 9:40	21-Jul-78  10
+VPSYM	FTN     4  <155>   767444  21-Jul-78	 9:59	21-Jul-78  10
+VSINIT	FTN     4  <155>   456136  21-Jul-78	 9:58	21-Jul-78  10
+VSPP	FTN     2  <155>   526157  21-Jul-78	 9:40	21-Jul-78  10
+VXGRID	FTN     3  <155>   541037  21-Jul-78	 9:58	21-Jul-78  10
+VXLAB	FTN     3  <155>   247320  21-Jul-78	 9:58	21-Jul-78  10
+VXTICK	FTN     2  <155>   731570  21-Jul-78	 9:58	21-Jul-78  10
+VYCTGD	FTN     2  <155>   261731  21-Jul-78	 9:58	21-Jul-78  10
+VYLAB	FTN     2  <155>   307060  21-Jul-78	 9:58	21-Jul-78  10
+XAXIS	FTN     3  <155>   335626  21-Jul-78	 9:57	21-Jul-78  10
+XTITLE	FTN     1  <155>   142240  21-Jul-78	 9:57	21-Jul-78  10
+YAXIS	FTN     3  <155>   257303  21-Jul-78	 9:57	21-Jul-78  10
+  Total of 98 blocks in 39 files Checksum = 006146
+
+ALGOL	FUN    12  <155>   677407  21-Jul-78	 9:42	21-Jul-78  10		[100,200,EXTRA,HAZEL,ALGOL]
+CURHAZ	ALG     2  <157>   520474  21-Jul-78	 9:42	21-Jul-78  10
+CURHAZ	REL     7  <057>   141475  21-Jul-78	 9:42	21-Jul-78  10
+HAZBEN	ALG     5  <057>   006645  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	ALG     3  <157>   547173  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	EXE    16  <057>   706035  28-Jul-78	 9:42	21-Jul-78  10
+HAZEL	REL     9  <057>   332525  21-Jul-78	 9:42	21-Jul-78  10
+HAZEL	SYM     4  <057>   765325  21-Jul-78	 9:42	21-Jul-78  10
+PING	ALG     7  <157>   620656  21-Jul-78	 9:42	21-Jul-78  10
+PING	EXE    16  <057>   505436  21-Jul-78	 9:42	21-Jul-78  10
+PING	REL    12  <057>   445313  21-Jul-78	 9:42	21-Jul-78  10
+PING	SYM    10  <057>   535440  21-Jul-78	 9:42	21-Jul-78  10
+  Total of 103 blocks in 12 files Checksum = 224762
+
+CURHAZ	DOC    22  <057>   466242  21-Jul-78	 9:51	21-Jul-78  10		[100,200,EXTRA,HAZEL,CURHAZ]
+CURHAZ	MAC    32  <057>   165643  21-Jul-78	 9:51	21-Jul-78  10
+CURHAZ	X01    25  <057>   472650  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	MAC     4  <057>   276543  21-Jul-78	 9:51	21-Jul-78  10
+CURMAC	UNV     2  <057>   230676  21-Jul-78	 9:51	21-Jul-78  10
+  Total of 85 blocks in 5 files Checksum = 067444
+
+1	        1  <057>   242546  21-Jul-78	 9:52	21-Jul-78  10		[100,200,EXTRA,HAZEL,DPYLIB]
+BOTHER	CBL     1  <057>   550162  21-Jul-78	 9:51	21-Jul-78  10
+BOTHER	EXE    20  <057>   211623  21-Jul-78	 9:52	21-Jul-78  10
+DPY	CBL    13  <057>   142606  21-Jul-78	 9:52	21-Jul-78  10
+DPY	EXE    40  <057>   124200  21-Jul-78	 9:52	21-Jul-78  10
+DPY	REL    20  <057>   163773  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	CAB   109  <057>   133402  31-Aug-78	 9:51	21-Jul-78  10
+DPYLIB	DOC    46  <057>   343534  21-Jul-78	 9:52	21-Jul-78  10
+DPYLIB	MAC   116  <057>   513314   1-Sep-78	 9:51	21-Jul-78  10
+DPYLIB	REL    26  <057>   366222   1-Sep-78	 9:52	21-Jul-78  10
+DPYLIB	SPL     3  <057>   461510  21-Jul-78	 9:53	21-Jul-78  10
+MACTEN	CTL     2  <057>   351342  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	MAC    43  <057>   046562  21-Jul-78	 9:52	21-Jul-78  10
+MACTEN	UNV    30  <057>   024341  21-Jul-78	 9:52	21-Jul-78  10
+NEW	SAV    82  <057>   543542  21-Jul-78	 9:52	21-Jul-78  10	40(220)
+UUOSYM	CTL     3  <057>   011424  21-Jul-78	 9:52	21-Jul-78  10
+UUOSYM	MAC   207  <057>   140522  21-Jul-78	 9:52	21-Jul-78  10
+  BACKUP end of volume
+UUOSYM	UNV    50  <057>   056450  13-Sep-78	 9:52	21-Jul-78  10
+%DRTMFS Tape mark during BACKUP/FRS save set
+
+   5;5a:
