@@ -1,0 +1,63 @@
+00:00:20 S 19-May-95
+03:00:40 S 19-May-95
+03:59:34 S 19-May-95 Signing off.
+04:48:45 S ** 19-May-95 XEXEC %1(215) in frame 4 ** user PERPOPER **
+04:49:45 S 19-May-95
+06:00:47 S 19-May-95
+07:45:05 S -S- stream #1 Req #9815 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:17 S Processor status JSU EXECX Setup in frame 63
+07:45:18 P Waiting for interlock
+07:45:19 P Got interlock
+07:45:20 P EXECX Job Processor %1(226) starting in frame 63
+07:45:20 S Starting job processor in frame 63
+07:45:22 P Stream #1 Req #9815 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:51:48 P Stream #1 Req #9815 * completed *
+07:51:49 S -R- stream #1 Done-End <0>
+08:00:04 S -S- stream #1 Req #9816 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+08:00:09 P Stream #1 Req #9816 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+08:00:55 P Stream #1 Req #9816 * completed *
+08:01:01 S -R- stream #1 Done-End <0>
+08:16:20 P Signing off.
+09:00:29 S 19-May-95
+10:00:08 S -S- stream #1 Req #9817 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+10:00:21 S Processor status JSU EXECX Setup in frame 80
+10:00:22 P Waiting for interlock
+10:00:23 P Got interlock
+10:00:23 P EXECX Job Processor %1(226) starting in frame 80
+10:00:24 S Starting job processor in frame 80
+10:00:24 P Stream #1 Req #9817 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+10:01:20 P Stream #1 Req #9817 * completed *
+10:01:26 S -R- stream #1 Done-End <0>
+10:17:24 P Signing off.
+12:00:34 S 19-May-95
+14:30:07 S -S- stream #1 Req #9818 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+14:30:19 S Processor status JSU EXECX Setup in frame 52
+14:30:19 P Waiting for interlock
+14:30:21 P Got interlock
+14:30:21 P EXECX Job Processor %1(226) starting in frame 52
+14:30:21 S Starting job processor in frame 52
+14:30:22 P Stream #1 Req #9818 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+14:32:52 P Stream #1 Req #9818 * completed *
+14:32:54 S -R- stream #1 Done-End <0>
+14:48:23 P Signing off.
+15:00:26 S 19-May-95
+17:00:03 S -S- stream #1 Req #9819 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+17:00:15 S Processor status JSU EXECX Setup in frame 48
+17:00:15 P Waiting for interlock
+17:00:16 P Got interlock
+17:00:17 P EXECX Job Processor %1(226) starting in frame 48
+17:00:17 P Stream #1 Req #9819 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+17:00:18 S Starting job processor in frame 48
+17:01:04 P Stream #1 Req #9819 * completed *
+17:01:06 S -R- stream #1 Done-End <0>
+17:16:17 P Signing off.
+18:00:20 S 19-May-95
+21:00:30 S 19-May-95
+23:30:02 S -S- stream #1 Req #9820 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+23:30:12 P Stream #1 Req #9820 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+6) starting in frame 66
+23:30:13 S Starting job processor in frame 66
+23:30:57 P Stream #1 Req #9820 * completed *
+23:31:04 S -R- stream #1 Done-End <0>
+23:46:11 P Signing off.
+00:00:12 S 20-May-95
