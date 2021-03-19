@@ -1,0 +1,49 @@
+00:00:13 S 17-Sep-95
+03:00:14 S 17-Sep-95
+06:00:19 S 17-Sep-95
+06:01:17 S 17-Sep-95 Signing off.
+10:05:08 S ** 17-Sep-95 XEXEC %1(215) in frame 4 ** user PERPOPER **
+10:05:08 S -S- stream #1 Req #10503 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+10:05:14 S Processor status JSU EXECX Setup in frame 7
+10:05:15 P Waiting for interlock
+10:05:16 P Got interlock
+10:05:16 P EXECX Job Processor %1(226) starting in frame 7
+10:05:16 P Stream #1 Req #10503 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+10:05:17 S Starting job processor in frame 7
+10:05:17 S -S- stream #2 Req #10504 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+10:05:18 P Stream #2 Req #10504 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+10:05:23 S -S- stream #3 Req #10505 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+10:05:28 P Stream #3 Req #10505 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+10:06:16 S 17-Sep-95
+10:06:30 P Stream #2 Req #10504 * completed *
+10:06:33 S -R- stream #2 Done-End <0>
+10:06:51 P Stream #3 Req #10505 * completed *
+10:06:55 S -R- stream #3 Done-End <0>
+10:11:45 P Stream #1 Req #10503 * completed *
+10:11:47 S -R- stream #1 Done-End <0>
+10:27:16 P Signing off.
+12:00:17 S 17-Sep-95
+15:00:17 S 17-Sep-95
+17:00:05 S -S- stream #1 Req #10506 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+17:00:14 P Waiting for interlock
+17:00:15 S Processor status JSU EXECX Setup in frame 19
+17:00:16 P Got interlock
+17:00:16 P EXECX Job Processor %1(226) starting in frame 19
+17:00:16 S Starting job processor in frame 19
+17:00:17 P Stream #1 Req #10506 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+17:01:37 P Stream #1 Req #10506 * completed *
+17:01:38 S -R- stream #1 Done-End <0>
+17:17:16 P Signing off.
+18:00:17 S 17-Sep-95
+21:00:19 S 17-Sep-95
+23:30:05 S -S- stream #1 Req #10507 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+23:30:14 P Waiting for interlock
+23:30:14 S Processor status JSU EXECX Setup in frame 29
+23:30:16 P Got interlock
+23:30:16 P EXECX Job Processor %1(226) starting in frame 29
+23:30:16 S Starting job processor in frame 29
+23:30:17 P Stream #1 Req #10507 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+23:31:31 P Stream #1 Req #10507 * completed *
+23:31:33 S -R- stream #1 Done-End <0>
+23:47:17 P Signing off.
+00:00:16 S 18-Sep-95
