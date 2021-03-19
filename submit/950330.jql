@@ -1,0 +1,61 @@
+00:00:20 S 30-Mar-95
+00:30:03 S -S- stream #1 Req #9507 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+00:30:13 S Processor status JSU EXECX Setup in frame 43
+00:30:13 P Waiting for interlock
+00:30:14 P Got interlock
+00:30:15 P EXECX Job Processor %1(226) starting in frame 43
+00:30:15 S Starting job processor in frame 43
+00:30:16 P Stream #1 Req #9507 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+00:30:55 P Stream #1 Req #9507 * completed *
+00:30:59 S -R- stream #1 Done-End <0>
+00:46:15 P Signing off.
+03:00:30 S 30-Mar-95
+06:00:37 S 30-Mar-95
+08:45:04 S -S- stream #1 Req #9508 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+08:45:17 S Processor status JSU EXECX Setup in frame 15
+08:45:17 P Waiting for interlock
+08:45:18 P Got interlock
+08:45:18 P EXECX Job Processor %1(226) starting in frame 15
+08:45:19 P Stream #1 Req #9508 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+08:45:19 S Starting job processor in frame 15
+08:52:36 P Stream #1 Req #9508 * completed *
+08:52:36 S -R- stream #1 Done-End <0>
+09:00:04 S -S- stream #1 Req #9509 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+09:00:09 P Stream #1 Req #9509 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+09:00:21 S 30-Mar-95
+09:01:01 P Stream #1 Req #9509 * completed *
+09:01:10 S -R- stream #1 Done-End <0>
+09:16:20 P Signing off.
+11:00:05 S -S- stream #1 Req #9510 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+11:00:13 S Processor status JSU EXECX Setup in frame 31
+11:00:13 P Waiting for interlock
+11:00:14 P Got interlock
+11:00:15 P EXECX Job Processor %1(226) starting in frame 31
+11:00:15 P Stream #1 Req #9510 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+11:00:15 S Starting job processor in frame 31
+11:00:50 P Stream #1 Req #9510 * completed *
+11:00:54 S -R- stream #1 Done-End <0>
+11:16:16 P Signing off.
+12:00:18 S 30-Mar-95
+15:00:36 S 30-Mar-95
+15:30:04 S -S- stream #1 Req #9511 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+15:30:21 S Processor status JSU EXECX Setup in frame 58
+15:30:21 P Waiting for interlock
+15:30:23 P Got interlock
+15:30:23 P EXECX Job Processor %1(226) starting in frame 58
+15:30:24 S Starting job processor in frame 58
+15:30:25 P Stream #1 Req #9511 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+15:33:49 P Stream #1 Req #9511 * completed *
+15:33:50 S -R- stream #1 Done-End <0>
+15:49:25 P Signing off.
+18:00:09 S -S- stream #1 Req #9512 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+18:00:15 S 30-Mar-95
+18:00:20 S Processor status JSU EXECX Setup in frame 36
+18:00:21 P Waiting for interlock
+18:00:22 P Got interlock
+00:00:45 S 31-Mar-95
+.
+Done-End <0>
+ted *
+g in frame 36
+18:00:24 P Stream #1 Req #9512 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
