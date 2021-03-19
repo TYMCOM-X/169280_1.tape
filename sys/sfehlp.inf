@@ -1,0 +1,817 @@
+
+
+
+
+
+THIS IS THE INFORMATION FILE FOR USE WITH THE SUPER FORTRAN EDITOR,
+SFORTR.SIM.  A keyword within stars is an EXPLAIN-able phrase.  If the
+keyword is preceeded by "$", however, it denotes the text to be printed
+out by just the command of that name.  
+*&!* denotes a comment.
+
+
+
+*$HELP*
+Type INSTRUCTIONS for directions on the use of this Editor, EXPLAIN for
+an explanation of a certain command or concept.  Following is a 45 line
+summary of commands.  Type ESC or ALT to stop it.
+
+COMMAND                 DESCRIPTION
+-------                 -----------
+
+&                       Indicates end of file from the terminal
+?                       Gives options associated with certain commands
+ABORT                   Returns to XEXEC
+CLEAR                   Clears and unnames the text area
+COMPILE                 Compiles the specified files, if necessary
+COPY                    Copies lines from one place to another
+CREATE                  Saves current text, clears then names text area
+DELETE                  Deletes the line, lines or line ranges specified
+DO                      Starts execution of a command file
+ECHO                    Starts command echoing to terminal or TOUT file
+EDIT                    Allows user to edit line or lines
+ENTER                   Gets lines from user or from a file and puts
+                        them into the text area at specified location
+EXPLAIN                 Explains a single command
+GET                     Saves current text, then replaces text area with
+                        the contents of the specified file
+HELP                    Prints this list
+HUSH                    Turns off unrequested output
+INITIALIZE              Compiles if necessary, and loads specified files
+INSTRUCTIONS            Gives directions on use of SUPER FORTRAN Editor
+LIST                    Lists version or lists lines to terminal or file
+MODIFY                  Like EDIT, but does not print original line
+MOVE                    Moves lines from one place to another
+NO ECHO                 Turns off ECHO
+NO HUSH                 Turns off HUSH
+PRODUCTION COMPILE,     COMPILEs, INITIALIZEs, or RUNs
+ PRODUCTION INITIALIZE,  the specified files
+ PRODUCTION RUN          without any development facilities
+QUIT                    Returns to XEXEC after saving current text
+RENUMBER                Renumbers certain or all lines as specified
+RUN                     Compiles, if necessary, then loads and executes
+                         the specified files
+SAVE                    Saves current text to the current or a new file
+SWITCH                  Sets switches for compile-type commands
+TERMINAL                Gets one command from the terminal
+TOUT                    Sends printout to specified file or the terminal
+TYPE                    Types a message at the terminal
+
+*$INSTRUCTIONS*
+
+The Super Fortran Editor builds and runs Super Fortran programs.  The
+HELP command types a summary of commands.  The EXPLAIN command, followed
+by a word or phrase, types an explanation of a command or concept.  Some
+EXPLAIN-able concepts are:
+
+CONCEPT                                 PHRASE TO FOLLOW "EXPLAIN"
+-------                                 --------------------------
+
+Entering or typing in your program      ENTERING
+Changing the contents of a line         EDITING
+Fixing mistakes while typing in         LINE EDITING
+Listing your Super Fortran program      LISTING
+Running your Super Fortran program      RUNNING
+Leaving the Editor                      QUITTING
+Deleting lines, clearing text           DELETING
+Moving or copying lines                 MOVING
+Renumbering lines                       RENUMBERING
+Naming your program                     NAMING
+Forms of error messages in the Editor   ERRORS
+Getting along with the Editor           FRONT END
+
+*ENTERING*
+Every Super Fortran statement has an associated line number.  These
+numbers range from 0.001 to 99999.999, and are always in order within
+any one program.  Line numbers are different from Fortran statement
+labels, which can be referenced in a GO TO statement, and which do not
+have to be in order.  The easiest way to enter a line into the text area
+is to type a line number followed by a space and the Fortran statement.
+For example:
+   10 *This is a comment
+   25.4 GO TO 50
+If you have many lines to enter, you can get Super Fortran to supply the
+line numbers by typing "ENTER 1", which gives the first line number 1.0,
+and increments each succeeding line number by 1.  When done entering
+lines, type an ampersand "&" and Carriage Return on a single line.  If
+your program already exists as a file on disk, the GET command followed
+by the file name will load it into the text area.
+Related EXPLAIN-able phrases are: LINE NUMBERS, LINE EDITING, TEXT AREA,
+NAMING, ENTER, GET, FILE NAMES
+*EDITING*
+To make a change in a line previously entered, use the EDIT or MODIFY
+command followed by the line number of the line.  Super Fortran types
+the "old line" then waits for you to make corrections (the MODIFY
+command doesn't type the old line).  One way to correct a line is to
+retype it, ending with a Carriage Return.  However, it is usuallly
+simpler to make changes using some of the line editing control
+characters.  
+Related EXPLAIN-able phrases are: EDIT, MODIFY, LINE NUMBERS, LINE
+EDITING
+*LINE EDITING*
+If you make a mistake while typing in a line or a command, you can
+"backspace" by typing one "Control A" (hold down the "CTRL" key and type
+"A") for each character you want to back over.  Each letter backed over
+is typed out.
+
+For the EDIT and MODIFY commands, there is an "old line" that you are
+working from that can be useful.  For instance, typing Control C Copies
+one character from the old line to the new line.  To insert characters
+in the middle of a line, type Control E, then the characters to be
+inserted, the Control E again to finish the insertion.  Control S
+deletes the next character.  If you simply want to replace the whole
+line, or to replace certain characters, just type in the new letters in
+place of the old ones.  A convenient control code is Control Z.  After
+typing Control Z, type a character from the old line and the Editor will
+automatically copy characters from the old line up through that
+character.  After you have made the necessary corrections, Control D
+will copy the rest of the old line and finish the EDIT or MODIFY
+operation.  Control Q deletes the whole line.
+
+These control characters are also useful in entering commands, where the
+old line is the last command you typed, and in entering Fortran
+statements, where the old line is the last line typed.  For information
+on these and other control characters, consult your Tymshare Editor
+manual.
+Related EXPLAIN-able phrases are: EDIT, MODIFY, ENTER, EDITING
+*LISTING*
+The LIST command lists all or part of the text at the terminal or on a
+symbolic file.  For instance, "LIST 5.2" would list the line having line
+number 5.2.  A number of lines can be listed by specifying a line list,
+as in "LIST 5.2, 102.43" which lists two lines, or "LIST 5.2:102.43"
+which lists all lines having line numbers between 5.2 and 102.43.
+"LIST" or "LIST ALL" lists all lines.  To list text to a file type "LIST
+5.2:102.43 TO xxxxxx.xxx".  If the word "INDENTED" appears in a list
+command, Super Fortran lines up the line numbers and statements.  If
+"UNNUMBERED" appears, the line numbers are left out of the listing.
+
+The "LIST TO" construct is useful for preparing a line printer listing;
+however, it is not normally used to save the program (use the SAVE
+command for this) since when text is LIST-ed the line numbers become
+part of the text.  To enter lines from a file that was created with LIST
+use the DO command.  The ENTER command looks for special line numbers
+which LIST does not generate (but SAVE, GET, CREATE, and QUIT do).
+Related EXPLAIN-able phrases are: LINE NUMBERS, TEXT AREA, LIST, LINE
+LIST, FILE NAMES, SAVE, DO, ENTER, GET, CREATE, QUIT
+*RUNNING*
+After your Super Fortran program has been entered, you may start
+execution, and if necessary, debug your program entirely within Super
+Fortran.  The commands COMPILE, INITIALIZE, and RUN are called
+compile-type commands because each includes compilation (translation of
+the program into internal machine language) as part of its function.
+
+Each of these commands can be followed by a files list, which may
+include any of the XEXEC "switches".  If no files list is given, then
+the files indicated for the most recent compile-type command are
+automatically used, or if none, the program in the text area is used.
+
+If you haven't yet named the program, Super Fortran will request a name
+by asking "Write text to:" and you should enter the file name you want
+to assign to your program.
+
+A file in the files list won't be compiled if that same file has already
+been compiled and no changes have been made to it since.
+
+Using the prefix PRODUCTION with any of the compile-type commands yields
+faster compilation and execution, but none of the debugging tools will
+be available if you find problems in your program.  The COMPILE command
+simply compiles the files and returns to the Editor.  RUN compiles and
+executes your program, and INITIALIZE prepares the program for execution
+but doesn't start it (you may want to set breakpoints before execution
+begins).  
+Related EXPLAIN-able phrases are: TEXT AREA, NAMING, FILE NAMES, FILES
+LISTS, ENTERING, DEBUGGING, PRODUCTION, COMPILE, INITIALIZE, RUN,
+SWITCHES, SWITCH
+*QUITTING* *QUITING* *EXITING* *LEAVING* *FINISHING* *ENDING*
+If you wish to return to XEXEC you may do so and discard the contents of
+the text area with the ABORT command, or save the text with the QUIT
+command.  For the latter, if the text area has a name, the text will be
+saved on the file with that name; otherwise, Super Fortran requests a
+file name.  If, after ABORT-ing, you wish to recover the "discarded"
+text, type "REENTER" as soon as you see the XEXEC prompt "-".
+Related EXPLAIN-able phrases are: NAMING, TEXT AREA, QUIT, ABORT, FILE
+NAMES
+*DELETING* *CLEARING*
+To delete lines, type "DELETE" followed by the line number of the line
+to be deleted, or by a line list.  To erase all lines and start with an
+unnamed text area, type "CLEAR".
+Related EXPLAIN-able phrases are: DELETE, CLEAR, LINE LIST, LINE NUMBER,
+NAMING
+*MOVING*
+To move line 10.3 to 146.2, you would type "MOVE 10.3 TO 146.2".  Line
+10.3 disappears and a new line 146.2 appears, containing the same text
+as in the original line 10.3.  If more than one line is to be moved a
+list of lines can be specified.  Super Fortran will attempt to fit all
+these lines between line 146.2 and the next line after it, unless a more
+extended form of the line range is given (146.2 is the line range in
+this case).  COPY is the same as MOVE, except that the lines moved do
+not get deleted.
+Related EXPLAIN-able phrases are: MOVE, COPY, LINE NUMBER, LINE LIST,
+LINE RANGE
+*RENUMBERING*
+Any one contiguous block of lines (specified by a line list) can be
+renumbered, with Super Fortran deciding what the new numbers will be.
+You may override Super Fortran by giving a starting line number and an
+(optional) ending line number and increment.  The rule to keep in mind
+if you supply this "line range" is that the destination it specifies
+must not cause any other lines to be deleted or any lines to be
+rearranged.
+Related EXPLAIN-able phrases are: LINE LIST, LINE RANGE, INCREMENT,
+RENUMBER
+*NAMING* *NAMEING*
+Before you can run your program or return to XEXEC you must either save
+or discard the text in the text area, if there is any.  To save the
+text, it must be given a name.  If a GET, CREATE, or SAVE command has
+been used, the text is already named.  Otherwise, the SAVE command must
+be used, followed by any legal file name.  The CLEAR command discards
+the text in the text area and also erases the name.  To return to XEXEC
+and discard the text at the same time, the ABORT command must be used.
+
+Once the text is named, it and any text entered afterwards will be
+automatically saved on the named file whenever one of the following
+commands is entered: CREATE, GET, SAVE, QUIT, COMPILE, INITIALIZE, or
+RUN.
+Related EXPLAIN-able phrases are: FILE NAMES, RUNNING, QUITTING, TEXT
+AREA, SAVE, QUIT, ABORT, CLEAR, GET, CREATE, COMPILE, INITIALIZE, RUN
+*ERRORS*
+If a command is only partially correct, Super Fortran will type out the
+correct form.  In the scheme used, square brackets denote optional
+parts, and sections surrounded by curly brackets indicate a choice of
+one of the parts within that section.
+*FRONT END* *FRONT*
+Following are descriptions of some features that may improve the user's
+efficiency.
+
+Any time you are typing in a line to Super Fortran, you may correct
+errors using line editing techniques.  This includes answers to
+questions, commands to Super Fortran, and entering program lines.
+
+You may instruct Super Fortran to take commands one by one from a
+command file instead of the terminal by using the DO command.  These
+commands are executed exactly as if you had typed them in.
+
+Just as a command file takes the place of the terminal for supplying
+input, so the TOUT file takes the place of the terminal for receiving
+output.  If a TOUT file is specified with the TOUT command, all printing
+that normally goes to the terminal goes instead to that file, until you
+deactivate the file.
+
+The ECHO command shows each command as it is picked up from a command
+file at the terminal or on the TOUT file, until deactivated by NO ECHO.
+
+Another feature of interest is the HUSH command, which shuts off
+unrequested output from Super Fortran, such as the prompt ">".
+Related EXPLAIN-able phrases are: DO, ECHO, TOUT, HUSH, NO HUSH, NO
+ECHO, LINE EDITING, COMMAND FILES, TOUT FILES, FILE NAMES
+*&!*
+
+
+
+Above are the paragraphs most likely to be referenced.  Below are the
+rest of the EXPLAIN paragraphs.  They are in alphabetical order, and are
+followed by the EXPLAIN-ations of the commands themselves, which are
+also in alphabetical order.
+
+
+
+*COMMAND FILES* *COMMANDS*
+A command file is a file from which, at your request, commands are taken
+and executed one by one, exactly as if you typed them in at the
+terminal.  A command file can save you a lot of typing if you use a
+certain sequence of commands fairly often.  You merely type "DO"
+followed by the name of the command file to cause these commands to be
+executed.  When the end of the file is reached (or if an error occurs)
+commands are again accepted at the terminal.  A command file may contain
+a DO command, in which case commands are taken from the second command
+file until its end, then Super Fortran takes commands from the first
+file again, starting from where it left off.
+
+The terminal can become a command file by using the form "DO TERMINAL"
+from within a command file.  Its "end" is reached when a single
+ampersand and carriage return are typed at the terminal.  The TERMINAL
+command is the same as DO TERMINAL, except that the terminal is the
+command file for only one command, and then control automatically
+returns to the original command file.  
+
+The TYPE command can be used in a command file to print a message at the
+terminal, and is often used in conjunction with the TERMINAL command.
+The ECHO command causes the commands in a command file to be printed at
+the terminal.
+Related EXPLAIN-able phrases are: FILE NAMES, FRONT END, DO, TERMINAL,
+TYPE, ECHO
+*COMPILE-TYPE COMMANDS*
+The commands COMPILE, INITIALIZE, and RUN are called compile-type
+commands because each includes compilation (translation of the program
+into internal machine language) as part of its function.  The prefix
+PRODUCTION may appear before any of the compile-type commands.  Each
+compile-type command attempts to save the text in the text area, then
+leaves the Editor to compile the files in the files list, and load and
+execute them if appropriate.
+Related EXPLAIN-able phrases are: RUNNING, FILES LISTS, PRODUCTION,
+COMPILE, INITIALIZE, RUN
+*DEBUGGING*
+Super Fortran provides the capability for examining the flow of your
+program so that problems can be pinpointed.  It is possible, for
+instance, to have Super Fortran stop just before it executes a certain
+statement, at which time values of variables can be examined.  You may
+also instruct Super Fortran to stop execution any time the value of a
+particular variable is about to change.
+
+These debugging facilities are provided to a program whenever the
+COMPILE, INITIALIZE, or RUN commands are used without the "PRODUCTION"
+prefix.  Selection of debugging facilities can be made for each file
+that is a part of the user's total program.  Each file is compiled for
+"DEBUG" or "NODEBUG", depending on the command and the switches that are
+used within it.
+Related EXPLAIN-able phrases are: RUNNING, PRODUCTION, FILES LISTS,
+SWITCHES, SWITCH, COMPILE-TYPE COMMANDS
+*FILES*
+Options are:
+   FILES LISTS
+   FILE NAMES
+*FILES LISTS*
+A files list is a file name or a list of file names separated by commas,
+used in a compile-type command.  If a files list is used, the current
+text does not automatically become part of the list; it must be
+explicitly referred to by name or by the special name "$".  If the files
+list if omitted, then the files list indicated in the last compile-type
+command is used, or if none, then the current text is automatically
+indicated.  A files list may also contain any of the switches available
+for the XEXEC EXECUTE command.  A file in the files list won't be
+compiled if that same file has already been compiled and no changes have
+been made to it since.  The /COMPILE switch, however, forces compilation
+of a file or group of files.
+Related EXPLAIN-able phrases are: RUNNING, SWITCHES, SWITCH, FILE NAMES,
+COMPILE-TYPE COMMANDS
+*FILE NAMES*
+Any legal file name in XEXEC is acceptable in Super Fortran, with the
+exception of special names that denote a group of files.  A file name
+consists of one to six alphameric characters.  A three character
+extension is often appended to the file name to indicate whether the
+fs symbolic, binary, or some other special form, and is separated
+from the file name by a period.  Symbolic files that contain Super
+Fortran programs usually have the extension ".SFO", as in "PAYROL.SFO".
+
+Certain commands in Super Fortran know about this convention.  If a file
+name is typed without an extension in a GET, CREATE, or SAVE command, or
+as a response to "Write text to:", Super Fortran automatically uses the
+".SFO" extension.  In a similar manner, the DO command uses the ".CMD"
+extension (for "command file").  Both the GET and DO commands look for a
+file with the automatic extension.  If that file can't be found, Super
+Fortran will look for a file with the same name but with no extension.
+If you need to specify a file with no extension, type only the period
+after the file name, as in "PAYROL.".
+
+Certain operations such as SAVE-ing or LIST-ing to a file change the
+contents of that file.  Super Fortran always requests confirmation
+before actually changing the file by asking "New file - ok?" if the file
+is new or "Existing file - ok?", to which you answer YES or NO.  You can
+avoid this procedure by adding a dash "-" and "NEW", "EXISTING", or
+"ANY" to the file name.  For example, if "-EXISTING" follows the file
+name, the file will be changed only if it already exists.
+Related EXPLAIN-able phrases are: COMMAND FILES, DO, GET, CREATE, SAVE
+*INCREMENTS*
+An increment is the difference between the line numbers of two adjacent
+lines.  Increments are used in line ranges.
+Related EXPLAIN-able phrases are: LINE RANGES
+*LINE ADDRESSES*
+A single line may be referred to as follows:
+
+Form            Meaning                                 Example
+----            -------                                 -------
+
+  n             line with number n                      4.057
+ #i             the i'th line in the text area          #43
+  .             the last line operated upon
+  $             the last line in the text area  
+a+i             the i'th line after the 
+                line addressed by a                     .+2
+a-i             the i'th line before the
+                line addressed by a                     $-18
+
+More than one line may be addressed by using a form of the line list or
+line range.
+Related EXPLAIN-able phrases are: LINE NUMBERS, TEXT AREA, LINE LIST,
+LINE RANGE
+*LINE LISTS* *LINES* *SOURCE RANGES* *SOURCES*
+A line list, or source range, answers the question "which lines?".  It
+may be a list of lines separated by commas, as in
+
+   "5, 6.2, 103.48"
+
+Or, instead of one line at a time, groups of lines may be specified.
+For example, "5:12" refers to all lines with line numbers between 5.0
+and 12.0, and "5:12, 6.2" means that group of lines plus the line with
+line number 6.2.  Any line address can be used in place of a line
+number, as in 
+   " 3:.-2,43.9:$"
+which specifies the third line of text through the second line before
+the current line, plus line 43.9 through the last line of text.  All
+lines are specified by the word "ALL".
+
+Line lists may be used in the following commands: MOVE, COPY, DELETE,
+EDIT, MODIFY, LIST, RENUMBER.  In the RENUMBER command, only one
+contiguous group of lines is allowed.  For instance, "4, 102.3:105"
+would not be allowed.
+Related EXPLAIN-able phrases are: LINE ADDRESS, LINE NUMBERS, MOVE,
+COPY, DELETE, EDIT, MODIFY, LIST, RENUMBER
+*LINE NUMBERS*
+Every Super Fortran program is composed of ordered lines, each having a
+unique line number between 0.001 and 99999.999.  Line numbers differ
+from Fortran statement labels, which can be referenced from within the
+program, for instance in a GO TO statement.  Note that line number 3.0
+does not necessarily address the third line in the text area; it refers
+to the line having line number 3.0.  However, it is possible to refer to
+the third line, the last line, the line last processed, or some line
+plus or minus a certain number of lines by specifying a line address of
+the correct form.
+
+Line numbers written onto a file by Super Fortran are distinguishable
+from the rest of the information on the file.  Such a file is created by
+the SAVE command, and indirectly by the GET, CREATE, QUIT, COMPILE,
+INITIALIZE, and RUN commands.  This is the type of file expected by the
+GET and ENTER FROM commands.  The LIST command, however, writes line
+numbers out in a form not recognisable by these two commands.  Such a
+file makes a good line printer listing, but to reenter it into the text
+area later requires the DO command.
+Related EXPLAIN-able phrases are: LINE ADDRESS, TEXT AREA, DO, ENTER,
+GET, QUIT, CREATE, RUNNING
+*LINE RANGES* *DESTINATIONS*
+A line range or destination answers the question "where do the lines
+go?"  A line range may be used in the following commands: MOVE, COPY,
+RENUMBER AS, and ENTER.
+
+The general form is N1(N2)N3, where the N's are line numbers.  It
+translates to: "starting at N1, ending at N3, and using an increment of
+N2." If the increment is left out, leaving the form N1:N3, then Super
+Fortran picks a suitable increment, trying 1.0 first, then going to
+smaller values if that increment doesn't provide enough room.  If the
+ending line number is left out, then Super Fortran automatically
+substitutes a line number just smaller than the line number of the next
+line after the starting line.  Other forms of line address may not take
+the place of the line numbers in a line range.
+Related EXPLAIN-able phrases are: LINE LIST, LINE NUMBER, INCREMENT,
+LINE ADDRESS, MOVE, COPY, RENUMBER, ENTER
+*SWITCHES*
+A switch is a keyword immediately following a slash "/" which appears in
+a files list of a compile-type command.  Switches help specify the way a
+file or group of files is to be compiled, loaded, or executed.  For
+example, the /LIST switch causes the file or files to be listed as each
+is compiled.  If a switch immediately follows a file name, then it
+applies only to that file; otherwise, it applies to all file names which
+follow.  Certain switches cancel the effect of a previous switch, e.g.
+/NOLIST, again for one file or a group of files.  Switches (and file
+names) set with the SWITCH command always preceed other switches and
+file names.
+
+Two switches of special interest are /DEBUG and /NODEBUG, which allow
+the user to alter the established compilation mode for certain files.
+The /DEBUG switch causes the file or group of files to be compiled with
+debugging information even though they may appear in a PRODUCTION
+compile-type command.  /NODEBUG cancels the effect of the /DEBUG switch.
+Related EXPLAIN-able phrases are: FILES LIST, RUNNING, FILE NAMES,
+SWITCH, DEBUGGING, PRODUCTION, COMPILE-TYPE COMMANDS
+*TEXT AREA* *TEXT*
+The text area is a temporary location in which lines of text can be
+manipulated before being executed as a Super Fortran program or saved as
+a symbolic file on disk.  Each line in the text area has a line number,
+ranging from 0.001 to 99999.999, and the lines are always ordered.
+Related EXPLAIN-able phrases are: LINE NUMBERS, RUNNING, ENTERING
+*TOUT FILES*
+The TOUT command causes all printing that is normally typed at the
+terminal to be written on a file instead.  This file is called the TOUT
+file.  The TOUT file is deactivated by another TOUT command, or when the
+user leaves the Super Fortran Editor (also when ESC is typed).  The TOUT
+TERMINAL command returns normal printing to the terminal.
+Related EXPLAIN-able phrases are: TOUT
+*$EXPLAIN*
+The EXPLAIN command explains a command or concept.  Some valid options
+are:
+
+   ENTERING EDITING HELP LISTING RUNNING QUITTING
+*$LINE*
+Enters a statement into your program.
+Related EXPLAIN-able phrases are: LINE NUMBERS, ENTERING
+*&*
+The ampersand typed alone on a line denotes end of input from the
+terminal.  It is used in the ENTER command to indicate that no more
+lines are to be entered.  It is also used when a command file executes
+the statement DO TERMINAL.  After the ampersand is typed, control
+returns to the command file.
+Related EXPLAIN-able phrases are: COMMAND FILES, DO
+*?*
+"?" typed after NO, LIST, PRODUCTION, or EXPLAIN FILE gives a list of
+options.  Typed by itself, it prints a list of commands.
+*ABORT*
+The ABORT command discards the text in the text area, if any, and
+returns to XEXEC.
+Related EXPLAIN-able phrases are: QUITTING, NAMING, TEXT AREA, QUIT
+*CLEAR*
+The CLEAR command discards the text in the text area and erases the name
+assigned to it.  No other actions are performed.
+Related EXPLAIN-able phrases are: NAMING, TEXT AREA
+*COMPILE*
+The COMPILE command causes the files in the files list to be compiled
+(translated into internal machine language), then returns to the Editor.
+All files will be compiled for debugging unless the /NODEBUG switch is
+used or the prefix PRODUCTION appears.  If you haven't yet named the
+program, Super Fortran will request a name by asking "Write text to:"
+and you should enter the file name you want to assign to your program.
+Related EXPLAIN-able phrases are: FILES LISTS, RUNNING, DEBUGGING,
+PRODUCTION, SWITCHES, NAMING
+*COPY*
+The COPY command copies lines from one part of the text to another.
+When the command is executed, the lines in the line list are copied to
+the destination specified by the line range.
+
+If both a starting and an ending line number are given in the line
+range, then all lines currently in that range are deleted and replaced
+by the lines in the line list, provided that there is enough room for
+the new lines.
+
+If only a starting line number is given, Super Fortran chooses an ending
+line number.  The command will not be executed if the copied lines would
+surround or overwrite any existing lines, except the first.
+Related EXPLAIN-able phrases are: LINE LISTS, LINE RANGES, TEXT AREA
+*CREATE*
+The CREATE command lets you create a file on which you can begin
+entering your Super Fortran program.  Thus, your program will have a
+name from the start.  The specified file must be a new file.
+
+If there already is text in the text area and it has no name, Super
+Fortran will request a name by asking "Write text to:" and you should
+enter the file name you want to assign to that program.  If you want to
+discard the current text instead of saving it, use the CLEAR command
+before CREATE.
+Related EXPLAIN-able phrases are: NAMING, FILE NAMES, CLEAR, TEXT AREA
+*DELETE*
+The DELETE command erases the lines referred to in the line list.  The
+lines to be DELETE-d are computed at the time the DELETE command is
+given.
+Related EXPLAIN-able phrases are: LINE LISTS, TEXT AREA
+*DO*
+When the DO command is given, commands are taken from the specified file
+until its end, unless an error is encountered, and executed exactly as
+if they had been typed at the terminal.  If the file name has no
+extension, Super Fortran looks first for a file with extension .CMD,
+then for a file with no extension.  The ECHO command can provide a trace
+of all commands executed from the command file.  If the terminal is
+specified as the command file, a single ampersand and Carriage Return
+denote end of input from the terminal.
+Related EXPLAIN-able phrases are: FILE NAMES, ECHO, COMMAND FILES
+*ECHO*
+The ECHO command provides a trace of commands executed from a command
+file by typing each one and the prompts and messages associated with it.
+If there is a TOUT file, then this information is printed on that file
+instead of at the terminal.  In this case, commands typed in at the
+terminal will also "ECHO" to the TOUT file.  The NO ECHO command shuts
+off ECHO-ing.
+Related EXPLAIN-able phrases are: COMMAND FILES, TOUT FILES
+*EDIT*
+The EDIT command allows you to change the contents of a line using line
+editing techniques.
+
+If more than one line is specified, each line is edited in the sequence
+given.  If no changes need to be made in a line, the fastest way to pass
+on to the next line (or to finish the EDIT operation) is to type Control
+F.  If, in the middle of an EDIT operation, you decide not to make any
+more changes, type ESC (or ALT).  The lines you have modified, if any,
+will remain changed but the rest of the lines in the list will be
+unaffected.  The command is terminated automatically after the last line
+is edited or when ESC is typed.
+Related EXPLAIN-able phrases are: LINE EDITING, LINE LISTS
+*ENTER*
+Super Fortran permits you to enter lines either at the terminal or from
+a file into the text area.
+
+The easiest way to enter a line into the text area is to type a line
+number followed by a space and the Fortran statement.  If there is
+already a line with that line number, it is replaced.
+
+If you have several lines to enter, you can cause Super Fortran to
+supply line numbers automatically by answering the question "Where do
+the lines go?" with a line range, or destination.
+
+If an increment is not specified as part of the line range, Super
+Fortran prints a "@" and waits for you to enter a line.  Otherwise, it
+computes and prints the line number for that line.
+
+When you are done entering lines, type a single ampersand and Carriage
+Return on a line.  Super Fortran, however, will automatically end the
+ENTER if it calculates a line number greater than the endng line number.
+After the last line has been entered, Super Fortran replaces all the
+lines currently in the line range, if any, with the new lines.
+
+If you want to put the new lines in between two already existing lines,
+give a starting line number but not an increment or an ending line
+number.  Super Fortran will calculate these latter so that all the new
+lines will fit in that space, without replacing any existing lines.
+
+To enter lines from a file, include the "FROM file" phrase in the ENTER
+command.  If the lines in the file already have the line numbers you
+want them to have, leave the line range out of the command.  In this
+case, the lines do not have to be ordered.  If the lines in the file
+don't have the appropriate numbers, or aren't numbered at all, the line
+range determines what line numbers are assigned to the lines coming in.
+Related EXPLAIN-able phrases are: LINE NUMBERS, TEXT AREA, ENTERING,
+LINE RANGES, INCREMENTS, FILE NAMES
+*EXPLAIN*
+The EXPLAIN command explains a concept or gives instructions on the use
+of the specified command.
+Related EXPLAIN-able phrases are: HELP, INSTRUCTIONS, ?
+*GET*
+The GET command loads your Super Fortran program into the text area, and
+names the text area with the specified file name.  If there is unnamed
+text already in the text area, Super Fortran requests a name by asking
+"Write text to:" and you should enter the file name you want to assign
+to that text or program.  If you do not want to save the contents of the
+text area, use the CLEAR command before GET.
+Related EXPLAIN-able phrases are: NAMING, ENTERING, TEXT AREA, FILE
+NAMES, CLEAR
+*HELP*
+The HELP command prints a list of commands with a brief description of
+each.
+Related EXPLAIN-able phrases are: INSTRUCTIONS, EXPLAIN
+*HUSH*
+The HUSH command suppresses the printing of unrequested output, such as
+the prompt ">" or messages such as "1036 Chars" (which gives the number
+of characters read or written from a file).  HUSH does not need to be
+used to silence the operation of command files since command files run
+HUSH-ed anyway (unless the ECHO command is used, in which case the
+commands taken from the command file are printed as well as the
+unrequested, HUSH-able output).
+Related EXPLAIN-able phrases are: COMMAND FILES, ECHO
+*INITIALIZE*
+The INITIALIZE command COMPILE-s the files in the files list and
+prepares them for execution.  You may thus begin debugging your program
+before it starts to run .
+Related EXPLAIN-able phrases are: COMPILE, RUNNING, FILES LISTS,
+DEBUGGING
+*INSTRUCTIONS*
+The INSTRUCTIONS command gives directions on the use of the Editor by
+introducing the HELP and EXPLAIN commands.
+Related EXPLAIN-able phrases are: HELP, EXPLAIN
+*LIST* *LIST ?*
+The LIST command lists all or part of the text, as specified by the line
+list, at the terminal or on a symbolic file.  If no line list is given,
+all lines are LIST-ed.  If the "TO file name" option appears then the
+specified lines are written on the file exactly as if they had been
+typed on the terminal.  If the "INDENTED" option appears then line
+numbers, Fortran statement labels, and statements are lined up.  If the
+"UNNUMBERED" option appears, line numbers are left out of the listing.
+The LIST VERSION command prints the current version number of Super
+Fortran.
+Related EXPLAIN-able phrases are: LISTING, LINE LISTS, TEXT AREA, FILE
+NAMES, LINE NUMBERS, LIST VERSION, LIST INDENTED
+*LIST INDENTED*
+The INDENTED option of the LIST command causes line numbers, comments,
+continuations, Fortran statement labels, and Fortran statements to be
+lined up.  The line numbers are arranged so that the decimal point
+positions are aligned.  Space is then provided for five digits of
+statement label.  A comment line, indicated by an asterisk "*" as the
+first character, is positioned so that the asterisk lines up with the
+first statement label digit.  A continuation line, indicated by a plus
+sign as the first character, is positioned to align the text of the line
+with the beginning of all other Fortran statements.
+Related EXPLAIN-able phrases are: LIST, LISTING, LINE NUMBERS
+*LIST UNNUMBERED*
+The UNNUMBERED option of the LIST command causes the line numbers to be
+left out of the listing.
+Related EXPLAIN-able phrases are: LIST, LISTING, LINE NUMBERS
+*LIST VERSION*
+The LIST VERSION command prints the current version of Super Fortran as
+two numbers separated by a decimal point.  The left-hand number
+increases by one each time major enhancements are made to Super Fortran.
+The right-hand number increases by one each time minor problems are
+rectified.
+*MODIFY*
+The MODIFY command is the same as the EDIT command except it does not
+print the text of the line to be edited.
+Related EXPLAIN-able phrases are: EDIT, LINE EDITING, LINE LISTS
+*MOVE*
+The MOVE command is the same as the COPY command except that the lines
+referred to in the line list are deleted after they have been
+successfully transferred to the line range specified by the destination.
+Related EXPLAIN-able phrases are: LINE LISTS, LINE RANGES, COPY
+*NO* *NO ?*
+"NO" followed by certain commands cancels the effect of that command.
+In the Editor, these commands are ECHO and HUSH.
+*NO ECHO*
+The NO ECHO command turns off ECHO-ing.  If it is given in a command
+file, however, ECHO-ing is turned off only while that file is being
+executed.
+Related EXPLAIN-able phrases are: ECHO, COMMAND FILES
+*NO HUSH*
+The NO HUSH command cancels the effect of the HUSH command.  If it is
+given in a command file, however, HUSH is canceled only while that file
+is being executed.
+Related EXPLAIN-able phrases are: HUSH, COMMAND FILES
+*PRODUCTION* *PRODUCTION ?*
+The prefix "PRODUCTION" is used with a compile-type command when your
+program is working properly and is ready for use.  It should especially
+appear if your program is large or if it will be executed very often.
+Use of the PRODUCTION prefix yields faster compilation and faster
+execution as well as smaller program size, but none of the debugging
+tools will be available if you find problems in the program.
+
+It is possible to compile part of your program for debugging and part
+for PRODUCTION, as long as the parts are on separate files.  In a
+PRODUCTION compile-type command, the files that contain the problem
+subroutines are followed by the /DEBUG switch.  Similarly, in a
+non-PRODUCTION command, the /NODEBUG switch pinpoints those files not
+requiring debugging.
+Related EXPLAIN-able phrases are: DEBUGGING, RUNNING, COMPILE-TYPE
+COMMANDS, FILES LISTS, FILE NAMES, SWITCHES
+*PRODUCTION COMPILE*
+The PRODUCTION COMPILE command has the same effect as COMPILE except
+that the files compiled will not contain any debugging facilities
+(unless the /DEBUG switch is used).
+Related EXPLAIN-able concepts are: RUNNING, COMPILE, FILES LISTS,
+DEBUGGING, PRODUCTION, SWITCHES
+*PRODUCTION INITIALIZE*
+The PRODUCTION INITIALIZE command COMPILE-s the files in the files list
+and prepares them for execution, then returns to the Editor.  If the
+/SAVE(file name) or /SSAVE(file name) switch is used, the loaded program
+will be saved on the specified file.
+Related EXPLAIN-able phrases are: RUNNING, FILES LISTS, FILE NAMES,
+COMPILE, PRODUCTION, SWITCHES
+*PRODUCTION RUN*
+The PRODUCTION RUN command has the same effect as RUN except that the
+files specified will not contain any debugging facilities (unless the
+/DEBUG switch is used).
+Related EXPLAIN-able phrases are: RUNNING, RUN, FILES LISTS, DEBUGGING,
+PRODUCTION, SWITCHES
+*QUIT*
+The QUIT command returns you to XEXEC after saving the text in the text
+area, if any.  If no changes have been made to the text since it was
+last SAVE-d or since it was loaded with GET, it is not saved again.
+
+If the text has a name, it is saved on the file of that name.
+Otherwise, Super Fortran requests a file name by asking "Write text to:"
+and you should enter the file name you want to assign to your program.
+The ABORT command discards the text and returns to XEXEC.
+Related EXPLAIN-able phrases are: QUITTING, NAMING, ABORT, FILE NAMES,
+TEXT AREA, GET
+*RENUMBER*
+The RENUMBER command renumbers the lines between the two specified old
+lines.  If no lines are given, then all lines in the text area are
+renumbered.  Any form of line address may be used to represent these
+lines.
+
+If the "AS destination" component appears, Super Fortran renumbers the
+specified lines according to the line numbers of the destination.  The
+destination must not cause any lines to be moved or straddled.
+
+If a destination is not used, Super Fortran chooses the new line
+numbers, using as an increment the largest of 1.0, 0.01, or 0.001 that
+allows the renumbered lines to fit in the available space.
+Related EXPLAIN-able phrases are: RENUMBERING, DESTINATION, LINE
+ADDRESS, INCREMENT, TEXT AREA
+*RUN*
+The RUN command COMPILE-s the files in the files list and executes the
+program they contain.  All files will be compiled for debugging unless
+the /NODEBUG switch is used or the prefix "PRODUCTION" appears.  If you
+haven't named the program in the text area (if any) Super Fortran will
+request a file name.
+Related EXPLAIN-able phrases are: RUNNING, COMPILE, FILES LISTS, NAMING,
+FILE NAMES, PRODUCTION, SWITCHES
+*SAVE*
+The SAVE command stores the program in the text area on the specified
+file, and associates the name of that file with your program.  If the
+program already has a name the file name may be left out of the command,
+and the program will be stored on the file with the program name.  You
+may change the name of your program by supplying a new file name.  The
+program will not be saved again if it is already stored on the specified
+file and no new changes have been made to it.
+Related EXPLAIN-able phrases are: NAMING, TEXT AREA, FILE NAMES
+*SWITCH*
+The SWITCH command causes the text which follows the word "SWITCH" to
+proceed the files list given in all following compile-type commands.
+The text should contain the names of those files you want to appear with
+every compile-type command, and any switches that apply to all the files
+specified with the command.  If no text follows "SWITCH", then all
+switches and files previously set with SWITCH are cancelled.  Otherwise,
+the new switches and files replace the existing ones.
+Related EXPLAIN-able phrases are: SWITCHES, RUNNING, FILES LISTS,
+COMPILE-TYPE COMMANDS
+*TERMINAL*
+The TERMINAL command is used only in command files.  It instructs Super
+Fortran to get the next command from the terminal, then to return to the
+command file that contained the TERMINAL command.  It is often used in
+conjunction with the TYPE command.
+Related EXPLAIN-able phrases are: COMMAND FILES, TYPE
+*TYPE*
+The TYPE command is used only in command files.  It prints a message at
+the terminal, and to the TOUT file if there is one.  Single or double
+quotes may be used to surround the message, and two consecutive quotes
+of the delimiting type produce one quote in the resulting message.  It
+is often used in conjunction with the TERMINAL command.
+Related EXPLAIN-able phrases are: COMMAND FILES, TOUT FILES, TERMINAL
+*TOUT*
+The TOUT command causes all printing that is normally typed at the
+terminal to be written on a file instead.  This file is called the TOUT
+file.  The TOUT TERMINAL command returns normal printing to the
+terminal, as does typing the ESC key.  Subsequent TOUT commands
+supercede previous ones.
+Related EXPLAIN-able phrases are: TOUT, FILE NAMES
+< }=
