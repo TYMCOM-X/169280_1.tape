@@ -1,0 +1,50 @@
+                     M A G C O N  C H E C K  S H E E T
+                     *********************************
+
+
+
+
+*  1. ---------------------- PARENT MACHINE
+                             EX.:  IBM 370/158, HP-2000, UNIVAC 1108, ETC.
+
+*  2. ---------------------- NUMBER OF TRACKS
+                             THE CHOICES ARE 7 OR 9 TRACKS
+
+*  3. ---------------------- TAPE FORMAT
+                             EX.:  EBCDIC, BCD, HPASCII, ASCII, ETC.
+
+*  4. ---------------------- TAPE DENSITY
+                             THE CHOICES FOR 7 TRACK TAPES ARE 556 OR
+                             800 BPI (BITS PER INCH). THE CHOICES FOR
+                             9 TRACK TAPES ARE 800, 1600, OR 6250 BPI.
+
+*  5. ---------------------- TAPE PARITY - ODD OR EVEN
+                             9 TRACK TAPES ARE ALWAYS ODD PARITY.
+
+*  6. ---------------------- BLOCKING FACTOR
+                             SPECIFY THE NUMBER OF LOGICAL RECORDS PER
+                             BLOCK (PHYSICAL RECORD).
+
+*  7. ---------------------- RECORD SIZE
+                             STATE THE NUMBER OF CHARACTERS PER LOGICAL
+                             RECORD. IF VARIABLE, STATE THE MAXIMUM NUMBER.
+
+   8. ---------------------- STATE THE NUMBER OF RECORDS PER FILE.
+
+   9. ---------------------- NUMBER OF FILES.
+
+  10. ---------------------- TAPE LABEL (OR HEADER) - WHAT DOES THE 
+                             LABEL (OR HEADER) CONSIST OF?
+                             EX.: 2 RECORDS, OR 1 FILE, OR 32 CHAR-
+                                  ACTERS OR NONE OF THE FIRST RECORD.
+
+  11. ---------------------- LISTING INCLUDED (YES OR NO?).  THIS IS
+                             SOMETIMES THE KEY TO A TOUGH CONVERSION.
+                             SEEING WHAT THE DATA IS SUPPOSED TO LOOK
+                             LIKE CAN REALLY HELP IN SELECTING THE COR-
+                             RECT CONVERSION PARAMETERS.
+
+
+* - ALL ITEMS INDICATED BY AN ASTERISK ARE ESSENTIAL.  WITHOUT THIS
+    INFORMATION A TAPE CONVERSION CANNOT BE PERFORMED.
+
