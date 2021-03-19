@@ -1,0 +1,128 @@
+Master host: 33
+112 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+(INFO        :  26) SYSNO.NFO      9 19-Apr-89 16:25 -- bad checksum LUHZOM
+                           should be 18-May-90 13:27 MIWXUT  ALL  RD  NO
+(INFO        :  26) INFO20.SAI                       -- missing on slave
+(INFO        :  26) INFO27.NFO                       -- missing on slave
+(INFO        :  26) INFO27.DAT                       -- missing on slave
+(INFO        :  26) INFO27.SAV                       -- missing on slave
+(INFO        :  26) OUTDIA.NFO                       -- missing on slave
+(INFO        :  26) BBOARD.LOG                       -- missing on slave
+(INFO        :  26) PHONES.940                       -- missing on slave
+(INFO        :  26) SPL.NFO                          -- missing on slave
+(INFO        :  26) TYMSAT.ALL                       -- missing on slave
+(INFO        :  26) TYMSAT.CAL                       -- missing on slave
+(INFO        :  26) TYMHST.DOC                       -- missing on slave
+(INFO        :  26) SUAI.NFO                         -- missing on slave
+(INFO        :  26) DIAL1.DOC                        -- missing on slave
+(INFO        :  26) TECO.PRI                         -- missing on slave
+(INFO        :  26) REMIND.DAT                       -- missing on slave
+(INFO        :  26) TNETAC.DOC                       -- missing on slave
+(INFO        :  26) ARPA.DIR                         -- missing on slave
+(INFO        :  26) TYMNET.NFO                       -- missing on slave
+(INFO        :  26) GAN1.MEM                         -- missing on slave
+(INFO        :  26) MAIL.DOC                         -- missing on slave
+(INFO        :  26) GAMES.NFO                        -- missing on slave
+(INFO        :  26) SYS2.NFO                         -- missing on slave
+(INFO        :  26) NET.LST                          -- missing on slave
+(INFO        :  26) NET.NFO                          -- missing on slave
+(INFO        :  26) TERM.NFO                         -- missing on slave
+(INFO        :  26) ONTYM.NFO                        -- missing on slave
+(INFO        :  26) ONTYM.DOC                        -- missing on slave
+(INFO        :  26) RS232.DOC                        -- missing on slave
+(INFO        :  26) TEN.DOC                          -- missing on slave
+(INFO        :  26) INF0.DAT                         -- missing on slave
+(INFO        :  26) BUBB.LST                         -- missing on slave
+(INFO        :  26) XDS940.DOC                       -- missing on slave
+(INFO        :  26) SYS1.NFO                         -- missing on slave
+(INFO        :  26) NTD.DOC                          -- missing on slave
+(INFO        :  26) UFD.DOC                          -- missing on slave
+(INFO        :  26) PCNET.DOC                        -- missing on slave
+(INFO        :  26) OLD.DFS                          -- missing on slave
+(INFO        :  26) ARPAAC.DOC                       -- missing on slave
+(INFO        :  26) XEROX.DOC                        -- missing on slave
+(INFO        :  26) MUD.NFO                          -- missing on slave
+(INFO        :  26) COMUNI.NFO                       -- missing on slave
+(INFO        :  26) MONITR.NFO                       -- missing on slave
+(INFO        :  26) MICRO.NFO                        -- missing on slave
+(INFO        :  26) SYSNO.BAK                        -- missing on slave
+(INFO        :  26) INFO33.SAV                       -- missing on slave
+(INFO        :  26) INFO33.NFO                       -- missing on slave
+(INFO        :  26) INFO33.DOC                       -- missing on slave
+(INFO        :  26) INFO33.DAT                       -- missing on slave
+(INFO        :  26) DATA.BKP                         -- missing on slave
+(INFO        :  26) SYSNO.XXX                        -- missing on slave
+(INFO        :  26) SYSNO.DAT                        -- missing on slave
+(INFO        :  26) AGENDA.TXT                       -- missing on slave
+(INFO        :  26) NETWOR.NFO                       -- missing on slave
+(INFO        :  26) SUPORT.NFO                       -- missing on slave
+(INFO        :  26) CUSPS.NFO                        -- missing on slave
+(INFO        :  26) P035D.TXT                        -- missing on slave
+(INFO        :  26) X.NFO                            -- missing on slave
+(INFO        :  26) UNIX.NFO                         -- missing on slave
+(INFO        :  26) INFO32.SAI                       -- missing on slave
+(INFO        :  26) INFO32.INF                       -- missing on slave
+(INFO        :  26) INFO32.SAV                       -- missing on slave
+(INFO        :  26) INFO32.NFO                       -- missing on slave
+(INFO        :  26) M33.NFO                          -- missing on slave
+(INFO        :  26) PROGRM.NFO                       -- missing on slave
+(INFO        :  26) RAID.MAN                         -- missing on slave
+(INFO        :  26) NS.DOC                           -- missing on slave
+(INFO        :  26) USETS.DOC                        -- missing on slave
+(INFO        :  26) AUXERR.DOC                       -- missing on slave
+(INFO        :  26) RESTRT.MEM                       -- missing on slave
+(INFO        :  26) UPL.NFO                          -- missing on slave
+(INFO        :  26) CENTER.DOC                       -- missing on slave
+(INFO        :  26) INFO31.SAV                       -- missing on slave
+(INFO        :  26) DDTORD.DOC                       -- missing on slave
+(INFO        :  26) MAGTAP.NFO                       -- missing on slave
+(INFO        :  26) ARPAHN.DOC                       -- missing on slave
+(INFO        :  26) ACCESS.LIS                       -- missing on slave
+(INFO        :  26) INFO.WHR                         -- missing on slave
+(INFO        :  26) INFO.SRT                         -- missing on slave
+(INFO        :  26) GAN3.CUD                         -- missing on slave
+(INFO        :  26) GAN3.NAM                         -- missing on slave
+(INFO        :  26) GAN3.MUD                         -- missing on slave
+(INFO        :  26) GAN3.HST                         -- missing on slave
+(INFO        :  26) INFOX.SAV                        -- missing on slave
+(INFO        :  26) INFO.NFO                         -- missing on slave
+(INFO        :  26) ACCESS.MSG                       -- missing on slave
+(INFO        :  26) SYSNO9.NFO                       -- missing on slave
+(INFO        :  26) MISC.NFO                         -- missing on slave
+(INFO        :  26) COMAND.DOC                       -- missing on slave
+(INFO        :  26) GENRAL.NFO                       -- missing on slave
+(INFO        :  26) GAN3.MEM                         -- missing on slave
+(INFO        :  26) FAKPPN.MEM                       -- missing on slave
+(INFO        :  26) GAN3.SRT                         -- missing on slave
+(INFO        :  26) GATEWA.DOC                       -- missing on slave
+(INFO        :  26) INFO30.SAV                       -- missing on slave
+(INFO        :  26) PDP10.CNT                        -- missing on slave
+(INFO        :  26) XEXEC.NFO                        -- missing on slave
+(INFO        :  26) FTSYS.NFO                        -- missing on slave
+(INFO        :  26) MPL.NFO                          -- missing on slave
+(INFO        :  26) COMAND.NFO                       -- missing on slave
+(INFO        :  26) INFO.SAI                         -- missing on slave
+(INFO        :  26) INFO.SAV                         -- missing on slave
+(INFO        :  26) INFO.DOC                         -- missing on slave
+(INFO        :  26) SCAN.INS                         -- missing on slave
+(INFO        :  26) ACCESS.DOC                       -- missing on slave
+(INFO        :  26) DIAL2.DOC                        -- missing on slave
+(INFO        :  26) EDITOR.NFO                       -- missing on slave
+(INFO        :  26) CALLS.DOC                        -- missing on slave
+(INFO        :  26) INFO.DFS                         -- missing on slave
+(INFO        :  26) CPARW.DOC                        -- missing on slave
+(INFO        :  26) INFO.DAT                         -- missing on slave
+Checking host 33
+Checking host 34
+(INFO        :  34) INFO.DOC       6 30-Mar-89 10:35 -- protection ALL  RD  NO
+                           should be 14-Jan-86 17:53 JOSSID  ALL  RD  RD
+(INFO        :  34) INFO.DAT      22 30-Mar-89 10:36 -- protection ALL  RD  NO
+                           should be 26-Sep-88 11:25 LEGSIW  ALL  RD  RD
+Checking host 38
+(INFO        :  38) INFO.DOC       6 30-Mar-89 10:35 -- protection ALL  RD  NO
+                           should be 14-Jan-86 17:53 JOSSID  ALL  RD  RD
+(INFO        :  38) INFO.DAT      22 30-Mar-89 10:36 -- protection ALL  RD  NO
+                           should be 26-Sep-88 11:25 LEGSIW  ALL  RD  RD
+    
