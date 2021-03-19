@@ -1,0 +1,787 @@
+O (TNT)BASE4.
+DEFINE TEXT 2 DM$.
+DEFINE REAL STRT.
+DEFINE REAL STP.
+DEFINE REAL TOT1 TOT2 TOT3 TOT4 TOT5 TOT6 TOT7 TOT8 TOT9.
+DEFINE REAL TOT10 TOT11 TOT12 TOT13 TOT14 TOTGL TOTNA TOTPR TOTER.
+DEFINE REAL TOT1234 TOT134.
+DEFINE REAL T15 T112 T124.
+DEFINE REAL T25 T212 T224.
+DEFINE REAL T35 T312 T324.
+DEFINE REAL T45 T412 T424.
+DEFINE REAL T55 T512 T524.
+DEFINE REAL T65 T612 T624.
+DEFINE REAL T75 T712 T724.
+DEFINE REAL T85 T812 T824.
+DEFINE REAL T95 T912 T924.
+DEFINE REAL T105 T1012 T1024.
+DEFINE REAL T115 T1112 T1124.
+DEFINE REAL T125 T1212 T1224.
+DEFINE REAL T135 T1312 T1324.
+DEFINE REAL T145 T1412 T1424.
+DEFINE REAL TGL15 TGL112 TGL124.
+DEFINE REAL TNA15 TNA112 TNA124.
+DEFINE REAL TPR15 TPR112 TPR124.
+DEFINE REAL TER15 TER112 TER124.
+DEFINE REAL T12345 T123412 T123424.
+DEFINE REAL T1345 T13412 T13424.
+DEFINE REAL M1 M2 M3 M4 M5 M6 M7 M8 M9 M10 M11 M12 M13 M14 MGL MNA MPR MER.
+DEFINE REAL M17 M18 M19 M20 M21.
+SET FMSG OFF.
+SET FERR OFF.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+TYPE "Please Enter START Date (X22 Format) ".
+ACCEPT STRT.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+TYPE "Please Enter STOP Date (X22 Format) ".
+ACCEPT STP.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+T "ENSURE PRINTER IS ON AND PRESS ENTER TO CONTINUE".
+ACCEPT DM$.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+DPL START.
+t "BT Asia Pacific".
+t "Report name CGM2, contact Caroline Richards".
+t "Severity 1 Restoration times".
+t "============================".
+TYPE "   ".
+F SVER 1 CDAT GE STRT AND LE STP COC NE PROJECT.
+SEA CNAM CT "CGM".
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR1 TOTPR/2.
+RPR1: TYPE "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+t "TICKET RESTORATION CLOSURE".
+T "------ ----------- -------".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM ELM/60 COC".
+TYPE "   ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "     ".
+TYPE "BT Tymnet".
+T "SINGAPORE".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 1 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER EQ 1 CDAT GE STRT AND LE STP HN EQ 20 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR2 TOTPR/2.
+RPR2: TYPE "MEDIAN ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER      CLOSURE      CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------      -------      ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "      " ELM/60 "  " HN.
+TYPE "   ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "BT TYMNET".
+T "AUSTRALIA".
+T "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 1 RESOLUTION TIMES".
+T "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER EQ 1 CDAT GE STRT AND LE STP HN EQ 7 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR3 TOTPR/2.
+RPR3: TYPE "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER        CLOSURE    CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------        -------    ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "      " ELM/60 "  " HN.
+
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "BT Tymnet".
+T "NIS".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 1 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER EQ 1 CDAT GE STRT AND LE STP HN EQ 10 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR4 TOTPR/2.
+RPR4: TYPE "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER      CLOSURE      CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------      -------      ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "      " ELM/60 "  " HN.
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "BT Tymnet".
+T "SINGAPORE".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 2 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER EQ 2 CDAT GE STRT AND LE STP HN EQ 20 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR5 TOTPR/2.
+RPR5: TYPE "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER     CLOSURE       CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------     -------       ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "      " ELM/60 "  " HN.
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "BT Tymnet".
+T "HONG KONG".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 2 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER EQ 2 CDAT GE STRT AND LE STP HN EQ 12 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR6 TOTPR/2.
+RPR6: TYPE "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER     CLOSURE       CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------     -------       ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "      " ELM/60 "  " HN.
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "BT Tymnet".
+T "AUSTRALIA".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 2 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER EQ 2 CDAT GE STRT AND LE STP HN EQ 7 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR7 TOTPR/2.
+RPR7: TYPE "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER      CLOSURE      CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------      -------      ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "      " ELM/60 "  " HN.
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "BT Tymnet".
+T "NIS".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 2 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER EQ 2 CDAT GE STRT AND LE STP HN EQ 10 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR8 TOTPR/2.
+RPR8: TYPE "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER      CLOSURE      CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------      -------      ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "     " ELM/60 "  " HN.
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "BT Tymnet".
+T "SAUDI ARABIA".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 2 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER 2 CDAT GE STRT AND LE STP HN 15 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR9 TOTPR/2.
+RPR9: TYPE "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER        RE         CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------        --         ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM RE " " CDAT "      " ELM/60 "  " HN.
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "BT Tymnet".
+T "SAUDI ARABIA".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 1 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+f sver 1 cdat ge strt and le stp hn 15 coc ne PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR10 TOTPR/2.
+RPR10: TYP "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER        RE         CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------        --         ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM RE " " CDAT "      " ELM/60 "  " HN.
+t "   ".
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+TYPE "BT Tymnet".
+T "DUBAI".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 1 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER 1 CDAT GE STRT AND LE STP HN 5 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR11 TOTPR/2.
+RPR11: TYP "Median ELM --------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER      CLOSURE      CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------      -------      ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "      " ELM/60 "  " HN.
+TYPE "   ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "     ".
+TYPE "BT Tymnet".
+T "DUBAI".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 2 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER 2 CDAT GE STRT AND LE STP HN 5 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR12 TOTPR/2.
+RPR12: TYP "MEDIAN ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER      CLOSURE      CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------      -------      ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "      " ELM/60 "  " HN.
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "BT Tymnet".
+T "JAPAN".
+T "REPORT NAME - 'APSTAT' - See Caroline Richards +61 2 269 1043".
+T "SEVERITY 1 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER 1 CDAT GE STRT AND LE STP HN 9 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR13 TOTPR/2.
+RPR13: TYPE "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER      CLOSURE      CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------      -------      ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "      " ELM/60 "  " HN.
+TYPE "   ".
+T " ".
+T " ".
+T " ".
+T " ".
+T " ".
+TYPE "     ".
+TYPE "BT Tymnet".
+T "JAPAN".
+TYPE "REPORT NAME - 'APSTAT' - SEE CAROLINE RICHARDS".
+T "SEVERITY 2 RESOLUTION TIMES".
+TYPE "=====================================================================".
+TYPE "   ".
+TYPE "------------------".
+TYPE "Pac Rim           ".
+TYPE "------------------".
+F SVER 2 CDAT GE STRT AND LE STP HN 9 COC NE PROJECT.
+SAVE XXXXX.
+EV TOTPR EQ MAX SYSRECNO.
+EV MPR EQ MEAN ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+TYPE "Mean ELM   --------------------------------> " MPR.
+TYPE "   ".
+SORT ELM.
+GETREC RPR14 TOTPR/2.
+RPR14: TYP "Median ELM --------------------------------> " ELM/60.
+TYPE "   ".
+TYPE "---------------------------------------------------------------------".
+TYPE "   ".
+F ELM LE 300 FILE XXXXX.
+EV TPR15 EQ MAX SYSRECNO.
+F ELM GT 300 AND LE 720 FILE XXXXX.
+EV TPR112 EQ MAX SYSRECNO.
+F ELM GT 720 AND LE 1440 FILE XXXXX.
+EV TPR124 EQ MAX SYSRECNO.
+TYPE "   ".
+TYPE "Total Tickets Found -----------------------> " TOTPR.
+TYPE "   ".
+T "% RESOLVED <= 5 HOURS --------------------> " (TPR15/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 5 HOURS <= 12 HOURS ---------> " (TPR112/TOTPR)*100 "%".
+TYPE "   ".
+T "% RESOLVED > 12 HOURS <= 24 HOURS --------> " (TPR124/TOTPR)*100 "%".
+TYPE "   ".
+TYPE "   ".
+TYPE "   ".
+TYPE "TKT#   CUSTOMER      CLOSURE      CLOSED        ELM (HRS)   GROUP".
+TYPE "----   --------      -------      ------        ---------   -----".
+F TNUM NE 0 FILE XXXXX.
+SORT ELM.
+T TNUM CNAM COC " " CDAT "      " ELM/60 "  " HN.
+TYPE "   ".
+T " ".
+T " ".
+T " ".
+T " ".
+CLOSE.
+DPL END.
+QUIT.
+#’
