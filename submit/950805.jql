@@ -1,0 +1,62 @@
+00:00:26 S 05-Aug-95
+02:52:29 S ** 05-Aug-95 XEXEC %1(215) in frame 4 ** user PERPOPER **
+02:52:29 S run #1 job 15 is lost.
+02:52:29 S -S- run #1 job 8 Req #10261  Running DSK:(CARL)SYSDAT.SAV
+02:53:28 S 05-Aug-95
+03:00:28 S 05-Aug-95
+04:53:59 S ** 05-Aug-95 XEXEC %1(215) in frame 4 ** user PERPOPER **
+04:53:59 S run #1 job 15 is lost.
+04:54:00 S -S- run #1 job 11 Req #10261  Running DSK:(CARL)SYSDAT.SAV
+04:54:59 S 05-Aug-95
+06:00:59 S 05-Aug-95
+07:45:02 S -S- stream #1 Req #10280 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:06 S Processor status JSU EXECX Setup in frame 33
+07:45:06 P Waiting for interlock
+07:45:07 P Got interlock
+07:45:08 P EXECX Job Processor %1(226) starting in frame 33
+07:45:08 P Stream #1 Req #10280 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:08 S Starting job processor in frame 33
+07:50:44 P Stream #1 Req #10280 * completed *
+07:50:45 S -R- stream #1 Done-End <0>
+08:00:00 S -S- stream #1 Req #10281 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+08:00:06 P Stream #1 Req #10281 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+08:01:16 P Stream #1 Req #10281 * completed *
+08:01:21 S -R- stream #1 Done-End <0>
+08:17:09 P Signing off.
+09:00:10 S 05-Aug-95
+10:00:04 S -S- stream #1 Req #10282 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+10:00:12 S Processor status JSU EXECX Setup in frame 34
+10:00:13 P Waiting for interlock
+10:00:14 P Got interlock
+10:00:14 P EXECX Job Processor %1(226) starting in frame 34
+10:00:17 S Starting job processor in frame 34
+10:00:17 P Stream #1 Req #10282 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+10:01:39 P Stream #1 Req #10282 * completed *
+10:01:44 S -R- stream #1 Done-End <0>
+10:17:17 P Signing off.
+12:00:22 S 05-Aug-95
+15:00:26 S 05-Aug-95
+17:00:05 S -S- stream #1 Req #10283 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+17:00:12 S Processor status JSU EXECX Setup in frame 36
+17:00:13 P Waiting for interlock
+17:00:14 P Got interlock
+17:00:14 P EXECX Job Processor %1(226) starting in frame 36
+17:00:15 S Starting job processor in frame 36
+17:00:15 P Stream #1 Req #10283 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+17:01:26 P Stream #1 Req #10283 * completed *
+17:01:32 S -R- stream #1 Done-End <0>
+17:17:14 P Signing off.
+17:37:20 S ** 05-Aug-95 XEXEC %1(215) in frame 4 ** user PERPOPER **
+17:37:20 S run #1 job 11 is lost.
+17:37:20 S -S- run #1 job 9 Req #10261  Running DSK:(CARL)SYSDAT.SAV
+17:38:20 S 05-Aug-95
+18:00:20 S 05-Aug-95
+21:00:22 S 05-Aug-95
+23:30:04 S -S- stream #1 Req #10284 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+23:30:13 S Starting job processor in frame 29
+ECX Job Processor %1(226) starting in frame 29
+23:30:14 P Stream #1 Req #10284 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+23:31:29 P Stream #1 Req #10284 * completed *
+23:31:35 S -R- stream #1 Done-End <0>
+23:47:12 P Signing off.
+00:00:13 S 06-Aug-95
