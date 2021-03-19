@@ -1,0 +1,50 @@
+00:00:13 S 15-Sep-94
+03:00:36 S 15-Sep-94
+06:00:00 S 15-Sep-94
+07:45:02 S -S- stream #1 Req #8500 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:11 S Processor status JSU EXECX Setup in frame 34
+07:45:11 P Waiting for interlock
+07:45:12 P Got interlock
+07:45:12 P EXECX Job Processor %1(226) starting in frame 34
+07:45:13 S Starting job processor in frame 34
+07:45:14 P Stream #1 Req #8500 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:54:53 P Stream #1 Req #8500 * completed *
+07:54:56 S -R- stream #1 Done-End <0>
+08:10:14 P Signing off.
+09:00:19 S 15-Sep-94
+10:00:03 S -S- stream #1 Req #8501 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:00:19 S Processor status JSU EXECX Setup in frame 69
+10:00:20 P Waiting for interlock
+10:00:22 P Got interlock
+10:00:22 P EXECX Job Processor %1(226) starting in frame 69
+10:00:23 S Starting job processor in frame 69
+10:00:23 P Stream #1 Req #8501 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:01:24 P Stream #1 Req #8501 * completed *
+10:01:28 S -R- stream #1 Done-End <0>
+10:17:25 P Signing off.
+12:00:06 S 15-Sep-94
+15:00:39 S 15-Sep-94
+17:00:06 S -S- stream #1 Req #8502 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+17:00:17 S Processor status JSU EXECX Setup in frame 106
+17:00:18 P Waiting for interlock
+17:00:19 P Got interlock
+17:00:19 P EXECX Job Processor %1(226) starting in frame 106
+17:00:20 S Starting job processor in frame 106
+17:00:21 P Stream #1 Req #8502 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+17:01:11 P Stream #1 Req #8502 * completed *
+17:01:19 S -R- stream #1 Done-End <0>
+17:17:20 P Signing off.
+18:00:41 S 15-Sep-94
+21:07:44 S ** 15-Sep-94 XEXEC %1(215) in frame 4 ** user PERPOPER **
+21:08:43 S 15-Sep-94
+23:30:06 S -S- stream #1 Req #8503 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:30:15 S Processor status JSU EXECX Setup in frame 36
+23:30:16 P Waiting for interlock
+23:30:18 P Got interlock
+23:30:18 P EXECX Job Processor %1(226) starting in frame 36
+23:30:19 S Starting job processor in frame 36
+23:30:19 P Stream #1 Req #8503 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:31:36 P Stream #1 Req #8503 * completed *
+23:31:42 S -R- stream #1 Done-End <0>
+23:47:18 P Signing off.
+00:00:23 S 16-Sep-94
