@@ -1,0 +1,970 @@
+Master host: 33
+752 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+
+?unable to build circuit to JMS:26
+?host unavailable
+
+?unable to build circuit to JMS:26
+?host unavailable
+
+?unable to build circuit to JMS:26
+?host unavailable
+
+?unable to build circuit to JMS:26
+?host unavailable
+
+?unable to build circuit to JMS:26
+?host unavailable
+Creaux failed to JMS:26
+Checking host 33
+(JMS         :  33) GAN33.LOG      1 31-Aug-93 12:35 -- bad checksum CEDNUT
+                           should be 31-Aug-93 12:35 VUJQOB  ALL  RD  NO
+Checking host 34
+(JMS         :  34) TATTLE.CTL     2 15-Feb-91 16:13 -- bad checksum YAQBAG
+                           should be 15-Feb-91 19:56 DEBVOK  ALL  RD  NO
+(JMS         :  34) USERS.CTL      2 08-Jul-92 15:41 -- bad checksum JOJCIP
+                           should be 29-Sep-87 14:40 XOLXAZ  ALL  RD  NO
+(JMS         :  34) TATTLE.LOG     4 08-Jun-91 16:05 -- bad checksum REXMAM
+                           should be 08-Jun-91 16:05 DECSIL  ALL  RD  NO
+(JMS         :  34) GAN3.LST      12 13-Jan-87 08:50 -- bad checksum FAWTAS
+                           should be 30-Nov-88 16:37 VEJRIH  ALL  RD  NO
+(JMS         :  34) GATEWA.DIR     2 27-Mar-92 21:08 -- bad checksum WUVKUG
+                           should be 27-Mar-92 21:23 BUNPOH  ALL  RD  NO
+(JMS         :  34) USERS.LOG      2 26-Feb-93 14:56 -- bad checksum YUPPIX
+                           should be 20-Jan-88 15:50 YAPYUK  ALL  RD  NO
+(JMS         :  34) GAN3.CTL       4 29-Jun-93 16:30 -- bad checksum NEPSAH
+                           should be 05-Sep-91 14:07 NUXZOQ  ALL  RD  NO
+(JMS         :  34) TUMS.MSG      57 30-Aug-93 13:20 -- bad checksum LAYCOH
+                           should be 30-Jan-91 18:11 VAVVAV  ALL  RD  NO
+(JMS         :  34) SYS.CTL        2 19-Oct-88 15:11 -- bad checksum QAYWAK
+                           should be 26-Sep-91 14:35 HEXZAJ  ALL  RD  NO
+(JMS         :  34) DOCAIL.RDI     2 26-Jul-93 23:59 -- bad checksum BOYSAF
+                           should be 31-Aug-93 13:14 KEQWUZ  ALL  RD  NO
+(JMS         :  34) FNDBAD.LOG     2 31-Aug-93 07:30 -- bad checksum VUBNEB
+                           should be 31-Aug-93 07:30 XAKMAM  ALL  RD  NO
+(JMS         :  34) SPOOL.LOG      2 16-Aug-93 00:00 -- bad checksum COJCUZ
+                           should be 16-Aug-93 00:00 LETYAY  ALL  RD  NO
+(JMS         :  34) JOBS.LOG       3 29-Jun-93 17:14 -- bad checksum LUBQAV
+                           should be 29-Jun-93 17:13 HARJAZ  ALL  RD  NO
+(JMS         :  34) P035.MKR       2 06-May-87 18:44 -- bad checksum CEMVOP
+                           should be 27-Oct-87 23:24 BUPFEL  ALL  RD  NO
+(JMS         :  34) SZRPT.GAN      5 21-Jan-87 19:11 -- bad checksum MEMWAG
+                           should be 21-Jan-87 19:09 MUZDAW  ALL  RD  NO
+(JMS         :  34) SZRPT.SAT      4 28-Aug-93 00:49 -- bad checksum GIYBOD
+                           should be 28-Aug-93 00:49 QUJFAK  ALL  RD  NO
+(JMS         :  34) SZRPT.SUN      4 29-Aug-93 00:49 -- bad checksum DEWHAB
+                           should be 29-Aug-93 00:48 ROVZUV  ALL  RD  NO
+(JMS         :  34) SZRPT.MON      4 30-Aug-93 00:49 -- bad checksum TEKYAB
+                           should be 30-Aug-93 00:48 HAKXAN  ALL  RD  NO
+(JMS         :  34) SZRPT.TUE      4 31-Aug-93 00:49 -- bad checksum GIKFAR
+                           should be 31-Aug-93 00:48 FOSDOW  ALL  RD  NO
+(JMS         :  34) SZRPT.WED      4 25-Aug-93 00:49 -- bad checksum LEZTUC
+                           should be 25-Aug-93 00:49 WIWKIK  ALL  RD  NO
+(JMS         :  34) SZRPT.THU      4 26-Aug-93 00:49 -- bad checksum XELKAM
+                           should be 26-Aug-93 00:49 PUXFEY  ALL  RD  NO
+(JMS         :  34) SZRPT.FRI      4 27-Aug-93 00:49 -- bad checksum WURNUN
+                           should be 27-Aug-93 00:48 BILHIR  ALL  RD  NO
+(JMS         :  34) SZRPT.LOG      5 31-Aug-93 00:45 -- bad checksum PIHPED
+                           should be 31-Aug-93 00:45 DUGROK  ALL  RD  NO
+(JMS         :  34) SZRPT.LST      2 31-Aug-93 00:45 -- bad checksum JULYEH
+                           should be 31-Aug-93 00:45 WOHWUR  ALL  RD  NO
+(JMS         :  34) TEMP.CTL       2 09-Nov-92 18:12 -- bad checksum QUQNEJ
+                           should be 03-Jan-90 14:44 MAGKOC  ALL  RD  NO
+(JMS         :  34) SZRPT.ALL      4 11-Aug-87 11:03 -- bad checksum RIDKIS
+                           should be 14-Dec-89 20:28 NOLXAK  ALL  RD  NO
+(JMS         :  34) SZRPT.SRT      2 01-Dec-88 11:19 -- bad checksum JUGNIY
+                           should be 27-Nov-89 17:52 WIPNAN  ALL  RD  NO
+(JMS         :  34) COBOL1.RDI     2 26-Jul-93 23:57 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:11 FUCMUS  ALL  RD  NO
+(JMS         :  34) EBUS.RDI       2 27-Jul-93 00:00 -- bad checksum CIXRES
+                           should be 31-Aug-93 13:15 PECSIZ  ALL  RD  NO
+(JMS         :  34) OSNF.RDI       2 27-Jul-93 04:22 -- bad checksum NIXKIW
+                           should be 05-Sep-91 15:14 GONCIN  ALL  RD  NO
+(JMS         :  34) CRSHID.LOG     2 01-Apr-91 14:14 -- bad checksum MAGKAJ
+                           should be 27-Oct-92 14:05 QUSFET  ALL  RD  NO
+(JMS         :  34) SEDONL.HLP    11 22-May-85 06:23 -- protection ALL  RD  NO
+                           should be 22-May-85 06:23 WIJZIT  ALL  RD  RD
+(JMS         :  34) FILLUP.CTL     2 05-Dec-86 21:57 -- bad checksum RIBBOK
+                           should be 30-May-87 00:18 FILPUB  ALL  RD  NO
+(JMS         :  34) MAGNUM.DIR     2 22-Feb-88 19:28 -- bad checksum BUPNUK
+                           should be 06-Jun-90 18:13 NAGHEP   CP  NO  NO
+(JMS         :  34) SYSTAT.LOW     2 30-Nov-92 19:59 -- bad checksum KUTXUJ
+                           should be 31-Jan-87 01:34 BAGNIS  ALL RUN RUN 402000
+(JMS         :  34) MIDNIT.FRI     2 14-Aug-87 12:16 -- bad checksum TAYZEB
+                           should be 23-Oct-87 00:14 DIDJAF  ALL  RD  NO
+(JMS         :  34) MIDNIT.SAT     2 15-Aug-87 00:16 -- bad checksum LOHWEH
+                           should be 24-Oct-87 15:06 VAXMIK  ALL  RD  NO
+(JMS         :  34) MIDNIT.SUN     2 16-Aug-87 00:16 -- bad checksum LOLXAV
+                           should be 25-Oct-87 00:14 PUHPIG  ALL  RD  NO
+(JMS         :  34) MIDNIT.MON     2 17-Aug-87 00:16 -- bad checksum BAKJUB
+                           should be 26-Oct-87 08:43 GOCJEQ  ALL  RD  NO
+(JMS         :  34) MIDNIT.TUE     2 18-Aug-87 10:39 -- bad checksum FABYAP
+                           should be 27-Oct-87 00:14 RIZQOL  ALL  RD  NO
+(JMS         :  34) MIDNIT.WED     2 19-Aug-87 00:16 -- bad checksum SEFPIG
+                           should be 28-Oct-87 00:15 LUZXIP  ALL  RD  NO
+(JMS         :  34) MIDNIT.THU     2 13-Aug-87 00:16 -- bad checksum MATSEM
+                           should be 29-Oct-87 00:15 CASHAW  ALL  RD  NO
+(JMS         :  34) SYSG.LOG       4 03-Sep-88 08:03 -- bad checksum LEXMUT
+                           should be 03-Aug-87 21:34 DIVPOQ  ALL  RD  NO
+(JMS         :  34) 11CURR.RDI     2 26-Jul-93 23:06 -- bad checksum MUMWEF
+                           should be 31-Aug-93 12:36 FUCMUS  ALL  RD  NO
+(JMS         :  34) F3CODE.RDI     2 27-Jul-93 00:18 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:28 FUCMUS  ALL  RD  NO
+(JMS         :  34) MAIL.RDI       2 27-Jul-93 03:29 -- bad checksum DAPYUM
+                           should be 05-Sep-91 15:01 YOVSIB  ALL  RD  NO
+(JMS         :  34) PASCOO.RDI     2 27-Jul-93 04:37 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:19 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASGDO.RDI     2 27-Jul-93 04:39 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:20 XAFYAJ  ALL  RD  NO
+(JMS         :  34) TECO.INI       2 09-Jul-87 19:34 -- bad checksum YAGZUM
+                           should be 01-Oct-91 00:29 GUMRAN  ALL  RD  RD
+(JMS         :  34) CKSUM.CTL      2 05-Dec-86 21:12 -- bad checksum QOXFOM
+                           should be 14-Aug-87 19:02 TISKUF  ALL  RD  NO
+(JMS         :  34) G11447.CTL     2 17-Nov-89 15:28 -- bad checksum HETTAZ
+                           should be 28-Feb-90 23:16 CAFPIK  ALL  RD  NO
+(JMS         :  34) DRWSPR.EPO    18 30-Jan-90 19:41 -- bad checksum RUZKIK
+                           should be 09-Jun-92 07:27 GEQGUG  ALL  RD  NO
+(JMS         :  34) DSKCLN.LOG    13 05-Jun-91 14:00 -- bad checksum JOCJOT
+                           should be 21-Nov-91 19:30 FIXJEN  ALL  RD  NO
+(JMS         :  34) STOPCD.702     8 13-Jun-85 20:18 -- bad checksum MOVHIR
+                           should be 13-Jun-85 20:18 VAVVAV  ALL  RD  NO
+(JMS         :  34) TYMSAT.ALL    24 02-Apr-86 12:00 -- bad checksum SATRIV
+                           should be 02-Apr-86 12:00 GAPGEL  ALL  RD  NO
+(JMS         :  34) FNDALL.SAT     3 15-Aug-87 09:04 -- bad checksum YUWVAH
+                           should be 28-Aug-93 09:03 COZFIL  ALL  RD  NO
+(JMS         :  34) FNDALL.SUN     3 16-Aug-87 09:04 -- bad checksum HOHQIY
+                           should be 29-Aug-93 12:18 DEYLOX  ALL  RD  NO
+(JMS         :  34) FNDALL.MON     3 17-Aug-87 11:31 -- bad checksum ZAMHUC
+                           should be 30-Aug-93 09:02 HAHDAP  ALL  RD  NO
+(JMS         :  34) FNDALL.TUE     3 18-Aug-87 10:40 -- bad checksum DONGUD
+                           should be 31-Aug-93 09:02 VAGYIP  ALL  RD  NO
+(JMS         :  34) FNDALL.WED     3 19-Aug-87 09:05 -- bad checksum PUFVED
+                           should be 25-Aug-93 09:02 ZODTIB  ALL  RD  NO
+(JMS         :  34) FNDALL.THU     3 13-Aug-87 09:05 -- bad checksum DIWNUP
+                           should be 26-Aug-93 09:03 ZITNUD  ALL  RD  NO
+(JMS         :  34) FNDALL.FRI     3 14-Aug-87 12:16 -- bad checksum ZOFZAH
+                           should be 27-Aug-93 09:02 PETPAZ  ALL  RD  NO
+(JMS         :  34) HOSTS.IBM      2 30-Jul-87 10:53 -- bad checksum CIHNIX
+                           should be 30-Jul-87 10:53 FETTOJ  ALL  RD  NO
+(JMS         :  34) FNDALL.LOG     3 01-Dec-88 09:30 -- bad checksum FEHBIW
+                           should be 31-Aug-93 09:00 CARSUV  ALL  RD  NO
+(JMS         :  34) RIBERR.LOG     7 29-Oct-87 02:00 -- bad checksum ROMDUC
+                           should be 29-Oct-87 02:00 DEYBAV  ALL  RD  NO
+(JMS         :  34) STLOU0.DIR   119 20-Apr-87 17:44 -- bad checksum YOSNUF
+                           should be 20-Apr-87 17:44 POJNOS  ALL  RD  NO
+(JMS         :  34) GAN3.74        2 15-Oct-90 12:27 -- bad checksum VIXPON
+                           should be 03-Jan-89 14:34 SEYGOL  ALL  RD  NO
+(JMS         :  34) GAN3.LOG     260 26-Jul-93 23:06 -- bad checksum COCSAQ
+                           should be 05-Sep-91 14:08 REJYIQ  ALL  RD  NO
+(JMS         :  34) SYS.LOG       54 19-Oct-88 15:11 -- bad checksum BONFOT
+                           should be 26-Sep-91 14:35 NINTOY  ALL  RD  NO
+(JMS         :  34) FOROTS.RDI     2 27-Jul-93 00:22 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:33 FUCMUS  ALL  RD  NO
+(JMS         :  34) JMS.RDI       24 27-Jul-93 00:29 -- bad checksum QOPPIX
+                           should be 05-Sep-91 14:40 WIFXOV  ALL  RD  NO
+(JMS         :  34) JOBS.WHR      21 04-Dec-89 14:38 -- bad checksum KEKKER
+                           should be 08-Oct-91 14:44 NIFNOL  ALL  RD  NO
+(JMS         :  34) XRAY11.HLP     3 24-Nov-87 17:44 -- protection ALL  RD  NO
+                           should be 24-Nov-87 17:44 KAXCAR  ALL  RD  RD
+(JMS         :  34) CMUAIL.RDI     2 26-Jul-93 23:56 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:10 FUCMUS  ALL  RD  NO
+(JMS         :  34) SYSNO.LOG      3 01-Apr-91 14:12 -- bad checksum BEXNUL
+                           should be 11-Aug-88 12:31 XUTTUT  ALL  RD  NO
+(JMS         :  34) PASCLI.RDI     2 27-Jul-93 04:36 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:18 XAFYAJ  ALL  RD  NO
+(JMS         :  34) ANSICO.TXT    18 18-May-84 06:54 -- protection ALL  RD  NO
+                           should be 18-May-84 06:54 SUGTEG  ALL  RD  RD
+(JMS         :  34) SATSYS.LOG     2 24-May-89 00:45 -- bad checksum NALXON
+                           should be 24-May-89 00:45 XORFUG  ALL  RD  NO
+(JMS         :  34) AUGMEN.RDI     2 26-Jul-93 23:07 -- bad checksum MUMWEF
+                           should be 31-Aug-93 12:36 FUCMUS  ALL  RD  NO
+(JMS         :  34) CARL.RDI       5 26-Jul-93 23:08 -- bad checksum FERNIC
+                           should be 31-Aug-93 12:37 RAZRUG  ALL  RD  NO
+(JMS         :  34) GAN3A.LOG     12 20-Mar-89 15:40 -- bad checksum ZIVPER
+                           should be 10-Jun-91 14:56 ZIQLAK  ALL  RD  NO
+(JMS         :  34) NADCHK.LOG     2 25-Apr-90 20:23 -- bad checksum QIHLON
+                           should be 25-Apr-90 20:19 ZOSGIX  ALL  RD  NO
+(JMS         :  34) FSCOPY.HLP     3 17-Apr-80 01:45 -- protection ALL  RD  NO
+                           should be 17-Apr-80 01:45 NOHQEY  ALL  RD  RD
+(JMS         :  34) SUBMIT.LOG    14 22-Feb-91 19:17 -- bad checksum VICLOD
+                           should be 14-Dec-89 23:58 MALXEG  ALL  RD  NO
+(JMS         :  34) TRW.LOG        2 10-Feb-91 19:11 -- bad checksum NIGVEG
+                           should be 23-Oct-91 15:14 SIKZUB  ALL  RD  NO
+(JMS         :  34) TYPBAT.LOG    11 10-Aug-92 18:38 -- bad checksum RINYED
+                           should be 24-Jan-91 18:10 SOXWOP  ALL  RD  NO
+(JMS         :  34) FNDALL.CTL     2 28-Jul-88 10:50 -- bad checksum XOLTUC
+                           should be 16-Mar-90 12:20 NUVTAQ  ALL  RD  NO
+(JMS         :  34) ESCAPE.TXT     5 15-May-84 02:09 -- protection RUN  NO  NO
+                           should be 15-May-84 02:09 MUDJUS  ALL  RD  RD
+(JMS         :  34) DSKCLN.F33   200 18-Dec-89 17:42 -- bad checksum VEZFOW
+                           should be 18-Feb-89 18:37 VEJZAM  ALL  RD  NO
+(JMS         :  34) USERS.SAI      4 08-Jul-92 17:39 -- bad checksum YIYPIL
+                           should be 11-Jun-87 18:32 XAGTAP  ALL  RD  NO
+(JMS         :  34) 10UPDA.RDI     2 26-Jul-93 23:06 -- bad checksum MUMWEF
+                           should be 31-Aug-93 12:35 FUCMUS  ALL  RD  NO
+(JMS         :  34) COBOLQ.RDI     2 26-Jul-93 23:57 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:12 FUCMUS  ALL  RD  NO
+(JMS         :  34) EDITOR.RDI     2 27-Jul-93 00:13 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:21 FUCMUS  ALL  RD  NO
+(JMS         :  34) EXECX.RDI      8 27-Jul-93 00:14 -- bad checksum KOXHUW
+                           should be 31-Aug-93 13:22 PUYMAD  ALL  RD  NO
+(JMS         :  34) F40.RDI        2 27-Jul-93 00:19 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:29 FUCMUS  ALL  RD  NO
+(JMS         :  34) FJSAIL.RDI     2 27-Jul-93 00:19 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:29 FUCMUS  ALL  RD  NO
+(JMS         :  34) INFO.RDI       2 27-Jul-93 00:24 -- bad checksum RUCKOL
+                           should be 31-Aug-93 13:36 KIPPOR  ALL  RD  NO
+(JMS         :  34) LINK10.RDI    24 27-Jul-93 02:00 -- bad checksum GIFQAK
+                           should be 05-Sep-91 14:53 LIBWER  ALL  RD  NO
+(JMS         :  34) MONDOC.RDI    10 27-Jul-93 03:32 -- bad checksum VAYCUP
+                           should be 05-Sep-91 15:04 LORNEN  ALL  RD  NO
+(JMS         :  34) MPL.RDI       10 27-Jul-93 03:34 -- bad checksum PIPNOP
+                           should be 05-Sep-91 15:05 DUNMOB  ALL  RD  NO
+(JMS         :  34) OSU.RDI        2 27-Jul-93 04:32 -- bad checksum XINTOR
+                           should be 05-Sep-91 15:16 LELTOP  ALL  RD  NO
+(JMS         :  34) PASCQA.RDI     2 27-Jul-93 04:37 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:19 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASIDO.RDI     2 27-Jul-93 04:42 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:22 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASNEW.RDI     2 27-Jul-93 04:45 -- bad checksum FIFWEF
+                           should be 05-Sep-91 15:25 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASPRO.RDI     2 27-Jul-93 04:46 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:26 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASQA.RDI      2 27-Jul-93 04:47 -- bad checksum FIFWEF
+                           should be 05-Sep-91 15:27 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASREL.RDI     2 27-Jul-93 04:48 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:27 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASSAV.RDI     2 27-Jul-93 04:49 -- bad checksum FIFWEF
+                           should be 05-Sep-91 15:28 XAFYAJ  ALL  RD  NO
+(JMS         :  34) RCMTES.RDI     2 27-Jul-93 04:56 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:33 XAFYAJ  ALL  RD  NO
+(JMS         :  34) SPUNKD.RDI     2 27-Jul-93 05:23 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:43 XAFYAJ  ALL  RD  NO
+(JMS         :  34) TXSDOC.RDI     2 27-Jul-93 06:03 -- bad checksum KOZVOD
+                           should be 05-Sep-91 15:51 RAKPUG  ALL  RD  NO
+(JMS         :  34) TXSINF.RDI     2 27-Jul-93 06:05 -- bad checksum HOGWEF
+                           should be 05-Sep-91 15:51 XUPDIZ  ALL  RD  NO
+(JMS         :  34) TYMGRI.RDI     2 27-Jul-93 06:12 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:54 XAFYAJ  ALL  RD  NO
+(JMS         :  34) VUE.RDI        2 27-Jul-93 06:13 -- bad checksum FIFWEF
+                           should be 05-Sep-91 15:56 XAFYAJ  ALL  RD  NO
+(JMS         :  34) XEXEC.RDI      3 27-Jul-93 07:30 -- bad checksum WAQJOK
+                           should be 05-Sep-91 16:05 YIFFEC  ALL  RD  NO
+(JMS         :  34) PASOLD.RDI     2 27-Jul-93 04:46 -- bad checksum FIFWEF
+                           should be 05-Sep-91 15:26 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PEAK.RDI       2 27-Jul-93 04:52 -- bad checksum HEFKOJ
+                           should be 05-Sep-91 15:31 MOFTIV  ALL  RD  NO
+(JMS         :  34) T10AIL.RDI     2 27-Jul-93 05:59 -- bad checksum MUMWEF
+                      should be 05-Sep-91 15:48 XAFYAJ  ALL  RD  NO
+(JMS         :  34) TBAFTD.RDI     2 27-Jul-93 06:00 -- bad checksum HEWJEY
+                           should be 05-Sep-91 15:48 BOFMAY  ALL  RD  NO
+(JMS         :  34) YEUX.RDI       2 27-Jul-93 07:43 -- bad checksum DOWDOX
+                           should be 05-Sep-91 16:08 YAVRUQ  ALL  RD  NO
+(JMS         :  34) MAGNUM.LOG     2 01-Dec-92 13:55 -- bad checksum JOVBEK
+                           should be 10-Nov-89 15:00 XIDMER  ALL  RD  NO
+(JMS         :  34) PASSRC.RDI     2 27-Jul-93 04:49 -- bad checksum FIFWEF
+                           should be 05-Sep-91 15:29 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PUB.RDI        2 27-Jul-93 04:55 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:32 TETTUZ  ALL  RD  NO
+(JMS         :  34) SPTBAR.RDI     2 27-Jul-93 05:22 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:42 XAFYAJ  ALL  RD  NO
+(JMS         :  34) UORAIL.RDI     2 27-Jul-93 06:12 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:55 XAFYAJ  ALL  RD  NO
+(JMS         :  34) WRS.RDI        6 27-Jul-93 06:14 -- bad checksum JUTSUZ
+                           should be 05-Sep-91 15:57 LUMLUZ  ALL  RD  NO
+(JMS         :  34) KSDIAG.RDI     2 27-Jul-93 01:59 -- bad checksum ZINLOQ
+                           should be 05-Sep-91 14:52 ZENXAD  ALL  RD  NO
+(JMS         :  34) MFICHE.RDI     2 27-Jul-93 03:31 -- bad checksum DABWEF
+                           should be 05-Sep-91 15:03 XAFYAJ  ALL  RD  NO
+(JMS         :  34) OSMAN.RDI      3 27-Jul-93 04:08 -- bad checksum LEKWAR
+                           should be 05-Sep-91 15:13 KONNED  ALL  RD  NO
+(JMS         :  34) PASCDO.RDI     2 27-Jul-93 04:35 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:17 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASDOC.RDI     2 27-Jul-93 04:38 -- bad checksum FIFWEF
+                           should be 05-Sep-91 15:20 XAFYAJ  ALL  RD  NO
+(JMS         :  34) SYSMAI.RDI     2 27-Jul-93 05:57 -- bad checksum JIDZOS
+                           should be 05-Sep-91 15:47 JECFIF  ALL  RD  NO
+(JMS         :  34) TBAUSP.RDI     2 27-Jul-93 06:00 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:48 XAFYAJ  ALL  RD  NO
+(JMS         :  34) TSUCOO.RDI     2 27-Jul-93 06:02 -- bad checksum DABWEF
+                           should be 05-Sep-91 15:50 FOSPER  ALL  RD  NO
+(JMS         :  34) TXSTES.RDI     2 27-Jul-93 06:08 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:52 RAMZUZ  ALL  RD  NO
+(JMS         :  34) XPPTES.RDI     2 27-Jul-93 07:39 -- bad checksum QILGAJ
+                           should be 05-Sep-91 16:06 XAFYAJ  ALL  RD  NO
+(JMS         :  34) YAMM.RDI       2 27-Jul-93 07:42 -- bad checksum RELFEC
+                           should be 05-Sep-91 16:07 DEYQIN  ALL  RD  NO
+(JMS         :  34) F10QA.RDI      2 27-Jul-93 00:17 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:27 FUCMUS  ALL  RD  NO
+(JMS         :  34) JAIL.RDI       2 27-Jul-93 00:28 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:40 QOXZIY  ALL  RD  NO
+(JMS         :  34) M33.RDI        4 27-Jul-93 02:43 -- bad checksum VUPJUB
+                           should be 09-Jun-92 20:18 NUXZIF  ALL  RD  NO
+(JMS         :  34) OSB.RDI        2 27-Jul-93 04:07 -- bad checksum RAFQAT
+                           should be 05-Sep-91 15:13 BOFMAY  ALL  RD  NO
+(JMS         :  34) OSP.RDI        2 27-Jul-93 04:28 -- bad checksum FINNEK
+                           should be 05-Sep-91 15:15 KONRUX  ALL  RD  NO
+(JMS         :  34) PASGSR.RDI     2 27-Jul-93 04:40 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:22 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASLIB.RDI     2 27-Jul-93 04:44 -- bad checksum FIFWEF
+                           should be 05-Sep-91 15:24 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASX.RDI       2 27-Jul-93 04:51 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:30 XAFYAJ  ALL  RD  NO
+(JMS         :  34) SAILIB.RDI     7 27-Jul-93 04:57 -- bad checksum TEZPAB
+                           should be 05-Sep-91 15:34 BIJRAP  ALL  RD  NO
+(JMS         :  34) SAILTE.RDI     2 27-Jul-93 05:03 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:36 XAFYAJ  ALL  RD  NO
+(JMS         :  34) SPPARC.RDI     2 27-Jul-93 05:16 -- bad checksum VAPTAT
+                           should be 05-Sep-91 15:39 XAFYAJ  ALL  RD  NO
+(JMS         :  34) SPPOPE.RDI     5 27-Jul-93 05:17 -- bad checksum MAWPEF
+                           should be 05-Sep-91 15:40 MAZZOV  ALL  RD  NO
+(JMS         :  34) SPUNKT.RDI     2 27-Jul-93 05:23 -- bad checksum FIFWEF
+                           should be 05-Sep-91 15:44 XAFYAJ  ALL  RD  NO
+(JMS         :  34) TNXAIL.RDI     2 27-Jul-93 06:01 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:49 XAFYAJ  ALL  RD  NO
+(JMS         :  34) TYMAIL.RDI     2 27-Jul-93 06:11 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:54 XAFYAJ  ALL  RD  NO
+(JMS         :  34) XAIL.RDI       2 27-Jul-93 07:28 -- bad checksum MUMWEF
+                           should be 05-Sep-91 16:03 XAFYAJ  ALL  RD  NO
+(JMS         :  34) XXARC.RDI      2 27-Jul-93 07:41 -- bad checksum MUMWEF
+                           should be 05-Sep-91 16:06 XAFYAJ  ALL  RD  NO
+(JMS         :  34) DENCOF.RDI     2 26-Jul-93 23:58 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:12 FUCMUS  ALL  RD  NO
+(JMS         :  34) F10.RDI        2 27-Jul-93 00:16 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:26 FUCMUS  ALL  RD  NO
+(JMS         :  34) FLETCH.RDI     2 27-Jul-93 00:20 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:30 FUCMUS  ALL  RD  NO
+(JMS         :  34) FRENCH.RDI     2 27-Jul-93 00:23 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:34 FUCMUS  ALL  RD  NO
+(JMS         :  34) KL10.RDI       2 27-Jul-93 01:39 -- bad checksum QOBYOQ
+                           should be 05-Sep-91 14:47 KEPZOC  ALL  RD  NO
+(JMS         :  34) KS2020.RDI     2 27-Jul-93 01:44 -- bad checksum BEZSOL
+                           should be 05-Sep-91 14:49 ZEWFED  ALL  RD  NO
+(JMS         :  34) MICROC.RDI     2 27-Jul-93 03:32 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:03 XAFYAJ  ALL  RD  NO
+(JMS         :  34) NDT.RDI        2 27-Jul-93 04:06 -- bad checksum BIJWEF
+                           should be 05-Sep-91 15:12 PUSRED  ALL  RD  NO
+(JMS         :  34) PASBLD.RDI     2 27-Jul-93 04:34 -- bad checksum NUMNUY
+                           should be 05-Sep-91 15:17 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASGQA.RDI     2 27-Jul-93 04:40 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:21 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASHOW.RDI     2 27-Jul-93 04:41 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:22 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASISR.RDI     2 27-Jul-93 04:43 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:24 XAFYAJ  ALL  RD  NO
+(JMS         :  34) PASXMI.RDI     2 27-Jul-93 04:51 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:31 XAFYAJ  ALL  RD  NO
+(JMS         :  34) SAIL.RDI       2 27-Jul-93 04:57 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:33 XAFYAJ  ALL  RD  NO
+(JMS         :  34) SPTBAQ.RDI     2 27-Jul-93 05:21 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:42 XAFYAJ  ALL  RD  NO
+(JMS         :  34) XCONSU.RDI     2 27-Jul-93 07:29 -- bad checksum MUMWEF
+                           should be 05-Sep-91 16:04 XAFYAJ  ALL  RD  NO
+(JMS         :  34) DOC2.RDI       2 26-Jul-93 23:59 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:13 FUCMUS  ALL  RD  NO
+(JMS         :  34) FORK.RDI       2 27-Jul-93 00:21 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:31 FUCMUS  ALL  RD  NO
+(JMS         :  34) FOROTQ.RDI     2 27-Jul-93 00:22 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:32 FUCMUS  ALL  RD  NO
+(JMS         :  34) IMPORT.RDI     2 27-Jul-93 00:24 -- bad checksum MUMWEF
+                           should be 31-Aug-93 13:35 FUCMUS  ALL  RD  NO
+(JMS         :  34) PASIQA.RDI     2 27-Jul-93 04:43 -- bad checksum MUMWEF
+                           should be 05-Sep-91 15:23 XAFYAJ  ALL  RD  NO
+(JMS         :  34) SPL.RDI        6 27-Jul-93 05:04 -- bad checksum LOXDAJ
+                           should be 05-Sep-91 15:37 NATMID  ALL  RD  NO
+(JMS         :  34) SUBMIT.RDI   144 27-Jul-93 05:24 -- bad checksum FUTHEB
+                           should be 05-Sep-91 15:44 YOPHEC  ALL  RD  NO
+(JMS         :  34) TXSSUP.RDI     2 27-Jul-93 06:06 -- bad checksum QILGAJ
+                           should be 05-Sep-91 15:52 DEYQIN  ALL  RD  NO
+(JMS         :  34) TXSTEX.RDI     2 27-Jul-93 06:09 -- bad checksum LEDWAZ
+                           should be 05-Sep-91 15:53 JUQXIX  ALL  RD  NO
+(JMS         :  34) CTYLOG.F33                       -- missing on slave
+(JMS         :  34) VALIDA.RDI                       -- missing on slave
+(JMS         :  34) TEST.HP                          -- missing on slave
+(JMS         :  34) HASH.MAC                         -- missing on slave
+(JMS         :  34) GAN33.LOG                        -- missing on slave
+(JMS         :  34) GAN33.CTL                        -- missing on slave
+(JMS         :  34) GAN33.BAK                        -- missing on slave
+(JMS         :  34) 34BASE.RCF                       -- missing on slave
+(JMS         :  34) N10350.C03                       -- missing on slave
+(JMS         :  34) MAIL.29                          -- missing on slave
+(JMS         :  34) MAIL.LOG                         -- missing on slave
+(JMS         :  34) MAIL.B                           -- missing on slave
+(JMS         :  34) MAIL.FWL                         -- missing on slave
+(JMS         :  34) HOST99.DAT                       -- missing on slave
+(JMS         :  34) MSGCTY.LOG                       -- missing on slave
+(JMS         :  34) LICSYS.BAK                       -- missing on slave
+(JMS         :  34) LICSYS.LOG                       -- missing on slave
+(JMS         :  34) FTTBA.RDI                        -- missing on slave
+(JMS         :  34) CCDA.RDI                         -- missing on slave
+(JMS         :  34) SAILIB.CTL                       -- missing on slave
+(JMS         :  34) BTUK2.LOG                        -- missing on slave
+(JMS         :  34) SPUNKR.RDI                       -- missing on slave
+(JMS         :  34) PDP10.CNT                        -- missing on slave
+(JMS         :  34) TBATLI.RDI                       -- missing on slave
+(JMS         :  34) SYSDOC.RDI                       -- missing on slave
+(JMS         :  34) SSVALS.RDI                       -- missing on slave
+(JMS         :  34) SCAN.XXX                         -- missing on slave
+(JMS         :  34) TTYIO.SIM                        -- missing on slave
+(JMS         :  34) 34035E.SAV                       -- missing on slave
+(JMS         :  34) SSPAMB.RDI                       -- missing on slave
+(JMS         :  34) QASYS.RDI                        -- missing on slave
+(JMS         :  34) ISISLI.RDI                       -- missing on slave
+(JMS         :  34) PJOB.LOG                         -- missing on slave
+(JMS         :  34) BASES.WHR                        -- missing on slave
+(JMS         :  34) CHEK14.LOG                       -- missing on slave
+(JMS         :  34) CHEK14.CTL                       -- missing on slave
+(JMS         :  34) DALLAS.BAS                       -- missing on slave
+(JMS         :  34) DSKCLN.FRI                       -- missing on slave
+(JMS         :  34) ND7004.LOG                       -- missing on slave
+(JMS         :  34) NW.33B                           -- missing on slave
+(JMS         :  34) NW.33A                           -- missing on slave
+(JMS         :  34) SUMLS2.LOG                       -- missing on slave
+(JMS         :  34) SUMLS2.CTL                       -- missing on slave
+(JMS         :  34) TYM2B.CTL                        -- missing on slave
+(JMS         :  34) TYM2B.LOG                        -- missing on slave
+(JMS         :  34) G11447.VAL                       -- missing on slave
+(JMS         :  34) MOVEIT.C                         -- missing on slave
+(JMS         :  34) TEST.LST                         -- missing on slave
+(JMS         :  34) TEST.MAC                         -- missing on slave
+(JMS         :  34) BA11.TRW                         -- missing on slave
+(JMS         :  34) DSKCLN.MON                       -- missing on slave
+(JMS         :  34) DSKCLN.SAV                       -- missing on slave
+(JMS         :  34) TEST.VT                          -- missing on slave
+(JMS         :  34) FIX38.FOR                        -- missing on slave
+(JMS         :  34) FIX38.INP                        -- missing on slave
+(JMS         :  34) MBAS.ROL                         -- missing on slave
+(JMS         :  34) F02627.SAV                       -- missing on slave
+(JMS         :  34) TAR.BAK                          -- missing on slave
+(JMS         :  34) SSBACK.RDI                       -- missing on slave
+(JMS         :  34) MAIL                             -- missing on slave
+(JMS         :  34) FINDIT.BAK                       -- missing on slave
+(JMS         :  34) FILLUP.SAV                       -- missing on slave
+(JMS         :  34) FWERKE.RDI                       -- missing on slave
+(JMS         :  34) E01.ROL                          -- missing on slave
+(JMS         :  34) ICINET.BAK                       -- missing on slave
+(JMS         :  34) BTUK.BAK                         -- missing on slave
+(JMS         :  34) SALTYR.RDI                       -- missing on slave
+(JMS         :  34) QALIBS.RDI                       -- missing on slave
+(JMS         :  34) M33X.RDI                         -- missing on slave
+(JMS         :  34) TNET.RDI                         -- missing on slave
+(JMS         :  34) SSUTIL.RDI                       -- missing on slave
+(JMS         :  34) SSINST.RDI                       -- missing on slave
+(JMS         :  34) SSDEV.RDI                        -- missing on slave
+(JMS         :  34) FTSYSD.RDI                       -- missing on slave
+Checking host 38
+(JMS         :  38) TATTLE.LOG     4 08-Jun-91 16:05 -- bad checksum REXMAM
+                           should be 08-Jun-91 16:05 DECSIL  ALL  RD  NO
+(JMS         :  38) GAN3.LST       3 14-Dec-92 10:33 -- bad checksum FANWUP
+                           should be 30-Nov-88 16:37 VEJRIH  ALL  RD  NO
+(JMS         :  38) LINK10.RDI     2 14-Dec-92 21:47 -- bad checksum KENDON
+                           should be 05-Sep-91 14:53 LIBWER  ALL  RD  NO
+(JMS         :  38) XEXEC.RDI      3 14-Dec-92 11:23 -- bad checksum XANYUJ
+                           should be 05-Sep-91 16:05 YIFFEC  ALL  RD  NO
+(JMS         :  38) INFO.RDI       2 14-Dec-92 21:07 -- bad checksum PENRAP
+                           should be 31-Aug-93 13:36 KIPPOR  ALL  RD  NO
+(JMS         :  38) USERS.LOG      2 26-Feb-93 14:56 -- bad checksum YUPPIX
+                           should be 20-Jan-88 15:50 YAPYUK  ALL  RD  NO
+(JMS         :  38) SYS.DIR       33 22-May-91 17:30 -- bad checksum BULSUV
+                           should be 30-Oct-86 13:16 GACJAZ  ALL  RD  NO
+(JMS         :  38) OSMAN.RDI      7 14-Dec-92 11:06 -- bad checksum LUQKIV
+                           should be 05-Sep-91 15:13 KONNED  ALL  RD  NO
+(JMS         :  38) JMS.RDI       29 14-Dec-92 21:09 -- bad checksum LECXUS
+                           should be 05-Sep-91 14:40 WIFXOV  ALL  RD  NO
+(JMS         :  38) DOCAIL.RDI     2 05-Sep-91 14:21 -- bad checksum DEYQIN
+                           should be 31-Aug-93 13:14 KEQWUZ  ALL  RD  NO
+(JMS         :  38) FOROTS.RDI     2 05-Sep-91 14:36 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:33 FUCMUS  ALL  RD  NO
+(JMS         :  38) FNDBAD.LOG     2 31-Aug-93 07:30 -- bad checksum LISMUH
+                           should be 31-Aug-93 07:30 XAKMAM  ALL  RD  NO
+(JMS         :  38) FNDBAD.CTL     2 22-Nov-89 12:07 -- bad checksum CASGUM
+                           should be 03-Nov-89 14:04 LIZNIP  ALL  RD  NO
+(JMS         :  38) SPOOL.LOG      2 26-Jul-93 00:00 -- bad checksum CIRHAG
+                           should be 16-Aug-93 00:00 LETYAY  ALL  RD  NO
+(JMS         :  38) JOBS.LOG       3 29-Jun-93 17:16 -- bad checksum POWSEG
+                           should be 29-Jun-93 17:13 HARJAZ  ALL  RD  NO
+(JMS         :  38) SPPOPE.RDI     4 14-Dec-92 10:40 -- bad checksum SOHPUC
+                           should be 05-Sep-91 15:40 MAZZOV  ALL  RD  NO
+(JMS         :  38) M33.RDI       16 14-Dec-92 21:54 -- bad checksum YUKREX
+                           should be 09-Jun-92 20:18 NUXZIF  ALL  RD  NO
+(JMS         :  38) SZRPT.CTL      2 09-Nov-91 22:42 -- bad checksum TEZFEV
+                           should be 15-Feb-91 19:56 FOYZET  ALL  RD  NO
+(JMS         :  38) SZRPT.LST      2 31-Aug-93 00:45 -- bad checksum KAXXAV
+                           should be 31-Aug-93 00:45 WOHWUR  ALL  RD  NO
+(JMS         :  38) SZRPT.SAT      4 28-Aug-93 03:12 -- bad checksum HEDDEF
+                           should be 28-Aug-93 00:49 QUJFAK  ALL  RD  NO
+(JMS         :  38) SZRPT.SUN      4 29-Aug-93 00:49 -- bad checksum YEFZAR
+                           should be 29-Aug-93 00:48 ROVZUV  ALL  RD  NO
+(JMS         :  38) SZRPT.MON      4 30-Aug-93 00:49 -- bad checksum BOZPID
+                           should be 30-Aug-93 00:48 HAKXAN  ALL  RD  NO
+(JMS         :  38) SZRPT.TUE      4 31-Aug-93 00:49 -- bad checksum BOJMUW
+                           should be 31-Aug-93 00:48 FOSDOW  ALL  RD  NO
+(JMS         :  38) SZRPT.WED      4 25-Aug-93 00:49 -- bad checksum QEBQEQ
+                           should be 25-Aug-93 00:49 WIWKIK  ALL  RD  NO
+(JMS         :  38) SZRPT.FRI      4 27-Aug-93 00:49 -- bad checksum YAXZUV
+                           should be 27-Aug-93 00:48 BILHIR  ALL  RD  NO
+(JMS         :  38) SZRPT.LOG      4 31-Aug-93 00:45 -- bad checksum JOJVUL
+                           should be 31-Aug-93 00:45 DUGROK  ALL  RD  NO
+(JMS         :  38) SZRPT.THU      4 26-Aug-93 00:50 -- bad checksum VOWYAD
+                           should be 26-Aug-93 00:49 PUXFEY  ALL  RD  NO
+(JMS         :  38) CRSHID.LOG     2 09-Mar-93 11:27 -- bad checksum RIGTUR
+                           should be 27-Oct-92 14:05 QUSFET  ALL  RD  NO
+(JMS         :  38) CARL.RDI      14 14-Dec-92 20:47 -- bad checksum SIQLEM
+                           should be 31-Aug-93 12:37 RAZRUG  ALL  RD  NO
+(JMS         :  38) SYSTAT.LOW     2 30-Nov-92 19:59 -- bad checksum KUTXUJ
+                           should be 31-Jan-87 01:34 BAGNIS  ALL RUN RUN 402000
+(JMS         :  38) DIRIT.INI      2 08-Nov-91 16:34 -- bad checksum JAVZUC
+                           should be 14-Nov-89 15:00 FAYXEZ  ALL  RD  RD
+(JMS         :  38) SETPDT.MAC     2 16-Nov-87 13:36 -- bad checksum BOPLES
+                           should be 04-Feb-87 22:48 RIXHAL  ALL  RD  NO
+(JMS         :  38) 10UPDA.RDI     2 05-Sep-91 14:08 -- bad checksum BOFMAY
+                           should be 31-Aug-93 12:35 FUCMUS  ALL  RD  NO
+(JMS         :  38) COBOLQ.RDI     2 05-Sep-91 14:19 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:12 FUCMUS  ALL  RD  NO
+(JMS         :  38) EDITOR.RDI     2 05-Sep-91 14:26 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:21 FUCMUS  ALL  RD  NO
+(JMS         :  38) EXECX.RDI      2 05-Sep-91 14:27 -- bad checksum FEJSIB
+                           should be 31-Aug-93 13:22 PUYMAD  ALL  RD  NO
+(JMS         :  38) F40.RDI        2 05-Sep-91 14:32 -- bad checksum BOFMAY
+                           should be 31-Aug-93 13:29 FUCMUS  ALL  RD  NO
+(JMS         :  38) FJSAIL.RDI     2 05-Sep-91 14:33 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:29 FUCMUS  ALL  RD  NO
+(JMS         :  38) EBUS.RDI       2 05-Sep-91 14:22 -- bad checksum XIXRAF
+                           should be 31-Aug-93 13:15 PECSIZ  ALL  RD  NO
+(JMS         :  38) COBOL1.RDI     2 05-Sep-91 14:19 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:11 FUCMUS  ALL  RD  NO
+(JMS         :  38) 11CURR.RDI     2 05-Sep-91 14:08 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 12:36 FUCMUS  ALL  RD  NO
+(JMS         :  38) F3CODE.RDI     2 05-Sep-91 14:31 -- bad checksum HEPYAM
+                           should be 31-Aug-93 13:28 FUCMUS  ALL  RD  NO
+(JMS         :  38) FNDALL.WED     2 16-Jun-93 09:03 -- bad checksum PUYCED
+                           should be 25-Aug-93 09:02 ZODTIB  ALL  RD  NO
+(JMS         :  38) FNDALL.LOG     2 17-Jun-93 09:00 -- bad checksum QUKDIP
+                           should be 31-Aug-93 09:00 CARSUV  ALL  RD  NO
+(JMS         :  38) FNDALL.THU     2 17-Jun-93 09:02 -- bad checksum JIVFUV
+                           should be 26-Aug-93 09:03 ZITNUD  ALL  RD  NO
+(JMS         :  38) FNDALL.FRI     2 11-Jun-93 09:04 -- bad checksum ZIRHIR
+                           should be 27-Aug-93 09:02 PETPAZ  ALL  RD  NO
+(JMS         :  38) FNDALL.SAT     2 12-Jun-93 09:03 -- bad checksum LIRXER
+                           should be 28-Aug-93 09:03 COZFIL  ALL  RD  NO
+(JMS         :  38) FNDALL.SUN     2 13-Jun-93 11:27 -- bad checksum TICNEN
+                           should be 29-Aug-93 12:18 DEYLOX  ALL  RD  NO
+(JMS         :  38) FNDALL.MON     2 14-Jun-93 09:03 -- bad checksum QEHFET
+                           should be 30-Aug-93 09:02 HAHDAP  ALL  RD  NO
+(JMS         :  38) FNDALL.TUE     2 15-Jun-93 09:02 -- bad checksum PUZGAB
+                           should be 31-Aug-93 09:02 VAGYIP  ALL  RD  NO
+(JMS         :  38) DOC2.RDI       2 05-Sep-91 14:21 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:13 FUCMUS  ALL  RD  NO
+(JMS         :  38) FORK.RDI       2 05-Sep-91 14:34 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:31 FUCMUS  ALL  RD  NO
+(JMS         :  38) FOROTQ.RDI     2 05-Sep-91 14:35 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:32 FUCMUS  ALL  RD  NO
+(JMS         :  38) IMPORT.RDI     2 05-Sep-91 14:37 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:35 FUCMUS  ALL  RD  NO
+(JMS         :  38) CMUAIL.RDI     2 05-Sep-91 14:18 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:10 FUCMUS  ALL  RD  NO
+(JMS         :  38) F10QA.RDI      2 05-Sep-91 14:31 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:27 FUCMUS  ALL  RD  NO
+(JMS         :  38) JAIL.RDI       2 05-Sep-91 14:39 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:40 QOXZIY  ALL  RD  NO
+(JMS         :  38) AUGMEN.RDI     2 05-Sep-91 14:09 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 12:36 FUCMUS  ALL  RD  NO
+(JMS         :  38) DENCOF.RDI     2 05-Sep-91 14:20 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:12 FUCMUS  ALL  RD  NO
+(JMS         :  38) F10.RDI        2 05-Sep-91 14:30 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:26 FUCMUS  ALL  RD  NO
+(JMS         :  38) FLETCH.RDI     2 05-Sep-91 14:34 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:30 FUCMUS  ALL  RD  NO
+(JMS         :  38) FRENCH.RDI     2 05-Sep-91 14:36 -- bad checksum XAFYAJ
+                           should be 31-Aug-93 13:34 FUCMUS  ALL  RD  NO
+(JMS         :  38) FROM33.DIR                       -- missing on slave
+(JMS         :  38) 6657.LOD                         -- missing on slave
+(JMS         :  38) DECDDT.SAV                       -- missing on slave
+(JMS         :  38) CRSHID.33                        -- missing on slave
+(JMS         :  38) UUOCON.7                         -- missing on slave
+(JMS         :  38) D.FOR                            -- missing on slave
+(JMS         :  38) TRW.LOG                          -- missing on slave
+(JMS         :  38) SAT.LOG                          -- missing on slave
+(JMS         :  38) 6760.LOD                         -- missing on slave
+(JMS         :  38) SZRPT1.LOG                       -- missing on slave
+(JMS         :  38) DISCOM.MAC                       -- missing on slave
+(JMS         :  38) STOPCD.702                       -- missing on slave
+(JMS         :  38) FRSUPD.COM                       -- missing on slave
+(JMS         :  38) RIBERR.CTL                       -- missing on slave
+(JMS         :  38) TITO.ERR                         -- missing on slave
+(JMS         :  38) DSKB.LOG                         -- missing on slave
+(JMS         :  38) DIAL1.LOG                        -- missing on slave
+(JMS         :  38) GAN33.LOG                        -- missing on slave
+(JMS         :  38) GAN33.CTL                        -- missing on slave
+(JMS         :  38) GAN33.BAK                        -- missing on slave
+(JMS         :  38) 34BASE.RCF                       -- missing on slave
+(JMS         :  38) LPASSW.NEW                       -- missing on slave
+(JMS         :  38) ROUTER.TRW                       -- missing on slave
+(JMS         :  38) 1987.F33                         -- missing on slave
+(JMS         :  38) TAUX2.MAC                        -- missing on slave
+(JMS         :  38) SPY.MAC                          -- missing on slave
+(JMS         :  38) FRSGEN.COM                       -- missing on slave
+(JMS         :  38) 1987.CTL                         -- missing on slave
+(JMS         :  38) LOGOUT.2                         -- missing on slave
+(JMS         :  38) LOGOUT.LOG                       -- missing on slave
+(JMS         :  38) MIDNIT.SAT                       -- missing on slave
+(JMS         :  38) MIDNIT.930                       -- missing on slave
+(JMS         :  38) SYSG.LOG                         -- missing on slave
+(JMS         :  38) UOFCHI.LOG                       -- missing on slave
+(JMS         :  38) FILLUP.LOG                       -- missing on slave
+(JMS         :  38) DIAG.VAL                         -- missing on slave
+(JMS         :  38) SYSG.CTL                         -- missing on slave
+(JMS         :  38) USERDB.G3                        -- missing on slave
+(JMS         :  38) 1TAPE.TXT                        -- missing on slave
+(JMS         :  38) EBUS.33                          -- missing on slave
+(JMS         :  38) EBUS.X                           -- missing on slave
+(JMS         :  38) EBUS.S                           -- missing on slave
+(JMS         :  38) P035D.TXT                        -- missing on slave
+(JMS         :  38) EBUSQ.LOG                        -- missing on slave
+(JMS         :  38) EBUSQ.CTL                        -- missing on slave
+(JMS         :  38) BASEOK.MEM                       -- missing on slave
+(JMS         :  38) TTYTAB.CAB                       -- missing on slave
+(JMS         :  38) DISREL.MAC                       -- missing on slave
+(JMS         :  38) XRAY.TXS                         -- missing on slave
+(JMS         :  38) XRAY.LOG                         -- missing on slave
+(JMS         :  38) EBUS.PDP                         -- missing on slave
+(JMS         :  38) OSNF.DIR                         -- missing on slave
+(JMS         :  38) DIAG10.QUO                       -- missing on slave
+(JMS         :  38) LICSYS.BAK                       -- missing on slave
+(JMS         :  38) DSKS.SRT                         -- missing on slave
+(JMS         :  38) DSKS.FDF                         -- missing on slave
+(JMS         :  38) DSKS.DIR                         -- missing on slave
+(JMS         :  38) PX.LOG                           -- missing on slave
+(JMS         :  38) RDIST.CTL                        -- missing on slave
+(JMS         :  38) SDANIE.PPN                       -- missing on slave
+(JMS         :  38) DISEXE.MAC                       -- missing on slave
+(JMS         :  38) FOONLY.BUG                       -- missing on slave
+(JMS         :  38) FRS.HOW                          -- missing on slave
+(JMS         :  38) FRS.FIL                          -- missing on slave
+(JMS         :  38) M33SAV.LOG                       -- missing on slave
+(JMS         :  38) TBASE.NEW                        -- missing on slave
+(JMS         :  38) CHEK33.CTL                       -- missing on slave
+(JMS         :  38) DUSAGE.LOG                       -- missing on slave
+(JMS         :  38) DUSAGE.CTL                       -- missing on slave
+(JMS         :  38) FRSV5.CHG                        -- missing on slave
+(JMS         :  38) XCRF.SWM                         -- missing on slave
+(JMS         :  38) USERS.CTL                        -- missing on slave
+(JMS         :  38) 34035E.SAV                       -- missing on slave
+(JMS         :  38) DSKCLN.F26                       -- missing on slave
+(JMS         :  38) FNDALL.CTL                       -- missing on slave
+(JMS         :  38) ESCAPE.ASM                       -- missing on slave
+(JMS         :  38) ESCAPE.TXT                       -- missing on slave
+(JMS         :  38) SIGNAT.URE                       -- missing on slave
+(JMS         :  38) DSKCLN.LOG                       -- missing on slave
+(JMS         :  38) DSKCLN.CTL                       -- missing on slave
+(JMS         :  38) G11447.55                        -- missing on slave
+(JMS         :  38) DISK.LOG                         -- missing on slave
+(JMS         :  38) TYPBAT.LOG                       -- missing on slave
+(JMS         :  38) SUBNEW.LOG                       -- missing on slave
+(JMS         :  38) SPL.CHA                          -- missing on slave
+(JMS         :  38) DSKCLN.F33                       -- missing on slave
+(JMS         :  38) BASES.LOG                        -- missing on slave
+(JMS         :  38) HOSTS.IBM                        -- missing on slave
+(JMS         :  38) DUPS2.FOR                        -- missing on slave
+(JMS         :  38) DUPS2.HGH                        -- missing on slave
+(JMS         :  38) MODULE.KS                        -- missing on slave
+(JMS         :  38) FONTS.TXT                        -- missing on slave
+(JMS         :  38) OUTDIA.YYY                       -- missing on slave
+(JMS         :  38) SPFIX.LOG                        -- missing on slave
+(JMS         :  38) SY.MHX                           -- missing on slave
+(JMS         :  38) TRW.FIL                          -- missing on slave
+(JMS         :  38) SUBMIT.BUG                       -- missing on slave
+(JMS         :  38) 861205.JQL                       -- missing on slave
+(JMS         :  38) SYS26.DIR                        -- missing on slave
+(JMS         :  38) SUBMIT.LOG                       -- missing on slave
+(JMS         :  38) UFDBIG.LOG                       -- missing on slave
+(JMS         :  38) TRMTYP.702                       -- missing on slave
+(JMS         :  38) TRMTYP.MAC                       -- missing on slave
+(JMS         :  38) HOSTS.LST                        -- missing on slave
+(JMS         :  38) FSCOPY.HLP                       -- missing on slave
+(JMS         :  38) SUBMIT.THU                       -- missing on slave
+(JMS         :  38) BBOARD.MKR                       -- missing on slave
+(JMS         :  38) C24.MSG                          -- missing on slave
+(JMS         :  38) SPL.MUD                          -- missing on slave
+(JMS         :  38) MACTEN.DIR                       -- missing on slave
+(JMS         :  38) OUTDIA.LOG                       -- missing on slave
+(JMS         :  38) SOFT2.DIR                        -- missing on slave
+(JMS         :  38) TYMSAT.FOR                       -- missing on slave
+(JMS         :  38) TYMSAT.ALL                       -- missing on slave
+(JMS         :  38) SCORE.MAI                        -- missing on slave
+(JMS         :  38) RIBERR.LOG                       -- missing on slave
+(JMS         :  38) SETPDT.SAV                       -- missing on slave
+(JMS         :  38) MBAS.ROL                         -- missing on slave
+(JMS         :  38) TAR.CTL                          -- missing on slave
+(JMS         :  38) TAR.BAK                          -- missing on slave
+(JMS         :  38) GAN3A.LOG                        -- missing on slave
+(JMS         :  38) MAIL                             -- missing on slave
+(JMS         :  38) FINDIT.BAK                       -- missing on slave
+(JMS         :  38) FINDIT.TEC                       -- missing on slave
+(JMS         :  38) NADCHK.LOG                       -- missing on slave
+(JMS         :  38) NADCHK.CTL                       -- missing on slave
+(JMS         :  38) ND6657.C00                       -- missing on slave
+(JMS         :  38) ND6657.CMD                       -- missing on slave
+(JMS         :  38) ND6657.BND                       -- missing on slave
+(JMS         :  38) ND6657.LOD                       -- missing on slave
+(JMS         :  38) MAGNUM.LOG                       -- missing on slave
+(JMS         :  38) MAIL.F30                         -- missing on slave
+(JMS         :  38) DIAG.WHO                         -- missing on slave
+(JMS         :  38) DIALCS.TXT                       -- missing on slave
+(JMS         :  38) SLTOPH.DIR                       -- missing on slave
+(JMS         :  38) STLOU.DIR                        -- missing on slave
+(JMS         :  38) STLOU.SYS                        -- missing on slave
+(JMS         :  38) STLOU.TOP                        -- missing on slave
+(JMS         :  38) MIDNIT.1D                        -- missing on slave
+(JMS         :  38) MIDNIT.2D                        -- missing on slave
+(JMS         :  38) MIDNIT.3D                        -- missing on slave
+(JMS         :  38) MIDNIT.4D                        -- missing on slave
+(JMS         :  38) MIDNIT.5D                        -- missing on slave
+(JMS         :  38) MIDNIT.6D                        -- missing on slave
+(JMS         :  38) MIDNIT.7D                        -- missing on slave
+(JMS         :  38) FILDDT.LOG                       -- missing on slave
+(JMS         :  38) 2020.COM                         -- missing on slave
+(JMS         :  38) FEB17.HOL                        -- missing on slave
+(JMS         :  38) 2X40.FOR                         -- missing on slave
+(JMS         :  38) SYSDSK.TXT                       -- missing on slave
+(JMS         :  38) SYSDSK.LOG                       -- missing on slave
+(JMS         :  38) GAN1.LST                         -- missing on slave
+(JMS         :  38) MIDNIT.CTL                       -- missing on slave
+(JMS         :  38) FINDIT.DOC                       -- missing on slave
+(JMS         :  38) BOOT70.LOG                       -- missing on slave
+(JMS         :  38) SYS95.DIR                        -- missing on slave
+(JMS         :  38) REGCHG.DMS                       -- missing on slave
+(JMS         :  38) SMILEY.FAC                       -- missing on slave
+(JMS         :  38) SOFT1.DIR                        -- missing on slave
+(JMS         :  38) WRS.DOC                          -- missing on slave
+(JMS         :  38) FINDIT.V2                        -- missing on slave
+(JMS         :  38) 1DOWN.MSG                        -- missing on slave
+(JMS         :  38) MIC.LOG                          -- missing on slave
+(JMS         :  38) DECUS.SES                        -- missing on slave
+(JMS         :  38) LA50.12                          -- missing on slave
+(JMS         :  38) TAPE.DIR                         -- missing on slave
+(JMS         :  38) DECUS.KL                         -- missing on slave
+(JMS         :  38) DECUS.T10                        -- missing on slave
+(JMS         :  38) MIDNIT.LOG                       -- missing on slave
+(JMS         :  38) FILLUP.SAV                       -- missing on slave
+(JMS         :  38) FILLUP.MAC                       -- missing on slave
+(JMS         :  38) SED9.LOW                         -- missing on slave
+(JMS         :  38) SED9.SHR                         -- missing on slave
+(JMS         :  38) SEDONL.HLP                       -- missing on slave
+(JMS         :  38) TTYINI.MAC                       -- missing on slave
+(JMS         :  38) TTYINI.SAV                       -- missing on slave
+(JMS         :  38) ANSICO.TXT                       -- missing on slave
+(JMS         :  38) SATSYS.LOG                       -- missing on slave
+(JMS         :  38) SATSYS.CTL                       -- missing on slave
+(JMS         :  38) CHECK.LOG                        -- missing on slave
+(JMS         :  38) CHECK.CTL                        -- missing on slave
+(JMS         :  38) SWITCH.DOC                       -- missing on slave
+(JMS         :  38) CRSHID.L                         -- missing on slave
+(JMS         :  38) FRSUTL.FIL                       -- missing on slave
+(JMS         :  38) DENCOF.LOG                       -- missing on slave
+(JMS         :  38) SWITCH.NEW                       -- missing on slave
+(JMS         :  38) FIDO.LOG                         -- missing on slave
+(JMS         :  38) BADSAT.LOG                       -- missing on slave
+(JMS         :  38) LOCORE.701                       -- missing on slave
+(JMS         :  38) UFD.SRT                          -- missing on slave
+(JMS         :  38) SWITCH.999                       -- missing on slave
+(JMS         :  38) RUTGER.LOG                       -- missing on slave
+(JMS         :  38) RUTGER.SED                       -- missing on slave
+(JMS         :  38) CONI.MAC                         -- missing on slave
+(JMS         :  38) BOXES.TXT                        -- missing on slave
+(JMS         :  38) MAR11.HOL                        -- missing on slave
+(JMS         :  38) CTYIO.MEM                        -- missing on slave
+(JMS         :  38) TRW3.DIR                         -- missing on slave
+(JMS         :  38) FOROPS.REL                       -- missing on slave
+(JMS         :  38) 2X64.FOR                         -- missing on slave
+(JMS         :  38) TXSNOD.MHX                       -- missing on slave
+(JMS         :  38) TXSNOD.SRT                       -- missing on slave
+(JMS         :  38) CABLE.TCI                        -- missing on slave
+(JMS         :  38) GFD.LOG                          -- missing on slave
+(JMS         :  38) BUBB.PPN                         -- missing on slave
+(JMS         :  38) B78KER.ANN                       -- missing on slave
+(JMS         :  38) B78KER.DOC                       -- missing on slave
+(JMS         :  38) B78KER.ALG                       -- missing on slave
+(JMS         :  38) UFD.LOG                          -- missing on slave
+(JMS         :  38) FREE.LOG                         -- missing on slave
+(JMS         :  38) ROE.MEM                          -- missing on slave
+(JMS         :  38) FRMTST.SAI                       -- missing on slave
+(JMS         :  38) MICRO.NOD                        -- missing on slave
+(JMS         :  38) TXSNOD.ALL                       -- missing on slave
+(JMS         :  38) TXSNOD.39A                       -- missing on slave
+(JMS         :  38) SPC.LOG                          -- missing on slave
+(JMS         :  38) MARKET.MAI                       -- missing on slave
+(JMS         :  38) FOROPS.MAC                       -- missing on slave
+(JMS         :  38) E01.ROL                          -- missing on slave
+(JMS         :  38) ICINET.BAK                       -- missing on slave
+(JMS         :  38) BTUK.BAK                         -- missing on slave
+(JMS         :  38) SZRPT.GAN                        -- missing on slave
+(JMS         :  38) G1.CTL                           -- missing on slave
+(JMS         :  38) TEMP.CTL                         -- missing on slave
+(JMS         :  38) SZRPTX.CTL                       -- missing on slave
+(JMS         :  38) TXSNET.TEC                       -- missing on slave
+(JMS         :  38) SYSNO.LOG                        -- missing on slave
+(JMS         :  38) GAN6.WHO                         -- missing on slave
+(JMS         :  38) TRAINE.TXT                       -- missing on slave
+(JMS         :  38) LUD.32                           -- missing on slave
+(JMS         :  38) MPLSPL.CTL                       -- missing on slave
+(JMS         :  38) MAP.LOG                          -- missing on slave
+(JMS         :  38) PEAK.VER                         -- missing on slave
+(JMS         :  38) MID95.CTL                        -- missing on slave
+(JMS         :  38) VALDAT.G3                        -- missing on slave
+(JMS         :  38) BAYCON.LOG                       -- missing on slave
+(JMS         :  38) DIAL.LOG                         -- missing on slave
+(JMS         :  38) STLOUA.DIR                       -- missing on slave
+(JMS         :  38) FIND.CTL                         -- missing on slave
+(JMS         :  38) FIND.LOG                         -- missing on slave
+(JMS         :  38) STLOU3.DIR                       -- missing on slave
+(JMS         :  38) SDAVIS.D65                       -- missing on slave
+(JMS         :  38) BOOTS.DEL                        -- missing on slave
+(JMS         :  38) 2FILE.FOR                        -- missing on slave
+(JMS         :  38) STREAK.LOG                       -- missing on slave
+(JMS         :  38) MID930.CTL                       -- missing on slave
+(JMS         :  38) MID930.LOG                       -- missing on slave
+(JMS         :  38) PCOM.LOG                         -- missing on slave
+(JMS         :  38) POKLDB.SAI                       -- missing on slave
+(JMS         :  38) COMTXT.LS8                       -- missing on slave
+(JMS         :  38) FTKL10.MAC                       -- missing on slave
+(JMS         :  38) SLEEP.MAC                        -- missing on slave
+(JMS         :  38) DARREN.LOG                       -- missing on slave
+(JMS         :  38) MACSYM.UNV                       -- missing on slave
+(JMS         :  38) MACSYM.T2X                       -- missing on slave
+(JMS         :  38) MACSYM.T20                       -- missing on slave
+(JMS         :  38) MACSYM.LOG                       -- missing on slave
+(JMS         :  38) WIDTH.132                        -- missing on slave
+(JMS         :  38) MACRO.TXT                        -- missing on slave
+(JMS         :  38) FNDBAD.X14                       -- missing on slave
+(JMS         :  38) GAN447.CTL                       -- missing on slave
+(JMS         :  38) GFD3.CTL                         -- missing on slave
+(JMS         :  38) MSGLOG.CTL                       -- missing on slave
+(JMS         :  38) RDIST.SCM                        -- missing on slave
+(JMS         :  38) CRASH.74                         -- missing on slave
+(JMS         :  38) TOOLS1.39                        -- missing on slave
+(JMS         :  38) DSKS.FPF                         -- missing on slave
+(JMS         :  38) RPGINI.CTL                       -- missing on slave
+(JMS         :  38) FRS.CKS                          -- missing on slave
+(JMS         :  38) SPPOPE.33                        -- missing on slave
+(JMS         :  38) XRAY11.HLP                       -- missing on slave
+(JMS         :  38) CRALST.F33                       -- missing on slave
+(JMS         :  38) XOVER.TXT                        -- missing on slave
+(JMS         :  38) LINK.LOG                         -- missing on slave
+(JMS         :  38) GAN5.WHO                         -- missing on slave
+(JMS         :  38) COPIER.DOC                       -- missing on slave
+(JMS         :  38) TXSMAC.SRT                       -- missing on slave
+(JMS         :  38) RDIST.SAI                        -- missing on slave
+(JMS         :  38) RDIST.WRS                        -- missing on slave
+(JMS         :  38) RECOV.F38                        -- missing on slave
+(JMS         :  38) VCR.MAI                          -- missing on slave
+(JMS         :  38) PROBE.LOG                        -- missing on slave
+(JMS         :  38) 11X8.BOX                         -- missing on slave
+(JMS         :  38) 8X11.BOX                         -- missing on slave
+(JMS         :  38) SYSTEM.NWS                       -- missing on slave
+(JMS         :  38) DUPS.FOR                         -- missing on slave
+(JMS         :  38) BOOTF3.LOG                       -- missing on slave
+(JMS         :  38) 93062.DIR                        -- missing on slave
+(JMS         :  38) BADUFD.F22                       -- missing on slave
+(JMS         :  38) SAXBUF.LOG                       -- missing on slave
+(JMS         :  38) RECOV.TXT                        -- missing on slave
+(JMS         :  38) TELALP.LOG                       -- missing on slave
+(JMS         :  38) RECOV.X32                        -- missing on slave
+(JMS         :  38) FNDBAD.SUB                       -- missing on slave
+(JMS         :  38) MONMAC.DEL                       -- missing on slave
+(JMS         :  38) MONMAC.LOG                       -- missing on slave
+(JMS         :  38) ROLAID.MEM                       -- missing on slave
+(JMS         :  38) SPOOL.JMS                        -- missing on slave
+(JMS         :  38) DAYCOD.DMS                       -- missing on slave
+(JMS         :  38) ROLAID.SAI                       -- missing on slave
+(JMS         :  38) TAKEIT.CKS                       -- missing on slave
+(JMS         :  38) COMET.MAI                        -- missing on slave
+(JMS         :  38) UUO.DIF                          -- missing on slave
+(JMS         :  38) HOW2.MUX                         -- missing on slave
+(JMS         :  38) CHECK3.CTL                       -- missing on slave
+(JMS         :  38) PX.CTL                           -- missing on slave
+(JMS         :  38) WHR.WHR                          -- missing on slave
+(JMS         :  38) TUMS.MSG                         -- missing on slave
+(JMS         :  38) JMS.DIR                          -- missing on slave
+(JMS         :  38) 20S                              -- missing on slave
+(JMS         :  38) SYS.BAD                          -- missing on slave
+(JMS         :  38) SA10.DIR                         -- missing on slave
+(JMS         :  38) DOCAIL.CTL                       -- missing on slave
+(JMS         :  38) 29.LOG                           -- missing on slave
+(JMS         :  38) DOCAIL.LOG                       -- missing on slave
+(JMS         :  38) ST.LOG                           -- missing on slave
+(JMS         :  38) 6NEWS.DIR                        -- missing on slave
+(JMS         :  38) WHR.2DO                          -- missing on slave
+(JMS         :  38) WHR.CTL                          -- missing on slave
+(JMS         :  38) WHR.LOG                          -- missing on slave
+(JMS         :  38) MAILF.LOG                        -- missing on slave
+(JMS         :  38) FIXSAT.LOG                       -- missing on slave
+(JMS         :  38) PARADY.CFB                       -- missing on slave
+(JMS         :  38) TXS.WHO                          -- missing on slave
+(JMS         :  38) WHR.X                            -- missing on slave
+(JMS         :  38) 925.LOG                          -- missing on slave
+(JMS         :  38) VMAP.930                         -- missing on slave
+(JMS         :  38) VMAP.62                          -- missing on slave
+(JMS         :  38) STLOU1.DIR                       -- missing on slave
+(JMS         :  38) 200TTY.LOG                       -- missing on slave
+(JMS         :  38) SCORE0.MAI                       -- missing on slave
+(JMS         :  38) CURR11.COM                       -- missing on slave
+(JMS         :  38) CHKPNT.VER                       -- missing on slave
+(JMS         :  38) SED.930                          -- missing on slave
+(JMS         :  38) TELAID.MHX                       -- missing on slave
+(JMS         :  38) TAUX.LOG                         -- missing on slave
+(JMS         :  38) TYPE.LOG                         -- missing on slave
+(JMS         :  38) FLDCOD.DMS                       -- missing on slave
+(JMS         :  38) OFFICE.LOG                       -- missing on slave
+(JMS         :  38) FZ.DIR                           -- missing on slave
+(JMS         :  38) P034.MKR                         -- missing on slave
+(JMS         :  38) PORTN.LOG                        -- missing on slave
+(JMS         :  38) CONSAT.LOG                       -- missing on slave
+(JMS         :  38) 6NEWS.LOG                        -- missing on slave
+(JMS         :  38) BADLH.MAC                        -- missing on slave
+(JMS         :  38) SED.LOW                          -- missing on slave
+(JMS         :  38) SED.SHR                          -- missing on slave
+(JMS         :  38) VT100T.TST                       -- missing on slave
+(JMS         :  38) STLOU0.DIR                       -- missing on slave
+(JMS         :  38) GAN3.CTL                         -- missing on slave
+(JMS         :  38) ND6760.LOD                       -- missing on slave
+(JMS         :  38) ND6760.C00                       -- missing on slave
+(JMS         :  38) ND6760.CMD                       -- missing on slave
+(JMS         :  38) ND6760.BND                       -- missing on slave
+(JMS         :  38) GAN3.55                          -- missing on slave
+(JMS         :  38) GAN3.33                          -- missing on slave
+(JMS         :  38) GAN3.74                          -- missing on slave
+(JMS         :  38) GAN3.32                          -- missing on slave
+(JMS         :  38) GAN3.39                          -- missing on slave
+(JMS         :  38) M33SAV.CTL                       -- missing on slave
+(JMS         :  38) SAXINY.F74                       -- missing on slave
+(JMS         :  38) F22.LOG                          -- missing on slave
+(JMS         :  38) ONCE.TXT                         -- missing on slave
+(JMS         :  38) USERS.SAI                        -- missing on slave
+(JMS         :  38) LOADII.MEM                       -- missing on slave
+(JMS         :  38) GAN3.USR                         -- missing on slave
+(JMS         :  38) DIAL70.LOG                       -- missing on slave
+(JMS         :  38) PCOMAI.LOG                       -- missing on slave
+(JMS         :  38) LOADII.MAC                       -- missing on slave
+(JMS         :  38) LOADII.INS                       -- missing on slave
+(JMS         :  38) PDP10.PRJ                        -- missing on slave
+(JMS         :  38) MAR05.HOL                        -- missing on slave
+(JMS         :  38) RPG.LOG                          -- missing on slave
+(JMS         :  38) PIP.CKS                          -- missing on slave
+(JMS         :  38) RPG.CKS                          -- missing on slave
+(JMS         :  38) UFDSIZ.LOG                       -- missing on slave
+(JMS         :  38) RULAB.JMS                        -- missing on slave
+(JMS         :  38) RULAB.MAC                        -- missing on slave
+(JMS         :  38) LOGINN.LOG                       -- missing on slave
+(JMS         :  38) FREE1.LOG                        -- missing on slave
+(JMS         :  38) FTKI10.MAC                       -- missing on slave
+(JMS         :  38) UPDLUD.PLM                       -- missing on slave
+(JMS         :  38) UPDLUD.MAC                       -- missing on slave
+(JMS         :  38) 2KS.CTL                          -- missing on slave
+(JMS         :  38) DATE.FOR                         -- missing on slave
+(JMS         :  38) 620.LOG                          -- missing on slave
+(JMS         :  38) 3650P.MAI                        -- missing on slave
+(JMS         :  38) RPG.I                            -- missing on slave
+  wA?<Ë
