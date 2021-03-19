@@ -1,0 +1,56 @@
+R BATCH
+RUN
+Y
+Y
+TNT FILES
+2598
+SUE PAL
+
+                    P R I O R I T Y   R E Q U E S T
+
+THIS IS A PRIORITY REQUEST AND MUST BE COMPLETED WHEN RECEIVED
+-------------------------------------------------------------
+
+USE COMMAND FILES (UTIL:26)TNT, TNT1, AND NSSC TO STORE FILES TO TAPE.
+USE COMMAND FILES (UTIL:34)RESTNT.FT# (#= TAPE DRIVE) TO RESTORE FILES.
+
+Please store the following files to tape from the directory of (TNT)
+
+and restore to the directory of (TNT) on System 34:
+  
+
+          BASE1.DMS
+
+          BASE2.DMS
+
+          BASE3.DMS
+
+          BASE6.DMS
+
+          CALBAK.DMS
+
+          STATBK.DMS
+
+          PAPER.SAV (RESTORE TO 34 AS - PAPER.RUN)
+
+                    (do NOT OVERWRITE or RENAME the file PAPER.SAV
+                     on System 34)
+
+          TNUM.DMS
+
+Please store the following files to tape from the directory of (NSSC)
+
+and restore to the directory of (NSSC) on System 34:
+  
+(NSSC)NPAP.DMS
+
+OKAY to overwrite existing files except PAPER.SAV.
+
+:SEND CHAR 4
+
+Send mail and include the names of files stored and restored to:
+
+PAPDEV:UTIL:TNT:PALS.
+
+THANKS SUE
+:SEND CHAR 4
