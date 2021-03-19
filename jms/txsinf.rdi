@@ -1,0 +1,9 @@
+Master host: 33
+1 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+(TXSINFO     :  26) SNODAT.LST                       -- missing on slave
+Checking host 33
+Checking host 34
+Checking host 38
+(TXSINFO     :  38) SNODAT.LST                       -- missing on slave
