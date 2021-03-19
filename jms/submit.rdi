@@ -1,0 +1,130 @@
+Master host: 33
+968 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+                           should be 17-Mar-92 16:00 KUKWUD  ALL  RD  NO
+                           should be 18-Apr-91 17:00 ZERZAG  ALL  RD  NO
+                           should be 17-Apr-92 17:00 NUCMAD  ALL  RD  NO
+                           should be 21-Apr-91 17:00 SOCTEN  ALL  RD  NO
+                           should be 01-May-92 17:00 SEFSEQ  ALL  RD  NO
+                           should be 12-May-91 17:00 COGFEC  ALL  RD  NO
+                           should be 20-May-92 17:00 TABGOP  ALL  RD  NO
+(SUBMIT      :  26) PERP.LOG       2 20-Dec-89 09:32 -- bad checksum BOXXUC
+                           should be 15-Jul-87 14:52 FEFDAB  ALL  RD  NO
+                           should be 04-May-91 17:00 LUKDUB  ALL  RD  NO
+                           should be 22-Apr-92 17:00 QAYNUH  ALL  RD  NO
+                           should be 23-May-91 17:00 NEFXUX  ALL  RD  NO
+                           should be 24-Mar-92 16:00 MAYLUY  ALL  RD  NO
+                           should be 24-May-91 17:00 XERLOF  ALL  RD  NO
+                           should be 25-Mar-92 16:00 QALGAQ  ALL  RD  NO
+(SUBMIT      :  26) SUBMIT.DOC    33 18-Dec-86 17:38 -- bad checksum VURJOL
+                           should be 17-Feb-87 12:53 BOKTUF  ALL  RD  NO
+                           should be 07-Feb-93 16:00 MAWBIH  ALL  RD  NO
+                           should be 07-Aug-93 17:00 PUGMUQ  ALL  RD  NO
+                           should be 28-Aug-93 17:00 WAHHIC  ALL  RD  NO
+(SUBMIT      :  26) SUBMIT.RCF                       -- missing on slave
+(SUBMIT      :  26) XEXLIC.REL                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.DST                       -- missing on slave
+(SUBMIT      :  26) SUBPAR.SAI                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.206                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.QTA                       -- missing on slave
+(SUBMIT      :  26) SUBSYS                           -- missing on slave
+(SUBMIT      :  26) SUBMIT.204                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.WSH                       -- missing on slave
+(SUBMIT      :  26) SUBPAR.REQ                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.174                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.HUH                       -- missing on slave
+(SUBMIT      :  26) SUBPAR.REL                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.171                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.CTL                       -- missing on slave
+(SUBMIT      :  26) SUBMSC.REQ                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.SYS                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.DEF                       -- missing on slave
+(SUBMIT      :  26) SUBMSC.165                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.161                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.160                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.100                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.MAI                       -- missing on slave
+(SUBMIT      :  26) SUBMSC.SAI                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.SAI                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.INF                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.CMD                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.REL                       -- missing on slave
+(SUBMIT      :  26) SUBMSC.REL                       -- missing on slave
+(SUBMIT      :  26) SUBMIT.VER                       -- missing on slave
+(SUBMIT      :  26) PER.LOG                          -- missing on slave
+(SUBMIT      :  26) CMDFIL.DIF                       -- missing on slave
+(SUBMIT      :  26) CARL.CMP                         -- missing on slave
+(SUBMIT      :  26) CMDFIL.RND                       -- missing on slave
+(SUBMIT      :  26) CMDFIL.DOC                       -- missing on slave
+(SUBMIT      :  26) PRPCHG.RND                       -- missing on slave
+(SUBMIT      :  26) SWITCH.INI                       -- missing on slave
+(SUBMIT      :  26) PRPMSG.NEW                       -- missing on slave
+(SUBMIT      :  26) PRPCHG.DOC                       -- missing on slave
+(SUBMIT      :  26) PERP.MSG                         -- missing on slave
+(SUBMIT      :  26) PERP.FDM                         -- missing on slave
+(SUBMIT      :  26) FREE.SAV                         -- missing on slave
+(SUBMIT      :  26) PEAK.INI                         -- missing on slave
+(SUBMIT      :  26) REDSAT.MAC                       -- missing on slave
+(SUBMIT      :  26) ESCTRP.REL                       -- missing on slave
+(SUBMIT      :  26) QUEDPY.SAV                       -- missing on slave
+(SUBMIT      :  26) LOGON.SHR                        -- missing on slave
+(SUBMIT      :  26) JQUE.REL                         -- missing on slave
+(SUBMIT      :  26) LICSUB.REL                       -- missing on slave
+(SUBMIT      :  26) CONVEN.RND                       -- missing on slave
+(SUBMIT      :  26) TELCHK.LOG                       -- missing on slave
+(SUBMIT      :  26) ROLAID.EXM                       -- missing on slave
+(SUBMIT      :  26) FF                               -- missing on slave
+(SUBMIT      :  26) XEXFIL.REL                       -- missing on slave
+(SUBMIT      :  26) JQUEUE.SYS                       -- missing on slave
+(SUBMIT      :  26) DAYTIM.REL                       -- missing on slave
+(SUBMIT      :  26) INIT.LOG                         -- missing on slave
+(SUBMIT      :  26) ACSBAK.SYS                       -- missing on slave
+(SUBMIT      :  26) MYPERP.SAI                       -- missing on slave
+(SUBMIT      :  26) MYPERP.MEM                       -- missing on slave
+(SUBMIT      :  26) MYPERP.CTL                       -- missing on slave
+(SUBMIT      :  26) MYPERP.REL                       -- missing on slave
+(SUBMIT      :  26) V.SAV                            -- missing on slave
+(SUBMIT      :  26) MYPERP.SAV                       -- missing on slave
+(SUBMIT      :  26) JQUEUE.INI                       -- missing on slave
+(SUBMIT      :  26) JQUEUE.FDM                       -- missing on slave
+(SUBMIT      :  26) JQUEUE.FRE                       -- missing on slave
+(SUBMIT      :  26) XEXEC.DOC                        -- missing on slave
+(SUBMIT      :  26) NOTDEF.RND                       -- missing on slave
+(SUBMIT      :  26) CHEKOV.PRT                       -- missing on slave
+(SUBMIT      :  26) PCOMAI.LOG                       -- missing on slave
+(SUBMIT      :  26) CHEKOV.CRL                       -- missing on slave
+(SUBMIT      :  26) NEXTIM.SAI                       -- missing on slave
+(SUBMIT      :  26) ACCESS.SUB                       -- missing on slave
+(SUBMIT      :  26) XEXEC.RND                        -- missing on slave
+(SUBMIT      :  26) CHEKOV.INF                       -- missing on slave
+(SUBMIT      :  26) MAILRD                           -- missing on slave
+(SUBMIT      :  26) VUE.INI                          -- missing on slave
+(SUBMIT      :  26) DATE.BNF                         -- missing on slave
+(SUBMIT      :  26) DATE.NEW                         -- missing on slave
+(SUBMIT      :  26) NEXTIM.REQ                       -- missing on slave
+(SUBMIT      :  26) NEXTIM.REL                       -- missing on slave
+(SUBMIT      :  26) EXEC.DOC                         -- missing on slave
+(SUBMIT      :  26) U.SAV                            -- missing on slave
+(SUBMIT      :  26) U.SAI                            -- missing on slave
+(SUBMIT      :  26) U.D18                            -- missing on slave
+(SUBMIT      :  26) U.D13                            -- missing on slave
+(SUBMIT      :  26) U.N19                            -- missing on slave
+(SUBMIT      :  26) ACCESS.SYS                       -- missing on slave
+(SUBMIT      :  26) EXECX.SAV                        -- missing on slave
+(SUBMIT      :  26) XEXEC.SAV                        -- missing on slave
+Checking host 33
+Checking host 34
+(SUBMIT      :  34) PERP.LOG       2 20-Dec-89 09:32 -- bad checksum BOXXUC
+                           should be 15-Jul-87 14:52 FEFDAB  ALL  RD  NO
+(SUBMIT      :  34) PER.LOG        1 23-Oct-85 16:28 -- bad checksum VAVVAV
+                           should be 23-Oct-85 13:43 BEYZAY  ALL  RD  NO
+(SUBMIT      :  34) T              3 23-Dec-86 09:25 -- bad checksum BUHHIH
+                           should be 19-Nov-86 23:02 GONTIG  ALL  RD  NO
+Checking host 38
+(SUBMIT      :  38) PERP.LOG       2 20-Dec-89 09:32 -- bad checksum GUTYOV
+                           should be 15-Jul-87 14:52 FEFDAB  ALL  RD  NO
+(SUBMIT      :  38) T              3 23-Dec-86 09:25 -- bad checksum BUHHIH
+                           should be 19-Nov-86 23:02 GONTIG  ALL  RD  NO
+(SUBMIT      :  38) PER.LOG        1 23-Oct-85 16:28 -- bad checksum VAVVAV
+                           should be 23-Oct-85 13:43 BEYZAY  ALL  RD  NO
