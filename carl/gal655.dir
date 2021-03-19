@@ -1,0 +1,249 @@
+
+  Parity:Odd  9-Track  Write enabled
+
+  BACKUP reel number 1; start save set: 
+    by version 2(232) at 10:35:27 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+CAM	LOW     2  <***>   147042  (undated)	14:50	17-Jan-77  16	3(6)
+CAM	SHR    32  <***>   673410  (undated)	14:50	17-Jan-77  16	3(6)
+CAMCTL	MAC    15  <***>   762013  (undated)	     	 8-Oct-71  14
+CAMIO	MAC    79  <***>   732341  (undated)	     	 8-Oct-71  14
+CAMLOW	MAC    12  <***>   236257  (undated)	     	 8-Oct-71  14
+CAMPAR	MAC     1  <***>   113411  (undated)	14:43	17-Jan-77   0
+COMERG	MAC    16  <***>   770355  (undated)	     	 8-Oct-71   1
+COMPAR	MAC    43  <***>   266165  (undated)	     	 8-Oct-71   1
+COMP10	SAV    15  <***>   156434  (undated)	     	18-Oct-71   1	3(6)
+FED	LOW     2  <***>   626425  (undated)	14:52	17-Jan-77  16	3(6)
+FED	SHR    27  <***>   440205  (undated)	14:52	17-Jan-77  16	3(6)
+FEDCTL	MAC     5  <***>   342222  (undated)	     	 8-Oct-71  14
+FEDIT	MAC    48  <***>   363136  (undated)	     	 8-Oct-71  14
+SOUP	CTL     5  <***>   072330  (undated)	     	18-Oct-71  14
+SOUP	HLP     2  <***>   150724  (undated)	     	13-Oct-71  14
+SOUP	CMD     1  <***>   267770  (undated)	14:40	17-Jan-77   0
+10K	MAC     5  <***>   610674  (undated)	     	11-Oct-71   1
+CORFIH	MAC    20  <***>   151160  (undated)	     	 8-Oct-71   1
+OPSER	HLP     6  <***>   137231  (undated)	     	 5-Dec-74   0
+OPSER	CCL     1  <***>   612255  (undated)	15:04	28-Jan-77   0
+OPSER	NIH    55  <***>   404165  (undated)	15:05	28-Jan-77   0
+OPR5C	RND    12  <***>   144276  (undated)	13:52	15-Mar-77   0
+OPSER	CTL     2  <***>   106767  (undated)	     	 3-Aug-76   0
+OPSER	RNO    22  <***>   210171  (undated)	     	30-Jul-74  14
+OPSER	MAC   147  <***>   721753  (undated)	     	14-Mar-77   0
+OPRCOM	RNO    30  <***>   467531  (undated)	     	16-Jun-72  14
+OPSER	EXE    48  <***>   476607  (undated)	16:14	 8-Nov-77  16	5C(105)-2
+OPSER	CMD     1  <***>   775445  (undated)	19:48	25-Sep-77   0
+OPSER	M       1  <***>   346222  (undated)	 0:11	26-Sep-77   0
+OPSERX	CTL     1  <***>   337757  (undated)	 0:12	26-Sep-77   0
+OPSER	PAT    22  <***>   316761  (undated)	15:08	 8-Nov-77   0
+OPSER	M12   252  <***>   246271  (undated)	16:05	 8-Nov-77   0
+OPSER	DOC    14  <***>   305232  (undated)	16:35	 8-Nov-77   0
+ACTIN	FOR     2  <***>   353755  (undated)	15:12	 9-Mar-77   0
+ACTRPT	CMD     1  <***>   747041  (undated)	21:29	 6-Nov-77   0
+ACTCOM	FOR     3  <***>   113307  (undated)	15:03	14-Mar-77   0
+ACTRPT	FOR     4  <***>   435474  (undated)	12:05	22-Mar-77   0
+MOUNT	DAT   644  <***>   445731  (undated)	23:11	 7-Dec-77   0
+CAT1	DAT   155  <***>   117431  (undated)	23:23	 7-Dec-77   0
+CAT2	DAT   569  <***>   472010  (undated)	23:24	 7-Dec-77   0
+MOON	DAT  1963  <***>   367136  (undated)	23:27	 7-Dec-77   0
+  Total of 4285 blocks in 41 files Checksum = 756422
+
+  BACKUP reel number 1; end save set: 
+    by version 2(232) at 10:38:12 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+
+  BACKUP reel number 1; start save set: 
+    by version 2(232) at 10:38:24 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+CAM	LOW     2  <***>   147042  (undated)	14:50	17-Jan-77  16	3(6)
+CAM	SHR    32  <***>   673410  (undated)	14:50	17-Jan-77  16	3(6)
+CAMCTL	MAC    15  <***>   762013  (undated)	     	 8-Oct-71  14
+ File starts in middle: 
+CAMCTL	MAC     0  <000>   423771  (undated)	     	(undated)   0
+CAMIO	MAC    79  <***>   732341  (undated)	     	 8-Oct-71  14
+CAMLOW	MAC    12  <***>   236257  (undated)	     	 8-Oct-71  14
+CAMPAR	MAC     1  <***>   113411  (undated)	14:43	17-Jan-77   0
+COMERG	MAC    16  <***>   770355  (undated)	     	 8-Oct-71   1
+COMPAR	MAC    43  <***>   266165  (undated)	     	 8-Oct-71   1
+COMP10	SAV    15  <***>   156434  (undated)	     	18-Oct-71   1	3(6)
+FED	LOW     2  <***>   626425  (undated)	14:52	17-Jan-77  16	3(6)
+FED	SHR    27  <***>   440205  (undated)	14:52	17-Jan-77  16	3(6)
+FEDCTL	MAC     5  <***>   342222  (undated)	     	 8-Oct-71  14
+FEDIT	MAC    48  <***>   363136  (undated)	     	 8-Oct-71  14
+SOUP	CTL     5  <***>   072330  (undated)	     	18-Oct-71  14
+SOUP	HLP     2  <***>   150724  (undated)	     	13-Oct-71  14
+SOUP	CMD     1  <***>   267770  (undated)	14:40	17-Jan-77   0
+10K	MAC     5  <***>   610674  (undated)	     	11-Oct-71   1
+CORFIH	MAC    20  <***>   151160  (undated)	     	 8-Oct-71   1
+OPSER	HLP     6  <***>   137231  (undated)	     	 5-Dec-74   0
+OPSER	CCL     1  <***>   612255  (undated)	15:04	28-Jan-77   0
+OPSER	NIH    55  <***>   404165  (undated)	15:05	28-Jan-77   0
+OPR5C	RND    12  <***>   144276  (undated)	13:52	15-Mar-77   0
+OPSER	CTL     2  <***>   106767  (undated)	     	 3-Aug-76   0
+OPSER	RNO    22  <***>   210171  (undated)	     	30-Jul-74  14
+OPSER	MAC   147  <***>   647772  (undated)	     	14-Mar-77   0
+OPRCOM	RNO    30  <***>   467531  (undated)	     	16-Jun-72  14
+OPSER	EXE    48  <***>   476607  (undated)	16:14	 8-Nov-77  16	5C(105)-2
+OPSER	CMD     1  <***>   775445  (undated)	19:48	25-Sep-77   0
+OPSER	M       1  <***>   346222  (undated)	 0:11	26-Sep-77   0
+OPSERX	CTL     1  <***>   337757  (undated)	 0:12	26-Sep-77   0
+OPSER	PAT    22  <***>   316761  (undated)	15:08	 8-Nov-77   0
+OPSER	M12   252  <***>   700062  (undated)	16:05	 8-Nov-77   0
+OPSER	DOC    14  <***>   305232  (undated)	16:35	 8-Nov-77   0
+ACTIN	FOR     2  <***>   353755  (undated)	15:12	 9-Mar-77   0
+ACTRPT	CMD     1  <***>   747041  (undated)	21:29	 6-Nov-77   0
+ACTCOM	FOR     3  <***>   113307  (undated)	15:03	14-Mar-77   0
+ACTRPT	FOR     4  <***>   435474  (undated)	12:05	22-Mar-77   0
+MOUNT	DAT   644  <***>   250517  (undated)	23:11	 7-Dec-77   0
+CAT1	DAT   155  <***>   022265  (undated)	23:23	 7-Dec-77   0
+CAT2	DAT   569  <***>   747600  (undated)	23:24	 7-Dec-77   0
+MOON	DAT  1963  <***>   645760  (undated)	23:27	 7-Dec-77   0
+ File starts in middle: 
+MOON	DAT     0  <000>   161202  (undated)	     	(undated)   0
+  Total of 4285 blocks in 43 files Checksum = 353417
+
+  BACKUP reel number 1; end save set: 
+    by version 2(232) at 10:41:47 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+
+  BACKUP reel number 1; start save set: 
+    by version 2(232) at 10:42:04 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+CAM	LOW     2  <***>   147042  (undated)	14:50	17-Jan-77  16	3(6)
+CAM	SHR    32  <***>   673410  (undated)	14:50	17-Jan-77  16	3(6)
+CAMCTL	MAC    15  <***>   762013  (undated)	     	 8-Oct-71  14
+CAMIO	MAC    79  <***>   732341  (undated)	     	 8-Oct-71  14
+CAMLOW	MAC    12  <***>   236257  (undated)	     	 8-Oct-71  14
+CAMPAR	MAC     1  <***>   113411  (undated)	14:43	17-Jan-77   0
+COMERG	MAC    16  <***>   770355  (undated)	     	 8-Oct-71   1
+COMPAR	MAC    43  <***>   266165  (undated)	     	 8-Oct-71   1
+COMP10	SAV    15  <***>   156434  (undated)	     	18-Oct-71   1	3(6)
+FED	LOW     2  <***>   626425  (undated)	14:52	17-Jan-77  16	3(6)
+FED	SHR    27  <***>   440205  (undated)	14:52	17-Jan-77  16	3(6)
+FEDCTL	MAC     5  <***>   342222  (undated)	     	 8-Oct-71  14
+FEDIT	MAC    48  <***>   363136  (undated)	     	 8-Oct-71  14
+SOUP	CTL     5  <***>   072330  (undated)	     	18-Oct-71  14
+SOUP	HLP     2  <***>   150724  (undated)	     	13-Oct-71  14
+SOUP	CMD     1  <***>   267770  (undated)	14:40	17-Jan-77   0
+10K	MAC     5  <***>   610674  (undated)	     	11-Oct-71   1
+CORFIH	MAC    20  <***>   151160  (undated)	     	 8-Oct-71   1
+OPSER	HLP     6  <***>   137231  (undated)	     	 5-Dec-74   0
+OPSER	CCL     1  <***>   612255  (undated)	15:04	28-Jan-77   0
+OPSER	NIH    55  <***>   404165  (undated)	15:05	28-Jan-77   0
+OPR5C	RND    12  <***>   144276  (undated)	13:52	15-Mar-77   0
+OPSER	CTL     2  <***>   106767  (undated)	     	 3-Aug-76   0
+OPSER	RNO    22  <***>   210171  (undated)	     	30-Jul-74  14
+OPSER	MAC   147  <***>   001714  (undated)	     	14-Mar-77   0
+OPRCOM	RNO    30  <***>   030652  (undated)	     	16-Jun-72  14
+OPSER	EXE    48  <***>   476607  (undated)	16:14	 8-Nov-77  16	5C(105)-2
+OPSER	CMD     1  <***>   775445  (undated)	19:48	25-Sep-77   0
+OPSER	M       1  <***>   346222  (undated)	 0:11	26-Sep-77   0
+OPSERX	CTL     1  <***>   337757  (undated)	 0:12	26-Sep-77   0
+OPSER	PAT    22  <***>   316761  (undated)	15:08	 8-Nov-77   0
+OPSER	M12   252  <***>   400233  (undated)	16:05	 8-Nov-77   0
+OPSER	DOC    14  <***>   305232  (undated)	16:35	 8-Nov-77   0
+ACTIN	FOR     2  <***>   353755  (undated)	15:12	 9-Mar-77   0
+ACTRPT	CMD     1  <***>   747041  (undated)	21:29	 6-Nov-77   0
+ACTCOM	FOR     3  <***>   113307  (undated)	15:03	14-Mar-77   0
+ACTRPT	FOR     4  <***>   435474  (undated)	12:05	22-Mar-77   0
+MOUNT	DAT   644  <***>   250517  (undated)	23:11	 7-Dec-77   0
+CAT1	DAT   155  <***>   022265  (undated)	23:23	 7-Dec-77   0
+CAT2	DAT   569  <***>   747600  (undated)	23:24	 7-Dec-77   0
+MOON	DAT  1963  <***>   307312  (undated)	23:27	 7-Dec-77   0
+%DRTJFS Junk during BACKUP/FRS save set
+ File starts in middle: 
+MOON	DAT     0  <000>   246016  (undated)	     	(undated)   0
+  Total of 4285 blocks in 42 files Checksum = 601620
+
+  BACKUP reel number 1; end save set: 
+    by version 2(232) at 10:43:17 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+
+  BACKUP reel number 1; start save set: 
+    by version 2(232) at 10:43:51 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+BACKRS	MAC   284  <***>   171564  (undated)	10:12	13-Jul-77   0
+BACKUP	LOW    36  <***>   672107  (undated)	11:26	18-Jul-77  16	2(232)
+BACKUP	RNH    19  <***>   101705  (undated)	11:45	22-Mar-76   0
+BACKUP	RNO    56  <***>   623023  (undated)	17:22	26-Mar-76   0
+BACKUP	SHR    55  <***>   306075  (undated)	11:26	18-Jul-77  16	2(232)
+BACKUP	MAC   121  <***>   411104  (undated)	17:14	26-Mar-76   0
+BACKUP	CTL     4  <***>   772210  (undated)	19:58	26-Mar-76   0
+BACKUP	DEC   121  <***>   411104  (undated)	17:14	26-Mar-76   0
+BACKUP	232   125  <***>   742227  (undated)	11:04	14-Jul-77   0
+BACKUP	250   127  <***>   357342  (undated)	15:00	15-Jul-77   0
+BACKUP	REL    22  <***>   720643  (undated)	11:23	18-Jul-77  14
+BACKRS	REL    55  <***>   046174  (undated)	21:19	18-Jul-77  14
+BACKRS	DEC   279  <***>   031376  (undated)	17:14	26-Mar-76   0
+  Total of 1304 blocks in 13 files Checksum = 110336
+
+  BACKUP reel number 1; end save set: 
+    by version 2(232) at 10:44:21 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+
+  BACKUP reel number 1; start save set: 
+    by version 2(232) at 10:45:20 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+BACKRS	MAC   284  <***>   171564  (undated)	10:12	13-Jul-77   0
+BACKUP	LOW    36  <***>   672107  (undated)	11:26	18-Jul-77  16	2(232)
+BACKUP	RNH    19  <***>   101705  (undated)	11:45	22-Mar-76   0
+BACKUP	RNO    56  <***>   623023  (undated)	17:22	26-Mar-76   0
+BACKUP	SHR    55  <***>   306075  (undated)	11:26	18-Jul-77  16	2(232)
+BACKUP	MAC   121  <***>   046662  (undated)	17:14	26-Mar-76   0
+BACKUP	CTL     4  <***>   772210  (undated)	19:58	26-Mar-76   0
+BACKUP	DEC   121  <***>   411104  (undated)	17:14	26-Mar-76   0
+BACKUP	232   125  <***>   742227  (undated)	11:04	14-Jul-77   0
+BACKUP	250   127  <***>   001016  (undated)	15:00	15-Jul-77   0
+BACKUP	REL    22  <***>   720643  (undated)	11:23	18-Jul-77  14
+BACKRS	REL    55  <***>   046174  (undated)	21:19	18-Jul-77  14
+BACKRS	DEC   279  <***>   477312  (undated)	17:14	26-Mar-76   0
+  Total of 1304 blocks in 13 files Checksum = 606635
+
+  BACKUP reel number 1; end save set: 
+    by version 2(232) at 10:45:50 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+
+  BACKUP reel number 1; start save set: 
+    by version 2(232) at 10:47:03 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
+BACKRS	MAC   284  <***>   171564  (undated)	10:12	13-Jul-77   0
+BACKUP	LOW    36  <***>   672107  (undated)	11:26	18-Jul-77  16	2(232)
+BACKUP	RNH    19  <***>   101705  (undated)	11:45	22-Mar-76   0
+BACKUP	RNO    56  <***>   623023  (undated)	17:22	26-Mar-76   0
+BACKUP	SHR    55  <***>   306075  (undated)	11:26	18-Jul-77  16	2(232)
+BACKUP	MAC   121  <***>   411104  (undated)	17:14	26-Mar-76   0
+BACKUP	CTL     4  <***>   772210  (undated)	19:58	26-Mar-76   0
+BACKUP	DEC   121  <***>   411104  (undated)	17:14	26-Mar-76   0
+BACKUP	232   125  <***>   742227  (undated)	11:04	14-Jul-77   0
+BACKUP	250   127  <***>   357342  (undated)	15:00	15-Jul-77   0
+BACKUP	REL    22  <***>   720643  (undated)	11:23	18-Jul-77  14
+BACKRS	REL    55  <***>   046174  (undated)	21:19	18-Jul-77  14
+BACKRS	DEC   279  <***>   477312  (undated)	17:14	26-Mar-76   0
+  Total of 1304 blocks in 13 files Checksum = 704756
+
+  BACKUP reel number 1; end save set: 
+    by version 2(232) at 10:47:33 on 20-Dec-77
+    written on MTA010: on S/N 1205 at 1600 9-track
+    under TOPS-10 system 603(15717): Catholic Univ 603(12) VM
+
