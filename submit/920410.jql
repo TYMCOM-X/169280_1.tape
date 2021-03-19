@@ -1,0 +1,102 @@
+00:00:03 S 10-Apr-92
+00:00:04 S -S- stream #1 Req #130815 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+00:00:14 P Waiting for interlock
+00:00:14 S Processor status JSU EXECX Setup in frame 42
+00:00:15 P Got interlock
+00:00:15 S Starting job processor in frame 42
+00:00:15 P EXECX Job Processor %1(226) starting in frame 42
+00:00:17 P Stream #1 Req #130815 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+00:00:21 S -S- stream #2 Req #130800 DSK:(ENSS)BACKUP.DAY
+00:00:26 P Stream #2 Req #130800 DSK:(ENSS)BACKUP.DAY
+00:04:08 P Stream #2 Req #130800 * completed *
+00:04:11 S -R- stream #2 Done-End <0>
+00:11:28 P Stream #1 Req #130815 * completed *
+00:11:29 S -R- stream #1 Done-End <0>
+00:27:18 P Signing off.
+03:00:03 S -S- stream #1 Req #130802 DSK:(ENSS)PROOF.OUT=DSK:(ENSS)PROOF.SUB
+03:00:11 S Processor status JSU EXECX Setup in frame 22
+03:00:11 P Waiting for interlock
+03:00:12 P Got interlock
+03:00:12 P EXECX Job Processor %1(226) starting in frame 22
+03:00:13 P Stream #1 Req #130802 DSK:(ENSS)PROOF.OUT=DSK:(ENSS)PROOF.SUB
+03:00:13 S Starting job processor in frame 22
+03:01:12 S 10-Apr-92
+04:00:06 S -S- stream #2 Req #130817 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+04:00:09 P Stream #2 Req #130817 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+04:01:14 P Stream #1 Req #130802 * aborted - time limit exceeded at line 3 *
+04:01:16 S -R- stream #1 Abort-Time <0>
+04:08:27 P Stream #2 Req #130817 * completed *
+04:08:31 S -R- stream #2 Done-End <0>
+04:24:14 P Signing off.
+06:00:03 S 10-Apr-92
+07:45:05 S -S- stream #1 Req #130805 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:08 S Processor status JSU EXECX Setup in frame 40
+07:45:09 P Waiting for interlock
+07:45:10 P Got interlock
+07:45:10 P EXECX Job Processor %1(226) starting in frame 40
+07:45:11 P Stream #1 Req #130805 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:11 S Starting job processor in frame 40
+07:56:13 P Stream #1 Req #130805 * completed *
+07:56:17 S -R- stream #1 Done-End <0>
+08:00:06 S -S- stream #1 Req #130818 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+08:00:09 P Stream #1 Req #130818 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+08:10:58 P Stream #1 Req #130818 * completed *
+08:10:59 S -R- stream #1 Done-End <0>
+08:26:14 P Signing off.
+09:00:25 S 10-Apr-92
+12:00:03 S -S- stream #1 Req #130820 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+12:00:11 S Processor status JSU EXECX Setup in frame 15
+12:00:11 P Waiting for interlock
+12:00:12 P Got interlock
+12:00:12 P EXECX Job Processor %1(226) starting in frame 15
+12:00:13 S Starting job processor in frame 15
+P.LOG=DSK:(TNT)4HRBUP.CMD
+12:01:13 S 10-Apr-92
+12:08:47 P Stream #1 Req #130820 * completed *
+12:08:50 S -R- stream #1 Done-End <0>
+12:24:15 P Signing off.
+14:30:06 S -S- stream #1 Req #130811 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+14:30:15 S Processor status JSU EXECX Setup in frame 18
+14:30:15 P Waiting for interlock
+14:30:16 P Got interlock
+14:30:16 P EXECX Job Processor %1(226) starting in frame 18
+14:30:17 S Starting job processor in frame 18
+14:30:18 P Stream #1 Req #130811 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+14:34:03 P Stream #1 Req #130811 * completed *
+14:34:07 S -R- stream #1 Done-End <0>
+14:49:20 P Signing off.
+15:00:23 S 10-Apr-92
+16:00:05 S -S- stream #1 Req #130821 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+16:00:13 S Processor status JSU EXECX Setup in frame 71
+16:00:13 P Waiting for interlock
+16:00:14 P Got interlock
+16:00:14 P EXECX Job Processor %1(226) starting in frame 71
+16:00:16 S Starting job processor in frame 71
+16:00:17 P Stream #1 Req #130821 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+16:13:32 P Stream #1 Req #130821 * completed *
+16:13:32 S -R- stream #1 Done-End <0>
+16:29:24 P Signing off.
+18:00:03 S -S- stream #1 Req #130814 DSK:(EDUSUB)AFDBAK.DOC=DSK:(EDUSUB)AFDBAK.SUB
+18:00:13 S Processor status JSU EXECX Setup in frame 23
+18:00:14 P Waiting for interlock
+18:00:15 P Got interlock
+18:00:15 P EXECX Job Processor %1(226) starting in frame 23
+18:00:15 S Starting job processor in frame 23
+18:00:17 P Stream #1 Req #130814 DSK:(EDUSUB)AFDBAK.DOC=DSK:(EDUSUB)AFDBAK.SUB
+18:01:17 S 10-Apr-92
+18:01:19 P Stream #1 Req #130814 * completed *
+18:01:22 S -R- stream #1 Done-End <0>
+18:17:23 P Signing off.
+20:00:03 S -S- stream #1 Req #130823 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+20:00:11 S Processor status JSU EXECX Setup in frame 22
+20:00:11 P Waiting for interlock
+20:00:13 P Got interlock
+20:00:13 P EXECX Job Processor %1(226) starting in frame 22
+20:00:14 S Starting job processor in frame 22
+20:00:16 P Stream #1 Req #130823 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+20:12:47 P Stream #1 Req #130823 * completed *
+20:12:51 S -R- stream #1 Done-End <0>
+20:28:17 P Signing off.
+21:00:27 S 10-Apr-92
+00:00:02 S -S- stream #1 Req #130825 DSK:(TNT)4HRBUP.LOG=DSK:(TNT)4HRBUP.CMD
+00:00:02 S 11-Apr-92
