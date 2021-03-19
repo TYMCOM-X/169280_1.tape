@@ -1,0 +1,49 @@
+00:00:34 S 11-Dec-94
+00:30:04 S -S- stream #1 Req #8948 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+00:30:11 S Processor status JSU EXECX Setup in frame 7
+00:30:11 P Waiting for interlock
+00:30:12 P Got interlock
+00:30:12 P EXECX Job Processor %1(226) starting in frame 7
+00:30:13 P Stream #1 Req #8948 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+00:30:13 S Starting job processor in frame 7
+00:31:05 P Stream #1 Req #8948 * completed *
+00:31:09 S -R- stream #1 Done-End <0>
+00:46:12 P Signing off.
+03:00:18 S 11-Dec-94
+06:00:27 S 11-Dec-94
+06:59:35 S 11-Dec-94 Signing off.
+11:04:00 S ** 11-Dec-94 XEXEC %1(215) in frame 4 ** user PERPOPER **
+11:04:00 S -S- stream #1 Req #8949 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+11:04:06 S Processor status JSU EXECX Setup in frame 10
+11:04:07 P Waiting for interlock
+11:04:08 P Got interlock
+11:04:08 P EXECX Job Processor %1(226) starting in frame 10
+11:04:08 P Stream #1 Req #8949 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+11:04:09 S Starting job processor in frame 10
+11:04:09 S -S- stream #2 Req #8950 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+11:04:09 P Stream #2 Req #8950 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+11:04:16 S -S- stream #3 Req #8951 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+11:04:18 P Stream #3 Req #8951 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+11:04:55 P Stream #2 Req #8950 * completed *
+11:04:56 P Stream #3 Req #8951 * completed *
+11:05:00 S -R- stream #2 Done-End <0>
+11:05:02 S -R- stream #3 Done-End <0>
+11:05:08 S 11-Dec-94
+11:09:07 P Stream #1 Req #8949 * completed *
+11:09:08 S -R- stream #1 Done-End <0>
+11:25:08 P Signing off.
+12:00:10 S 11-Dec-94
+15:00:12 S 11-Dec-94
+18:00:06 S -S- stream #1 Req #8952 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+18:00:13 S Processor status JSU EXECX Setup in frame 30
+18:00:14 P Waiting for interlock
+18:00:15 P Got interlock
+18:00:15 P EXECX Job Processor %1(226) starting in frame 30
+18:00:16 P Stream #1 Req #8952 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+18:00:16 S Starting job processor in frame 30
+18:01:09 P Stream #1 Req #8952 * completed *
+18:01:11 S -R- stream #1 Done-End <0>
+18:01:16 S 11-Dec-94
+18:16:15 P Signing off.
+21:00:19 S 11-Dec-94
+00:00:18 S 12-Dec-94
