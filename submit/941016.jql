@@ -1,0 +1,48 @@
+00:00:10 S 16-Oct-94
+03:00:25 S 16-Oct-94
+05:59:41 S 16-Oct-94 Signing off.
+09:57:06 S ** 16-Oct-94 XEXEC %1(215) in frame 4 ** user PERPOPER **
+09:57:06 S -S- stream #1 Req #8659 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+09:57:12 S Processor status JSU EXECX Setup in frame 8
+09:57:12 P Waiting for interlock
+09:57:14 P Got interlock
+09:57:14 P EXECX Job Processor %1(226) starting in frame 8
+09:57:14 P Stream #1 Req #8659 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+09:57:14 S Starting job processor in frame 8
+09:57:15 S -S- stream #2 Req #8660 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+09:57:15 P Stream #2 Req #8660 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+09:58:14 S 16-Oct-94
+09:58:27 P Stream #2 Req #8660 * completed *
+09:58:30 S -R- stream #2 Done-End <0>
+10:00:01 S -S- stream #2 Req #8661 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+10:00:03 P Stream #2 Req #8661 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+10:00:54 P Stream #2 Req #8661 * completed *
+10:00:57 S -R- stream #2 Done-End <0>
+10:02:39 P Stream #1 Req #8659 * completed *
+10:02:39 S -R- stream #1 Done-End <0>
+10:18:13 P Signing off.
+12:00:14 S 16-Oct-94
+15:00:17 S 16-Oct-94
+17:00:05 S -S- stream #1 Req #8662 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+17:00:11 S Processor status JSU EXECX Setup in frame 8
+17:00:12 P Waiting for interlock
+17:00:13 P Got interlock
+17:00:13 P EXECX Job Processor %1(226) starting in frame 8
+17:00:13 P Stream #1 Req #8662 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+17:00:14 S Starting job processor in frame 8
+17:01:40 P Stream #1 Req #8662 * completed *
+17:01:45 S -R- stream #1 Done-End <0>
+17:17:13 P Signing off.
+18:00:13 S 16-Oct-94
+21:00:16 S 16-Oct-94
+23:30:03 S -S- stream #1 Req #8663 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+23:30:09 S Processor status JSU EXECX Setup in frame 20
+23:30:09 P Waiting for interlock
+23:30:10 P Got interlock
+23:30:10 P EXECX Job Processor %1(226) starting in frame 20
+23:30:11 S Starting job processor in frame 20
+23:30:11 P Stream #1 Req #8663 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+23:31:38 P Stream #1 Req #8663 * completed *
+23:31:44 S -R- stream #1 Done-End <0>
+23:47:11 P Signing off.
+00:00:11 S 17-Oct-94
