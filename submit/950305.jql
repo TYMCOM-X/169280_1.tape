@@ -1,0 +1,49 @@
+00:00:23 S 05-Mar-95
+00:30:05 S -S- stream #1 Req #9370 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+00:30:18 S Processor status JSU EXECX Setup in frame 27
+00:30:18 P Waiting for interlock
+00:30:20 P Got interlock
+00:30:20 P EXECX Job Processor %1(226) starting in frame 27
+00:30:21 S Starting job processor in frame 27
+00:30:21 P Stream #1 Req #9370 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+00:31:01 P Stream #1 Req #9370 * completed *
+00:31:07 S -R- stream #1 Done-End <0>
+00:46:20 P Signing off.
+03:00:32 S 05-Mar-95
+06:00:37 S 05-Mar-95
+06:59:50 S 05-Mar-95 Signing off.
+11:07:43 S ** 05-Mar-95 XEXEC %1(215) in frame 4 ** user PERPOPER **
+11:07:43 S -S- stream #1 Req #9371 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+11:07:50 S Processor status JSU EXECX Setup in frame 8
+11:07:50 P Waiting for interlock
+11:07:51 P Got interlock
+11:07:51 P EXECX Job Processor %1(226) starting in frame 8
+11:07:52 P Stream #1 Req #9371 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+11:07:52 S Starting job processor in frame 8
+11:07:53 S -S- stream #2 Req #9372 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+11:07:53 P Stream #2 Req #9372 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+11:07:58 S -S- stream #3 Req #9373 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+11:07:59 P Stream #3 Req #9373 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+11:08:46 P Stream #3 Req #9373 * completed *
+11:08:50 S -R- stream #3 Done-End <0>
+11:08:52 S 05-Mar-95
+11:09:07 P Stream #2 Req #9372 * completed *
+11:09:09 S -R- stream #2 Done-End <0>
+11:12:58 P Stream #1 Req #9371 * completed *
+11:13:03 S -R- stream #1 Done-End <0>
+11:28:52 P Signing off.
+12:00:54 S 05-Mar-95
+15:00:58 S 05-Mar-95
+18:00:01 S 05-Mar-95
+18:00:05 S -S- stream #1 Req #9374 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+18:00:15 S Processor status JSU EXECX Setup in frame 31
+18:00:15 P Waiting for interlock
+18:00:17 P Got interlock
+18:00:17 P EXECX Job Processor %1(226) starting in frame 31
+18:00:17 P Stream #1 Req #9374 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+18:00:18 S Starting job processor in frame 31
+18:01:10 P Stream #1 Req #9374 * completed *
+18:01:12 S -R- stream #1 Done-End <0>
+18:16:17 P Signing off.
+21:00:28 S 05-Mar-95
+00:00:34 S 06-Mar-95
