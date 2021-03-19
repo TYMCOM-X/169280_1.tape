@@ -1,0 +1,262 @@
+Master host: 33
+229 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+(XEXEC       :  26) FCAT.DOC       2 13-Mar-86 01:14 -- bad checksum MUFYOY
+                           should be 10-Jul-86 02:50 TORXAH  ALL  RD  RD
+(XEXEC       :  26) ROLAID.SAV    11 20-Jun-86 06:24 -- bad checksum YIVJAW
+                           should be 28-Jul-86 22:24 BIBMUQ  ALL  RD RUN
+(XEXEC       :  26) RDIST.OLD     13 05-Dec-87 01:47 -- bad checksum KARLEG
+                           should be 10-Feb-88 18:06 TUXZAP  ALL  RD RUN
+(XEXEC       :  26) MEXEC.SAV      2 29-Nov-85 14:39 -- protection ALL  RD RUN
+                           should be 29-Nov-85 14:39 CELCAJ  ALL RUN RUN
+(XEXEC       :  26) DUL.DOC        2 19-Mar-86 07:50 -- bad checksum BITBAN
+                           should be 10-Jul-86 02:51 YILZEX  ALL  RD  RD
+(XEXEC       :  26) UPDATE.DOC     2 19-Mar-86 07:48 -- bad checksum GALSON
+                           should be 10-Jul-86 02:51 DUXHET  ALL  RD  RD
+(XEXEC       :  26) MEXEC.DOC      2 17-Mar-86 12:40 -- protection ALL  RD  RD
+                           should be 17-Mar-86 12:40 ROCTEC  ALL  RD  NO
+(XEXEC       :  26) MINIT.SAV      2 15-Dec-83 16:41 -- bad checksum CEVRAV
+                           should be 12-Mar-84 23:10 HEKHAV  ALL  RD RUN
+(XEXEC       :  26) WHEREI.DOC     2 19-Mar-86 07:49 -- bad checksum KODSAZ
+                           should be 10-Jul-86 02:51 CIXJAC  ALL  RD  RD
+(XEXEC       :  26) TAIL.DOC       2 17-Mar-86 14:09 -- bad checksum FIGZIV
+                           should be 25-Nov-86 23:25 BUFWOS  ALL  RD  RD
+(XEXEC       :  26) REMIND.DAT     2 29-Feb-80 18:39 -- bad checksum NACSEQ
+                           should be 25-Nov-86 23:28 ZAYGIG  ALL  RD  RD
+(XEXEC       :  26) SENDMA.DOC     3 17-Mar-86 15:04 -- bad checksum NACPEV
+                           should be 10-Jul-86 02:51 DOQMID  ALL  RD  RD
+(XEXEC       :  26) TIIXEC.REL     2 15-Jun-84 12:08 -- protection ALL  RD  NO
+                           should be 25-Nov-86 23:27 DAGFAG  ALL  RD  RD
+(XEXEC       :  26) TIIXEC.MAC     2 15-Jun-84 12:08 -- bad checksum RIWRAP
+                           should be 25-Nov-86 23:27 JOSPUM  ALL  RD  RD
+(XEXEC       :  26) SETUP.CTL      2 28-Jul-86 18:34 -- protection ALL  RD  NO
+                           should be 25-Nov-86 23:27 MOPXIY  ALL  RD  RD
+(XEXEC       :  26) APR80.PUB                        -- missing on slave
+(XEXEC       :  26) RECORD.DOC                       -- missing on slave
+(XEXEC       :  26) 052TEL.DIR                       -- missing on slave
+(XEXEC       :  26) ORG.WRP                          -- missing on slave
+(XEXEC       :  26) DELREL.PUB                       -- missing on slave
+(XEXEC       :  26) DELREL.CMD                       -- missing on slave
+(XEXEC       :  26) DELREL.SAI                       -- missing on slave
+(XEXEC       :  26) FLIB.REL                         -- missing on slave
+(XEXEC       :  26) FLIB.DCL                         -- missing on slave
+(XEXEC       :  26) FLIB.SAI                         -- missing on slave
+(XEXEC       :  26) FLIB.REQ                         -- missing on slave
+(XEXEC       :  26) SENDMA.PUB                       -- missing on slave
+(XEXEC       :  26) DIRCMP.PUB                       -- missing on slave
+(XEXEC       :  26) WHEN.PUB                         -- missing on slave
+(XEXEC       :  26) RECORD.LOG                       -- missing on slave
+(XEXEC       :  26) SCHED.PUB                        -- missing on slave
+(XEXEC       :  26) PTY.PUB                          -- missing on slave
+(XEXEC       :  26) SPEC.PUB                         -- missing on slave
+(XEXEC       :  26) DIRCMP.CMD                       -- missing on slave
+(XEXEC       :  26) DIRCMP.SAI                       -- missing on slave
+(XEXEC       :  26) COUNT.CMD                        -- missing on slave
+(XEXEC       :  26) MAIL.PUB                         -- missing on slave
+(XEXEC       :  26) BIN.CMD                          -- missing on slave
+(XEXEC       :  26) BIN.SAI                          -- missing on slave
+(XEXEC       :  26) LPR.SAI                          -- missing on slave
+(XEXEC       :  26) TAIL.PUB                         -- missing on slave
+(XEXEC       :  26) COUNT.PUB                        -- missing on slave
+(XEXEC       :  26) LPR.DAT                          -- missing on slave
+(XEXEC       :  26) TAIL.CMD                         -- missing on slave
+(XEXEC       :  26) TAIL.SAI                         -- missing on slave
+(XEXEC       :  26) DCOM.MAC                         -- missing on slave
+(XEXEC       :  26) LPR.CMD                          -- missing on slave
+(XEXEC       :  26) COUNT.MAC                        -- missing on slave
+(XEXEC       :  26) PERFOI.MAC                       -- missing on slave
+(XEXEC       :  26) MACROS.PUB                       -- missing on slave
+(XEXEC       :  26) SWITCH.SAI                       -- missing on slave
+(XEXEC       :  26) XEXEC2.PUB                       -- missing on slave
+(XEXEC       :  26) CAT.SHR                          -- missing on slave
+(XEXEC       :  26) CHECK.LOG                        -- missing on slave
+(XEXEC       :  26) CHECK.CTL                        -- missing on slave
+(XEXEC       :  26) ARGPAR.SAI                       -- missing on slave
+(XEXEC       :  26) ARGPAR.REL                       -- missing on slave
+(XEXEC       :  26) WHEREI.PUB                       -- missing on slave
+(XEXEC       :  26) TOKEN.PUB                        -- missing on slave
+(XEXEC       :  26) MINIT.PUB                        -- missing on slave
+(XEXEC       :  26) BS.PUB                           -- missing on slave
+(XEXEC       :  26) BS.SAI                           -- missing on slave
+(XEXEC       :  26) BS.CMD                           -- missing on slave
+(XEXEC       :  26) WHEREI.SAI                       -- missing on slave
+(XEXEC       :  26) WHEREI.CMD                       -- missing on slave
+(XEXEC       :  26) MINIT.MAC                        -- missing on slave
+(XEXEC       :  26) SWITCH.REQ                       -- missing on slave
+(XEXEC       :  26) TOKEN.SAI                        -- missing on slave
+(XEXEC       :  26) TOKEN.CMD                        -- missing on slave
+(XEXEC       :  26) XEXEC2.TXT                       -- missing on slave
+(XEXEC       :  26) FILES.NFO                        -- missing on slave
+(XEXEC       :  26) MEMOS.PUB                        -- missing on slave
+(XEXEC       :  26) PIPES.PUB                        -- missing on slave
+(XEXEC       :  26) UNIQ.PUB                         -- missing on slave
+(XEXEC       :  26) FIND.SAI                         -- missing on slave
+(XEXEC       :  26) INIT39.SAV                       -- missing on slave
+(XEXEC       :  26) INIT39.SAI                       -- missing on slave
+(XEXEC       :  26) INIT39.PUB                       -- missing on slave
+(XEXEC       :  26) INIT39.DOC                       -- missing on slave
+(XEXEC       :  26) INIT39.CMD                       -- missing on slave
+(XEXEC       :  26) FIND.BUG                         -- missing on slave
+(XEXEC       :  26) TEL.PUB                          -- missing on slave
+(XEXEC       :  26) TEL.CMD                          -- missing on slave
+(XEXEC       :  26) TEL.SAI                          -- missing on slave
+(XEXEC       :  26) SLEEP.SAI                        -- missing on slave
+(XEXEC       :  26) SLEEP.CMD                        -- missing on slave
+(XEXEC       :  26) DUL.PUB                          -- missing on slave
+(XEXEC       :  26) UPDATE.PUB                       -- missing on slave
+(XEXEC       :  26) MEXEC.PUB                        -- missing on slave
+(XEXEC       :  26) FIND.PUB                         -- missing on slave
+(XEXEC       :  26) DUL.CMD                          -- missing on slave
+(XEXEC       :  26) DUL.SAI                          -- missing on slave
+(XEXEC       :  26) UPDATE.CMD                       -- missing on slave
+(XEXEC       :  26) UPDATE.SAI                       -- missing on slave
+(XEXEC       :  26) UNIQ.SAI                         -- missing on slave
+(XEXEC       :  26) FIND.CMD                         -- missing on slave
+(XEXEC       :  26) UNIQ.CMD                         -- missing on slave
+(XEXEC       :  26) MEXEC.MAC                        -- missing on slave
+(XEXEC       :  26) GRAMMA.PUB                       -- missing on slave
+(XEXEC       :  26) VARIAB.PUB                       -- missing on slave
+(XEXEC       :  26) RUNTIM.PUB                       -- missing on slave
+(XEXEC       :  26) EVAL.PUB                         -- missing on slave
+(XEXEC       :  26) TELCHK.LOG                       -- missing on slave
+(XEXEC       :  26) FOO                              -- missing on slave
+(XEXEC       :  26) 208                              -- missing on slave
+(XEXEC       :  26) RDIST.5                          -- missing on slave
+(XEXEC       :  26) RDIST.PUB                        -- missing on slave
+(XEXEC       :  26) RDIST.1                          -- missing on slave
+(XEXEC       :  26) RDIST.2                          -- missing on slave
+(XEXEC       :  26) RDIST.3                          -- missing on slave
+(XEXEC       :  26) RDIST.4                          -- missing on slave
+(XEXEC       :  26) WC.SAI                           -- missing on slave
+(XEXEC       :  26) WC.CMD                           -- missing on slave
+(XEXEC       :  26) TRIM.PUB                         -- missing on slave
+(XEXEC       :  26) TRIM.SAI                         -- missing on slave
+(XEXEC       :  26) TRIM.CMD                         -- missing on slave
+(XEXEC       :  26) ROLAID.MEM                       -- missing on slave
+(XEXEC       :  26) COMMON.PUB                       -- missing on slave
+(XEXEC       :  26) RDIST.SAI                        -- missing on slave
+(XEXEC       :  26) ARGS.SAI                         -- missing on slave
+(XEXEC       :  26) INITGT.SAI                       -- missing on slave
+(XEXEC       :  26) INITGT.CMD                       -- missing on slave
+(XEXEC       :  26) TAUX.HGH                         -- missing on slave
+(XEXEC       :  26) ARGS.WRS                         -- missing on slave
+(XEXEC       :  26) ARGS.REL                         -- missing on slave
+(XEXEC       :  26) ARGS.REQ                         -- missing on slave
+(XEXEC       :  26) UNBND.PUB                        -- missing on slave
+(XEXEC       :  26) UNBND.CMD                        -- missing on slave
+(XEXEC       :  26) UNBND.SAI                        -- missing on slave
+(XEXEC       :  26) MAN.DFS                          -- missing on slave
+(XEXEC       :  26) UNDER.PUB                        -- missing on slave
+(XEXEC       :  26) TUMS.PUB                         -- missing on slave
+(XEXEC       :  26) INIT.PUB                         -- missing on slave
+(XEXEC       :  26) MAN.PUB                          -- missing on slave
+(XEXEC       :  26) INIT.SAI                         -- missing on slave
+(XEXEC       :  26) INIT.CMD                         -- missing on slave
+(XEXEC       :  26) UNDER.CMD                        -- missing on slave
+(XEXEC       :  26) UNDER.SAI                        -- missing on slave
+(XEXEC       :  26) PERDMP.SAI                       -- missing on slave
+(XEXEC       :  26) SEMANT.PUB                       -- missing on slave
+(XEXEC       :  26) INTRO.PUB                        -- missing on slave
+(XEXEC       :  26) ACCESS.MSG                       -- missing on slave
+(XEXEC       :  26) LS.SAI                           -- missing on slave
+(XEXEC       :  26) RESP.CMD                         -- missing on slave
+(XEXEC       :  26) RESP.SAI                         -- missing on slave
+(XEXEC       :  26) FCAT.SM1                         -- missing on slave
+(XEXEC       :  26) LS.PUB                           -- missing on slave
+(XEXEC       :  26) SORT.PUB                         -- missing on slave
+(XEXEC       :  26) RDMAIL.PUB                       -- missing on slave
+(XEXEC       :  26) MORE.PUB                         -- missing on slave
+(XEXEC       :  26) FCAT.PUB                         -- missing on slave
+(XEXEC       :  26) FCAT.SAI                         -- missing on slave
+(XEXEC       :  26) FCAT.CMD                         -- missing on slave
+(XEXEC       :  26) MORE.CMD                         -- missing on slave
+(XEXEC       :  26) MORE.SAI                         -- missing on slave
+(XEXEC       :  26) LS.CMD                           -- missing on slave
+(XEXEC       :  26) SORT.CMD                         -- missing on slave
+(XEXEC       :  26) SORT.SAI                         -- missing on slave
+(XEXEC       :  26) USERS.NFO                        -- missing on slave
+(XEXEC       :  26) INFO.NFO                         -- missing on slave
+(XEXEC       :  26) INFO.DAT                         -- missing on slave
+(XEXEC       :  26) PERFOR.REQ                       -- missing on slave
+(XEXEC       :  26) PERFOR.SAI                       -- missing on slave
+(XEXEC       :  26) PRIME.PUB                        -- missing on slave
+(XEXEC       :  26) BIB.PUB                          -- missing on slave
+(XEXEC       :  26) RECMEM.PUB                       -- missing on slave
+(XEXEC       :  26) XEXEC.SCR                        -- missing on slave
+Checking host 33
+Checking host 34
+(XEXEC       :  34) ARGS.REQ       2 24-Jun-87 23:40 -- bad checksum TILMIT
+                           should be 02-Nov-83 18:48 CIRCIK  ALL  RD  RD
+(XEXEC       :  34) ARGS.REL       4 24-Jun-87 23:40 -- bad checksum WOHFAC
+                           should be 08-Nov-86 18:49 CACQUM  ALL  RD  RD
+(XEXEC       :  34) ARGS.SAI       3 24-Jun-87 23:40 -- bad checksum CUCGEK
+                           should be 08-Nov-86 18:44 QAXXOM  ALL  RD  RD
+(XEXEC       :  34) ROLAID.SAV    11 28-Jul-86 22:24 -- bad checksum YIVJAW
+                           should be 28-Jul-86 22:24 BIBMUQ  ALL  RD RUN
+(XEXEC       :  34) MEXEC.SAV      2 29-Nov-85 14:39 -- protection ALL  RD RUN
+                           should be 29-Nov-85 14:39 CELCAJ  ALL RUN RUN
+(XEXEC       :  34) MEXEC.DOC      2 17-Mar-86 12:40 -- protection ALL  RD  RD
+                           should be 17-Mar-86 12:40 ROCTEC  ALL  RD  NO
+(XEXEC       :  34) UPDATE.SAI     2 11-Jan-84 16:22 -- bad checksum XAZKEX
+                           should be 11-Jan-84 16:22 PITHUN  ALL  RD  RD
+(XEXEC       :  34) SLEEP.SAI      2 18-Apr-86 00:36 -- bad checksum GUZLEJ
+                           should be 18-Apr-86 00:36 WOTFUB  ALL  RD  RD
+(XEXEC       :  34) MINIT.SAV      2 12-Mar-84 23:10 -- bad checksum CEVRAV
+                           should be 12-Mar-84 23:10 HEKHAV  ALL  RD RUN
+(XEXEC       :  34) ARGPAR.REL     5 24-Jun-87 23:39 -- bad checksum BUHDIS
+                           should be 08-Nov-86 18:49 TIQVEQ  ALL  RD  RD
+(XEXEC       :  34) ARGPAR.SAI     3 24-Jun-87 23:40 -- bad checksum CEXKUS
+                           should be 08-Nov-86 18:45 YEDWEL  ALL  RD  RD
+(XEXEC       :  34) BS.SAI         3 24-Jun-85 19:24 -- bad checksum DEHNEN
+                           should be 24-Jun-85 19:24 GOZXAJ  ALL  RD  RD
+(XEXEC       :  34) TAIL.DOC       2 25-Nov-86 23:25 -- bad checksum FIGZIV
+                           should be 25-Nov-86 23:25 BUFWOS  ALL  RD  RD
+(XEXEC       :  34) TAIL.SAI       2 03-May-84 17:13 -- bad checksum LICLUX
+                           should be 03-May-84 17:13 FIVQID  ALL  RD  RD
+(XEXEC       :  34) BIN.SAI        2 08-Sep-86 14:55 -- bad checksum JELQAL
+                           should be 08-Sep-86 14:55 QATHIN  ALL  RD  RD
+(XEXEC       :  34) REMIND.DAT     2 25-Nov-86 23:28 -- bad checksum NACSEQ
+                           should be 25-Nov-86 23:28 ZAYGIG  ALL  RD  RD
+(XEXEC       :  34) TIIXEC.MAC     2 25-Nov-86 23:27 -- bad checksum RIWRAP
+                           should be 25-Nov-86 23:27 JOSPUM  ALL  RD  RD
+(XEXEC       :  34) SENDMA.PUB     3 17-Mar-86 14:43 -- bad checksum VIBLIN
+                           should be 17-Mar-86 14:43 CAYSEG  ALL  RD  RD
+Checking host 38
+(XEXEC       :  38) ARGS.REQ       2 24-Jun-87 23:40 -- bad checksum TILMIT
+                           should be 02-Nov-83 18:48 CIRCIK  ALL  RD  RD
+(XEXEC       :  38) ARGS.REL       4 24-Jun-87 23:40 -- bad checksum WOHFAC
+                           should be 08-Nov-86 18:49 CACQUM  ALL  RD  RD
+(XEXEC       :  38) ARGS.SAI       3 24-Jun-87 23:40 -- bad checksum CUCGEK
+                           should be 08-Nov-86 18:44 QAXXOM  ALL  RD  RD
+(XEXEC       :  38) ROLAID.SAV    11 28-Jul-86 22:24 -- bad checksum YIVJAW
+                           should be 28-Jul-86 22:24 BIBMUQ  ALL  RD RUN
+(XEXEC       :  38) MEXEC.SAV      2 29-Nov-85 14:39 -- protection ALL  RD RUN
+                           should be 29-Nov-85 14:39 CELCAJ  ALL RUN RUN
+(XEXEC       :  38) MEXEC.DOC      2 17-Mar-86 12:40 -- protection ALL  RD  RD
+                           should be 17-Mar-86 12:40 ROCTEC  ALL  RD  NO
+(XEXEC       :  38) UPDATE.SAI     2 11-Jan-84 16:22 -- bad checksum XAZKEX
+                           should be 11-Jan-84 16:22 PITHUN  ALL  RD  RD
+(XEXEC       :  38) SLEEP.SAI      2 18-Apr-86 00:36 -- bad checksum GUZLEJ
+                           should be 18-Apr-86 00:36 WOTFUB  ALL  RD  RD
+(XEXEC       :  38) MINIT.SAV      2 12-Mar-84 23:10 -- bad checksum CEVRAV
+                           should be 12-Mar-84 23:10 HEKHAV  ALL  RD RUN
+(XEXEC       :  38) ARGPAR.REL     5 24-Jun-87 23:39 -- bad checksum BUHDIS
+                           should be 08-Nov-86 18:49 TIQVEQ  ALL  RD  RD
+(XEXEC       :  38) ARGPAR.SAI     3 24-Jun-87 23:40 -- bad checksum CEXKUS
+                           should be 08-Nov-86 18:45 YEDWEL  ALL  RD  RD
+(XEXEC       :  38) BS.SAI         3 24-Jun-85 19:24 -- bad checksum DEHNEN
+                           should be 24-Jun-85 19:24 GOZXAJ  ALL  RD  RD
+(XEXEC       :  38) TAIL.DOC       2 25-Nov-86 23:25 -- bad checksum FIGZIV
+                           should be 25-Nov-86 23:25 BUFWOS  ALL  RD  RD
+(XEXEC  :  38) TAIL.SAI       2 03-May-84 17:13 -- bad checksum LICLUX
+                           should be 03-May-84 17:13 FIVQID  ALL  RD  RD
+(XEXEC       :  38) BIN.SAI        2 08-Sep-86 14:55 -- bad checksum JELQAL
+                           should be 08-Sep-86 14:55 QATHIN  ALL  RD  RD
+(XEXEC       :  38) REMIND.DAT     2 25-Nov-86 23:28 -- bad checksum NACSEQ
+                           should be 25-Nov-86 23:28 ZAYGIG  ALL  RD  RD
+(XEXEC       :  38) TIIXEC.MAC     2 25-Nov-86 23:27 -- bad checksum RIWRAP
+                           should be 25-Nov-86 23:27 JOSPUM  ALL  RD  RD
+(XEXEC       :  38) SENDMA.PUB     3 17-Mar-86 14:43 -- bad checksum VIBLIN
+                           should be 17-Mar-86 14:43 CAYSEG  ALL  RD  RD
+   G@{a
