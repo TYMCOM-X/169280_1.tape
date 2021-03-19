@@ -1,0 +1,646 @@
+
+24-APR-1995	10:06
+
+TOTAL PAGES 846146  FILES 13732
+
+  INHOUSE	QUOTA		  OVER		OUTHOUSE
+
+830358   12373                           15788   1359
+
+
+GLOBAL ACCOUNT 1  95726 2376 11%
+
+93915   2369                             1811   7
+
+ 91  85479 1588 100000 SYS               100   1811    7   5000 FREITAS2
+ 92   1316  321  25000 UFD
+ 93   1281   22   4000 SRA
+ 94   1061   72  25000 *1BATCH
+ 96   1049  146   2500 UTIL
+ 97    958    2   5000 HOLD
+ 97    480   45  25000 SYSNEWS
+ 98    444   59  10000 OPER
+ 98    419    3   1250 PERPOPER
+ 98    366   13    499 CUD10
+ 99    350   13  50000 FTSYS
+ 99    275   41  25000 SPOOL
+ 99    151   18   5000 SRAUTIL
+ 99    100    1 250000 BILLING10
+ 99     73    8   5000 SRAVAL
+ 99     63    7   1250 PALS
+ 99     21    3  20000 SRATECH
+ 99     12    2   2500 BILLF
+ 99     11    1   1250 SRAMOV
+ 99      3    2  25000 CRASH
+ 99      2    1   1250 ACOSTAP
+100      1    1    312 DIAG10F
+100      0    0   2500 SILVAM
+100      0    0  10000 DANIELSR
+100      0    0    312 HIGHTOWER
+
+GLOBAL ACCOUNT 3  27074 2810 3%
+
+27074   2810                             0   0
+
+ 26   7256  337  50000 JMS
+ 45   5000 1491  10000 SUBMIT
+ 61   4289  100  10000 CARL
+ 70   2586   63  25000 M33
+ 80   2559  274  10000 MPL
+ 84   1274  120   5000 SPL
+ 88    974   46  25000 MAIL
+ 90    694  109   1250 SAILIB
+ 93    579   79  25000 WRS
+ 95    576   78   5000 XEXEC
+ 96    327   30   1250 PEAK
+ 97    294   27 100000 OSMAN
+ 98    259   27   1250 SPPOPER
+ 99    205    4  20000 OSP
+ 99    179   22  99999 OSU
+ 99     21    2  25000 INFO
+100      2    1  20000 LINK10
+100      0    0  34464 YEUX
+100      0    0  50000 TXSDOC
+100      0    0   1000 TXSTEST
+100      0    0  99999 OSNF
+100      0    0   3500 NDT
+100      0    0  25000 TXSTEXT
+100      0    0  12500 TXSSUP
+
+GLOBAL ACCOUNT 4  6958 194 0%
+
+6958   194                               0   0
+
+ 79   5541  168  50000 ACTRTY
+100   1417   26 250000 UAS
+
+GLOBAL ACCOUNT 6  15706 80 1%
+
+15706   80                               0   0
+
+ 98  15506   24 300000 UN1
+ 99    111   42  25000 PJ
+100     89   14  25000 *6NEWS
+
+GLOBAL ACCOUNT 7  3680 29 0%
+
+3680   29                                0   0
+
+ 52   1948   14   7500 FTMAGNUM
+100   1732   15   7500 MAGNUM
+
+GLOBAL ACCOUNT 11  5847 426 0%
+
+5847   426                               0   0
+
+100   5847  426  25000 UPL
+
+GLOBAL ACCOUNT 10056  48 17 0%
+
+48   17                                  0   0
+
+100     48   17     50 TYMRES5
+
+GLOBAL ACCOUNT 11011  960 42 0%
+
+960   42                                 0   0
+
+ 76    733    6   1000 HACKWOOD
+ 93    165   29   1250 RKLUTE
+100     62    7    500 GMASTERS
+
+GLOBAL ACCOUNT 11016  3 2 0%
+
+3   2                                    0   0
+
+100      3    2   1250 SPOOLRM
+
+GLOBAL ACCOUNT 11020  11296 1108 1%
+
+9829   924                               1467   184
+
+ 42   4156  197   5000 NTS                52    768  119   2000 NOVAFIELD
+ 81   3857  593  11000 TKOCHMANN         100    699   65   2500 BRUCES
+ 90    834   51   1500 TELECOMSUP
+ 93    367    8    500 MOORING
+ 96    223    6    500 BETADIAG
+ 97    176   45   5000 RVIVIER
+ 99    168   15    250 SNILLUKA
+ 99     46    8    500 PKRUMV
+100      2    1    500 DDREW
+100      0    0      5 MBENOIT
+100      0    0    500 ARICHARDSON
+
+GLOBAL ACCOUNT 11334  70 15 0%
+
+68   14                                  2   1
+
+ 64     44    8   1000 CDMTICKET         100      2    1      5 DECNET
+100     24    6    500 ISIS2
+
+GLOBAL ACCOUNT 11346  26 13 0%
+
+26   13                                  0   0
+
+100     26   13    500 WAR
+
+GLOBAL ACCOUNT 11447  544 87 0%
+
+544   87                                 0   0
+
+ 30    167   38  25000 SALTYRON
+ 61    165    3    500 SSBACKUP
+ 85    133   28    500 SSINSTALL
+ 96     62   10    500 VALIDATE
+ 99     12    6  25000 SSPAMBIN
+100      5    2    500 QASYS
+100      0    0    500 JCLMIN
+
+GLOBAL ACCOUNT 11653  0 0 0%
+
+0   0                                    0   0
+
+  0      0    0 NO DUL ENTRY FOR [11653,115244]
+
+GLOBAL ACCOUNT 13107  0 0 0%
+
+0   0                                    0   0
+
+  0      0    0    300 PLARSON
+
+GLOBAL ACCOUNT 16316  24 5 0%
+
+24   5                                   0   0
+
+100     24    5     25 EDICONTROL
+
+GLOBAL ACCOUNT 21476  11433 1645 1%
+
+10820   1534                             613   111
+
+ 35   3830  458  10000 TECHSERV           88    544  102    600 FIRNNET
+ 68   3538  341   5000 WRFS               97     55    3     50#MZORTMAN 5
+ 89   2333  602   5000 JWANG             100     14    6    500 TYEH
+ 95    581   52   1250 PSNEDDON          100      0    0      5 NTDPAPER
+ 97    283   26    500 DOUGE             100      0    0      5 JMORDEN
+ 99    169   44    500 CHANGC
+ 99     38    6     50 FLMTECH
+ 99     29    1   2000 BBELL
+ 99     18    3    100 BCHEN
+100      1    1   1250 CLEN
+100      0    0    100 WALKERG
+
+GLOBAL ACCOUNT 21477  653154 2994 77%
+
+642741   2259                            10413   735
+
+ 63 407051 1647 600000 TNT                74   7803  371 250000 TYMNET
+ 98 227391  413 600000 PAPDEV             95   2190  322   2105#MURTAUGH 85
+ 99   7797  139  15000 NSSC               99    363   35    500 ACCG1
+ 99    238   33    250 CSS800             99     42    5  12000 NETCON
+ 99    214   23    200#BTFR      14      100     15    2     15 DESIMONEJ
+ 99     44    1   5000 ROY               100      0    0      5 WESTVSN
+ 99      3    1      5 HUSSEYD           100      0    0      5 TRWLOOKUP
+ 99      2    1      5 TIP
+100      1    1      5 NETCONTS
+
+GLOBAL ACCOUNT 23036  2001 298 0%
+
+2001   298                               0   0
+
+100   2001  298   2000#NSCNET    1
+
+GLOBAL ACCOUNT 23407  2 1 0%
+
+0   0                                    2   1
+
+                                         100      2    1      5 SCARTWRIGHT
+                                         100      0    0      5 MARELICH
+                                         100      0    0      5 RPAYNTER
+                                         100      0    0      5 CSCHAEFER
+                                         100      0    0      5 JMCELENEY
+                                         100      0    0      5 CGOKSEL
+                                         100      0    0      5 CSMITH
+                                         100      0    0      5 STYLER
+                                         100      0    0      5 TLY
+                                         100      0    0      5 BKING
+                                         100      0    0      5 CKOPP
+                                         100      0    0      5 TSDCONTROL
+                                         100      0    0      5 DHEYDN
+
+GLOBAL ACCOUNT 27514  2300 321 0%
+
+2172   303                               128   18
+
+ 36    795   99   3000 TNSM               55     71    7     50#ENMC 21
+ 66    659   93   1250 DULAM              90     45    9     50 ECSC
+ 95    621   92   1250 FISBEIN           100     12    2    200 AROSS
+ 97     37    4    200 BTSWE             100      0    0      0 DOHP
+ 98     34    6    200 BTSZ              100      0    0      0 GCSC1
+ 99     19    8    500 ENOPS
+100      7    1      5#BTFSERV   2
+100      0    0      5 RADIOAS
+
+GLOBAL ACCOUNT 27515  130 2 0%
+
+0   0                                    130   2
+
+  0      0    0      5 SERVICEM          100    130    2      5#EPSG 125
+                                         100      0    0      5 EWMG
+                                         100      0    0      5 EMSG
+
+GLOBAL ACCOUNT 32120  43 7 0%
+
+37   4                                   6   3
+
+100     37    4     50 DBENG             100      6    3      5#DBVAL 1
+                                         100      0    0      5 DBTAR
+
+GLOBAL ACCOUNT 37512  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      0 JVALDEZ
+
+GLOBAL ACCOUNT 42651  8 3 0%
+
+0   0                                    8   3
+
+                                         100      8    3    100 BTJAPAN
+
+GLOBAL ACCOUNT 43212  0 0 0%
+
+0   0                                    0   0
+
+  0      0    0      5 SCHED
+
+GLOBAL ACCOUNT 43403  33 1 0%
+
+0   0                                    33   1
+
+                                         100     33    1    500 BOFAOPS
+
+GLOBAL ACCOUNT 44047  81 7 0%
+
+78   5                                   3   2
+
+ 79     62    2     50#WATECH    12       66      2    1      5 RFISHER
+100     16    3      5#ACHASE    11      100      1    1      1 APALIUCA
+100      0    0      5 JBLOOM            100      0    0      0 AJENKINS
+100      0    0      5 MREEVES           100      0    0      5 FRAHIMZADEH
+100      0    0      5 JBARGANIER        100      0    0      0 KWIEDERIN
+100      0    0     50 JWHITE
+
+GLOBAL ACCOUNT 44054  2665 193 0%
+
+2665   193                               0   0
+
+ 85   2271   79   3000 CTS                 0      0    0      5 EDONATELL
+ 97    316  106   1250 WARNERD
+ 98     34    2     50 LNGUYEN
+ 99     31    2     50 MYOUNG
+ 99     12    3     50 STONEK
+100      1    1      5 ETSVA
+100      0    0      5 ATHAKUR
+100      0    0      5 MNEWSHAM
+100      0    0      5 KPATEL
+100      0    0      5 KDOTY
+100      0    0      5 PCOURSEY
+
+GLOBAL ACCOUNT 44055  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      5 BLAFONT
+
+GLOBAL ACCOUNT 44060  452 81 0%
+
+282   59                                 170   22
+
+ 61    174   16    500 JOLEARY           100    170   22    170 DBLACK
+ 89     77   33    500 WRONSTADT         100      0    0      5 DWARDEN
+ 93     13    1      5#JSHANNON  8       100      0    0      5 ELEWIS
+ 97     10    5     10 SMAZZURCO
+ 98      4    2     25 LREYNOLDS
+ 99      3    1      5 RMKRUL
+100      1    1      5 AFOX
+100      0    0      5 KBIRSE
+100      0    0      5 LWOLF
+100      0    0      5 TPENNIMAN
+100      0    0      1 JCOLEMAN
+100      0    0      5 MKEAY
+
+GLOBAL ACCOUNT 44061  6 3 0%
+
+0   0                                    6   3
+
+  0      0    0      5 TALLISON           83      5    2      5 TSAMPSON
+  0      0    0      5 SRJEDKIN          100      1    1    500 DOYLEM
+  0      0    0      5 SMURPHY
+  0      0    0      5 SSETO
+
+GLOBAL ACCOUNT 44062  154 19 0%
+
+125   18                                 29   1
+
+ 34     43    6   1000 USGSNET           100     29    1     50 DSTOFKO
+ 65     39    6     50 DRHODES           100      0    0      5 VBSCONF
+ 91     32    2     50 DHOLDERNESS
+ 96      6    3     50 MBETTY
+100      5    1      5 RCRANFORD
+100      0    0      5 LGAYER
+100      0    0     50 DTPSC
+100      0    0     50 ETSRE
+
+GLOBAL ACCOUNT 44155  38 5 0%
+
+38   5                                   0   0
+
+100     38    5    500 SIRTITAS
+
+GLOBAL ACCOUNT 44251  0 0 0%
+
+0   0                                    0   0
+
+  0      0    0      5 DYOUNG
+
+GLOBAL ACCOUNT 44252  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      5 GBISGES
+                                           0      0    0      5 SYNCORDIA
+
+GLOBAL ACCOUNT 44266  274 31 0%
+
+274   31                                 0   0
+
+100    274   31    300 MNEWTON             0      0    0      5 ETAM
+                                           0      0    0      5 PHILCOM
+                                           0      0    0      5 SDS
+
+GLOBAL ACCOUNT 44267  42 9 0%
+
+42   9                                   0   0
+
+ 66     28    6    100 BTHK                0      0    0      5 RNMCAP
+100     14    3    100 BTAUS
+
+GLOBAL ACCOUNT 44515  56 6 0%
+
+0   0                                    56   6
+
+                                         100     56    6     60 DIALNET
+
+GLOBAL ACCOUNT 44632  3 1 0%
+
+0   0                                    3   1
+
+                                         100      3    1      5 NSCEAST
+                                         100      0    0      5 NSCWEST
+                                         100      0    0      5 BWEAVER
+
+GLOBAL ACCOUNT 44634  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      5 TSCSALES
+
+GLOBAL ACCOUNT 44635  22 2 0%
+
+22   2                                   0   0
+
+ 90     20    1      1#LINKOPS   19        0      0    0      0 JNAND
+100      2    1     50 CKENNEY
+
+GLOBAL ACCOUNT 47055  861 147 0%
+
+861   147                                0   0
+
+100    861  147   2000 UL6NET
+
+GLOBAL ACCOUNT 47232  0 0 0%
+
+0   0                                    0   0
+
+  0      0    0      5 SWBNET
+
+GLOBAL ACCOUNT 47256  3059 472 0%
+
+2555   285                               504   187
+
+ 44   1148  114   1500 JWOOD              97    492  185    500 UKSUP
+ 83    995  145   1500 UKOPS              99      9    1      5#SCARTER 4
+ 90    181   17    200 FRCOPS            100      3    1    100 NGREGORY
+ 96    130    2      5#UKCS      125     100      0    0    150 GCSCA
+ 99     76    1      1#MCOLLINS  75      100      0    0      5 UKMSG
+ 99     10    2    200 UK800             100      0    0      5 HSMC
+ 99      9    1      5#TSBNL     4       100      0    0      5 GSTC
+100      6    3     20 BDOWLEY           100      0    0      1 TTSMON
+100      0    0      5 DBARBER
+100      0    0      5 SBRUNO
+100      0    0      5 FANDREOU
+100      0    0      5 ACROWHURST
+100      0    0      5 LEEWAKE
+100      0    0     25 ALJONES
+
+GLOBAL ACCOUNT 47426  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      1 SPNMC
+
+GLOBAL ACCOUNT 50231  1 1 0%
+
+0   0                                    1   1
+
+                                         100      1    1      5 PCINET
+
+GLOBAL ACCOUNT 50527  92 32 0%
+
+92   32                                  0   0
+
+100     92   32    100 ONTSUPT
+
+GLOBAL ACCOUNT 50540  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      5 FNBCVSN
+
+GLOBAL ACCOUNT 50562  51 16 0%
+
+51   16                                  0   0
+
+100     51   16   1000 EDIATS
+
+GLOBAL ACCOUNT 51134  31 5 0%
+
+0   0                                    31   5
+
+                                          41     13    1      5#MCOSTELLO 8
+                                          67      8    1      5#TRAY 3
+                                          87      6    2      5#CONFR 1
+                                         100      4    1      5 BTNEWCO
+
+GLOBAL ACCOUNT 51173  5 1 0%
+
+0   0                                    5   1
+
+                                         100      5    1      5 RWONG
+                                         100      0    0      5 DGRIXTI
+                                         100      0    0      5 DGODARD
+
+GLOBAL ACCOUNT 53764  466 110 0%
+
+466   110                                0   0
+
+100    466  110    600 TELTEST
+
+GLOBAL ACCOUNT 56331  137 28 0%
+
+0   0                                    137   28
+
+                                         100    137   28    150 BTBEL
+
+GLOBAL ACCOUNT 56332  133 31 0%
+
+0   0                                    133   31
+
+                                         100    133   31    150 BTNL
+
+GLOBAL ACCOUNT 56361  52 7 0%
+
+52   7                                   0   0
+
+100     52    7     50#BTSPN     2
+
+GLOBAL ACCOUNT 56373  70 10 0%
+
+70   10                                  0   0
+
+ 97     68    9    200 BTGER
+100      2    1      5 FSGER
+
+GLOBAL ACCOUNT 56374  130 6 0%
+
+130   6                                  0   0
+
+100    130    6    200 BTITA
+
+GLOBAL ACCOUNT 56406  0 0 0%
+
+0   0                                    0   0
+
+  0      0    0      5 PNAIR
+
+GLOBAL ACCOUNT 56706  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      5 FTHANE
+
+GLOBAL ACCOUNT 56714  86 1 0%
+
+0   0                                    86   1
+
+  0      0    0      5 GMILLAR           100     86    1      5#ROCKOPNS 81
+  0      0    0      5 MHABIB            100      0    0    500 MSGCONTROL
+  0      0    0      5 LROBINSON
+
+GLOBAL ACCOUNT 56773  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      0 TEDWARDS
+
+GLOBAL ACCOUNT 57322  18 3 0%
+
+18   3                                   0   0
+
+ 61     11    1      5#SLEUNG    6
+100      7    2      5#ASIU      2
+
+GLOBAL ACCOUNT 57652  1 1 0%
+
+0   0                                    1   1
+
+                                         100      1    1      5 DUPONT
+
+GLOBAL ACCOUNT 60061  0 0 0%
+
+0   0                                    0   0
+
+  0      0    0      5 SMACIEL             0      0    0      0 FRSPT
+  0      0    0      5 LKING               0      0    0      0 JSHATTUCK
+  0      0    0      5 SGREGORICH          0      0    0      1 RBUTLER
+  0      0    0      5 RCOOPER
+  0      0    0      5 SMUSSON
+  0      0    0      5 SPLUNKETT
+  0      0    0      5 CSTRUNK
+
+GLOBAL ACCOUNT 60442  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0   5000 BOXT
+
+GLOBAL ACCOUNT 60510  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      5 FIRSTNET
+
+GLOBAL ACCOUNT 60551  88 25 0%
+
+80   23                                  8   2
+
+ 93     75   22    100 ASIAPAC           100      8    2     50 BTSNG
+100      5    1      5 UKMYEL            100      0    0      5 SINGTEL
+
+GLOBAL ACCOUNT 62726  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0   1250 ACAISSE
+
+GLOBAL ACCOUNT 63312  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      5 BBARCLAY
+
+GLOBAL ACCOUNT 64172  2 1 0%
+
+0   0                               2   1
+
+                                         100      2    1      5 PMAY
+                                         100      0    0      1 NCAMPBELL
+
+GLOBAL ACCOUNT 64311  0 0 0%
+
+0   0                                    0   0
+
+                                           0      0    0      5 BTDUBAI
+
+GLOBAL ACCOUNT 70274  4 2 0%
+
+4   2                                    0   0
+
+100      4    2      5 NTNOR
+
+GLOBAL ACCOUNT 70424  0 0 0%
+
+0   0                                    0   0
+
+  0      0    0     20 DFENIMOR            0      0    0      0 JNIETO
+                                           0      0    0      0 JWILLIAMS
+                                           0      0    0      0 JSAEGER
+                                           0      0    0      0 BBORQUE
+                                           0      0    0      0 AZARATE
+                                           0      0    0      0 LWARWICK
+                                           0      0    0      1 CHART
+                                           0      0    0      0 WIEGERSMA
+                                           0      0    0      0 PHOSS
+                                           0      0    0      0 RZOBELL
+   fdh
