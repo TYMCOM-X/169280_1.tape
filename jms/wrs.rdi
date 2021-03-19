@@ -1,0 +1,956 @@
+Master host: 33
+788 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+(WRS         :  26) ASCII.SAV     12 09-Feb-78 08:44 -- bad checksum HAPROB
+                           should be 25-May-81 00:17 MIMZIC  ALL RUN RUN
+(WRS         :  26) INIT.SAV      11 21-Feb-88 00:57 -- bad checksum VIYKIY
+                           should be 11-Nov-91 15:47 GOMSOB  ALL  RD  NO
+(WRS         :  26) TUMS.TIX       2 04-Nov-85 18:03 -- bad checksum WURPIS
+                           should be 31-Oct-89 19:00 DOBDUC  ALL  RD  NO
+(WRS         :  26) ARGS.REL       4 26-Oct-87 13:24 -- bad checksum LEMTEK
+                           should be 31-Aug-87 23:48 WOHFAC  ALL  RD  NO
+(WRS         :  26) TVSTRI.NGS     2 19-Feb-82 17:35 -- bad checksum PIMXOY
+                           should be 13-Jul-82 12:56 YICTEY  ALL  RD  NO
+(WRS         :  26) M33.RPT        2 02-Oct-84 02:15 -- bad checksum GEFJOC
+                           should be 02-Oct-84 02:18 PAFYOS  ALL  RD  NO
+(WRS         :  26) PTAP.SAV       3 07-Mar-86 14:30 -- bad checksum QONWOS
+                           should be 21-Sep-84 19:00 CITVIK  ALL  RD  NO 640000
+(WRS         :  26) AUXDDT.SAV    11 09-Feb-78 08:55 -- protection ALL RUN RUN
+                           should be 10-Jul-86 04:24 RIRFAT  ALL  RD  NO
+(WRS         :  26) HOG.SAV       12 09-Feb-78 12:35 -- bad checksum KAQGIW
+                           should be 21-Nov-78 13:34 YAMFOS  ALL RUN RUN  40000
+(WRS         :  26) LUDLOC.SAV     2 10-Feb-79 23:18 -- protection ALL  RD  NO
+                           should be 10-Feb-79 23:18 HUVNEK  ALL RUN RUN
+(WRS         :  26) KI.SAV         6 31-Aug-87 22:43 -- bad checksum WAYKUQ
+                           should be 01-Sep-87 00:03 WUPHAN  ALL  RD  NO
+(WRS         :  26) KI.SAI         2 31-Aug-87 22:44 -- bad checksum QITPAB
+                           should be 01-Sep-87 00:02 BIKLID  ALL  RD  NO
+(WRS         :  26) SNARF.SAV      2 08-Feb-78 16:17 -- protection ALL RUN RUN
+                           should be 10-Jul-86 04:25 FUQKET  ALL  RD  NO
+(WRS         :  26) FREE.SAV      11 26-Oct-87 13:47 -- bad checksum BOWKUB
+                           should be 18-Nov-86 17:13 ZUFMIC  ALL RUN RUN 741000
+(WRS         :  26) CRSHID.LOG     3 26-Oct-87 10:05 -- bad checksum TASCUL
+                           should be 22-Oct-86 14:43 SAZTIT  ALL  RD  NO
+(WRS         :  26) ARGPAR.REL     8 26-Oct-87 13:24 -- bad checksum TIQVEQ
+                           should be 31-Aug-87 23:49 PIQBOM  ALL  RD  NO
+(WRS         :  26) FREE.LOG      51 25-May-89 04:53 -- bad checksum COKVOV
+                           should be 23-Jun-87 13:46 MILLUB  ALL  RD  NO
+(WRS         :  26) MAGNUM.DIR     2 26-Aug-81 04:45 -- bad checksum MIYVUF
+                           should be 02-Aug-88 23:24 BUVZAT   CP  NO  NO
+(WRS         :  26) MAIL.BOX       2 09-Jul-86 15:08 -- bad checksum GAZROS
+                           should be 13-Mar-80 13:45 MEXDOK  ALL  RD  NO
+(WRS         :  26) PTAPAA.LOG     3 09-May-86 14:01 -- bad checksum YEGMOT
+                           should be 25-Sep-84 02:36 ZUCSUV  ALL  NO  NO
+(WRS         :  26) WRS.LOG        1 12-Nov-85 12:50 -- bad checksum VAVVAV
+                           should be 12-Nov-85 13:19 TODKIF  ALL  RD  NO
+(WRS         :  26) PTAPB.LOG                        -- missing on slave
+(WRS         :  26) PTAPAY.LOG                       -- missing on slave
+(WRS         :  26) PTAPAR.LOG                       -- missing on slave
+(WRS         :  26) PTAPAV.LOG                       -- missing on slave
+(WRS         :  26) PTAPAO.LOG                       -- missing on slave
+(WRS         :  26) PTAPAH.LOG                       -- missing on slave
+(WRS         :  26) PTAPAZ.LOG                       -- missing on slave
+(WRS         :  26) PTAPAS.LOG                       -- missing on slave
+(WRS         :  26) PTAPAL.LOG                       -- missing on slave
+(WRS         :  26) PTAPAE.LOG                       -- missing on slave
+(WRS         :  26) SAMPLE.NIB                       -- missing on slave
+(WRS         :  26) K33RT3.MD1                       -- missing on slave
+(WRS         :  26) PTAPAW.LOG                       -- missing on slave
+(WRS         :  26) PTAPAP.LOG                       -- missing on slave
+(WRS         :  26) PTAPAI.LOG                       -- missing on slave
+(WRS         :  26) WHEN.SAV                         -- missing on slave
+(WRS         :  26) PTAPAB.LOG                       -- missing on slave
+(WRS         :  26) ND3044.TYM                       -- missing on slave
+(WRS         :  26) ND3044.BAK                       -- missing on slave
+(WRS         :  26) D25CCV.RPT                       -- missing on slave
+(WRS         :  26) SCAN.LOG                         -- missing on slave
+(WRS         :  26) PTAPAX.LOG                       -- missing on slave
+(WRS         :  26) PTAPAQ.LOG                       -- missing on slave
+(WRS         :  26) PTAPAJ.LOG                       -- missing on slave
+(WRS         :  26) XEXEC.LOG                        -- missing on slave
+(WRS         :  26) XEXEC.CTL                        -- missing on slave
+(WRS         :  26) REV80A.PUB                       -- missing on slave
+(WRS         :  26) PTAPAC.LOG                       -- missing on slave
+(WRS         :  26) POSTEC.LOG                       -- missing on slave
+(WRS         :  26) NIBSUM.CMD                       -- missing on slave
+(WRS         :  26) NIBSUM.BAK                       -- missing on slave
+(WRS         :  26) D25GAN.RPT                       -- missing on slave
+(WRS         :  26) 0929.LOG                         -- missing on slave
+(WRS         :  26) MORE.SAV                         -- missing on slave
+(WRS         :  26) NIBSUM.SAI                       -- missing on slave
+(WRS         :  26) PTAPAT.LOG                       -- missing on slave
+(WRS         :  26) PTAPAM.LOG                       -- missing on slave
+(WRS         :  26) PTAPAF.LOG                       -- missing on slave
+(WRS         :  26) READCH.REL                       -- missing on slave
+(WRS         :  26) HOMEB.RPT                        -- missing on slave
+(WRS         :  26) HOMEB.KI                         -- missing on slave
+(WRS         :  26) 056TEL.OUT                       -- missing on slave
+(WRS         :  26) 056TEL.COM                       -- missing on slave
+(WRS         :  26) TAGTRA.DAT                       -- missing on slave
+(WRS         :  26) BETATE.CKS                       -- missing on slave
+(WRS         :  26) SOURCE.CKS                       -- missing on slave
+(WRS         :  26) SOURCE.LOG                       -- missing on slave
+(WRS         :  26) SOURCE.CTL                       -- missing on slave
+(WRS         :  26) SOURCE.BAK                       -- missing on slave
+(WRS         :  26) BETATE.DIR                       -- missing on slave
+(WRS         :  26) SOURCE.DIR                       -- missing on slave
+(WRS         :  26) TQSCAN.LST                       -- missing on slave
+(WRS         :  26) TQSCAN.F4                        -- missing on slave
+(WRS         :  26) TQSCAN.BAK                       -- missing on slave
+(WRS         :  26) TQSCAN.SAV                       -- missing on slave
+(WRS         :  26) TQSCAN.REL                       -- missing on slave
+(WRS         :  26) TQSCAN.CMD                       -- missing on slave
+(WRS         :  26) 2536.USR                         -- missing on slave
+(WRS         :  26) 2536.RPT                         -- missing on slave
+(WRS         :  26) XRAY.SAV                         -- missing on slave
+(WRS         :  26) SPP.SAV                          -- missing on slave
+(WRS         :  26) SPP.CMD                          -- missing on slave
+(WRS         :  26) SPP.F4                           -- missing on slave
+(WRS         :  26) TYM.CMD                          -- missing on slave
+(WRS         :  26) TYM.F4                           -- missing on slave
+(WRS         :  26) TYM.SAV                          -- missing on slave
+(WRS         :  26) ZSCD1B.ME2                       -- missing on slave
+(WRS         :  26) ZSCD1B.MP2                       -- missing on slave
+(WRS         :  26) DP.SAV                           -- missing on slave
+(WRS         :  26) ZZSCHF.ME2                       -- missing on slave
+(WRS         :  26) DUL.SYS                          -- missing on slave
+(WRS         :  26) D5YERL.ME1                       -- missing on slave
+(WRS         :  26) TAGPRO.DAT                       -- missing on slave
+(WRS         :  26) TAGSAV.DAT                       -- missing on slave
+(WRS         :  26) PRM.DAT                          -- missing on slave
+(WRS         :  26) BOB.RPT                          -- missing on slave
+(WRS         :  26) H35.RPT                          -- missing on slave
+(WRS         :  26) ARMY.UNM                         -- missing on slave
+(WRS         :  26) HOSTS.SUM                        -- missing on slave
+(WRS         :  26) ARMY.RPT                         -- missing on slave
+(WRS         :  26) ARMY.PAS                         -- missing on slave
+(WRS         :  26) PORTS.RPT                        -- missing on slave
+(WRS         :  26) ADM31.REL                        -- missing on slave
+(WRS         :  26) PHONYM.DIR                       -- missing on slave
+(WRS         :  26) JESUS                            -- missing on slave
+(WRS         :  26) ONYX.L                           -- missing on slave
+(WRS         :  26) ONYX.L2                          -- missing on slave
+(WRS         :  26) ONYX.L3                          -- missing on slave
+(WRS         :  26) ONYX                             -- missing on slave
+(WRS         :  26) ONYX.L1                          -- missing on slave
+(WRS         :  26) REMIND.DTA                       -- missing on slave
+(WRS         :  26) PHONES.DAT                       -- missing on slave
+(WRS         :  26) PHONES.DEF                       -- missing on slave
+(WRS         :  26) 8BBS1.LG                         -- missing on slave
+(WRS         :  26) FTP10X.SAV                       -- missing on slave
+(WRS         :  26) DT6VWR.MP2                       -- missing on slave
+(WRS         :  26) DT6VWR.ME2                       -- missing on slave
+(WRS         :  26) HOSTS                            -- missing on slave
+(WRS         :  26) CPIO.SAI                         -- missing on slave
+(WRS         :  26) CPIO.DIR                         -- missing on slave
+(WRS         :  26) CPIO.4                           -- missing on slave
+(WRS         :  26) CPIO.SAV                         -- missing on slave
+(WRS         :  26) VACATI.EXP                       -- missing on slave
+(WRS         :  26) ZSK866.MP2                       -- missing on slave
+(WRS         :  26) MMCC2.PUB                        -- missing on slave
+(WRS         :  26) MJFCE7.MP2                       -- missing on slave
+(WRS         :  26) MJFCE7.ME2                       -- missing on slave
+(WRS         :  26) REC.SAI                          -- missing on slave
+(WRS         :  26) CTJ5QJ.ME2                       -- missing on slave
+(WRS         :  26) WVFFPD.MR2                       -- missing on slave
+(WRS         :  26) SZWXEA.ME2                       -- missing on slave
+(WRS         :  26) P6VFZX.ME2                       -- missing on slave
+(WRS         :  26) TNETAC.DOC                       -- missing on slave
+(WRS         :  26) HOURS.SAV                        -- missing on slave
+(WRS         :  26) REC.SAV                          -- missing on slave
+(WRS         :  26) MAGREL.SAI                       -- missing on slave
+(WRS         :  26) MAGREL.REQ                       -- missing on slave
+(WRS         :  26) TVUSRS.CMD                       -- missing on slave
+(WRS         :  26) SAM.ADR                          -- missing on slave
+(WRS         :  26) USRKSJ.ME2                       -- missing on slave
+(WRS         :  26) CHASH.SAI                        -- missing on slave
+(WRS         :  26) BJWPYV.ME2                       -- missing on slave
+(WRS         :  26) ULIST.SAI                        -- missing on slave
+(WRS         :  26) CPIO.2                           -- missing on slave
+(WRS         :  26) CPIO.C                           -- missing on slave
+(WRS         :  26) CPIO.1                           -- missing on slave
+(WRS         :  26) CPIO.0                           -- missing on slave
+(WRS         :  26) BD29B8.ME2                       -- missing on slave
+(WRS         :  26) EDIT10.INI                       -- missing on slave
+(WRS         :  26) SECRET                           -- missing on slave
+(WRS         :  26) TECO.INI                         -- missing on slave
+(WRS         :  26) TECO.ERR                         -- missing on slave
+(WRS         :  26) ZSK866.ME2                       -- missing on slave
+(WRS         :  26) ONTVAL.SAV                       -- missing on slave
+(WRS         :  26) CRFSYM.SAI                       -- missing on slave
+(WRS         :  26) 950.SAV                          -- missing on slave
+(WRS         :  26) TRSTAT.SAI                       -- missing on slave
+(WRS         :  26) TRSTAT.CMD                       -- missing on slave
+(WRS         :  26) CIDDBM.SAI                       -- missing on slave
+(WRS         :  26) CIDDBM.DCL                       -- missing on slave
+(WRS         :  26) USAGE.SAI                        -- missing on slave
+(WRS         :  26) USAGE.CMD                        -- missing on slave
+(WRS         :  26) PCOINT.SAI                       -- missing on slave
+(WRS         :  26) 950.MAC                          -- missing on slave
+(WRS         :  26) FILBUF.MAC                       -- missing on slave
+(WRS         :  26) TNT.MAC                          -- missing on slave
+(WRS         :  26) TNT.SAV                          -- missing on slave
+(WRS         :  26) POP.MAC                          -- missing on slave
+(WRS         :  26) POP.SAV                          -- missing on slave
+(WRS         :  26) PUSHX.REQ                        -- missing on slave
+(WRS         :  26) PUSHX.MAC                        -- missing on slave
+(WRS         :  26) PLOG.SHR                         -- missing on slave
+(WRS         :  26) SD.SAI                           -- missing on slave
+(WRS         :  26) PHOTO.SAI                        -- missing on slave
+(WRS         :  26) HOSTS.MAC                        -- missing on slave
+(WRS         :  26) VMDIAG.SAI                       -- missing on slave
+(WRS         :  26) VMDIAG.SAV                       -- missing on slave
+(WRS         :  26) VMDIAG.1                         -- missing on slave
+(WRS         :  26) CHARGE.SAI                       -- missing on slave
+(WRS         :  26) CHARGE.SAV                       -- missing on slave
+(WRS         :  26) OPLIST.MAC                       -- missing on slave
+(WRS         :  26) PLOG.1                           -- missing on slave
+(WRS         :  26) SYSTEC.ORG                       -- missing on slave
+(WRS         :  26) BIOLIB.MAC                       -- missing on slave
+(WRS         :  26) OPLIST.SAV                       -- missing on slave
+(WRS         :  26) MUDDY.SAV                        -- missing on slave
+(WRS         :  26) REMIND.DAT                       -- missing on slave
+(WRS         :  26) ADM31.MAC                        -- missing on slave
+(WRS         :  26) ADM31.HGH                        -- missing on slave
+(WRS         :  26) ADM31.SHR                        -- missing on slave
+(WRS         :  26) FINDER.MAC                       -- missing on slave
+(WRS         :  26) 23838.TID                        -- missing on slave
+(WRS         :  26) PROFIL.CTL                       -- missing on slave
+(WRS         :  26) ACSCAN.SAV                       -- missing on slave
+(WRS         :  26) ACSCAN.DAT                       -- missing on slave
+(WRS         :  26) MAIL                             -- missing on slave
+(WRS         :  26) MBX.SCN                          -- missing on slave
+(WRS         :  26) MBX.RPT                          -- missing on slave
+(WRS         :  26) MBX.BAK                          -- missing on slave
+(WRS         :  26) CHARTS.RPT                       -- missing on slave
+(WRS         :  26) CHARTS.BAK                       -- missing on slave
+(WRS         :  26) CHARTS.LST                       -- missing on slave
+(WRS         :  26) ZORK.SAI                         -- missing on slave
+(WRS         :  26) ZORK.REL                         -- missing on slave
+(WRS         :  26) ZORK.SAV                         -- missing on slave
+(WRS         :  26) AUX.DAT                          -- missing on slave
+(WRS         :  26) MAIL.SAV                         -- missing on slave
+(WRS         :  26) DEC22O.PS1                       -- missing on slave
+(WRS         :  26) LOGOUT.SHR                       -- missing on slave
+(WRS         :  26) WATS                             -- missing on slave
+(WRS         :  26) STARCO                           -- missing on slave
+(WRS         :  26) ZSCD16.ME2                       -- missing on slave
+(WRS         :  26) TAPE.MEM                         -- missing on slave
+(WRS         :  26) TUART.MEM                        -- missing on slave
+(WRS         :  26) LOADER.SAV                       -- missing on slave
+(WRS         :  26) AUXLIB.REL                       -- missing on slave
+(WRS         :  26) WV08V7.ME2                       -- missing on slave
+(WRS         :  26) UPDREL.MAG                       -- missing on slave
+(WRS         :  26) MAGNUM.TSR                       -- missing on slave
+(WRS         :  26) ZSCD16.MP2                       -- missing on slave
+(WRS         :  26) ENVAX.SAV                        -- missing on slave
+(WRS         :  26) P6VYY7.MR2                       -- missing on slave
+(WRS         :  26) MMCC1.PUB                        -- missing on slave
+(WRS         :  26) ZSZALF.ME2                       -- mg on slave
+(WRS         :  26) SPY.SAV                          -- missing on slave
+(WRS         :  26) ZZSCBN.ME2                       -- missing on slave
+(WRS         :  26) WV08V7.MP2                       -- missing on slave
+(WRS         :  26) BMS256.ME2                       -- missing on slave
+(WRS         :  26) DJ12CD.ME2                       -- missing on slave
+(WRS         :  26) MAGOBJ.SAI                       -- missing on slave
+(WRS         :  26) HP2621.INF                       -- missing on slave
+(WRS         :  26) S100.325                         -- missing on slave
+(WRS         :  26) DJ12KJ.MR2                       -- missing on slave
+(WRS         :  26) S100.PUB                         -- missing on slave
+(WRS         :  26) S100.DOC                         -- missing on slave
+(WRS         :  26) ACB3.PUB                         -- missing on slave
+(WRS         :  26) BOA.PUB                          -- missing on slave
+(WRS         :  26) A889CR.MA0                       -- missing on slave
+(WRS         :  26) J45AI4.MR0                       -- missing on slave
+(WRS         :  26) A889CR.MX0                       -- missing on slave
+(WRS         :  26) A889CR.MS0                       -- missing on slave
+(WRS         :  26) A889CR.MD0                       -- missing on slave
+(WRS         :  26) VJ3QIJ.ME2                       -- missing on slave
+(WRS         :  26) USER.CMD                         -- missing on slave
+(WRS         :  26) USER.F4                          -- missing on slave
+(WRS         :  26) USER.SAV                         -- missing on slave
+(WRS         :  26) BB2521.BND                       -- missing on slave
+(WRS         :  26) CCMI.SAI                         -- missing on slave
+(WRS         :  26) CCMI.SAV                         -- missing on slave
+(WRS         :  26) AUXLIB.NEW                       -- missing on slave
+(WRS         :  26) AUXLIB.DCL                       -- missing on slave
+(WRS         :  26) STREAM.REQ                       -- missing on slave
+(WRS         :  26) STREAM.SAI                       -- missing on slave
+(WRS         :  26) MUDTST.SAV                       -- missing on slave
+(WRS         :  26) INITIA.SAV                       -- missing on slave
+(WRS         :  26) SEND.SAI                         -- missing on slave
+(WRS         :  26) DIS.MAC                          -- missing on slave
+(WRS         :  26) XPAND.SAV                        -- missing on slave
+(WRS         :  26) FRMRUN.MAC                       -- missing on slave
+(WRS         :  26) FRMRUN.PUB                       -- missing on slave
+(WRS         :  26) FRMRUN.DOC                       -- missing on slave
+(WRS         :  26) AUX.MAC                          -- missing on slave
+(WRS         :  26) XEQ.SAI                          -- missing on slave
+(WRS         :  26) ONTKEY.SAI                       -- missing on slave
+(WRS         :  26) ONTCOP.SAI                       -- missing on slave
+(WRS         :  26) FNDLIC.SAI                       -- missing on slave
+(WRS         :  26) PTAP1.SAV                        -- missing on slave
+(WRS         :  26) CRARPT.SAI                       -- missing on slave
+(WRS         :  26) INITIA.SAI                       -- missing on slave
+(WRS         :  26) GRIND.MAC                        -- missing on slave
+(WRS         :  26) SPAWN.MAC                        -- missing on slave
+(WRS         :  26) RIBSIZ.MAC                       -- missing on slave
+(WRS         :  26) L.MAC                            -- missing on slave
+(WRS         :  26) COUNT.SAV                        -- missing on slave
+(WRS         :  26) AUXLIB.REQ                       -- missing on slave
+(WRS         :  26) GETLNK.SAI                       -- missing on slave
+(WRS         :  26) OPSUB.SAI                        -- missing on slave
+(WRS         :  26) LNTEST.SAI                       -- missing on slave
+(WRS         :  26) LDBQ.SAV                         -- missing on slave
+(WRS         :  26) FNDLIC.SAV                       -- missing on slave
+(WRS         :  26) SPY.CMD                          -- missing on slave
+(WRS         :  26) SPY.MAC                          -- missing on slave
+(WRS         :  26) COUNT.MAC                        -- missing on slave
+(WRS         :  26) 25315.TID                        -- missing on slave
+(WRS         :  26) PTAPAU.LOG                       -- missing on slave
+(WRS         :  26) PTAPAN.LOG                       -- missing on slave
+(WRS         :  26) PTAPAG.LOG                       -- missing on slave
+(WRS         :  26) FREEXX.LOG                       -- missing on slave
+(WRS         :  26) D25ORG.RPT                       -- missing on slave
+(WRS         :  26) PAN.DAT                          -- missing on slave
+(WRS         :  26) PREAD.CMD                        -- missing on slave
+(WRS         :  26) PREAD.SAI                        -- missing on slave
+(WRS         :  26) PREAD.MKR                        -- missing on slave
+(WRS         :  26) ZSK5CF.ME2                       -- missing on slave
+(WRS         :  26) ZSK5CF.MP2                       -- missing on slave
+(WRS         :  26) MICRO.SHR                        -- missing on slave
+(WRS         :  26) MICRO.LOW                        -- missing on slave
+(WRS         :  26) SECURI.MEM                       -- missing on slave
+(WRS         :  26) PJCVFY.SAV                       -- missing on slave
+(WRS         :  26) STATS.MZ1                        -- missing on slave
+(WRS         :  26) ZZSCAU.ME2                       -- missing on slave
+(WRS         :  26) ZITEL.DOC                        -- missing on slave
+(WRS         :  26) IL7DFD.ME2                       -- missing on slave
+(WRS         :  26) DAILY.PRP                        -- missing on slave
+(WRS         :  26) STATS.MZ2                        -- missing on slave
+(WRS         :  26) CCIS                             -- missing on slave
+(WRS         :  26) PAUX.MAC                         -- missing on slave
+(WRS         :  26) YOS                              -- missing on slave
+(WRS         :  26) FINE.DOC                         -- missing on slave
+(WRS         :  26) COMPIL.BIB                       -- missing on slave
+(WRS         :  26) CEO6NT.MP2                       -- missing on slave
+(WRS         :  26) SAIL.DEF                         -- missing on slave
+(WRS         :  26) SP.DAT                           -- missing on slave
+(WRS         :  26) TIMER.FOR                        -- missing on slave
+(WRS         :  26) TIMER.MAX                        -- missing on slave
+(WRS         :  26) TIMER.REL                        -- missing on slave
+(WRS         :  26) DEFS.MIC                         -- missing on slave
+(WRS         :  26) SDERRY.MAC                       -- missing on slave
+(WRS         :  26) SDERRY.REL                       -- missing on slave
+(WRS         :  26) ZZSCAU.MP2                       -- missing on slave
+(WRS         :  26) FILES                            -- missing on slave
+(WRS         :  26) PERP.MEM                         -- missing on slave
+(WRS         :  26) WVJKV3.ME2                       -- missing on slave
+(WRS         :  26) EAIN8S.MP2                       -- missing on slave
+(WRS         :  26) HM8DMC.ME2                       -- missing on slave
+(WRS         :  26) HM8DMC.MP2                       -- missing on slave
+(WRS         :  26) PHONE.MEM                        -- missing on slave
+(WRS         :  26) EAIN8S.ME2                       -- missing on slave
+(WRS         :  26) PHONE.DIR                        -- missing on slave
+(WRS         :  26) UNDELE.SAV                       -- missing on slave
+(WRS         :  26) ACB2.PUB                         -- missing on slave
+(WRS         :  26) SYSWAI.SAI                       -- missing on slave
+(WRS         :  26) MUD.DOC                          -- missing on slave
+(WRS         :  26) ZS0KD5.ME2                       -- missing on slave
+(WRS         :  26) HELP.TEC                         -- missing on slave
+(WRS         :  26) PS.SAV                           -- missing on slave
+(WRS         :  26) SYSWAI.SAV                       -- missing on slave
+(WRS         :  26) DCC.SAI                          -- missing on slave
+(WRS         :  26) DCC.SAV                          -- missing on slave
+(WRS         :  26) REUNIO.SAI                       -- missing on slave
+(WRS         :  26) REUNIO.DAT                       -- missing on slave
+(WRS         :  26) REUNIO.RPT                       -- missing on slave
+(WRS         :  26) REUNIO.LOG                       -- missing on slave
+(WRS         :  26) R.DAT                            -- missing on slave
+(WRS         :  26) REUNIO.COD                       -- missing on slave
+(WRS         :  26) REUNIO.FAR                       -- missing on slave
+(WRS         :  26) SYMAUX.MAC                       -- missing on slave
+(WRS         :  26) TMPIN.SAI                        -- missing on slave
+(WRS         :  26) CRSHID.DCL                       -- missing on slave
+(WRS         :  26) CRSHID.CMD                       -- missing on slave
+(WRS         :  26) CRSHID.SAI                       -- missing on slave
+(WRS         :  26) TEXT.CMD                         -- missing on slave
+(WRS         :  26) TEXT.SNO                         -- missing on slave
+(WRS         :  26) CRSHID.12                        -- missing on slave
+(WRS         :  26) SEND20.SAI                       -- missing on slave
+(WRS         :  26) TOPS20.FAC                       -- missing on slave
+(WRS         :  26) UPERBT.MAC                       -- missing on slave
+(WRS         :  26) CALLI.MAC                        -- missing on slave
+(WRS         :  26) CRAFIX.SNO                       -- missing on slave
+(WRS         :  26) CRASUM.SAI                       -- missing on slave
+(WRS         :  26) SNDMEM.SAI                       -- missing on slave
+(WRS         :  26) PHONEX.SNO                       -- missing on slave
+(WRS         :  26) TRU.SAI                          -- missing on slave
+(WRS         :  26) REMINI.SAV                       -- missing on slave
+(WRS         :  26) FONT.SAI                         -- missing on slave
+(WRS         :  26) D.SAV                            -- missing on slave
+(WRS         :  26) SYSNAD.CMD                       -- missing on slave
+(WRS         :  26) SYSNAD.LIS                       -- missing on slave
+(WRS         :  26) SYSNAD.SAI                       -- missing on slave
+(WRS         :  26) SYSNAD.SAV                       -- missing on slave
+(WRS         :  26) CRASUM.SAV                       -- missing on slave
+(WRS         :  26) CRAFIX.SAV                       -- missing on slave
+(WRS         :  26) NAMEPL.F4                        -- missing on slave
+(WRS         :  26) NAMEPL.CMD                       -- missing on slave
+(WRS         :  26) NAMEPL.SAV                       -- missing on slave
+(WRS         :  26) 46847.TID                        -- missing on slave
+(WRS         :  26) 32935.TID                        -- missing on slave
+(WRS         :  26) ZZSCK5.ME2                       -- missing on slave
+(WRS         :  26) HU7YCZ.ME2                       -- missing on slave
+(WRS         :  26) ZSCWS7.ME2                       -- missing on slave
+(WRS         :  26) SOP8PP.MP2                       -- missing on slave
+(WRS         :  26) SOP8PP.ME2                       -- missing on slave
+(WRS         :  26) PCOM.SHR                         -- missing on slave
+(WRS         :  26) PCOM.LOW                         -- missing on slave
+(WRS         :  26) MTA1                             -- missing on slave
+(WRS         :  26) MAP.LOW                          -- missing on slave
+(WRS         :  26) MAP.SHR                          -- missing on slave
+(WRS         :  26) MAP.REL                          -- missing on slave
+(WRS         :  26) HEX                              -- missing on slave
+(WRS         :  26) HUMNET.ARC                       -- missing on slave
+(WRS         :  26) 8BBS.REL                         -- missing on slave
+(WRS         :  26) 8BBS.SAI                         -- missing on slave
+(WRS         :  26) BLACK                            -- missing on slave
+(WRS         :  26) FONE                             -- missing on slave
+(WRS         :  26) 8BBS.LG                          -- missing on slave
+(WRS         :  26) 8BBS                             -- missing on slave
+(WRS         :  26) 8BBS.TXT                         -- missing on slave
+(WRS         :  26) FDM.REL                          -- missing on slave
+(WRS         :  26) FDM.BUL                          -- missing on slave
+(WRS         :  26) FDM.RLS                          -- missing on slave
+(WRS         :  26) FDM.MAC                          -- missing on slave
+(WRS         :  26) 8BBS.DAT                         -- missing on slave
+(WRS         :  26) 8BBS.CMD                         -- missing on slave
+(WRS         :  26) 8BBS.SAV                         -- missing on slave
+(WRS         :  26) 8BBSX.LG                         -- missing on slave
+(WRS         :  26) TELECO.KIL                       -- missing on slave
+(WRS         :  26) TERMCA.ETC                       -- missing on slave
+(WRS         :  26) DIAL.1                           -- missing on slave
+(WRS         :  26) CC                               -- missing on slave
+(WRS         :  26) DIAL.REL                         -- missing on slave
+(WRS         :  26) PD.SAV                           -- missing on slave
+(WRS         :  26) PD.DIR                           -- missing on slave
+(WRS         :  26) WIZARD.RNO                       -- missing on slave
+(WRS         :  26) ZZSCHF.MP2                       -- missing on slave
+(WRS         :  26) ZSC1YB.ME2                       -- missing on slave
+(WRS         :  26) ZSC1YB.MP2                       -- missing on slave
+(WRS         :  26) ZZSCK5.MP2                       -- missing on slave
+(WRS         :  26) ZSCWS7.MP2                       -- missing on slave
+(WRS         :  26) E5O6NS.ME2                       -- missing on slave
+(WRS         :  26) E2DEFS.SAI                       -- missing on slave
+(WRS         :  26) CNAME.SAI                        -- missing on slave
+(WRS         :  26) VAUX.SAV                         -- missing on slave
+(WRS         :  26) PRATT1.PUB                       -- missing on slave
+(WRS         :  26) ACB1.PUB                         -- missing on slave
+(WRS         :  26) ZZSC5D.MR2                       -- missing on slave
+(WRS         :  26) Y9ZSOC.ME2                       -- missing on slave
+(WRS         :  26) LYN.PUB                          -- missing on slave
+(WRS         :  26) MAP.FOR                          -- missing on slave
+(WRS         :  26) D5WKRH.ME0                       -- missing on slave
+(WRS         :  26) FDM.DOC                          -- missing on slave
+(WRS         :  26) AUXLI2.REQ                       -- missing on slave
+(WRS         :  26) AUXLI2.DCL                       -- missing on slave
+(WRS         :  26) AUXLI2.SAI                       -- missing on slave
+(WRS         :  26) CID.MEM                          -- missing on slave
+(WRS         :  26) NOTIF.DO                         -- missing on slave
+(WRS         :  26) RTYFIX.MAC                       -- missing on slave
+(WRS         :  26) CIDFRM.DCL                       -- missing on slave
+(WRS         :  26) CIDFRM.SAI                       -- missing on slave
+(WRS         :  26) GETLIN.SAI                       -- missing on slave
+(WRS         :  26) REG.SAI                          -- missing on slave
+(WRS         :  26) FIRES.FAC                        -- missing on slave
+(WRS         :  26) FAKDDT.MAC                       -- missing on slave
+(WRS         :  26) EQV.SAI                          -- missing on slave
+(WRS         :  26) SUPSLV.OLD                       -- missing on slave
+(WRS         :  26) SUPSLV.MAC                       -- missing on slave
+(WRS         :  26) BAT.SAI                          -- missing on slave
+(WRS         :  26) BAT.SAV                          -- missing on slave
+(WRS         :  26) MAKSIG.SAI                       -- missing on slave
+(WRS         :  26) MAKSIG.SAV                       -- missing on slave
+(WRS         :  26) DP.SAI                           -- missing on slave
+(WRS         :  26) NOSWAP.SAI                       -- missing on slave
+(WRS         :  26) OPER.SAV                         -- missing on slave
+(WRS         :  26) DSTAT.SAI                        -- missing on slave
+(WRS         :  26) DSTAT.OUT                        -- missing on slave
+(WRS         :  26) DSTAT.SAV                        -- missing on slave
+(WRS         :  26) ADVISE.MAC                       -- missing on slave
+(WRS         :  26) PHANTO.SAI                       -- missing on slave
+(WRS         :  26) PHANTO.SAV                       -- missing on slave
+(WRS         :  26) GRS.MAC                          -- missing on slave
+(WRS         :  26) CRSUPD.MAC                       -- missing on slave
+(WRS         :  26) BIOEXE.SAI                       -- missing on slave
+(WRS         :  26) TRM.SAI                          -- missing on slave
+(WRS         :  26) QUEUES.SAI                       -- missing on slave
+(WRS         :  26) CT2.SAI                          -- missing on slave
+(WRS         :  26) BLOCK.SAI                        -- missing on slave
+(WRS         :  26) FDM.SAV                          -- missing on slave
+(WRS         :  26) FTP20M.SAI                       -- missing on slave
+(WRS         :  26) SETTRM.SAI                       -- missing on slave
+(WRS         :  26) DIAL.SAI                         -- missing on slave
+(WRS         :  26) SCANER.MAC                       -- missing on slave
+(WRS         :  26) LKBDDT.MAC                       -- missing on slave
+(WRS         :  26) BLOCK.SAV                        -- missing on slave
+(WRS         :  26) ASSHOL.SAV                       -- missing on slave
+(WRS         :  26) H56.RPT                          -- missing on slave
+(WRS         :  26) CRASH.MEM                        -- missing on slave
+(WRS         :  26) BIRTH4.KI                        -- missing on slave
+(WRS         :  26) 021TEL.OUT                       -- missing on slave
+(WRS         :  26) 021TEL.COM                       -- missing on slave
+(WRS         :  26) MAPQUE.SAV                       -- missing on slave
+(WRS         :  26) DIRECT.LST                       -- missing on slave
+(WRS         :  26) CMDS.UNI                         -- missing on slave
+(WRS         :  26) CRALST.CMD                       -- missing on slave
+(WRS         :  26) LSCAN.SAV                        -- missing on slave
+(WRS         :  26) XYZZY.RPT                        -- missing on slave
+(WRS         :  26) Y94MFF.MR1                       -- missing on slave
+(WRS         :  26) TVEDIT.SHR                       -- missing on slave
+(WRS         :  26) ACOM.SHR                         -- missing on slave
+(WRS         :  26) ACOM.LOW                         -- missing on slave
+(WRS         :  26) 33034J.SAV                       -- missing on slave
+(WRS         :  26) HERAID.MEM                       -- missing on slave
+(WRS         :  26) PBBS                             -- missing on slave
+(WRS         :  26) CLONE.REL                        -- missing on slave
+(WRS         :  26) SENTRY.COM                       -- missing on slave
+(WRS         :  26) AUXL14.MAC                       -- missing on slave
+(WRS         :  26) MAGLOK.SAI                       -- missing on slave
+(WRS         :  26) MAGLOK.REL                       -- missing on slave
+(WRS         :  26) MAGLOK.REQ                       -- missing on slave
+(WRS         :  26) INI930.SAI                       -- missing on slave
+(WRS         :  26) TIDEMO.MEM                       -- missing on slave
+(WRS         :  26) GROUP.CMD                        -- missing on slave
+(WRS         :  26) RTYACT.CTL                       -- missing on slave
+(WRS         :  26) FILE.001                         -- missing on slave
+(WRS         :  26) FORMAT.INF                       -- missing on slave
+(WRS         :  26) FORMAT.ZIP                       -- missing on slave
+(WRS         :  26) NIUTOO.MP2                       -- missing on slave
+(WRS         :  26) NIUTOO.ME2                       -- missing on slave
+(WRS         :  26) XPMATF.ME2                       -- missing on slave
+(WRS         :  26) DR5CZS.MP2                       -- missing on slave
+(WRS         :  26) DR5CZS.ME2                       -- missing on slave
+(WRS         :  26) WQXQXQ.ME2                       -- missing on slave
+(WRS         :  26) BETTYO.PUB                       -- missing on slave
+(WRS         :  26) RA.PUB                           -- missing on slave
+(WRS         :  26) CLEAN.SAV                        -- missing on slave
+(WRS         :  26) MAGTST.SAV                       -- missing on slave
+(WRS         :  26) MAGTST.SAI                       -- missing on slave
+(WRS         :  26) MAGDIR.SAV                       -- missing on slave
+(WRS         :  26) MAGDIR.SAI                       -- missing on slave
+(WRS         :  26) HASHER.SAI                       -- missing on slave
+(WRS         :  26) LETTER.LIB                       -- missing on slave
+(WRS         :  26) EXPUNG.SAV                       -- missing on slave
+(WRS         :  26) H8T4L6.MP2                       -- missing on slave
+(WRS         :  26) MEMO.LIB                         -- missing on slave
+(WRS         :  26) SFD.SAI                          -- missing on slave
+(WRS         :  26) SENTRY.SAV                       -- missing on slave
+(WRS         :  26) SENTRY.PRP                       -- missing on slave
+(WRS         :  26) INTLIB.SAI                       -- missing on slave
+(WRS         :  26) SWAAMP.MEM                       -- missing on slave
+(WRS         :  26) MKULC8.MP0                       -- missing on slave
+(WRS         :  26) MKULC8.ME0                       -- missing on slave
+(WRS         :  26) SPOOL.DEF                        -- missing on slave
+(WRS         :  26) P6VUR1.ME2                       -- missing on slave
+(WRS         :  26) A89ZS2.MA2                       -- missing on slave
+(WRS         :  26) A89ZS2.MS2                       -- missing on slave
+(WRS         :  26) B3FHJK.MR2                       -- missing on slave
+(WRS         :  26) A89ZS2.MX2                       -- missing on slave
+(WRS         :  26) A89ZS2.MD2                       -- missing on slave
+(WRS         :  26) B                                -- missing on slave
+(WRS         :  26) FOO                              -- missing on slave
+(WRS         :  26) CIDSYM.DCL                       -- missing on slave
+(WRS         :  26) FTEST.MAC                        -- missing on slave
+(WRS         :  26) COMMAN.LST                       -- missing on slave
+(WRS         :  26) MOVUSR.SAI                       -- missing on slave
+(WRS         :  26) PTAP.MAC                         -- missing on slave
+(WRS         :  26) CIDSYM.SAI                       -- missing on slave
+(WRS         :  26) FNDSIG.SAI                       -- missing on slave
+(WRS         :  26) LINK.SAI                         -- missing on slave
+(WRS         :  26) LINK.SAV                         -- missing on slave
+(WRS         :  26) LSCAN.SAI                        -- missing on slave
+(WRS         :  26) CT1.SAV                          -- missing on slave
+(WRS         :  26) RPGFAK.SAV                       -- missing on slave
+(WRS         :  26) RPGFAK.MAC                       -- missing on slave
+(WRS         :  26) INT.SAI                          -- missing on slave
+(WRS         :  26) CLONE.1                          -- missing on slave
+(WRS         :  26) FMLIB.SAI                        -- missing on slave
+(WRS         :  26) FMLIB.REQ                        -- missing on slave
+(WRS         :  26) SENTRY.MAC                       -- missing on slave
+(WRS         :  26) CIDSYM.MAC                       -- missing on slave
+(WRS         :  26) CLONE.REQ                        -- missing on slave
+(WRS         :  26) FNDMON.SAI                       -- missing on slave
+(WRS         :  26) MAPQUE.SAI                       -- missing on slave
+(WRS         :  26) FRMOPS.SAI                       -- missing on slave
+(WRS         :  26) FNDBAD.RPT                       -- missing on slave
+(WRS         :  26) TVEDIT.LOW                       -- missing on slave
+(WRS         :  26) SCHED1.PAT                       -- missing on slave
+(WRS         :  26) FTP20S.SAI                       -- missing on slave
+(WRS         :  26) CLONE.MAC                        -- missing on slave
+(WRS         :  26) TRIM.MAC                         -- missing on slave
+(WRS         :  26) PTAPAK.LOG                       -- missing on slave
+(WRS         :  26) WARNER.LOG                       -- missing on slave
+(WRS         :  26) PTAPAD.LOG                       -- missing on slave
+(WRS         :  26) MAILER.SAV                       -- missing on slave
+(WRS         :  26) D25USR.RPT                       -- missing on slave
+(WRS         :  26) D25GAV.RPT                       -- missing on slave
+(WRS         :  26) D25COS.RPT                       -- missing on slave
+(WRS         :  26) ARGS.CMD                         -- missing on slave
+(WRS         :  26) TBILL.LST                        -- missing on slave
+(WRS         :  26) TBILL.RPT                        -- missing on slave
+(WRS         :  26) TQPLOT.LST                       -- missing on slave
+(WRS         :  26) CREAUX.RPT                       -- missing on slave
+(WRS         :  26) TQPLOT.F4                        -- missing on slave
+(WRS         :  26) TQPLOT.CMD                       -- missing on slave
+(WRS         :  26) TQPLOT.SAV                       -- missing on slave
+(WRS         :  26) LEVER.MAC                        -- missing on slave
+(WRS         :  26) LEVER.SAV                        -- missing on slave
+(WRS         :  26) LEVER.REL                        -- missing on slave
+(WRS         :  26) PSWDCG.D22                       -- missing on slave
+(WRS         :  26) A8894A.MX1                       -- missing on slave
+(WRS         :  26) A8894A.MS1                       -- missing on slave
+(WRS         :  26) A8894A.MD1                       -- missing on slave
+(WRS         :  26) A8894A.MA1                       -- missing on slave
+(WRS         :  26) TYMSHA                           -- missing on slave
+(WRS         :  26) ACKERM                           -- missing on slave
+(WRS         :  26) INVOIC                           -- missing on slave
+(WRS         :  26) 8BBS01.TXT                       -- missing on slave
+(WRS         :  26) DCRYPT.TBA                       -- missing on slave
+(WRS         :  26) SCYR56.ME2                       -- missing on slave
+(WRS         :  26) FRECOR.PAT                       -- missing on slave
+(WRS         :  26) WHOISS.CMD                       -- missing on slave
+(WRS         :  26) WHOISS.F4                        -- missing on slave
+(WRS         :  26) INFOMA.MEM                       -- missing on slave
+(WRS         :  26) P6VSTS.MP2                       -- missing on slave
+(WRS         :  26) ZSCQQ6.ME2                       -- missing on slave
+(WRS         :  26) ZSCQQ6.MP2                       -- missing on slave
+(WRS         :  26) SCYR56.MP2                       -- missing on slave
+(WRS         :  26) MAGSCH.SAI                       -- missing on slave
+(WRS         :  26) CBI                              -- missing on slave
+(WRS         :  26) HPK.MEM                          -- missing on slave
+(WRS         :  26) P6VSTS.ME2                       -- missing on slave
+(WRS         :  26) SCYR56.ME0                       -- missing on slave
+(WRS         :  26) ZSKGKE.ME2                       -- missing on slave
+(WRS         :  26) REUBAK.DAT                       -- missing on slave
+(WRS         :  26) A                                -- missing on slave
+(WRS         :  26) PASSWO.M43                       -- missing on slave
+(WRS         :  26) PASSWO.MEM                       -- missing on slave
+(WRS         :  26) PASSWO.CTL                       -- missing on slave
+(WRS         :  26) PASSWO.CMD                       -- missing on slave
+(WRS         :  26) PASSWO.SAI                       -- missing on slave
+(WRS         :  26) SYS.DIR                          -- missing on slave
+(WRS         :  26) PERDMP.SAV                       -- missing on slave
+(WRS         :  26) PERDMP.SAI                       -- missing on slave
+(WRS         :  26) UUOSYM.SAI                       -- missing on slave
+(WRS         :  26) UUOSYM.MAC                       -- missing on slave
+(WRS         :  26) PASSWO.PUB                       -- missing on slave
+(WRS         :  26) PASSWO.DOC                       -- missing on slave
+(WRS         :  26) KMCLOD.MAC                       -- missing on slave
+(WRS         :  26) P034.MKR                         -- missing on slave
+(WRS         :  26) GETRAN.PAT                       -- missing on slave
+(WRS         :  26) CIDSYS.SAI                       -- missing on slave
+(WRS         :  26) CIDSYS.DCL                       -- missing on slave
+(WRS         :  26) PASSWO.SAV                       -- missing on slave
+(WRS         :  26) OPASSW.SHR                       -- missing on slave
+(WRS         :  26) OPASSW.LOW                       -- missing on slave
+(WRS         :  26) CCDDT.SAI                        -- missing on slave
+(WRS         :  26) PRCITM.SAI                       -- missing on slave
+(WRS         :  26) CORP.SAV                         -- missing on slave
+(WRS         :  26) CORP.SNO                         -- missing on slave
+(WRS         :  26) RERR.SAI                         -- missing on slave
+(WRS         :  26) RANDOM.SAI                       -- missing on slave
+(WRS         :  26) H.SAI                            -- missing on slave
+(WRS         :  26) RIBDEF.REQ                       -- missing on slave
+(WRS         :  26) TZ.SAI                           -- missing on slave
+(WRS         :  26) SHIPX.REQ                        -- missing on slave
+(WRS         :  26) SHIPX.SAI                        -- missing on slave
+(WRS         :  26) AMOEBA.MAC                       -- missing on slave
+(WRS         :  26) CRAMER.MAC                       -- missing on slave
+(WRS         :  26) CRAMER.SAV                       -- missing on slave
+(WRS         :  26) NICE.CMD                         -- missing on slave
+(WRS         :  26) FRMSUB.SAI                       -- missing on slave
+(WRS         :  26) SYMBOL.SAI                       -- missing on slave
+(WRS         :  26) SYMBOL.CMD                       -- missing on slave
+(WRS         :  26) EXTEND.SAI                       -- missing on slave
+(WRS         :  26) EXTEND.SAV                       -- missing on slave
+(WRS         :  26) DAYTIM.SAI                       -- missing on slave
+(WRS         :  26) DEASS.SAV                        -- missing on slave
+(WRS         :  26) EDIRIT.SHR                       -- missing on slave
+(WRS         :  26) BAD.LST                          -- missing on slave
+(WRS         :  26) LIN.FIL                          -- missing on slave
+(WRS         :  26) SHIFT.MAC                        -- missing on slave
+(WRS         :  26) NIBSUM.SAV                       -- missing on slave
+(WRS         :  26) 001TEL.OUT                       -- missing on slave
+(WRS         :  26) 001TEL.COM                       -- missing on slave
+(WRS         :  26) TRACE.SAV                        -- missing on slave
+(WRS         :  26) GETAUX.SAV                       -- missing on slave
+(WRS         :  26) GETAUX.SAI                       -- missing on slave
+(WRS         :  26) TAPES.WRS                        -- missing on slave
+(WRS         :  26) CUSIP                            -- missing on slave
+(WRS         :  26) CUSIP.MEM                        -- missing on slave
+(WRS         :  26) SCAN.SAV                         -- missing on slave
+(WRS         :  26) SKDJXC.ME2                       -- missing on slave
+(WRS         :  26) 38034J.SAV                       -- missing on slave
+(WRS         :  26) P6VQP5.ME2                       -- missing on slave
+(WRS         :  26) RPG.INI                          -- missing on slave
+(WRS         :  26) WVGCAH.MP2                       -- missing on slave
+(WRS         :  26) KILL.ME                          -- missing on slave
+(WRS         :  26) INFO.33                          -- missing on slave
+(WRS         :  26) BIB                              -- missing on slave
+(WRS         :  26) MOM                              -- missing on slave
+(WRS         :  26) MOM.SAI                          -- missing on slave
+(WRS         :  26) MOM.DAT                          -- missing on slave
+(WRS         :  26) MOM.SAV                          -- missing on slave
+(WRS         :  26) MOM.TXT                          -- missing on slave
+(WRS         :  26) MOM.LG                           -- missing on slave
+(WRS         :  26) MOM.REL                          -- missing on slave
+(WRS         :  26) 800                              -- missing on slave
+(WRS         :  26) MOM.X                            -- missing on slave
+(WRS         :  26) RUBIK                            -- missing on slave
+(WRS         :  26) .BIB                             -- missing on slave
+(WRS         :  26) 8MSGS.MKR                        -- missing on slave
+(WRS         :  26) MSGS.SAV                         -- missing on slave
+(WRS         :  26) DI46VP.ME2                       -- missing on slave
+(WRS         :  26) 8BBS2.LG                         -- missing on slave
+(WRS         :  26) MAGIC.SAV                        -- missing on slave
+(WRS         :  26) 33XG19.SAV                       -- missing on slave
+(WRS         :  26) CPIOD.SAI                        -- missing on slave
+(WRS         :  26) CPIOD.SAV                        -- missing on slave
+(WRS         :  26) 78S.SAI                          -- missing on slave
+(WRS         :  26) BTY063.MP2                       -- missing on slave
+(WRS         :  26) JBTWRS.SAV                       -- missing on slave
+(WRS         :  26) WVT6AV.ME2                       -- missing on slave
+(WRS         :  26) WVT6AV.MP2                       -- missing on slave
+(WRS         :  26) MAGLRF.SAI                       -- missing on slave
+(WRS         :  26) MAGLRF.SAV                       -- missing on slave
+(WRS         :  26) ZCPSYC.ME0                       -- missing on slave
+(WRS         :  26) GAN3.CMD                         -- missing on slave
+(WRS         :  26) PRATT.MEM                        -- missing on slave
+(WRS         :  26) DIRED.SAI                        -- missing on slave
+(WRS         :  26) ZCPSYC.MP0                       -- missing on slave
+(WRS         :  26) TECHLP.TXT                       -- missing on slave
+(WRS         :  26) KTAKOM.ME2                       -- missing on slave
+(WRS         :  26) HACK.SAV                         -- missing on slave
+(WRS         :  26) WVGCAH.ME2                       -- missing on slave
+(WRS         :  26) A88Y7G.MD0                       -- missing on slave
+(WRS         :  26) ARGTST.SAI                       -- missing on slave
+(WRS         :  26) RPG.LST                          -- missing on slave
+(WRS         :  26) PERFOR.SAI                       -- missing on slave
+(WRS         :  26) PERFOR.MEM                       -- missing on slave
+(WRS         :  26) PERFOR.REQ                       -- missing on slave
+(WRS         :  26) AUXWIN.SAI                       -- missing on slave
+(WRS         :  26) AUXWIN.REQ                       -- missing on slave
+(WRS         :  26) XEXEC.CMD                        -- missing on slave
+(WRS         :  26) GTCHAR.MAC                       -- missing on slave
+(WRS         :  26) CIDANL.DCL                       -- missing on slave
+(WRS         :  26) MISC.FAC                         -- missing on slave
+(WRS         :  26) LOGLIB.SAI                       -- missing on slave
+(WRS         :  26) FTP20.SAI                        -- missing on slave
+(WRS         :  26) LCASE.SAI                        -- missing on slave
+(WRS         :  26) ENA.MAC                          -- missing on slave
+(WRS         :  26) RUNIT.MAC                        -- missing on slave
+(WRS         :  26) OPTAB.SAI                        -- missing on slave
+(WRS         :  26) GOBBLE.MAC                       -- missing on slave
+(WRS         :  26) NOTWRI.SAI                       -- missing on slave
+(WRS         :  26) TCOM.SAI                         -- missing on slave
+(WRS         :  26) PRIME.SAI                        -- missing on slave
+(WRS         :  26) VMDSLV.MAC                       -- missing on slave
+(WRS         :  26) HW.SAI                           -- missing on slave
+(WRS         :  26) YELBAL.SAI                       -- missing on slave
+(WRS         :  26) REMOVE.SAI                       -- missing on slave
+(WRS         :  26) INFO.930                         -- missing on slave
+(WRS         :  26) AP.SAI                           -- missing on slave
+(WRS         :  26) CTY.SAI                          -- missing on slave
+(WRS         :  26) CTY.SAV                          -- missing on slave
+(WRS         :  26) VIRUS.MAC                        -- missing on slave
+(WRS         :  26) BIOTST.FOR                       -- missing on slave
+(WRS         :  26) JBTWRS.SAI                       -- missing on slave
+(WRS         :  26) APPEAR.PAT                       -- missing on slave
+(WRS         :  26) PAGER.SAI                        -- missing on slave
+(WRS         :  26) FTA.SAI                          -- missing on slave
+(WRS         :  26) FTPCRO.SAV                       -- missing on slave
+(WRS         :  26) DATAIO.SAI                       -- missing on slave
+(WRS         :  26) RADIO.PUB                        -- missing on slave
+(WRS         :  26) MSGS.SAI                         -- missing on slave
+(WRS         :  26) RADIO.BAY                        -- missing on slave
+(WRS         :  26) RADIO.DOC                        -- missing on slave
+(WRS         :  26) ACCESS.LIS                       -- missing on slave
+Checking host 33
+Checking host 34
+(WRS         :  34) XEXEC.SAV     33 10-Sep-86 09:53 -- bad checksum QIBKOY
+                           should be 11-Jul-85 01:05 JAJDIY  ALL  RD  NO
+(WRS         :  34) HACK.SAV       2 20-Jun-80 17:02 -- bad checksum HEYTAC
+                           should be 01-May-78 16:36 CUYLOT  ALL RUN RUN
+(WRS         :  34) TRACE.SAV      9 24-Jan-85 19:31 -- bad checksum REBJOV
+                           should be 06-Oct-84 02:10 JUSQIH  ALL  RD  NO
+(WRS         :  34) LOGLIB.SAI     4 12-Jun-85 17:16 -- bad checksum JOMXOW
+                           should be 04-Apr-83 15:22 XOBLAQ  ALL  RD  NO
+(WRS         :  34) ACCESS.LIS     2 16-Aug-83 05:04 -- bad checksum ZAHDAY
+                           should be 14-Feb-79 17:17 CUGNIP  ALL  RD  RD
+(WRS         :  34) NIBSUM.SAI     5 26-Apr-89 16:55 -- bad checksum ZISTOV
+                           should be 26-Apr-89 16:34 MISHIS  ALL  RD  NO
+(WRS         :  34) NIBSUM.SAV    37 26-Apr-89 16:56 -- bad checksum NIHROK
+                           should be 26-Apr-89 16:30 VOYFUP  ALL  RD  NO
+(WRS         :  34) TUMS.INI       2 11-Oct-89 15:41 -- bad checksum NOKSIX
+                           should be 21-Jun-86 20:30 KONMUG  ALL  RD  NO
+(WRS         :  34) OKI.SAV        7 17-Apr-87 17:40 -- bad checksum QETKAS
+                           should be 10-Jul-86 04:07 GALCON  ALL  RD  NO
+(WRS         :  34) INIT.SAV      11 09-May-92 16:30 -- bad checksum KEFKEX
+                           should be 11-Nov-91 15:47 GOMSOB  ALL  RD  NO
+(WRS         :  34) ARGS.REL       4 26-Oct-87 13:24 -- bad checksum LEMTEK
+                           should be 31-Aug-87 23:48 WOHFAC  ALL  RD  NO
+(WRS         :  34) PERDMP.SAI     3 28-Apr-86 23:49 -- bad checksum XOBFUN
+                           should be 23-May-80 22:39 SEFSIK  ALL  RD  NO
+(WRS         :  34) FNDSIG.SAV    20 23-Oct-85 16:31 -- bad checksum PECXAB
+                           should be 25-Mar-83 14:03 GUNJUG  ALL  RD  NO
+(WRS         :  34) INT.SAI        2 06-Jul-84 15:32 -- bad checksum SIRREW
+                           should be 09-Apr-81 18:25 XUFXAT  ALL  RD  NO
+(WRS         :  34) FNDSIG.SAI     3 23-Oct-85 16:29 -- bad checksum QOWCOF
+                           should be 09-Oct-82 19:17 VOPSEG  ALL  RD  NO
+(WRS         :  34) MOVUSR.SAI     4 12-Jun-86 23:15 -- bad checksum MIFQEQ
+                           should be 14-Apr-85 20:21 FUWJEP  ALL  RD  NO
+(WRS         :  34) SAMPLE.NIB    47 12-Sep-88 13:29 -- bad checksum MEKFON
+                           should be 14-Oct-86 18:41 XEPBUB  ALL  RD  RD
+(WRS         :  34) PTAP.SAV       3 07-Mar-86 14:30 -- bad checksum QONWOS
+                           should be 21-Sep-84 19:00 CITVIK  ALL  RD  NO 640000
+(WRS         :  34) RTYFIX.SAV     2 04-Dec-86 17:11 -- bad checksum TAXHUG
+                           should be 22-Nov-83 12:48 VEXMUP  ALL  RD  NO
+(WRS         :  34) SETTRM.SAI    12 29-Dec-87 17:48 -- bad checksum ZULWUZ
+                           should be 01-Feb-84 20:19 KOLYIS  ALL  RD  NO
+(WRS         :  34) GETLIN.SAI     2 08-Dec-88 18:26 -- bad checksum KOLBAV
+                           should be 16-Nov-82 15:25 COCDAB  ALL  RD  NO
+(WRS         :  34) TYM.SAV        9 03-Mar-88 15:31 -- bad checksum FIBPUG
+                           should be 30-Aug-83 09:12 QAZMAF  ALL  RD  NO
+(WRS         :  34) PCOM.LOW       5 30-Sep-81 14:36 -- bad license 
+                           should be 30-Sep-81 14:36 SALZEM  ALL RUN RUN 640000
+(WRS         :  34) PCOM.SHR      27 30-Sep-81 14:36 -- bad license 
+                           should be 30-Sep-81 14:36 SUDQIB  ALL RUN RUN 640000
+(WRS         :  34) REMINI.SAV     5 31-Dec-80 00:44 -- bad checksum VALHES
+                           should be 28-Feb-79 20:01 CIYRIC  ALL RUN RUN
+(WRS         :  34) FREE.SAV      11 26-Oct-87 13:47 -- bad checksum BOWKUB
+                           should be 18-Nov-86 17:13 ZUFMIC  ALL RUN RUN 741000
+(WRS         :  34) ARGPAR.REL     8 26-Oct-87 13:24 -- bad checksum TIQVEQ
+                           should be 31-Aug-87 23:49 PIQBOM  ALL  RD  NO
+(WRS         :  34) PREAD.SAI      4 21-Oct-84 22:52 -- bad checksum YUVDEY
+                           should be 21-Oct-84 22:38 QOMZIM  ALL  RD  NO
+(WRS         :  34) CRSHID.LOG     3 26-Oct-87 10:05 -- bad checksum TASCUL
+                           should be 22-Oct-86 14:43 SAZTIT  ALL  RD  NO
+(WRS         :  34) MAIL.FWD       2 10-Nov-92 09:52 -- bad checksum DENFAY
+                           should be 21-Feb-88 00:51 NELVAY  ALL  RD  NO
+(WRS         :  34) MAIL.BOX       2 09-Jul-86 15:08 -- bad checksum GAZROS
+                           should be 13-Mar-80 13:45 MEXDOK  ALL  RD  NO
+(WRS         :  34) MUDTST.SAV    18 19-Jan-85 21:26 -- bad checksum WIZCUG
+                           should be 18-Jun-83 17:06 BEFRAT  ALL  RD  NO
+(WRS         :  34) AUXLIB.REL     6 28-May-90 15:51 -- bad checksum FESJAB
+                           should be 24-Apr-81 03:07 XOVVAN  ALL  RD  NO
+(WRS         :  34) OPSUB.SAI      3 02-Dec-83 22:19 -- bad checksum KINJEJ
+                           should be 11-May-80 22:43 SOFMOX  ALL  RD  NO
+(WRS         :  34) TRSTAT.SAI     3 26-May-84 01:55 -- bad checksum POVTIR
+                           should be 07-May-84 19:09 REKVAN  ALL  RD  NO
+(WRS         :  34) REC.SAI        2 30-Aug-86 02:59 -- bad checksum COTTID
+                           should be 21-Jun-80 14:01 BURBUL  ALL  RD  NO
+(WRS         :  34) PTAPAA.LOG     3 09-May-86 14:01 -- bad checksum YEGMOT
+                           should be 25-Sep-84 02:36 ZUCSUV  ALL  NO  NO
+(WRS         :  34) 8BBS           2 10-Jul-81 05:40 -- bad checksum QESYAX
+                           should be 10-Jul-81 05:40 KAFRAJ  ALL  RD  NO
+(WRS         :  34) MTA1         688 17-Jun-81 19:31 -- bad checksum FIRMED
+                           should be 17-Jun-81 19:31 WUFJUK  ALL  RD  NO
+(WRS         :  34) FREE.LOG      51 25-May-89 04:53 -- bad checksum COKVOV
+                           should be 23-Jun-87 13:46 MILLUB  ALL  RD  NO
+(WRS         :  34) GOBBLE.MAC     2 16-Jun-82 14:18 -- bad checksum ZAXQUG
+                           should be 16-Jun-82 14:18 NUPTIN  ALL  RD  NO
+(WRS         :  34) 8BBS01.TXT    80 05-Mar-81 12:10 -- bad checksum PARWUR
+                           should be 05-Mar-81 12:10 LILWUP  ALL  RD  NO
+(WRS         :  34) CHARGE.SAI     2 01-May-81 21:06 -- bad checksum MULVIK
+                           should be 01-May-81 21:06 SOLWUJ  ALL  RD  NO
+(WRS         :  34) VMDIAG.SAI     5 08-Aug-81 10:41 -- bad checksum LOVZAN
+                           should be 08-Aug-81 10:41 KEDDAF  ALL  RD  NO
+(WRS         :  34) PCOINT.SAI     9 28-Jul-82 01:14 -- bad checksum YIXQUB
+                           should be 28-Jul-82 01:14 MERZIM  ALL  RD  NO
+Checking host 38
+(WRS         :  38) XEXEC.SAV     33 10-Sep-86 09:53 -- bad checksum QIBKOY
+                           should be 11-Jul-85 01:05 JAJDIY  ALL  RD  NO
+(WRS         :  38) HACK.SAV       2 20-Jun-80 17:02 -- bad checksum HEYTAC
+                           should be 01-May-78 16:36 CUYLOT  ALL RUN RUN
+(WRS         :  38) TRACE.SAV      9 24-Jan-85 19:31 -- bad checksum REBJOV
+                           should be 06-Oct-84 02:10 JUSQIH  ALL  RD  NO
+(WRS         :  38) LOGLIB.SAI     4 12-Jun-85 17:16 -- bad checksum JOMXOW
+                           should be 04-Apr-83 15:22 XOBLAQ  ALL  RD  NO
+(WRS         :  38) ACCESS.LIS     2 16-Aug-83 05:04 -- bad checksum ZAHDAY
+                           should be 14-Feb-79 17:17 CUGNIP  ALL  RD  RD
+(WRS         :  38) NIBSUM.SAI     5 26-Apr-89 16:55 -- bad checksum ZISTOV
+                           should be 26-Apr-89 16:34 MISHIS  ALL  RD  NO
+(WRS         :  38) NIBSUM.SAV    37 26-Apr-89 16:56 -- bad checksum NIHROK
+                           should be 26-Apr-89 16:30 VOYFUP  ALL  RD  NO
+(WRS         :  38) OKI.SAV        7 17-Apr-87 17:40 -- bad checksum QETKAS
+                           should be 10-Jul-86 04:07 GALCON  ALL  RD  NO
+(WRS         :  38) INIT.SAV      11 09-May-92 16:30 -- bad checksum KEFKEX
+                           should be 11-Nov-91 15:47 GOMSOB  ALL  RD  NO
+(WRS         :  38) TUMS.INI       2 11-Oct-89 15:41 -- bad checksum NOKSIX
+                           should be 21-Jun-86 20:30 KONMUG  ALL  RD  NO
+(WRS         :  38) ARGS.REL       4 26-Oct-87 13:24 -- bad checksum LEMTEK
+                           should be 31-Aug-87 23:48 WOHFAC  ALL  RD  NO
+(WRS         :  38) PERDMP.SAI     3 28-Apr-86 23:49 -- bad checksum XOBFUN
+                           should be 23-May-80 22:39 SEFSIK  ALL  RD  NO
+(WRS         :  38) FNDSIG.SAV    20 23-Oct-85 16:31 -- bad checksum PECXAB
+                           should be 25-Mar-83 14:03 GUNJUG  ALL  RD  NO
+(WRS         :  38) PTAP.SAV       3 07-Mar-86 14:30 -- bad checksum QONWOS
+                           should be 21-Sep-84 19:00 CITVIK  ALL  RD  NO 640000
+(WRS         :  38) INT.SAI        2 06-Jul-84 15:32 -- bad checksum SIRREW
+                           should be 09-Apr-81 18:25 XUFXAT  ALL  RD  NO
+(WRS         :  38) FNDSIG.SAI     3 23-Oct-85 16:29 -- bad checksum QOWCOF
+                           should be 09-Oct-82 19:17 VOPSEG  ALL  RD  NO
+(WRS         :  38) MOVUSR.SAI     4 12-Jun-86 23:15 -- bad checksum MIFQEQ
+                           should be 14-Apr-85 20:21 FUWJEP  ALL  RD  NO
+(WRS         :  38) SAMPLE.NIB    47 12-Sep-88 13:29 -- bad checksum MEKFON
+                           should be 14-Oct-86 18:41 XEPBUB  ALL  RD  RD
+(WRS         :  38) RTYFIX.SAV     2 04-Dec-86 17:11 -- bad checksum TAXHUG
+                           should be 22-Nov-83 12:48 VEXMUP  ALL  RD  NO
+(WRS         :  38) SETTRM.SAI    12 29-Dec-87 17:48 -- bad checksum ZULWUZ
+                           should be 01-Feb-84 20:19 KOLYIS  ALL  RD  NO
+(WRS         :  38) GETLIN.SAI     2 08-Dec-88 18:26 -- bad checksum KOLBAV
+                           should be 16-Nov-82 15:25 COCDAB  ALL  RD  NO
+(WRS         :  38) TYM.SAV        9 03-Mar-88 15:31 -- bad checksum FIBPUG
+                           should be 30-Aug-83 09:12 QAZMAF  ALL  RD  NO
+(WRS         :  38) FREE.SAV      11 26-Oct-87 13:47 -- bad checksum BOWKUB
+                           should be 18-Nov-86 17:13 ZUFMIC  ALL RUN RUN 741000
+(WRS         :  38) REMINI.SAV     5 31-Dec-80 00:44 -- bad checksum VALHES
+                           should be 28-Feb-79 20:01 CIYRIC  ALL RUN RUN
+(WRS         :  38) CRSHID.LOG     3 26-Oct-87 10:05 -- bad checksum TASCUL
+                           should be 22-Oct-86 14:43 SAZTIT  ALL  RD  NO
+(WRS         :  38) ARGPAR.REL     8 26-Oct-87 13:24 -- bad checksum TIQVEQ
+                           should be 31-Aug-87 23:49 PIQBOM  ALL  RD  NO
+(WRS         :  38) FREE.LOG      51 25-May-89 04:53 -- bad checksum COKVOV
+                           should be 23-Jun-87 13:46 MILLUB  ALL  RD  NO
+(WRS         :  38) PREAD.SAI      4 21-Oct-84 22:52 -- bad checksum YUVDEY
+                           should be 21-Oct-84 22:38 QOMZIM  ALL  RD  NO
+(WRS         :  38) MAIL.FWD       2 10-Nov-92 09:52 -- bad checksum DENFAY
+                           should be 21-Feb-88 00:51 NELVAY  ALL  RD  NO
+(WRS         :  38) MAIL.BOX       2 09-Jul-86 15:08 -- bad checksum GAZROS
+                           should be 13-Mar-80 13:45 MEXDOK  ALL  RD  NO
+(WRS         :  38) PTAPAA.LOG     3 09-May-86 14:01 -- bad checksum YEGMOT
+                           should be 25-Sep-84 02:36 ZUCSUV  ALL  NO  NO
+(WRS         :  38) MUDTST.SAV    18 19-Jan-85 21:26 -- bad checksum WIZCUG
+                           should be 18-Jun-83 17:06 BEFRAT  ALL  RD  NO
+(WRS         :  38) AUXLIB.REL     6 28-May-90 15:51 -- bad checksum FESJAB
+                           should be 24-Apr-81 03:07 XOVVAN  ALL  RD  NO
+(WRS         :  38) OPSUB.SAI      3 02-Dec-83 22:19 -- bad checksum KINJEJ
+                           should be 11-May-80 22:43 SOFMOX  ALL  RD  NO
+(WRS         :  38) TRSTAT.SAI     3 26-May-84 01:55 -- bad checksum POVTIR
+                           should be 07-May-84 19:09 REKVAN  ALL  RD  NO
+(WRS         :  38) REC.SAI        2 30-Aug-86 02:59 -- bad checksum COTTID
+                           should be 21-Jun-80 14:01 BURBUL  ALL  RD  NO
+(WRS         :  38) GOBBLE.MAC     2 16-Jun-82 14:18 -- bad checksum ZAXQUG
+                           should be 16-Jun-82 14:18 NUPTIN  ALL  RD  NO
+(WRS         :  38) 8BBS01.TXT    80 05-Mar-81 12:10 -- bad checksum PARWUR
+                           should be 05-Mar-81 12:10 LILWUP  ALL  RD  NO
+(WRS         :  38) CHARGE.SAI     2 01-May-81 21:06 -- bad checksum MULVIK
+                           should be 01-May-81 21:06 SOLWUJ  ALL  RD  NO
+(WRS         :  38) VMDIAG.SAI     5 08-Aug-81 10:41 -- bad checksum LOVZAN
+                           should be 08-Aug-81 10:41 KEDDAF  ALL  RD  NO
+(WRS         :  38) PCOINT.SAI     9 28-Jul-82 01:14 -- bad checksum YIXQUB
+                           should be 28-Jul-82 01:14 MERZIM  ALL  RD  NO
+PBw
