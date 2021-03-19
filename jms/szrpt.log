@@ -1,0 +1,209 @@
+!:LOGFILE SZRPT.LOG
+:DEFINE $SUBSTITUTION=$TRUE
+RUN (XEXEC)MINIT
+
+!PJOB	;Tuesday
+Frame 10  TTY201  JMS[3,431116] at F26
+
+!SYS G
+SYSTEM SHUT
+
+TYMSHARE F33-P035/E01-1 1-25-91 up 322:19:51! at  0:45:12 on Tue Feb 13,1996
+Null time = 320:52:22, Idle = 99% (Idle time per MIN. = 100%)
+10 jobs in use out of 116.  8 detached
+
+Users=10 Det=8 [2,1], Queues: RUN=1 DIO=0 TIO=2 IO=0 SPC=7
+8190 Physical pages available (MONITOR = 490P, User Area = 7700P)
+Virt. memory used (TPU/TPA): 559/7700 = 7%
+
+DSKB: 886531 Pages free, 10 users
+
+!RUN (MPL)TYPBAT
+DSKB has 555 cylinders, 30 heads, 7 pages per track, 116550 pages per unit.
+
+BPA3  (DSKB0:260000)     0 bad pages in 0 distinct regions.
+BPA2  (DSKB1:260001)     0 bad pages in 0 distinct regions.
+BPA0  (DSKB2:260002)     0 bad pages in 0 distinct regions.
+BPA10 (DSKB3:260003)     0 bad pages in 0 distinct regions.
+BPA5  (DSKB4:260004)     0 bad pages in 0 distinct regions.
+BPA1  (DSKB5:260005)     0 bad pages in 0 distinct regions.
+BPA7  (DSKB6:260006)     0 bad pages in 0 distinct regions.
+BPA11 (DSKB7:260007)     0 bad pages in 0 distinct regions.
+BPC3 (DSKB10:260008)     0 bad pages in 0 distinct regions.
+BPC2 (DSKB11:260009)     1 bad pages in 1 distinct regions.
+ 1 page  at 100766 = cylinder 158, head 12, record  7   11-Nov-95
+
+BPC0 (DSKB12:260010)     1 bad pages in 1 distinct regions.
+ 1 page  at 132554 = cylinder 221, head  4, record  7   11-Apr-95
+
+BPC10(DSKB13:260011)     0 bad pages in 0 distinct regions.
+BPC5 (DSKB14:260012)     0 bad pages in 0 distinct regions.
+BPC1 (DSKB15:260013)     0 bad pages in 0 distinct regions.
+BPC7 (DSKB16:260014)     0 bad pages in 0 distinct regions.
+BPC11(DSKB17:260015)     0 bad pages in 0 distinct regions.
+Done.
+
+!
+!ASSIGN DSK TTY	;Put GAN 3 listing in DSK:SZRPT.LST
+DSK assigned
+
+!R SZRPT
+Inhouse separated? (Y,N,I,O,2) Y
+Sort by? NUMACCOUNT
+Working...
+ACCOUNT NUMBER? 3
+
+!DEASSIGN	;Listing back to TTY
+
+!R SZRPT
+Inhouse separated? (Y,N,I,O,2) 6
+Sort by? SIZE
+Working...
+13-FEB-1996	0:45
+
+TOTAL PAGES 929249  FILES 15471
+
+  INHOUSE	QUOTA		  OVER		OUTHOUSE
+
+913386   14105                           15863   1366
+
+ 60 552564 1601 600000 TNT                49   7777  371 250000 TYMNET
+ 75 137432  258 300000 UN1                62   2188  321   2105#MURTAUGH 83
+ 86 100398 1899 100000#SYS       398      74   1811    7   5000 FREITAS2
+ 88  19723  319 500000 CARL               79    768  117   2000 NOVAFIELD
+ 89   9711  210  15000 NSSC               83    699   65   2500 BRUCES
+ 90   5847  426  25000 UPL                86    544  102    600 FIRNNET
+ 91   5710 1786  10000 SUBMIT             90    492  185    500 UKSUP
+ 91   5013  346  50000 JMS                92    363   35    500 ACCG1
+ 92   4158  198   5000 NTS                93    170   22    170 DBLACK
+ 92   3857  593  11000 TKOCHMANN          94    142   27    150 BTNL
+ 92   3833  459  10000 TECHSERV           95    137   28    150 BTBEL
+ 93   3793  207  50000 ACTRTY             95    130    2      5#EPSG 125
+ 93   3734   29   5000 SRA                96     86    1      5#ROCKOPNS 81
+ 94   3538  341   5000 WRFS               96     72    9  12000 NETCON
+ 94   2903  356 600000 PAPDEV             97     71    7     50#ENMC 21
+ 94   2586   63  25000 M33                97     56    6     60 DIALNET
+ 94   2559  274  10000 MPL                98     55    3     50#MZORTMAN 5
+ 95   2551  361  25000 CBGALLY            98     45    9     50 ECSC
+ 95   2362  118  10000 OPER               98     33    3   1250 UKCMIU
+ 95   2333  602   5000 JWANG              98     33    1    500 BOFAOPS
+ 96   2271   79   3000 CTS                98     29    1     50 DSTOFKO
+ 96   2039    4   5000 HOLD               99     20    1      5#DGODARD 15
+ 96   2001  298   2000#NSCNET    1        99     15    2     15 DESIMONEJ
+ 96   1948   14   7500 FTMAGNUM           99     14    6    500 TYEH
+ 96   1846  107  20000 OSP                99     13    1     50 MCOSTELLO
+ 97   1732   15   7500 MAGNUM             99     12    2    200 AROSS
+ 97   1429  370  25000 UFD                99     11    3     50 BTSNG
+ 97   1417   26 250000 UAS                99     10    4    100 BTJAPAN
+ 97   1274  120   5000 SPL                99      9    1      5#SCARTER 4
+ 97   1270  136   2500 UTIL               99      8    1      5#TRAY 3
+ 97   1259   72  25000 *1BATCH            99      6    3      5#DBVAL 1
+ 97   1159  119   1500 JWOOD              99      6    2      5#CONFR 1
+ 98   1126  147   2000 UL6NET             99      5    1      5 RWONG
+ 98    995  145   1500 UKOPS              99      5    2      5 TSAMPSON
+ 98    993   45  25000 MAIL               99      4    1      5 BTNEWCO
+ 98    833   50   1500 TELECOMSUP         99      3    1      5 GCSCC
+ 98    795   99   3000 TNSM               99      3    1    100 NGREGORY
+ 98    733    6   1000 HACKWOOD           99      2    1      5 RFISHER
+ 98    726  102   1250 DULAM              99      2    1      0#JBURGESS 2
+ 98    694  109   1250 SAILIB             99      2    1      5 DECNET
+ 98    621   92   1250 FISBEIN            99      2    1      5 SCARTWRIGHT
+ 98    581   52   1250 PSNEDDON           99      2    1      5 PMAY
+ 98    579   79  25000 WRS                99      2    1     50 CHERMAN
+ 98    576   78   5000 XEXEC              99      1    1    500 DOYLEM
+ 98    480   45  25000 SYSNEWS            99      1    1      5 FRAHIMZADEH
+ 99    466  110    600 TELTEST            99      1    1      5 DUPONT
+ 99    431   16    499 CUD10              99      1    1      1 APALIUCA
+ 99    419    3   1250 PERPOPER           99      1    1      5 TSDCONTROL
+ 99    367    8    500 MOORING           100      1    1      5 PCINET
+ 99    350   13  50000 FTSYS             100      0    0      0 RHERSON
+ 99    327   30   1250 PEAK              100      0    0      0 PPEEL
+ 99    316  106   1250 WARNERD           100      0    0      0 SYNC
+ 99    315   39  25000 FOROTS            100      0    0      0 MOSBORN
+ 99    307   55  25000 SPOOL             100      0    0      0 KEBLACK
+ 99    294   27 100000 OSMAN             100      0    0      0 JNIETO
+ 99    274   31    300 MNEWTON           100      0    0      0 JNAND
+ 99    259   27   1250 SPPOPER           100      0    0      0 FRSPT
+ 99    246   23    500 DOUGE             100      0    0    150 GCSCA
+ 99    223    6    500 BETADIAG          100      0    0      5 DWARDEN
+ 99    214   23    200#BTFR      14      100      0    0      5 ELEWIS
+
+!R QUOLST
+Disk quotas (number of pages available) for [3,431116]
+Str	 FCFS	LOGOUT	 used	left:(in) (out)	 (sys)
+-----	------	------	------	------	------	------
+DSKB:	 50000	 50000	  5012	 44988	 44988	886541    (JMS)
+
+!TYPE SZRPT.LST
+
+13-FEB-1996	0:45
+
+TOTAL PAGES 42950  FILES 3474
+
+  INHOUSE	QUOTA		  OVER		OUTHOUSE
+
+42950   3474                             0   0
+
+ 45  19723  319 500000 CARL
+ 59   5710 1786  10000 SUBMIT
+ 70   5013  346  50000 JMS
+ 76   2586   63  25000 M33
+ 82   2559  274  10000 MPL
+ 87   1846  107  20000 OSP
+ 90   1274  120   5000 SPL
+ 92    993   45  25000 MAIL
+ 94    694  109   1250 SAILIB
+ 95    579   79  25000 WRS
+ 96    576   78   5000 XEXEC
+ 97    327   30   1250 PEAK
+ 98    315   39  25000 FOROTS
+ 98    294   27 100000 OSMAN
+ 99    259   27   1250 SPPOPER
+ 99    179   22  99999 OSU
+ 99     21    2  25000 INFO
+100      2    1  20000 LINK10
+100      0    0  34464 YEUX
+100      0    0  50000 TXSDOC
+100      0    0   1000 TXSTEST
+100      0    0  99999 OSNF
+100      0    0   3500 NDT
+100      0    0  25000 TXSTEXT
+100      0    0  12500 TXSSUP
+
+
+EXIT
+
+!COPY SZRPT.LOG,SZRPT.Tuesday
+
+!;SZRPT.LST=GAN:3, SZRPT.LOG=ALL
+!DIRECT SZRPT.*
+
+SZRPT   TUE       5  13-FEB-96   47    ALL RD  NO      2048          
+SZRPT   LST       2  13-FEB-96   45    ALL RD  NO       177          
+SZRPT   LOG       1  13-FEB-96   45    ALL RD  NO      2048          
+SZRPT   MON       5  12-FEB-96   48    ALL RD  NO      2048          
+SZRPT   SUN       5  11-FEB-96   48    ALL RD  NO      2048          
+SZRPT   SAT       5  10-FEB-96   47    ALL RD  NO      2048          
+SZRPT   FRI       5   9-FEB-96   48    ALL RD  NO      2048          
+SZRPT   THU       5   8-FEB-96   47    ALL RD  NO      2048          
+SZRPT   WED       5   7-FEB-96   48    ALL RD  NO      2048          
+SZRPT   CTL       2  28-APR-95 1106    ALL RD  NO        91          
+SZRPT   BAK       2   9-NOV-91 2242    ALL RD  NO        87          
+SZRPT   D55       2   5-JAN-89 1137    ALL RD  NO       377          
+SZRPT   GAN       6  21-JAN-87 1908    ALL RD  NO      2464          
+
+!SENDMAIL PDP10STATS@TARDIS
+Type letter:
+SZRPT report
+:SEND CHAR 2
+File name: SZRPT.LOG
+:SEND CHAR 4
+
+End of SAIL execution
+!;FINDIT *.TMP/NOCHECK
+!LOGOUT
+81.25 tru
+terminal time: 0:04:00
+
+; Req #11270 completed
+   
