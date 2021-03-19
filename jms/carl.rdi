@@ -1,0 +1,1206 @@
+Master host: 33
+1033 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+(CARL        :  26) LOGON.SHR     13 10-May-85 19:19 -- bad checksum QEVKAY
+                           should be 23-May-85 03:42 COLSAY  ALL RUN RUN  40010
+(CARL        :  26) I2S6.SAV      14 13-Sep-89 00:00 -- bad checksum SORDAZ
+                           should be 12-Sep-89 18:32 ZEMYUF  ALL  RD  NO
+(CARL        :  26) FOO.BAK        2 25-Feb-70 10:55 -- bad checksum MORKAC
+                           should be 22-Mar-91 17:46 ZUSJEZ  ALL  RD  NO
+(CARL        :  26) FNDBAD.RPT     1 12-Dec-92 21:09 -- bad checksum VAVVAV
+                           should be 31-Jan-93 00:26 CALMIY  ALL  RD  NO
+(CARL        :  26) FILE.BAK       2 27-Apr-93 19:05 -- bad checksum SISRIT
+                           should be 27-Apr-93 18:57 JADSAL  ALL  RD  NO
+(CARL        :  26) FILE.REL       2 27-Apr-93 19:06 -- bad checksum XOYNUY
+                           should be 27-Apr-93 19:05 DUQQIJ  ALL  RD  NO
+(CARL        :  26) FILE.SAI       2 27-Apr-93 19:06 -- bad checksum JADSAL
+                           should be 27-Apr-93 19:05 GULTEL  ALL  RD  NO
+(CARL        :  26) SWITCH.INI     2 07-May-88 23:58 -- bad checksum JORGAT
+                           should be 01-Oct-91 16:29 JAWKOC  ALL  RD  NO
+(CARL        :  26) SWITCH.BAK     2 31-Jul-92 12:19 -- bad checksum GOKKAZ
+                           should be 17-Oct-89 21:31 JAWKOC  ALL  RD  NO
+(CARL        :  26) CRSHID.LOG     2 27-Apr-93 16:02 -- bad checksum HIHGEQ
+                           should be 13-Jun-91 12:08 KUVSEJ  ALL  RD  NO
+(CARL        :  26) SYSLOG.SAV    25 13-Apr-89 14:48 -- bad license 
+                           should be 13-Apr-89 14:45 SIMFEK  ALL  RD  NO 342000
+(CARL        :  26) SCAN.LOG                         -- missing on slave
+(CARL        :  26) ND2575.TYM                       -- missing on slave
+(CARL        :  26) ND2575.T02                       -- missing on slave
+(CARL        :  26) ND2575.T03                       -- missing on slave
+(CARL        :  26) ND2575.T01                       -- missing on slave
+(CARL        :  26) DEFOPR.TXT                       -- missing on slave
+(CARL        :  26) DEFOPR.DEF                       -- missing on slave
+(CARL        :  26) DEFOPR.110                       -- missing on slave
+(CARL        :  26) VUE.INI                          -- missing on slave
+(CARL        :  26) TAR05.SAI                        -- missing on slave
+(CARL        :  26) ND2467.LOD                       -- missing on slave
+(CARL        :  26) ND2467.BND                       -- missing on slave
+(CARL        :  26) ND2467.NIB                       -- missing on slave
+(CARL        :  26) ND2467.C00                       -- missing on slave
+(CARL        :  26) SYSLG.SAV                        -- missing on slave
+(CARL        :  26) TUMS88.4QT                       -- missing on slave
+(CARL        :  26) ENRICH.TXT                       -- missing on slave
+(CARL        :  26) ENRICH.BAK                       -- missing on slave
+(CARL        :  26) SYSDA.SAV                        -- missing on slave
+(CARL        :  26) TUMS88.2QT                       -- missing on slave
+(CARL        :  26) TUMS88.1QT                       -- missing on slave
+(CARL        :  26) DED.14                           -- missing on slave
+(CARL        :  26) ACCESS.L0G                       -- missing on slave
+(CARL        :  26) TAR04.SAI                        -- missing on slave
+(CARL        :  26) COMPRE.C                         -- missing on slave
+(CARL        :  26) COMPRE.BAK                       -- missing on slave
+(CARL        :  26) COMPRE.SRC                       -- missing on slave
+(CARL        :  26) MACS.TIX                         -- missing on slave
+(CARL        :  26) DSKB.QIK                         -- missing on slave
+(CARL        :  26) SY.DAB                           -- missing on slave
+(CARL        :  26) AUTO.PHN                         -- missing on slave
+(CARL        :  26) ARPA.PHN                         -- missing on slave
+(CARL        :  26) TEST.SAI                         -- missing on slave
+(CARL        :  26) SYSSHO.SAI                       -- missing on slave
+(CARL        :  26) SYSSHO.SCM                       -- missing on slave
+(CARL        :  26) SYSSHO.BAK                       -- missing on slave
+(CARL        :  26) CUAACT.COV                       -- missing on slave
+(CARL        :  26) BRKINI.SAI                       -- missing on slave
+(CARL        :  26) BRKINI.REQ                       -- missing on slave
+(CARL        :  26) FBLOCK.FMT                       -- missing on slave
+(CARL        :  26) SYSSHO.SAV                       -- missing on slave
+(CARL        :  26) SY.SAV                           -- missing on slave
+(CARL        :  26) SENDMA.SAI                       -- missing on slave
+(CARL        :  26) SYSMON.SAI                       -- missing on slave
+(CARL        :  26) SPLTAP.SAI                       -- missing on slave
+(CARL        :  26) SNOSYM.XPN                       -- missing on slave
+(CARL        :  26) SNOSYM.SAV                       -- missing on slave
+(CARL        :  26) RPM.000                          -- missing on slave
+(CARL        :  26) APPEND.SAI                       -- missing on slave
+(CARL        :  26) SPEC.NET                         -- missing on slave
+(CARL        :  26) XXFSCO.930                       -- missing on slave
+(CARL        :  26) XXFSCO.CTL                       -- missing on slave
+(CARL        :  26) RUFSC.MAC                        -- missing on slave
+(CARL        :  26) TAR.SAI                          -- missing on slave
+(CARL        :  26) TAR.SCM                          -- missing on slave
+(CARL        :  26) ETOP.REQ                         -- missing on slave
+(CARL        :  26) FASBOL.CTL                       -- missing on slave
+(CARL        :  26) TAR03.SAI                        -- missing on slave
+(CARL        :  26) RCR.SAI                          -- missing on slave
+(CARL        :  26) SYSLOG.REL                       -- missing on slave
+(CARL        :  26) SYSLOG.SAI                       -- missing on slave
+(CARL        :  26) SYSLOG.BAK                       -- missing on slave
+(CARL        :  26) REMOTE.GID                       -- missing on slave
+(CARL        :  26) REMOTE.GED                       -- missing on slave
+(CARL        :  26) NISF74.TIX                       -- missing on slave
+(CARL        :  26) MAIL.BAK                         -- missing on slave
+(CARL        :  26) UNKNWN.PHN                       -- missing on slave
+(CARL        :  26) CUA.PHN                          -- missing on slave
+(CARL        :  26) BYE.TXT                          -- missing on slave
+(CARL        :  26) LICENS.DOC                       -- missing on slave
+(CARL        :  26) LICENS.EXM                       -- missing on slave
+(CARL        :  26) MAGNUM.WHR                       -- missing on slave
+(CARL        :  26) AI4Q88.REP                       -- missing on slave
+(CARL        :  26) CHERIE.SIZ                       -- missing on slave
+(CARL        :  26) SAIL.BAK                         -- missing on slave
+(CARL        :  26) TAR02.SAI                        -- missing on slave
+(CARL        :  26) GFD.DST                          -- missing on slave
+(CARL        :  26) ACCT.FMT                         -- missing on slave
+(CARL        :  26) MINUTE.MEM                       -- missing on slave
+(CARL        :  26) MOCXID.CMD                       -- missing on slave
+(CARL        :  26) BITARY.REQ                       -- missing on slave
+(CARL        :  26) BITARY.REL                       -- missing on slave
+(CARL        :  26) BITARY.SAI                       -- missing on slave
+(CARL        :  26) DDB.DDT                          -- missing on slave
+(CARL        :  26) NIHNRL.PHN                       -- missing on slave
+(CARL        :  26) FRAMER.PHN                       -- missing on slave
+(CARL        :  26) DEFDEB.SAV                       -- missing on slave
+(CARL        :  26) 3RIB.SAI                         -- missing on slave
+(CARL        :  26) QIKPAG.SAV                       -- missing on slave
+(CARL        :  26) SAIL.PRC                         -- missing on slave
+(CARL        :  26) LIX.SAI                          -- missing on slave
+(CARL        :  26) AB2787.CA                        -- missing on slave
+(CARL        :  26) AISHOW.TXT                       -- missing on slave
+(CARL        :  26) VMCHAN.BAK                       -- missing on slave
+(CARL        :  26) UFD.SRT                          -- missing on slave
+(CARL        :  26) FIXSGC.REL                       -- missing on slave
+(CARL        :  26) LOGPKG.S33                       -- missing on slave
+(CARL        :  26) TTYDDB.SAI                       -- missing on slave
+(CARL        :  26) FRENCH.KEY                       -- missing on slave
+(CARL        :  26) CARL.33                          -- missing on slave
+(CARL        :  26) VMCHAN.REL                       -- missing on slave
+(CARL        :  26) VMCHAN.SAI                       -- missing on slave
+(CARL        :  26) VMCHAN.REQ                       -- missing on slave
+(CARL        :  26) CK.SAI                           -- missing on slave
+(CARL        :  26) CK.REL                           -- missing on slave
+(CARL        :  26) CARL.RDS                         -- missing on slave
+(CARL        :  26) LNKMAC.WHR                       -- missing on slave
+(CARL        :  26) KLLT.SAI                         -- missing on slave
+(CARL        :  26) KLLT.REL                         -- missing on slave
+(CARL        :  26) KLLT.REQ                         -- missing on slave
+(CARL        :  26) TREE.PER                         -- missing on slave
+(CARL        :  26) TREE.1ST                         -- missing on slave
+(CARL        :  26) TREE.NTH                         -- missing on slave
+(CARL        :  26) TREE.SRT                         -- missing on slave
+(CARL        :  26) CARL.CMP                         -- missing on slave
+(CARL        :  26) X.REL                            -- missing on slave
+(CARL        :  26) TYM5.CTL                         -- missing on slave
+(CARL        :  26) TYM.CTL                          -- missing on slave
+(CARL        :  26) ISO6.REL                         -- missing on slave
+(CARL        :  26) ISO6.MAC                         -- missing on slave
+(CARL        :  26) ISO6.LST                         -- missing on slave
+(CARL        :  26) ISO6.FAS                         -- missing on slave
+(CARL        :  26) ND4344.C02                       -- missing on slave
+(CARL        :  26) ND4344.C01                       -- missing on slave
+(CARL        :  26) ND4344.C00                       -- missing on slave
+(CARL        :  26) ND4344.CMD                       -- missing on slave
+(CARL        :  26) ND4344.T02                       -- missing on slave
+(CARL        :  26) ND4344.T01                       -- missing on slave
+(CARL        :  26) ND4344.TYM                       -- missing on slave
+(CARL        :  26) ND3212.C02                       -- missing on slave
+(CARL        :  26) ND3212.C01                       -- missing on slave
+(CARL        :  26) ND3212.C00                       -- missing on slave
+(CARL        :  26) ND3212.CMD                       -- missing on slave
+(CARL        :  26) ND3212.T02                       -- missing on slave
+(CARL        :  26) ND3212.T01                       -- missing on slave
+(CARL        :  26) ND3212.TYM                       -- missing on slave
+(CARL        :  26) ISO6.BAK                         -- missing on slave
+(CARL        :  26) UNITAP.SAI                       -- missing on slave
+(CARL        :  26) TYM5.LOG                         -- missing on slave
+(CARL        :  26) SPECIA.FDC                       -- missing on slave
+(CARL        :  26) AGENDA.TUE                       -- missing on slave
+(CARL        :  26) AGENDA.THU                       -- missing on slave
+(CARL        :  26) AGENDA.TXT                       -- missing on slave
+(CARL        :  26) SYSDAT.MON                       -- missing on slave
+(CARL        :  26) MACINF.TIX                       -- missing on slave
+(CARL        :  26) SHOVEL.SAI                       -- missing on slave
+(CARL        :  26) TELECO.WHR                       -- missing on slave
+(CARL        :  26) GALLY.PHN                        -- missing on slave
+(CARL        :  26) BIJOUX.I88                       -- missing on slave
+(CARL        :  26) OPRBLD.SAI                       -- missing on slave
+(CARL        :  26) VMFILE.BAK                       -- missing on slave
+(CARL        :  26) OPRBLD.SAV                       -- missing on slave
+(CARL        :  26) OPRBLD.REL                       -- missing on slave
+(CARL        :  26) VMFILE.D35                       -- missing on slave
+(CARL        :  26) SYSDAT.BAK                       -- missing on slave
+(CARL        :  26) SYSDAT.SCM                       -- missing on slave
+(CARL        :  26) SYSDAT.SAI                       -- missing on slave
+(CARL        :  26) SYSDAT.20                        -- missing on slave
+(CARL        :  26) DAYTYM.REQ                       -- missing on slave
+(CARL        :  26) SYSDAT.F33                       -- missing on slave
+(CARL        :  26) SYSDAT.COR                       -- missing on slave
+(CARL        :  26) SYSDAT.NEW                       -- missing on slave
+(CARL        :  26) SYSDAT.X32                       -- missing on slave
+(CARL        :  26) SAILPC.BAK                       -- missing on slave
+(CARL        :  26) SAILPC.XEX                       -- missing on slave
+(CARL        :  26) SAILPC.SUB                       -- missing on slave
+(CARL        :  26) SAILPC.SPL                       -- missing on slave
+(CARL        :  26) SPAGES.PRP                       -- missing on slave
+(CARL        :  26) SYSDAT.RUN                       -- missing on slave
+(CARL        :  26) SYSDAT.PRP                       -- missing on slave
+(CARL        :  26) SYSDAT.DEF                       -- missing on slave
+(CARL        :  26) SYSDAT.SAV                       -- missing on slave
+(CARL        :  26) SETOP1.PRP                       -- missing on slave
+(CARL        :  26) TTYTAB.SAI                       -- missing on slave
+(CARL        :  26) TTR.SAI                          -- missing on slave
+(CARL        :  26) VMFILE.10                        -- missing on slave
+(CARL        :  26) HL.RND                           -- missing on slave
+(CARL        :  26) PCOM.RND                         -- missing on slave
+(CARL        :  26) ESCTRP.LST                       -- missing on slave
+(CARL        :  26) TOPS10.SYF                       -- missing on slave
+(CARL        :  26) SZRPT.32                         -- missing on slave
+(CARL        :  26) ADVISE.SHR                       -- missing on slave
+(CARL        :  26) VMFILE.REL                       -- missing on slave
+(CARL        :  26) VMFILE.D05                       -- missing on slave
+(CARL        :  26) VMFILE.DOC                       -- missing on slave
+(CARL        :  26) FOO.SAI                          -- missing on slave
+(CARL        :  26) FOO.CTL                          -- missing on slave
+(CARL        :  26) FOO.MAC                          -- missing on slave
+(CARL        :  26) UNDEL.CTL                        -- missing on slave
+(CARL        :  26) UNDEL.BAK                        -- missing on slave
+(CARL        :  26) CK10.SAI                         -- missing on slave
+(CARL        :  26) SUMLS.SAV                        -- missing on slave
+(CARL        :  26) CK10.BAK                         -- missing on slave
+(CARL        :  26) CK10.SAV                         -- missing on slave
+(CARL        :  26) CK10.REL                         -- missing on slave
+(CARL        :  26) ND3713.C02                       -- missing on slave
+(CARL        :  26) ND3713.C01                       -- missing on slave
+(CARL        :  26) ND3713.C00                       -- missing on slave
+(CARL        :  26) ND3713.CMD                       -- missing on slave
+(CARL        :  26) ND3713.T02                       -- missing on slave
+(CARL        :  26) ND3713.T01                       -- missing on slave
+(CARL        :  26) ND3713.TYM                       -- missing on slave
+(CARL        :  26) ND2237.C02                       -- missing on slave
+(CARL        :  26) ND2237.C01                       -- missing on slave
+(CARL        :  26) ND2237.C00                       -- missing on slave
+(CARL        :  26) ND2237.CMD                       -- missing on slave
+(CARL        :  26) ND2237.T02                       -- missing on slave
+(CARL        :  26) ND2237.T01                       -- missing on slave
+(CARL        :  26) ND2237.TYM                       -- missing on slave
+(CARL        :  26) TYMHLP.FIN                       -- missing on slave
+(CARL        :  26) TYMHLP.INI                       -- missing on slave
+(CARL        :  26) TARG.SAI                         -- missing on slave
+(CARL        :  26) DEFXXX.SAI                       -- missing on slave
+(CARL        :  26) DEFXXX.BAK                       -- missing on slave
+(CARL        :  26) ACQUAI.PHN                       -- missing on slave
+(CARL        :  26) SKATE.PHN                        -- missing on slave
+(CARL        :  26) GIRL.PHN                         -- missing on slave
+(CARL        :  26) FAMILY.PHN                       -- missing on slave
+(CARL        :  26) DEALER.PHN                       -- missing on slave
+(CARL        :  26) AIMAIL.CB1                       -- missing on slave
+(CARL        :  26) EMPIRE.74                        -- missing on slave
+(CARL        :  26) FILE.DAT                         -- missing on slave
+(CARL        :  26) SYF.CMD                          -- missing on slave
+(CARL        :  26) SYF.407                          -- missing on slave
+(CARL        :  26) LOGALL.DAT                  -- missing on slave
+(CARL        :  26) VMARGS.SAI                       -- missing on slave
+(CARL        :  26) AXPORT.MAC                       -- missing on slave
+(CARL        :  26) SETOP0.PRP                       -- missing on slave
+(CARL        :  26) RDIST.SAI                        -- missing on slave
+(CARL        :  26) JQUE.REL                         -- missing on slave
+(CARL        :  26) P035.NEW                         -- missing on slave
+(CARL        :  26) JOBS.NEW                         -- missing on slave
+(CARL        :  26) OPPS.REL                         -- missing on slave
+(CARL        :  26) TAR06.SAI                        -- missing on slave
+(CARL        :  26) FOOB.LOG                         -- missing on slave
+(CARL        :  26) FOOB.CTL                         -- missing on slave
+(CARL        :  26) OPPS.SAV                         -- missing on slave
+(CARL        :  26) TMP.TAR                          -- missing on slave
+(CARL        :  26) APR89.CTY                        -- missing on slave
+(CARL        :  26) ADMIN.TXT                        -- missing on slave
+(CARL        :  26) TAXES.86                         -- missing on slave
+(CARL        :  26) TAXES.BAK                        -- missing on slave
+(CARL        :  26) OPB39.TIX                        -- missing on slave
+(CARL        :  26) NBSMAI.AUG                       -- missing on slave
+(CARL        :  26) MAGTAB.WHR                       -- missing on slave
+(CARL        :  26) PASSWO.SAI                       -- missing on slave
+(CARL        :  26) OPPS.REQ                         -- missing on slave
+(CARL        :  26) QIKSAV.DEF                       -- missing on slave
+(CARL        :  26) PATCH.COV                        -- missing on slave
+(CARL        :  26) PATCH.BAK                        -- missing on slave
+(CARL        :  26) PERF.MOD                         -- missing on slave
+(CARL        :  26) DAYTIM.SAI                       -- missing on slave
+(CARL        :  26) DAYTIM.BAK                       -- missing on slave
+(CARL        :  26) LOGTST.SAI                       -- missing on slave
+(CARL        :  26) LOGTST.SAV                       -- missing on slave
+(CARL        :  26) LOGTS1.SAI                       -- missing on slave
+(CARL        :  26) LOGTST.REL                       -- missing on slave
+(CARL        :  26) DAYTIM.816                       -- missing on slave
+(CARL        :  26) STXLIB.SAI                       -- missing on slave
+(CARL        :  26) STXLIB.REL                       -- missing on slave
+(CARL        :  26) STXLIB.REQ                       -- missing on slave
+(CARL        :  26) STXLIB.BAK                       -- missing on slave
+(CARL        :  26) SETOPR.SAI                       -- missing on slave
+(CARL        :  26) OPRPSW.SAV                       -- missing on slave
+(CARL        :  26) OPRPSW.SAI                       -- missing on slave
+(CARL        :  26) MYTEXT.S                         -- missing on slave
+(CARL        :  26) EXPTOT.FOR                       -- missing on slave
+(CARL        :  26) PQUE.SAI                         -- missing on slave
+(CARL        :  26) PQUE.DEF                         -- missing on slave
+(CARL        :  26) PQUE.BAK                         -- missing on slave
+(CARL        :  26) PQUE.REQ                         -- missing on slave
+(CARL        :  26) AUXSPL.MKR                       -- missing on slave
+(CARL        :  26) CUSP.NFO                         -- missing on slave
+(CARL        :  26) COPY.SAI                         -- missing on slave
+(CARL        :  26) DAYTIM.LST                       -- missing on slave
+(CARL        :  26) DEFOPR.SAI                       -- missing on slave
+(CARL        :  26) DEFOPR.INF                       -- missing on slave
+(CARL        :  26) DEFOPR.BAK                       -- missing on slave
+(CARL        :  26) ND2467.CMD                       -- missing on slave
+(CARL        :  26) ND2467.TYM                       -- missing on slave
+(CARL        :  26) DEFOPR.107                       -- missing on slave
+(CARL        :  26) MISC.PHN                         -- missing on slave
+(CARL        :  26) COMPTR.PHN                       -- missing on slave
+(CARL        :  26) BILLS.PHN                        -- missing on slave
+(CARL        :  26) COMAND.CMD                       -- missing on slave
+(CARL        :  26) CRT.SET                          -- missing on slave
+(CARL        :  26) CRT.OCT                          -- missing on slave
+(CARL        :  26) CHERYL.RES                       -- missing on slave
+(CARL        :  26) DEFOPR.106                       -- missing on slave
+(CARL        :  26) DEFOPR.105                       -- missing on slave
+(CARL        :  26) DEFOPR.104                       -- missing on slave
+(CARL        :  26) DEFOPR.CMD                       -- missing on slave
+(CARL        :  26) DEFOPR.DCL                       -- missing on slave
+(CARL        :  26) SETOP.REQ                        -- missing on slave
+(CARL        :  26) CATREC.S88                       -- missing on slave
+(CARL        :  26) CATREC.I88                       -- missing on slave
+(CARL        :  26) CATREC.SAI                       -- missing on slave
+(CARL        :  26) CATREC.S89                       -- missing on slave
+(CARL        :  26) CATREC.I89                       -- missing on slave
+(CARL        :  26) VUE.BAK                          -- missing on slave
+(CARL        :  26) VMSPEC.SAI                       -- missing on slave
+(CARL        :  26) VMSPEC.BAK                       -- missing on slave
+(CARL        :  26) VMSPEC.DEF                       -- missing on slave
+(CARL        :  26) FOOBAR.BAK                       -- missing on slave
+(CARL        :  26) ATTBIL.PRP                       -- missing on slave
+(CARL        :  26) TERMS.TXT                        -- missing on slave
+(CARL        :  26) VMFILB.SAI                       -- missing on slave
+(CARL        :  26) TERMS.LAB                        -- missing on slave
+(CARL        :  26) FIXMAY.CTL                       -- missing on slave
+(CARL        :  26) FIXMAY.L00                       -- missing on slave
+(CARL        :  26) SETLOG.S                         -- missing on slave
+(CARL        :  26) SETOP.BAK                        -- missing on slave
+(CARL        :  26) SETOP.GID                        -- missing on slave
+(CARL        :  26) SETOP.EXM                        -- missing on slave
+(CARL        :  26) SETOP.PRP                        -- missing on slave
+(CARL        :  26) FRMPKG.SAI                       -- missing on slave
+(CARL        :  26) FRMPKG.REQ                       -- missing on slave
+(CARL        :  26) SYDISP.REQ                       -- missing on slave
+(CARL        :  26) SYR.SAI                          -- missing on slave
+(CARL        :  26) CARDSL.X01                       -- missing on slave
+(CARL        :  26) CARDSL.002                       -- missing on slave
+(CARL        :  26) CARDSL.DAT                       -- missing on slave
+(CARL        :  26) CARDSL.001                       -- missing on slave
+(CARL        :  26) CARDSL.SAV                       -- missing on slave
+(CARL        :  26) CARDSL.DXX                       -- missing on slave
+(CARL        :  26) CARDSL.SAI                       -- missing on slave
+(CARL        :  26) DEFOPR.SAV                       -- missing on slave
+(CARL        :  26) TXSINF.WHR                       -- missing on slave
+(CARL        :  26) VMSWIT.SAI                       -- missing on slave
+(CARL        :  26) VMSWIT.REL                       -- missing on slave
+(CARL        :  26) VMSWIT.BAK                       -- missing on slave
+(CARL        :  26) VMSPEC.REL                       -- missing on slave
+(CARL        :  26) VMSPEC.REQ                       -- missing on slave
+(CARL        :  26) CMPORT.MAC                       -- missing on slave
+(CARL        :  26) CKSY.SAV                         -- missing on slave
+(CARL        :  26) SETOP.MAC                        -- missing on slave
+(CARL        :  26) OPRPAS.SAI                       -- missing on slave
+(CARL        :  26) DEFOPR.CTL                       -- missing on slave
+(CARL        :  26) SETOP.FMT                        -- missing on slave
+(CARL        :  26) SETOP.SEC                        -- missing on slave
+(CARL        :  26) OPRPAS.SAV                       -- missing on slave
+(CARL        :  26) OPRPAS.REL                       -- missing on slave
+(CARL        :  26) PASNAM.SAI                       -- missing on slave
+(CARL        :  26) PQUEUE.BAK                       -- missing on slave
+(CARL        :  26) ARGTST.SAI                       -- missing on slave
+(CARL        :  26) ARGTST.SAV                       -- missing on slave
+(CARL        :  26) CATREC.86                        -- missing on slave
+(CARL        :  26) LOG.ME                           -- missing on slave
+(CARL        :  26) CATREC.87                        -- missing on slave
+(CARL        :  26) PQUEUE.DEF                       -- missing on slave
+(CARL        :  26) XMASCD.82                        -- missing on slave
+(CARL        :  26) ACCESS.LFL                       -- missing on slave
+(CARL        :  26) INFO.SAI                         -- missing on slave
+(CARL        :  26) PCODUL.SAI                       -- missing on slave
+(CARL        :  26) MONED1.SAI                       -- missing on slave
+(CARL        :  26) DUSAGE.RPT                       -- missing on slave
+(CARL        :  26) DUSAGE.062                       -- missing on slave
+(CARL        :  26) VUE.HP                           -- missing on slave
+(CARL        :  26) X2X.SAV                          -- missing on slave
+(CARL        :  26) CATREC.SAV                       -- missing on slave
+(CARL        :  26) CATREC.85                        -- missing on slave
+(CARL        :  26) DCLD.MAC                         -- missing on slave
+(CARL        :  26) GETIT.TBA                        -- missing on slave
+(CARL        :  26) DUSAGE.073                       -- missing on slave
+(CARL        :  26) INFO.DT                          -- missing on slave
+(CARL        :  26) ACCESS.LIS                       -- missing on slave
+(CARL        :  26) 034TEL.OUT                       -- missing on slave
+(CARL        :  26) 034TEL.COM                       -- missing on slave
+(CARL        :  26) REQ.FDM                          -- missing on slave
+(CARL        :  26) OPRSUB.SAI                       -- missing on slave
+(CARL        :  26) OPRSUB.BAK                       -- missing on slave
+(CARL        :  26) OPRSUB.LST                       -- missing on slave
+(CARL        :  26) SYSSHO.20                        -- missing on slave
+(CARL        :  26) WELLFS.MKT                       -- missing on slave
+(CARL        :  26) UNITDB.SAI                       -- missing on slave
+(CARL        :  26) TEST.SAV                         -- missing on slave
+(CARL        :  26) TEST.DAT                         -- missing on slave
+(CARL        :  26) TEST.123                         -- missing on slave
+(CARL        :  26) TEST.REP                         -- missing on slave
+(CARL        :  26) TEST.CTL                         -- missing on slave
+(CARL        :  26) TEST.LN3                         -- missing on slave
+(CARL        :  26) OPRSUB.REQ                       -- missing on slave
+(CARL        :  26) OPRSUB.REL                       -- missing on slave
+(CARL        :  26) APPEND.SAV                       -- missing on slave
+(CARL        :  26) VMARGP.SAI                       -- missing on slave
+(CARL        :  26) BRKINI.S                         -- missing on slave
+(CARL        :  26) STOPCD.035                       -- missing on slave
+(CARL        :  26) PASPKG.SAI                       -- missing on slave
+(CARL        :  26) PASPKG.REQ                       -- missing on slave
+(CARL        :  26) PASPKG.REL                       -- missing on slave
+(CARL        :  26) PASPRN.SAI                       -- missing on slave
+(CARL        :  26) CATSAL.86                        -- missing on slave
+(CARL        :  26) CATSAL.87                        -- missing on slave
+(CARL        :  26) CATSAL.85                        -- missing on slave
+(CARL        :  26) JOBSYM.CTL                       -- missing on slave
+(CARL        :  26) DSKCHK.SAI                       -- missing on slave
+(CARL        :  26) GETLIC.SAI                       -- missing on slave
+(CARL        :  26) GETLIC.LST                       -- missing on slave
+(CARL        :  26) JDEBUG.MKR                       -- missing on slave
+(CARL        :  26) FRMTRP.REL                       -- missing on slave
+(CARL        :  26) FRMTRP.SAI                       -- missing on slave
+(CARL        :  26) AUTO.85                          -- missing on slave
+(CARL        :  26) SNOBOL.I                         -- missing on slave
+(CARL        :  26) WHEN.INI                         -- missing on slave
+(CARL        :  26) NEWH.CTL                         -- missing on slave
+(CARL        :  26) TUMS87.1QT                       -- missing on slave
+(CARL        :  26) BBOARD.MKR                       -- missing on slave
+(CARL        :  26) PCOINT.SAI                       -- missing on slave
+(CARL        :  26) KFICHE.CMD                       -- missing on slave
+(CARL        :  26) AUXRX.MAC                        -- missing on slave
+(CARL        :  26) DEBUG.COD                        -- missing on slave
+(CARL        :  26) FRMTRP.REQ                       -- missing on slave
+(CARL        :  26) CHKLOG.XEX                       -- missing on slave
+(CARL        :  26) MONREL.NXT                       -- missing on slave
+(CARL        :  26) X1X.SAV                          -- missing on slave
+(CARL        :  26) AUTO.TAX                         -- missing on slave
+(CARL        :  26) TBADCL.MAC                       -- missing on slave
+(CARL        :  26) EDIT10.SAI                       -- missing on slave
+(CARL        :  26) BIO.SAV                          -- missing on slave
+(CARL        :  26) CMDSCN.SAI                       -- missing on slave
+(CARL        :  26) BRKINI.REL                       -- missing on slave
+(CARL        :  26) CMDSCN.REL                       -- missing on slave
+(CARL        :  26) PRUNE.DAT                        -- missing on slave
+(CARL        :  26) NONAMF.041                       -- missing on slave
+(CARL        :  26) LGNEND.MAC                       -- missing on slave
+(CARL        :  26) DIRIT.LOW                        -- missing on slave
+(CARL        :  26) DIRIT.SHR                        -- missing on slave
+(CARL        :  26) RIPOFF.MMO                       -- missing on slave
+(CARL        :  26) SY.SAI                           -- missing on slave
+(CARL        :  26) PHONES.DAT                       -- missing on slave
+(CARL        :  26) SETUP.SHR                        -- missing on slave
+(CARL        :  26) BRKINI.BAK                       -- missing on slave
+(CARL        :  26) CMDSCN.REQ                       -- missing on slave
+(CARL        :  26) D24LTR.MX0                       -- missing on slave
+(CARL        :  26) XMASGT.SCW                       -- missing on slave
+(CARL        :  26) CLR.MAC                          -- missing on slave
+(CARL        :  26) ALGOR.MAC                        -- missing on slave
+(CARL        :  26) M20FAJ.MP1                       -- missing on slave
+(CARL        :  26) GIMMIE.MAC                       -- missing on slave
+(CARL        :  26) INIT10.MAC                       -- missing on slave
+(CARL        :  26) TECO.INI                         -- missing on slave
+(CARL        :  26) HASH.MAC                         -- missing on slave
+(CARL        :  26) SNOBOL.INI                       -- missing on slave
+(CARL        :  26) DSKCHR.MAC                       -- missing on slave
+(CARL        :  26) MACTEN.UNV                       -- missing on slave
+(CARL        :  26) SNOSYM.SNO                       -- missing on slave
+(CARL        :  26) RECORD.SNO                       -- missing on slave
+(CARL        :  26) CKSUM.MAC                        -- missing on slave
+(CARL        :  26) LNKTYP.SNO                       -- missing on slave
+(CARL        :  26) SCRIBE.PRT                       -- missing on slave
+(CARL        :  26) NAD.SAV                          -- missing on slave
+(CARL        :  26) PFD.SAV                          -- missing on slave
+(CARL        :  26) GIMMIE.SAV                       -- missing on slave
+(CARL        :  26) LUD33.LST                        -- missing on slave
+(CARL        :  26) LNKTYP.SAV                       -- missing on slave
+(CARL        :  26) DSLAVE.SAV                       -- missing on slave
+(CARL        :  26) USER.ALL                         -- missing on slave
+(CARL        :  26) LOGOUT.LOG                       -- missing on slave
+(CARL        :  26) LOGOUT.CTL                       -- missing on slave
+(CARL        :  26) FILDDT.SAV                       -- missing on slave
+(CARL        :  26) CATTAX.SAI                       -- missing on slave
+(CARL        :  26) INTTRP.DEF                       -- missing on slave
+(CARL        :  26) JUNK.MAI                         -- missing on slave
+(CARL        :  26) BLOCKS.PIC                       -- missing on slave
+(CARL        :  26) BOO.RAZ                          -- missing on slave
+(CARL        :  26) USER.CMD                         -- missing on slave
+(CARL        :  26) INITIA.IZE                       -- missing on slave
+(CARL        :  26) PARSE.TRE                        -- missing on slave
+(CARL        :  26) 005WRD.JOT                       -- missing on slave
+(CARL        :  26) HYPHEN.BKP                       -- missing on slave
+(CARL        :  26) MAPPIN.SAI                       -- missing on slave
+(CARL        :  26) ETOP.REL                         -- missing on slave
+(CARL        :  26) OPRPKG.SAI                       -- missing on slave
+(CARL        :  26) OPRPKG.BAK                       -- missing on slave
+(CARL        :  26) OPRPKG.REQ                       -- missing on slave
+(CARL        :  26) DAYTMM.MAC                       -- missing on slave
+(CARL        :  26) DAYTMM.BAK                       -- missing on slave
+(CARL        :  26) SAILPS.CAB                       -- missing on slave
+(CARL        :  26) NEWFIL.SAI                       -- missing on slave
+(CARL        :  26) P034N.CTR                        -- missing on slave
+(CARL        :  26) FRMRUN.SAI                       -- missing on slave
+(CARL        :  26) FRMRUN.BAK                       -- missing on slave
+(CARL        :  26) FRMRUN.REL                       -- missing on slave
+(CARL        :  26) FRMRUN.REQ                       -- missing on slave
+(CARL        :  26) CARDS.SAI                        -- missing on slave
+(CARL        :  26) CARDS.BAK                        -- missing on slave
+(CARL        :  26) FAILSA.SAV                       -- missing on slave
+(CARL        :  26) BIOBAS.PAT                       -- missing on slave
+(CARL        :  26) CARDS.SAV                        -- missing on slave
+(CARL        :  26) CARDS.DAT                        -- missing on slave
+(CARL        :  26) OPRPKG.REL                       -- missing on slave
+(CARL        :  26) LICENS.NFO                       -- missing on slave
+(CARL        :  26) KERMIT.C                         -- missing on slave
+(CARL        :  26) KERMIT.LIN                       -- missing on slave
+(CARL        :  26) CPYDAT.DAT                       -- missing on slave
+(CARL        :  26) LINES.DTT                        -- missing on slave
+(CARL        :  26) LINES.55                         -- missing on slave
+(CARL        :  26) LINES.DAT                        -- missing on slave
+(CARL        :  26) LOAN.REF                         -- missing on slave
+(CARL        :  26) FLOW.JOB                         -- missing on slave
+(CARL        :  26) INTTRP.REQ                       -- missing on slave
+(CARL        :  26) INTTRP.SAI                       -- missing on slave
+(CARL        :  26) RESLN3.CMM                       -- missing on slave
+(CARL        :  26) LPQOLD.SAV                       -- missing on slave
+(CARL        :  26) MONEDK.SAI                       -- missing on slave
+(CARL        :  26) P034N.MEM                        -- missing on slave
+(CARL        :  26) P034N.DOC                        -- missing on slave
+(CARL        :  26) TITLE.MEM                        -- missing on slave
+(CARL        :  26) MSG.JMS                          -- missing on slave
+(CARL        :  26) TMPFIL.XEX                       -- missing on slave
+(CARL        :  26) TUMS86.2QT                       -- missing on slave
+(CARL        :  26) CHERIE.SAL                       -- missing on slave
+(CARL        :  26) CHERIE.NFO                       -- missing on slave
+(CARL        :  26) CHERIE.LST                       -- missing on slave
+(CARL        :  26) USER.CTL                         -- missing on slave
+(CARL        :  26) FRONT.END                        -- missing on slave
+(CARL        :  26) S.CAB                            -- missing on slave
+(CARL        :  26) LGNSCN.MAC                       -- missing on slave
+(CARL        :  26) LGNUNV.MAC                       -- missing on slave
+(CARL        :  26) LGNLOW.MAC                       -- missing on slave
+(CARL        :  26) INITIA.HED                       -- missing on slave
+(CARL        :  26) INITIA.MAC                       -- missing on slave
+(CARL        :  26) INITIA.SHR                       -- missing on slave
+(CARL        :  26) GRAB.39                          -- missing on slave
+(CARL        :  26) NONAME.TXT                       -- missing on slave
+(CARL        :  26) FIX.CTL                          -- missing on slave
+(CARL        :  26) DULPRS.SAI                       -- missing on slave
+(CARL        :  26) NEWRPG.SHR                       -- missing on slave
+(CARL        :  26) MSG.WRS                          -- missing on slave
+(CARL        :  26) CVDATE.SAI                       -- missing on slave
+(CARL        :  26) LMAP.L23                         -- missing on slave
+(CARL        :  26) QUOLST.SAV                       -- missing on slave
+(CARL        :  26) ETATSY.MAC                       -- missing on slave
+(CARL        :  26) SYSTAT.SAV                       -- missing on slave
+(CARL        :  26) S.MAC                            -- missing on slave
+(CARL        :  26) S.UNV                            -- missing on slave
+(CARL        :  26) ENVAX.1                          -- missing on slave
+(CARL        :  26) HYPHEN.DIC                       -- missing on slave
+(CARL        :  26) LICENS.SAV                       -- missing on slave
+(CARL        :  26) MAKLIB.SHR                       -- missing on slave
+(CARL        :  26) AUTHOR.SAV                       -- missing on slave
+(CARL        :  26) SYSTAT.SHR                       -- missing on slave
+(CARL        :  26) CSLAVE.SAV                       -- missing on slave
+(CARL        :  26) ETATSY.SAV                       -- missing on slave
+(CARL        :  26) SNOOPY.PIC                       -- missing on slave
+(CARL        :  26) PUPPY.PIC                        -- missing on slave
+(CARL        :  26) 25.FDM                           -- missing on slave
+(CARL        :  26) HOST.CTL                         -- missing on slave
+(CARL        :  26) 54TYMO.LOG                       -- missing on slave
+(CARL        :  26) XCOM.PAT                         -- missing on slave
+(CARL        :  26) SWITCH.REL                       -- missing on slave
+(CARL        :  26) 54TYMA.LOG                       -- missing on slave
+(CARL        :  26) 25TYMX.LOG                       -- missing on slave
+(CARL        :  26) 25TYM.LOG                        -- missing on slave
+(CARL        :  26) LIC.FDM                          -- missing on slave
+(CARL        :  26) UPL1.LOG                         -- missing on slave
+(CARL        :  26) ARGPAR.WRS                       -- missing on slave
+(CARL        :  26) DSAVE.SAV                        -- missing on slave
+(CARL        :  26) BACKUP.LOW                       -- missing on slave
+(CARL        :  26) EXP.PIC                          -- missing on slave
+(CARL        :  26) D.SAV                            -- missing on slave
+(CARL        :  26) HEXOCT.TEC                       -- missing on slave
+(CARL        :  26) PSWULE.SAI                       -- missing on slave
+(CARL        :  26) PSWULE.BAK                       -- missing on slave
+(CARL        :  26) LOGPKG.REQ                       -- missing on slave
+(CARL        :  26) LOGPKG.SAI                       -- missing on slave
+(CARL        :  26) LOGPKG.BAK                       -- missing on slave
+(CARL        :  26) FIXSGC.REQ                       -- missing on slave
+(CARL        :  26) FIXSGC.MAC                       -- missing on slave
+(CARL        :  26) LOGPKG.R33                       -- missing on slave
+(CARL        :  26) LOGPKG.REL                       -- missing on slave
+(CARL        :  26) PHONE.CRP                        -- missing on slave
+(CARL        :  26) TREE.8SW                         -- missing on slave
+(CARL        :  26) TREE.8LP                         -- missing on slave
+(CARL        :  26) SWITCH.SAI                       -- missing on slave
+(CARL        :  26) ARGPAR.BAK                       -- missing on slave
+(CARL        :  26) STATE.TBL                        -- missing on slave
+(CARL        :  26) CARL.RCP                         -- missing on slave
+(CARL        :  26) SWITCH.LAB                       -- missing on slave
+(CARL        :  26) UTIL.REQ                         -- missing on slave
+(CARL        :  26) FRMTST.SAI                       -- missing on slave
+(CARL        :  26) FRMTST.SAV                       -- missing on slave
+(CARL        :  26) MP6760.MAP                       -- missing on slave
+(CARL        :  26) FREE.SAV                         -- missing on slave
+(CARL        :  26) SWITCH.C                         -- missing on slave
+(CARL        :  26) FILES.OSP                        -- missing on slave
+(CARL        :  26) P034NP.CTL                       -- missing on slave
+(CARL        :  26) CAPN.2                           -- missing on slave
+(CARL        :  26) CNFN00.X                         -- missing on slave
+(CARL        :  26) SWITCH.DEN                       -- missing on slave
+(CARL        :  26) TST.SAI                          -- missing on slave
+(CARL        :  26) TST.CTL                          -- missing on slave
+(CARL        :  26) PGCOPY.REL                       -- missing on slave
+(CARL        :  26) HAND.OUT                         -- missing on slave
+(CARL        :  26) AUXSTR.MAC                       -- missing on slave
+(CARL        :  26) GETSTR.MAC                       -- missing on slave
+(CARL        :  26) SWITCH.JMS                       -- missing on slave
+(CARL        :  26) SWITCH.NEW                       -- missing on slave
+(CARL        :  26) PGCOPY.SAI                       -- missing on slave
+(CARL        :  26) PGCOPY.REQ                       -- missing on slave
+(CARL        :  26) SPACE.CTL                        -- missing on slave
+(CARL        :  26) DPY.SAI                          -- missing on slave
+(CARL        :  26) SWITCH.DMP                       -- missing on slave
+(CARL        :  26) SWITCH.TST                       -- missing on slave
+(CARL        :  26) TEXT.FIL                         -- missing on slave
+(CARL        :  26) RING.TEC                         -- missing on slave
+(CARL        :  26) PRPRPL.PAG                       -- missing on slave
+(CARL        :  26) MONED.CTL                        -- missing on slave
+(CARL        :  26) UNDELE.SAI                       -- missing on slave
+(CARL        :  26) UNDELE.SAV                       -- missing on slave
+(CARL        :  26) PRPRPL.QUE                       -- missing on slave
+(CARL        :  26) PRPRPL.STS                       -- missing on slave
+(CARL        :  26) PRPRPL.SWT                       -- missing on slave
+(CARL        :  26) PERP.RPL                         -- missing on slave
+(CARL        :  26) GFD.SAV                          -- missing on slave
+(CARL        :  26) TRABAS.10                        -- missing on slave
+(CARL        :  26) CHECK.LOW                        -- missing on slave
+(CARL        :  26) CHECK.SHR                        -- missing on slave
+(CARL        :  26) UFD.COM                          -- missing on slave
+(CARL        :  26) UNDELE.DOC                       -- missing on slave
+(CARL        :  26) HOST.DEF                         -- missing on slave
+(CARL        :  26) MONGEN.EXE                       -- missing on slave
+(CARL        :  26) SPACE.MAC                        -- missing on slave
+(CARL        :  26) SPACE.HLP                        -- missing on slave
+(CARL        :  26) SPACE.SAV                        -- missing on slave
+(CARL        :  26) SW.INI                           -- missing on slave
+(CARL        :  26) BACKUP.SHR                       -- missing on slave
+(CARL        :  26) HUGE.MAC                         -- missing on slave
+(CARL        :  26) HUGE.SAV                         -- missing on slave
+(CARL        :  26) LOIS.900                         -- missing on slave
+(CARL        :  26) CARL.MAC                         -- missing on slave
+(CARL        :  26) 4Q1980.PUB                       -- missing on slave
+(CARL        :  26) CULL.CBL                         -- missing on slave
+(CARL        :  26) PHONE.SNO                        -- missing on slave
+(CARL        :  26) CARL.UNV                         -- missing on slave
+(CARL        :  26) D.MAC                            -- missing on slave
+(CARL        :  26) TREE.FAM                         -- missing on slave
+(CARL        :  26) SETLIC.SAV                       -- missing on slave
+(CARL        :  26) REST.JXL                         -- missing on slave
+(CARL        :  26) CK.SAV                           -- missing on slave
+(CARL        :  26) PEACE.PIC                        -- missing on slave
+(CARL        :  26) LVALID.SAV                       -- missing on slave
+(CARL        :  26) CB2032.CTL                       -- missing on slave
+(CARL        :  26) VMFILE.FDM                       -- missing on slave
+(CARL        :  26) N11246.TYM                       -- missing on slave
+(CARL        :  26) 54TYMN.BAK                       -- missing on slave
+(CARL        :  26) REN                              -- missing on slave
+(CARL        :  26) OPER.MSG                         -- missing on slave
+(CARL        :  26) ND3230.T01                       -- missing on slave
+(CARL        :  26) ND3230.C01                       -- missing on slave
+(CARL        :  26) 54TYMN.LOG                       -- missing on slave
+(CARL        :  26) REDSCR.SAV                       -- missing on slave
+(CARL        :  26) UNIQ.TY5                         -- missing on slave
+(CARL        :  26) UNIQ.TYM                         -- missing on slave
+(CARL        :  26) KAZAR.1                          -- missing on slave
+(CARL        :  26) OPRBLD.BAK                       -- missing on slave
+(CARL        :  26) VMFILE.SAI                       -- missing on slave
+(CARL        :  26) SYSDAT.20B                       -- missing on slave
+(CARL        :  26) SAILPC.CAB                       -- missing on slave
+(CARL        :  26) SYSDAT.S03                       -- missing on slave
+(CARL        :  26) SYSDAT.S02                       -- missing on slave
+(CARL        :  26) SYSDAT.SV2                       -- missing on slave
+(CARL        :  26) SYSDAT.S01                       -- missing on slave
+(CARL        :  26) VMFILE.13                        -- missing on slave
+(CARL        :  26) CT2.SAV                          -- missing on slave
+(CARL        :  26) VMFILE.DEF                       -- missing on slave
+(CARL        :  26) ESCTRP.SAI                       -- missing on slave
+(CARL        :  26) OPRCHG.TXT                       -- missing on slave
+(CARL        :  26) VMFILE.12                        -- missing on slave
+(CARL        :  26) VMFILE.USE                       -- missing on slave
+(CARL        :  26) CARDX.SAI                        -- missing on slave
+(CARL        :  26) P035D.CAB                        -- missing on slave
+(CARL        :  26) SHOVEL.33                        -- missing on slave
+(CARL        :  26) VMFILE.11                        -- missing on slave
+(CARL        :  26) VMFILE.REQ                       -- missing on slave
+(CARL        :  26) PCOM.SAI                         -- missing on slave
+(CARL        :  26) PCOM.BAK                         -- missing on slave
+(CARL        :  26) MONEDB.CMD                       -- missing on slave
+(CARL        :  26) PCOM.67                          -- missing on slave
+(CARL        :  26) MONBLD.DOC                       -- missing on slave
+(CARL        :  26) X.CMD                            -- missing on slave
+(CARL        :  26) JQ.DEF                           -- missing on slave
+(CARL        :  26) ESCTRP.REQ                       -- missing on slave
+(CARL        :  26) ESCTRP.BAK                       -- missing on slave
+(CARL        :  26) NODES.FOO                        -- missing on slave
+(CARL        :  26) TXSNET.NEW                       -- missing on slave
+(CARL        :  26) ESCTRP.REL                       -- missing on slave
+(CARL        :  26) TXSNET.CUR                       -- missing on slave
+(CARL        :  26) TEMP.BND                         -- missing on slave
+(CARL        :  26) TXSNET.PIC                       -- missing on slave
+(CARL        :  26) TXSNET.VRT                       -- missing on slave
+(CARL        :  26) INFY.SAV                         -- missing on slave
+(CARL        :  26) XXX.MAC                          -- missing on slave
+(CARL        :  26) XXX.P11                          -- missing on slave
+(CARL        :  26) LUD.LST                          -- missing on slave
+(CARL        :  26) LUDLST.SAI                       -- missing on slave
+(CARL        :  26) LUDLST.LST                       -- missing on slave
+(CARL        :  26) LUDLST.SAV                       -- missing on slave
+(CARL        :  26) VMFOO.SAI                        -- missing on slave
+(CARL        :  26) VMFOO.SAV                        -- missing on slave
+(CARL        :  26) SWDEF.DEF                        -- missing on slave
+(CARL        :  26) FNSYNC.CAB                       -- missing on slave
+(CARL        :  26) LUD.FOO                          -- missing on slave
+(CARL        :  26) LGNERR.MAC                       -- missing on slave
+(CARL        :  26) LGNIO.MAC                        -- missing on slave
+(CARL        :  26) SCNMAC.UNV                       -- missing on slave
+(CARL        :  26) LOGIN.HST                        -- missing on slave
+(CARL        :  26) 22TO29.LIC                       -- missing on slave
+(CARL        :  26) MEXEC.SAV                        -- missing on slave
+(CARL        :  26) MEXEC.MAC                        -- missing on slave
+(CARL        :  26) NODES.MAP                        -- missing on slave
+(CARL        :  26) XX.CTL                           -- missing on slave
+(CARL        :  26) XX.MAC                           -- missing on slave
+(CARL        :  26) X.LOW                            -- missing on slave
+(CARL        :  26) X.HGH                            -- missing on slave
+(CARL        :  26) XX.SAV                           -- missing on slave
+(CARL        :  26) FDM.REQ                          -- missing on slave
+(CARL        :  26) TTYTAB.SAV                       -- missing on slave
+(CARL        :  26) LOWMEM.L23                       -- missing on slave
+(CARL        :  26) 2000.MAC                         -- missing on slave
+(CARL        :  26) APR84.RPT                        -- missing on slave
+(CARL        :  26) UFDUUO.MON                       -- missing on slave
+(CARL        :  26) CUSPS.SAV                        -- missing on slave
+(CARL        :  26) PRTYUP.MAC                       -- missing on slave
+(CARL        :  26) RP.INI                           -- missing on slave
+(CARL        :  26) DUMP.SAV                         -- missing on slave
+(CARL        :  26) KOSTER.UNV                       -- missing on slave
+(CARL        :  26) KOSTER.MAC                       -- missing on slave
+(CARL        :  26) BK.SAV                           -- missing on slave
+(CARL        :  26) PRTYUP.SNO                       -- missing on slave
+(CARL        :  26) DUMP.SNO                         -- missing on slave
+(CARL        :  26) UFLIP.SHR                        -- missing on slave
+(CARL        :  26) PEAK.10S                         -- missing on slave
+(CARL        :  26) QUEDPY.SAV                       -- missing on slave
+(CARL        :  26) OPER.SAV                         -- missing on slave
+(CARL        :  26) PEAK.INI                         -- missing on slave
+(CARL        :  26) FDM.SAV                          -- missing on slave
+(CARL        :  26) SET.SAV                          -- missing on slave
+(CARL        :  26) SIZES.SAV                        -- missing on slave
+(CARL        :  26) ZIP.FMT                          -- missing on slave
+(CARL        :  26) BARON.PIC                        -- missing on slave
+(CARL        :  26) DATES.DAT                        -- missing on slave
+(CARL        :  26) CBXXXX.R01                       -- missing on slave
+(CARL        :  26) MSIEVE.SAV                       -- missing on slave
+(CARL        :  26) MSIEVE.SAI                       -- missing on slave
+(CARL        :  26) JOBS.CTL                         -- missing on slave
+(CARL        :  26) BIONIC.SAV                       -- missing on slave
+(CARL        :  26) FOO.DIR                          -- missing on slave
+(CARL        :  26) FOO.BAR                          -- missing on slave
+(CARL        :  26) 25TYMO.LOG                       -- missing on slave
+(CARL        :  26) 25TYMA.LOG                       -- missing on slave
+(CARL        :  26) TAR07.SAI                        -- missing on slave
+(CARL        :  26) 1000.MAC                         -- missing on slave
+(CARL        :  26) FOO.SRT                          -- missing on slave
+(CARL        :  26) UNIQUE.TXT                       -- missing on slave
+(CARL        :  26) SYSDPY.SAV                       -- missing on slave
+(CARL        :  26) LICSUB.SAI                       -- missing on slave
+(CARL        :  26) LICSUB.BAK                       -- missing on slave
+(CARL        :  26) FED.LOW                          -- missing on slave
+(CARL        :  26) FED.SHR                          -- missing on slave
+(CARL        :  26) SYF.SAI                          -- missing on slave
+(CARL        :  26) SYF.SAV                          -- missing on slave
+(CARL        :  26) LICSUB.REQ                       -- missing on slave
+(CARL        :  26) JUDGE0.308                       -- missing on slave
+(CARL        :  26) P035.MKR                         -- missing on slave
+(CARL        :  26) 1000.DAT                         -- missing on slave
+(CARL        :  26) HSB.SAI                          -- missing on slave
+(CARL        :  26) TSTSUP.MAC                       -- missing on slave
+(CARL        :  26) BRIDGE.CRD                       -- missing on slave
+(CARL        :  26) PRTTRP.SAI                       -- missing on slave
+(CARL        :  26) PRTTRP.REQ                       -- missing on slave
+(CARL        :  26) NFICHE.CMD                       -- missing on slave
+(CARL        :  26) JQUE.DEF                         -- missing on slave
+(CARL        :  26) XFER.CTL                         -- missing on slave
+(CARL        :  26) UNPACK.SAV                       -- missing on slave
+(CARL        :  26) JQUE.S12                         -- missing on slave
+(CARL        :  26) WRONG.ATT                        -- missing on slave
+(CARL        :  26) JQUE.112                         -- missing on slave
+(CARL        :  26) NORMAL.TAX                       -- missing on slave
+(CARL        :  26) CHKADD.SAI                       -- missing on slave
+(CARL        :  26) CHKADD.SAV                       -- missing on slave
+(CARL        :  26) CHKLST.SAI                       -- missing on slave
+(CARL        :  26) CHKLST.SAV                       -- missing on slave
+(CARL        :  26) REDALL.SAI                       -- missing on slave
+(CARL        :  26) UNPACK.SAI                       -- missing on slave
+(CARL        :  26) SYF.401                          -- missing on slave
+(CARL        :  26) BIONIC.SAI                       -- missing on slave
+(CARL        :  26) BIONIC.SAX                       -- missing on slave
+(CARL        :  26) BIONIC.000                       -- missing on slave
+(CARL        :  26) JQUE.REQ                         -- missing on slave
+(CARL        :  26) JQUE.SAI                         -- missing on slave
+(CARL        :  26) EMPIRE.DAT                       -- missing on slave
+(CARL        :  26) TESTER.CTL                       -- missing on slave
+(CARL        :  26) LUDALP.LST                       -- missing on slave
+(CARL        :  26) LUDGAN.LST                       -- missing on slave
+(CARL        :  26) LUD54.LST                        -- missing on slave
+(CARL        :  26) LICSUB.REL                       -- missing on slave
+(CARL        :  26) UNIQUE.SAI                       -- missing on slave
+(CARL        :  26) P.DAT                            -- missing on slave
+(CARL        :  26) DMS.SHR                          -- missing on slave
+(CARL        :  26) DMS.LOW                          -- missing on slave
+(CARL        :  26) FAYEZ.MMO                        -- missing on slave
+(CARL        :  26) FAYEZ.NAM                        -- missing on slave
+(CARL        :  26) EMPIRE.DDX                       -- missing on slave
+(CARL        :  26) EMPIRE.326                       -- missing on slave
+(CARL        :  26) 009WRD.JOT                       -- missing on slave
+(CARL        :  26) SYSTEM.NWS                       -- missing on slave
+(CARL        :  26) 112284.SAT                       -- missing on slave
+(CARL        :  26) NFIX.CTL                         -- missing on slave
+(CARL        :  26) GROUP.PKG                        -- missing on slave
+(CARL        :  26) UPTTAB.L23                       -- missing on slave
+(CARL        :  26) FEB84.RPT                        -- missing on slave
+(CARL        :  26) QUEUER.MAC                       -- missing on slave
+(CARL        :  26) MT.SAV                           -- missing on slave
+(CARL        :  26) TYMSCN.MAC                       -- missing on slave
+(CARL        :  26) HOLD.MAC                         -- missing on slave
+(CARL        :  26) P.SNO                            -- missing on slave
+(CARL        :  26) HDTE75.MAC                       -- missing on slave
+(CARL        :  26) JOBDAT.UNV                       -- missing on slave
+(CARL        :  26) CKSM.SAV                         -- missing on slave
+(CARL        :  26) FNDBAD.ALL                       -- missing on slave
+(CARL        :  26) LOGON.71                         -- missing on slave
+(CARL        :  26) UNIQUE.SAV                       -- missing on slave
+(CARL        :  26) HSB.SAV                          -- missing on slave
+(CARL        :  26) JOBLDB.SAV                       -- missing on slave
+(CARL        :  26) 1000.CTL                         -- missing on slave
+(CARL        :  26) 1000.SAV                         -- missing on slave
+(CARL        :  26) PAS.USR                          -- missing on slave
+(CARL        :  26) RUNOFF.SHR                       -- missing on slave
+(CARL        :  26) RUNOFF.LOW                       -- missing on slave
+(CARL        :  26) LOGON.HLP                        -- missing on slave
+(CARL        :  26) RTYRTN.308                       -- missing on slave
+(CARL        :  26) SPOOL.DEF                        -- missing on slave
+(CARL        :  26) CTL.FDM                          -- missing on slave
+(CARL        :  26) UUOSYM.DEF                       -- missing on slave
+(CARL        :  26) ND6752.TYM                       -- missing on slave
+(CARL        :  26) JQUEUE.L0X                       -- missing on slave
+(CARL        :  26) 54TYM0.LOG                       -- missing on slave
+(CARL        :  26) MPVVID.603                       -- missing on slave
+(CARL        :  26) MPVVID.306                       -- missing on slave
+(CARL        :  26) BOOT.CMD                         -- missing on slave
+(CARL        :  26) APR89.MSG                        -- missing on slave
+(CARL        :  26) 25TYMN.LOG                       -- missing on slave
+(CARL        :  26) 25TYMN.BAK                       -- missing on slave
+(CARL        :  26) 2237.LOD                         -- missing on slave
+(CARL        :  26) JQUEUE.LOG                       -- missing on slave
+(CARL        :  26) UPL.LOG                          -- missing on slave
+(CARL        :  26) SYS.LOG                          -- missing on slave
+(CARL        :  26) QIKSAV.SAI                       -- missing on slave
+(CARL        :  26) PERF.BAK                         -- missing on slave
+(CARL        :  26) DAYTIM.REQ                       -- missing on slave
+(CARL        :  26) QIKSAV.SAV                       -- missing on slave
+(CARL        :  26) FILCOM.MAC                       -- missing on slave
+(CARL        :  26) FILCOM.SHR                       -- missing on slave
+(CARL        :  26) DAYTIM.SUB                       -- missing on slave
+(CARL        :  26) DAYTIM.ORG                       -- missing on slave
+(CARL        :  26) RANDOM.REL                       -- missing on slave
+(CARL        :  26) FRMTS.MAC                        -- missing on slave
+(CARL        :  26) BOF3.SAV                         -- missing on slave
+(CARL        :  26) ARGS.WRS                         -- missing on slave
+(CARL        :  26) JQUEUE.DEF                       -- missing on slave
+(CARL        :  26) ASHQ.CTL                         -- missing on slave
+(CARL        :  26) TRULIM.TSR                       -- missing on slave
+(CARL        :  26) TRULIM.TRN                       -- missing on slave
+(CARL        :  26) TTYO.MAC                         -- missing on slave
+(CARL        :  26) POLISH.TEC                       -- missing on slave
+(CARL        :  26) LOOKTT.MAC                       -- missing on slave
+(CARL        :  26) SNAT10.MAC                       -- missing on slave
+(CARL        :  26) BOOT.703                         -- missing on slave
+(CARL        :  26) MAKCRE.FIL                       -- missing on slave
+(CARL        :  26) JQUEUE.L                         -- missing on slave
+(CARL        :  26) RANDOM.SAI                       -- missing on slave
+(CARL        :  26) RANDOM.REQ                       -- missing on slave
+(CARL        :  26) CARD01.SAI                       -- missing on slave
+(CARL        :  26) CMDDPY.SAI                       -- missing on slave
+(CARL        :  26) PCKSUB.SAI                       -- missing on slave
+(CARL        :  26) PCKSUB.REQ                       -- missing on slave
+(CARL        :  26) PCKSUB.REL                       -- missing on slave
+(CARL        :  26) JQUEUE.113                       -- missing on slave
+(CARL        :  26) DAYTIM.NEW                       -- missing on slave
+(CARL        :  26) DAYTIM.TXT                       -- missing on slave
+(CARL        :  26) JQUEUE.TXT                       -- missing on slave
+(CARL        :  26) CATTOT.SAI                       -- missing on slave
+(CARL        :  26) CATTOT.SAV                       -- missing on slave
+(CARL        :  26) TXS.GRB                          -- missing on slave
+(CARL        :  26) PACK.SAI                         -- missing on slave
+(CARL        :  26) DAYTIM.REL                       -- missing on slave
+(CARL        :  26) TESTIT.CTL                       -- missing on slave
+(CARL        :  26) MAKELI.SR                        -- missing on slave
+(CARL        :  26) JQUEUE.DE0                       -- missing on slave
+(CARL        :  26) EDIT.CTL                         -- missing on slave
+(CARL        :  26) PROC.SAI                         -- missing on slave
+(CARL        :  26) PROC.SAV                         -- missing on slave
+(CARL        :  26) 001WRD.JOT                       -- missing on slave
+(CARL        :  26) P034.MKR                         -- missing on slave
+(CARL        :  26) OSMAN.AS1                        -- missing on slave
+(CARL        :  26) FETTBL.BIT                       -- missing on slave
+(CARL        :  26) LGNINI.MAC                       -- missing on slave
+(CARL        :  26) UUOSYM.UNV                       -- missing on slave
+(CARL        :  26) MDSDEF.DEF                       -- missing on slave
+(CARL        :  26) PCOTST.SAI                       -- missing on slave
+(CARL        :  26) ENTER.SAV                        -- missing on slave
+(CARL        :  26) MYSAIL.DEF                       -- missing on slave
+(CARL        :  26) ENTER.CTL                        -- missing on slave
+(CARL        :  26) FSLAVE.SAV                       -- missing on slave
+(CARL        :  26) UUOSYM.UNY                       -- missing on slave
+(CARL        :  26) INIT.SAV                         -- missing on slave
+(CARL        :  26) UUOSYM.UNX                       -- missing on slave
+(CARL        :  26) ND.MAC                           -- missing on slave
+(CARL        :  26) ADDRES.SNO                       -- missing on slave
+(CARL        :  26) ECM12.MAC                        -- missing on slave
+(CARL        :  26) ECM12.UNV                        -- missing on slave
+(CARL        :  26) RISKS.CMD                        -- missing on slave
+(CARL        :  26) MTADIR.SHR                       -- missing on slave
+(CARL        :  26) FPARSE.SAI                       -- missing on slave
+(CARL        :  26) TYPE.LOW                         -- missing on slave
+(CARL        :  26) TYPE.SHR                         -- missing on slave
+(CARL        :  26) INIBAI.REL                       -- missing on slave
+(CARL        :  26) INIBAI.SAI                       -- missing on slave
+(CARL        :  26) JQUEUE.SYS                       -- missing on slave
+(CARL        :  26) ASH.CTL                          -- missing on slave
+(CARL        :  26) DEFOPR.XXX                       -- missing on slave
+(CARL        :  26) ULKCMD.TST                       -- missing on slave
+(CARL        :  26) MVOTE.SAV                        -- missing on slave
+(CARL        :  26) MVOTE.SAI                        -- missing on slave
+(CARL        :  26) LOGINN.SHR                       -- missing on slave
+(CARL        :  26) PCOMAI.LOG                       -- missing on slave
+(CARL        :  26) XEXEC.ERR                        -- missing on slave
+(CARL        :  26) RPG.I                            -- missing on slave
+(CARL        :  26) HELGEM.26                        -- missing on slave
+(CARL        :  26) DEFOPR.REL                       -- missing on slave
+(CARL        :  26) DEFOPR.1X5                       -- missing on slave
+(CARL        :  26) DUSAGE.DAT                       -- missing on slave
+(CARL        :  26) SETOP.GED                        -- missing on slave
+(CARL        :  26) MONDOC.LST                       -- missing on slave
+(CARL        :  26) MONED1.LST                       -- missing on slave
+(CARL        :  26) QUEDDT.SAV                       -- missing on slave
+(CARL        :  26) SYDISP.REL                       -- missing on slave
+(CARL        :  26) INFO.INF                         -- missing on slave
+(CARL        :  26) NEXTIM.REQ                       -- missing on slave
+(CARL        :  26) NEXTIM.SAI                       -- missing on slave
+(CARL        :  26) LUD25.LST                        -- missing on slave
+(CARL        :  26) DUSAGE.042                       -- missing on slave
+(CARL        :  26) VMF.SAV                          -- missing on slave
+(CARL        :  26) DEFSYS.CTL                       -- missing on slave
+(CARL        :  26) DOO.IT                           -- missing on slave
+(CARL        :  26) TAPES.FOO                        -- missing on slave
+(CARL        :  26) ACCESS.ONT                       -- missing on slave
+(CARL        :  26) USERS.NON                        -- missing on slave
+(CARL        :  26) USERS.ZER                        -- missing on slave
+(CARL        :  26) DUSAGE.211                       -- missing on slave
+(CARL        :  26) DUSAGE.021                       -- missing on slave
+(CARL        :  26) DT.SAI                           -- missing on slave
+(CARL        :  26) DUSAGE.909                       -- missing on slave
+(CARL        :  26) SYDISP.SAI                       -- missing on slave
+(CARL        :  26) DUSAGE.610                       -- missing on slave
+(CARL        :  26) LOGINN.MAC                       -- missing on slave
+(CARL        :  26) PCOMAI.BOX                       -- missing on slave
+(CARL        :  26) EMP.DAT                          -- missing on slave
+(CARL        :  26) RPG.INX                          -- missing on slave
+(CARL        :  26) RPG.SHR                          -- missing on slave
+(CARL        :  26) ACCESS.F4                        -- missing on slave
+(CARL        :  26) VUE.VT                           -- missing on slave
+(CARL        :  26) REDISP.DED                       -- missing on slave
+(CARL        :  26) MCY.SAI                          -- missing on slave
+(CARL        :  26) SORT.EXE                         -- missing on slave
+(CARL        :  26) MONDOC.SAI                       -- missing on slave
+(CARL        :  26) GAN3.NAM                         -- missing on slave
+(CARL        :  26) GAN3.WHO                         -- missing on slave
+(CARL        :  26) MONDOC.1                         -- missing on slave
+(CARL        :  26) GAN3.UNK                         -- missing on slave
+(CARL        :  26) GAN3.CTL                         -- missing on slave
+(CARL        :  26) TWOJOB.TST                       -- missing on slave
+(CARL        :  26) JOBTAB.L23                       -- missing on slave
+(CARL        :  26) HANG.COM                         -- missing on slave
+(CARL        :  26) MAR84.RPT                        -- missing on slave
+(CARL        :  26) VUE.IN                           -- missing on slave
+(CARL        :  26) TITLES.SDS                       -- missing on slave
+(CARL        :  26) ACCESS.MSG                       -- missing on slave
+(CARL        :  26) DUSAGE.TXT                       -- missing on slave
+(CARL        :  26) DEFSYS.SAV                       -- missing on slave
+(CARL        :  26) DEFSYS.SAI                       -- missing on slave
+(CARL        :  26) DED.DEF                          -- missing on slave
+(CARL        :  26) DUSAGE.628                       -- missing on slave
+(CARL        :  26) O17FAJ.MD1                       -- missing on slave
+(CARL        :  26) M19FAJ.MP1                       -- missing on slave
+(CARL        :  26) 100.MAC                          -- missing on slave
+(CARL        :  26) ACCESS.BKP                       -- missing on slave
+(CARL        :  26) VERBES.FRE                       -- missing on slave
+(CARL        :  26) SETOP.SAV                        -- missing on slave
+(CARL        :  26) PH.DAT                           -- missing on slave
+(CARL        :  26) MJK.UNV                          -- missing on slave
+(CARL        :  26) MJK.MAC                          -- missing on slave
+(CARL        :  26) HANG.MAC                         -- missing on slave
+(CARL        :  26) TYMCAB.MAC                       -- missing on slave
+(CARL        :  26) FD.MAC                           -- missing on slave
+(CARL        :  26) CMDLIB.001                       -- missing on slave
+(CARL        :  26) PMAZE.ONE                        -- missing on slave
+(CARL        :  26) PH.SNO                           -- missing on slave
+(CARL        :  26) DATE.MAC                         -- missing on slave
+(CARL        :  26) MAPFIL.SAI                       -- missing on slave
+(CARL        :  26) LUD70.LST                        -- missing on slave
+(CARL        :  26) PCOMAI.CTL                       -- missing on slave
+(CARL        :  26) XEXEC.DIE                        -- missing on slave
+(CARL        :  26) RPG.INI                          -- missing on slave
+(CARL        :  26) LINUS.PIC                        -- missing on slave
+(CARL        :  26) BROAD.PIC                        -- missing on slave
+Checking host 33
+Checking host 34
+(CARL        :  34) RPG.INI        2 02-Jul-93 09:14 -- bad checksum TOTDID
+                           should be 06-Feb-89 22:05 YIPXEK  ALL  RD  NO
+(CARL        :  34) XEXEC.DIE      2 30-Nov-86 02:17 -- bad checksum ZATCOF
+                           should be 29-Nov-86 22:10 PADYAZ  ALL  RD  NO
+(CARL        :  34) DEFOPR.SAV    55 24-Apr-91 19:31 -- bad license 
+                           should be 24-Apr-91 19:12 FITBOD  ALL  RD  NO 400000
+(CARL        :  34) TUMS.INI       3 08-Jun-90 01:54 -- bad checksum ZABVAK
+                           should be 27-Feb-89 05:02 GOVLUR  ALL  RD  NO
+(CARL        :  34) INIT.SAV      33 17-Aug-82 14:43 -- bad checksum WUBHEP
+                           should be 16-Jan-81 17:56 TOMHUP  ALL  RD  NO
+(CARL        :  34) DAYTIM.REQ     2 08-Aug-88 17:06 -- protection ALL  RD  NO
+                           should be 08-Aug-88 17:06 ZUNLOF  ALL ALL ALL
+(CARL        :  34) FOO.BAR        2 21-Dec-90 00:26 -- bad checksum MUQMAW
+                           should be 19-Jul-89 14:50 WADCIB  ALL  RD  NO
+(CARL        :  34) FILE.BAK       2 27-Apr-93 19:05 -- bad checksum SISRIT
+                           should be 27-Apr-93 18:57 JADSAL  ALL  RD  NO
+(CARL        :  34) FILE.REL       2 27-Apr-93 19:06 -- bad checksum XOYNUY
+                           should be 27-Apr-93 19:05 DUQQIJ  ALL  RD  NO
+(CARL        :  34) FILE.SAI       2 27-Apr-93 19:06 -- bad checksum JADSAL
+                           should be 27-Apr-93 19:05 GULTEL  ALL  RD  NO
+(CARL        :  34) VMFILE.REQ     2 22-Mar-88 11:30 -- bad checksum HOZJIV
+                           should be 07-Mar-88 19:16 POZFIQ  ALL  RD  NO
+(CARL        :  34) SYSDAT.DEF     2 11-Mar-89 23:10 -- bad checksum RUTXUS
+                           should be 28-Jun-88 22:36 HEPGOJ  ALL  RD  NO
+(CARL        :  34) SYSDAT.SAI     5 11-Mar-89 23:10 -- bad checksum PEQSAF
+                           should be 26-Sep-88 14:04 BALWAJ  ALL  RD  NO
+(CARL        :  34) SWITCH.BAK     2 31-Jul-92 12:19 -- bad checksum GOKKAZ
+                           should be 17-Oct-89 21:31 JAWKOC  ALL  RD  NO
+(CARL        :  34) CRSHID.LOG     2 27-Apr-93 16:02 -- bad checksum HIHGEQ
+                           should be 13-Jun-91 12:08 KUVSEJ  ALL  RD  NO
+(CARL        :  34) CSLAVE.SAV    14 16-Dec-86 17:29 -- bad checksum MUBTOH
+                           should be 20-May-82 21:17 KOKYAD  ALL  RD  NO     10
+(CARL        :  34) SYSLOG.SAV    25 13-Apr-89 15:09 -- bad license 
+                           should be 13-Apr-89 14:45 SIMFEK  ALL  RD  NO 342000
+(CARL        :  34) MAIL.BAK       5 30-Aug-89 22:02 -- bad checksum ZATNOW
+                           should be 24-Aug-87 18:05 LERHAG  ALL  RD  NO
+(CARL        :  34) DSLAVE.SAV    15 16-Dec-86 17:30 -- bad checksum LUVFAT
+                           should be 14-Jan-83 02:40 XUNGUW  ALL  RD  NO
+(CARL        :  34) DSKB.QIK       7 05-Aug-88 14:55 -- bad checksum JOQSUX
+                           should be 05-Aug-88 14:54 FARQUF  ALL  RD  NO
+(CARL        :  34) HELGEM.26    624 21-Jan-87 02:53 -- bad checksum ROQSUT
+                           should be 21-Jan-87 02:53 WAMKIC  ALL  RD  NO
+(CARL        :  34) BOF3.SAV       3 07-Mar-86 16:25 -- bad checksum QEZFIZ
+                           should be 07-Mar-86 16:25 FUPSAY  ALL  RD  NO
+(CARL        :  34) QIKSAV.DEF     2 05-Oct-88 22:35 -- protection ALL  RD  NO
+                           should be 05-Oct-88 22:35 KIZCAZ  ALL ALL ALL
+(CARL        :  34) I2S6.SAV      14 12-Sep-89 23:53 -- bad checksum SORDAZ
+                           should be 12-Sep-89 18:32 ZEMYUF  ALL  RD  NO
+(CARL        :  34) SAILPC.CAB    13 04-Aug-88 23:08 -- protection ALL  RD  NO
+                           should be 04-Aug-88 23:08 DOFBUX  ALL ALL ALL
+(CARL        :  34) SPAGES.PRP     3 14-Jul-88 00:25 -- protection ALL  RD  NO
+                           should be 14-Jul-88 00:25 DUWWEX  ALL ALL ALL
+(CARL        :  34) SAILPC.SPL     7 04-Aug-88 00:07 -- protection ALL  RD  NO
+                           should be 04-Aug-88 00:07 LAZZIB  ALL ALL ALL
+(CARL        :  34) SAILPC.SUB     5 04-Aug-88 00:08 -- protection ALL  RD  NO
+                           should be 04-Aug-88 00:08 JAVROB  ALL ALL ALL
+(CARL        :  34) SAILPC.XEX     7 04-Aug-88 00:10 -- protection ALL  RD  NO
+                           should be 04-Aug-88 00:10 SALLUF  ALL ALL ALL
+(CARL        :  34) SAILPC.BAK    13 04-Aug-88 16:59 -- protection ALL  RD  NO
+                           should be 04-Aug-88 16:59 KOQVUW  ALL ALL ALL
+(CARL        :  34) TYM.CTL        3 12-Jan-90 00:07 -- protection ALL  RD  NO
+                           should be 12-Jan-90 00:07 RODWEG  ALL ALL ALL
+(CARL        :  34) TYM5.CTL       4 12-Jan-90 00:07 -- protection ALL  RD  NO
+                           should be 12-Jan-90 00:07 NETSEP  ALL ALL ALL
+(CARL        :  34) PSWULE.BAK     3 06-Feb-89 23:43 -- protection ALL  RD  NO
+                           should be 06-Feb-89 23:43 SUKJAM  ALL ALL ALL
+(CARL        :  34) PSWULE.SAI     3 06-Feb-89 23:51 -- protection ALL  RD  NO
+                           should be 06-Feb-89 23:51 XABDAJ  ALL ALL ALL
+(CARL        :  34) AISHOW.TXT     3 11-Jul-88 12:20 -- protection ALL  RD  NO
+                           should be 11-Jul-88 12:20 VOFTED  ALL ALL ALL
+(CARL        :  34) DAYTMM.BAK     3 04-Aug-88 23:39 -- protection ALL  RD  NO
+                           should be 04-Aug-88 23:39 TOSQOY  ALL ALL ALL
+(CARL        :  34) DAYTMM.MAC     3 04-Aug-88 23:43 -- protection ALL  RD  NO
+                           should be 04-Aug-88 23:43 ZULLAP  ALL ALL ALL
+(CARL        :  34) LICENS.EXM     2 01-Feb-89 03:25 -- protection ALL  RD  NO
+                           should be 01-Feb-89 03:25 GADPEN  ALL ALL ALL
+(CARL        :  34) WELLFS.MKT     3 23-Aug-88 02:02 -- protection ALL  RD  NO
+                           should be 23-Aug-88 02:02 DOWYOP  ALL ALL ALL
+(CARL        :  34) CUAACT.COV     2 24-Aug-88 12:14 -- protection ALL  RD  NO
+                           should be 24-Aug-88 12:14 NEPHEK  ALL ALL ALL
+(CARL        :  34) TEST.SAI       2 23-Feb-89 02:19 -- protection ALL  RD  NO
+                           should be 23-Feb-89 02:19 SUNWAC  ALL ALL ALL
+(CARL        :  34) TUMS88.1QT     2 28-Mar-88 17:45 -- bad checksum XOFZUG
+                           should be 28-Mar-88 17:45 NEHJEF  ALL  RD  NO
+(CARL        :  34) CARDS.BAK                        -- missing on slave
+Checking host 38
+(CARL        :  38) RPG.INI        2 08-Feb-89 23:19 -- bad checksum ZIKQAC
+                           should be 06-Feb-89 22:05 YIPXEK  ALL  RD  NO
+(CARL        :  38) XEXEC.DIE      2 30-Nov-86 02:17 -- bad checksum ZATCOF
+                           should be 29-Nov-86 22:10 PADYAZ  ALL  RD  NO
+(CARL        :  38) DEFOPR.SAV    55 24-Apr-91 19:31 -- bad license 
+                           should be 24-Apr-91 19:12 FITBOD  ALL  RD  NO 400000
+(CARL        :  38) INIT.SAV      33 17-Aug-82 14:43 -- bad checksum WUBHEP
+                           should be 16-Jan-81 17:56 TOMHUP  ALL  RD  NO
+(CARL        :  38) TUMS.INI       3 08-Jun-90 01:54 -- bad checksum ZABVAK
+                           should be 27-Feb-89 05:02 GOVLUR  ALL  RD  NO
+(CARL        :  38) DAYTIM.REQ     2 08-Aug-88 17:06 -- protection ALL  RD  NO
+                           should be 08-Aug-88 17:06 ZUNLOF  ALL ALL ALL
+(CARL        :  38) FOO.BAR        2 21-Dec-90 00:26 -- bad checksum MUQMAW
+                           should be 19-Jul-89 14:50 WADCIB  ALL  RD  NO
+(CARL        :  38) I2S6.SAV      14 13-Sep-89 00:00 -- bad checksum SORDAZ
+                           should be 12-Sep-89 18:32 ZEMYUF  ALL  RD  NO
+(CARL        :  38) FILE.BAK       2 27-Apr-93 19:05 -- bad checksum SISRIT
+                           should be 27-Apr-93 18:57 JADSAL  ALL  RD  NO
+(CARL        :  38) FILE.REL       2 27-Apr-93 19:06 -- bad checksum XOYNUY
+                           should be 27-Apr-93 19:05 DUQQIJ  ALL  RD  NO
+(CARL        :  38) FILE.SAI       2 27-Apr-93 19:06 -- bad checksum JADSAL
+                           should be 27-Apr-93 19:05 GULTEL  ALL  RD  NO
+(CARL        :  38) VMFILE.REQ     2 22-Mar-88 11:30 -- bad checksum HOZJIV
+                           should be 07-Mar-88 19:16 POZFIQ  ALL  RD  NO
+(CARL        :  38) SYSDAT.DEF     2 11-Mar-89 23:10 -- bad checksum RUTXUS
+                           should be 28-Jun-88 22:36 HEPGOJ  ALL  RD  NO
+(CARL        :  38) SYSDAT.SAI     5 11-Mar-89 23:10 -- bad checksum PEQSAF
+                           should be 26-Sep-88 14:04 BALWAJ  ALL  RD  NO
+(CARL        :  38) SWITCH.BAK     2 31-Jul-92 12:19 -- bad checksum GOKKAZ
+                           should be 17-Oct-89 21:31 JAWKOC  ALL  RD  NO
+(CARL        :  38) CRSHID.LOG     2 27-Apr-93 16:02 -- bad checksum HIHGEQ
+                           should be 13-Jun-91 12:08 KUVSEJ  ALL  RD  NO
+(CARL        :  38) CSLAVE.SAV    14 16-Dec-86 17:29 -- bad checksum MUBTOH
+                           should be 20-May-82 21:17 KOKYAD  ALL  RD  NO     10
+(CARL        :  38) SYSLOG.SAV    25 13-Apr-89 15:09 -- bad license 
+                           should be 13-Apr-89 14:45 SIMFEK  ALL  RD  NO 342000
+(CARL        :  38) MAIL.BAK       5 30-Aug-89 22:02 -- bad checksum ZATNOW
+                           should be 24-Aug-87 18:05 LERHAG  ALL  RD  NO
+(CARL        :  38) DSLAVE.SAV    15 16-Dec-86 17:30 -- bad checksum LUVFAT
+                           should be 14-Jan-83 02:40 XUNGUW  ALL  RD  NO
+(CARL        :  38) DSKB.QIK       7 05-Aug-88 14:55 -- bad checksum JOQSUX
+                           should be 05-Aug-88 14:54 FARQUF  ALL  RD  NO
+(CARL        :  38) HELGEM.26    624 21-Jan-87 02:53 -- bad checksum ROQSUT
+                           should be 21-Jan-87 02:53 WAMKIC  ALL  RD  NO
+(CARL        :  38) BOF3.SAV       3 07-Mar-86 16:25 -- bad checksum QEZFIZ
+                           should be 07-Mar-86 16:25 FUPSAY  ALL  RD  NO
+(CARL        :  38) QIKSAV.DEF     2 05-Oct-88 22:35 -- protection ALL  RD  NO
+                           should be 05-Oct-88 22:35 KIZCAZ  ALL ALL ALL
+(CARL        :  38) SAILPC.CAB    13 04-Aug-88 23:08 -- protection ALL  RD  NO
+                           should be 04-Aug-88 23:08 DOFBUX  ALL ALL ALL
+(CARL        :  38) SPAGES.PRP     3 14-Jul-88 00:25 -- protection ALL  RD  NO
+                           should be 14-Jul-88 00:25 DUWWEX  ALL ALL ALL
+(CARL        :  38) SAILPC.SPL     7 04-Aug-88 00:07 -- protection ALL  RD  NO
+                           should be 04-Aug-88 00:07 LAZZIB  ALL ALL ALL
+(CARL        :  38) SAILPC.SUB     5 04-Aug-88 00:08 -- protection ALL  RD  NO
+                           should be 04-Aug-88 00:08 JAVROB  ALL ALL ALL
+(CARL        :  38) SAILPC.XEX     7 04-Aug-88 00:10 -- protection ALL  RD  NO
+                           should be 04-Aug-88 00:10 SALLUF  ALL ALL ALL
+(CARL        :  38) SAILPC.BAK    13 04-Aug-88 16:59 -- protection ALL  RD  NO
+                           should be 04-Aug-88 16:59 KOQVUW  ALL ALL ALL
+(CARL        :  38) TYM.CTL        3 12-Jan-90 00:07 -- protection ALL  RD  NO
+                           should be 12-Jan-90 00:07 RODWEG  ALL ALL ALL
+(CARL        :  38) TYM5.CTL       4 12-Jan-90 00:07 -- protection ALL  RD  NO
+                           should be 12-Jan-90 00:07 NETSEP  ALL ALL ALL
+(CARL        :  38) PSWULE.BAK     3 06-Feb-89 23:43 -- protection ALL  RD  NO
+                           should be 06-Feb-89 23:43 SUKJAM  ALL ALL ALL
+(CARL        :  38) PSWULE.SAI     3 06-Feb-89 23:51 -- protection ALL  RD  NO
+                           should be 06-Feb-89 23:51 XABDAJ  ALL ALL ALL
+(CARL        :  38) AISHOW.TXT     3 11-Jul-88 12:20 -- protection ALL  RD  NO
+                           should be 11-Jul-88 12:20 VOFTED  ALL ALL ALL
+(CARL        :  38) DAYTMM.BAK     3 04-Aug-88 23:39 -- protection ALL  RD  NO
+                           should be 04-Aug-88 23:39 TOSQOY  ALL ALL ALL
+(CARL        :  38) DAYTMM.MAC     3 04-Aug-88 23:43 -- protection ALL  RD  NO
+                           should be 04-Aug-88 23:43 ZULLAP  ALL ALL ALL
+(CARL        :  38) LICENS.EXM     2 01-Feb-89 03:25 -- protection ALL  RD  NO
+                           should be 01-Feb-89 03:25 GADPEN  ALL ALL ALL
+(CARL        :  38) WELLFS.MKT     3 23-Aug-88 02:02 -- protection ALL  RD  NO
+                           should be 23-Aug-88 02:02 DOWYOP  ALL ALL ALL
+(CARL        :  38) CUAACT.COV     2 24-Aug-88 12:14 -- protection ALL  RD  NO
+                           should be 24-Aug-88 12:14 NEPHEK  ALL ALL ALL
+(CARL        :  38) TEST.SAI       2 23-Feb-89 02:19 -- protection ALL  RD  NO
+                           should be 23-Feb-89 02:19 SUNWAC  ALL ALL ALL
+(CARL        :  38) TUMS88.1QT     2 28-Mar-88 17:45 -- bad checksum XOFZUG
+                           should be 28-Mar-88 17:45 NEHJEF  ALL  RD  NO
+   5l| 
