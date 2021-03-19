@@ -1,0 +1,48 @@
+00:00:14 S 15-May-94
+03:00:16 S 15-May-94
+06:00:02 S 15-May-94 Signing off.
+09:43:44 S ** 15-May-94 XEXEC %1(215) in frame 4 ** user PERPOPER **
+09:43:44 S -S- stream #1 Req #7982 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+09:43:50 S Processor status JSU EXECX Setup in frame 7
+09:43:50 P Waiting for interlock
+09:43:52 P Got interlock
+09:43:52 P EXECX Job Processor %1(226) starting in frame 7
+09:43:52 P Stream #1 Req #7982 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+09:43:52 S Starting job processor in frame 7
+09:44:52 S 15-May-94
+09:48:35 P Stream #1 Req #7982 * completed *
+09:48:37 S -R- stream #1 Done-End <0>
+10:00:03 S -S- stream #1 Req #7983 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:00:08 P Stream #1 Req #7983 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:00:50 P Stream #1 Req #7983 * completed *
+10:00:52 S -R- stream #1 Done-End <0>
+10:16:52 P Signing off.
+12:00:59 S 15-May-94
+15:00:05 S 15-May-94
+17:00:03 S -S- stream #1 Req #7984 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+17:00:08 S Processor status JSU EXECX Setup in frame 23
+17:00:09 P Waiting for interlock
+17:00:10 P Got interlock
+17:00:10 P EXECX Job Processor %1(226) starting in frame 23
+17:00:10 P Stream #1 Req #7984 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+17:00:11 S Starting job processor in frame 23
+17:00:11 S -S- stream #2 Req #7863 DSK:(DANIELSR)FILSAV=DSK:(DANIELSR)FILE26.BU
+17:00:11 P Stream #2 Req #7863 DSK:(DANIELSR)FILSAV=DSK:(DANIELSR)FILE26.BU
+17:01:21 P Stream #1 Req #7984 * completed *
+17:01:22 P Stream #2 Req #7863 * completed *
+17:01:27 S -R- stream #1 Done-End <0>
+17:01:28 S -R- stream #2 Done-End <0>
+17:17:09 P Signing off.
+18:00:10 S 15-May-94
+21:00:12 S 15-May-94
+23:30:05 S -S- stream #1 Req #7985 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:30:12 S Processor status JSU EXECX Setup in frame 32
+23:30:12 P Waiting for interlock
+23:30:13 P Got interlock
+23:30:13 P EXECX Job Processor %1(226) starting in frame 32
+23:30:14 P Stream #1 Req #7985 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:30:14 S Starting job processor in frame 32
+23:31:23 P Stream #1 Req #7985 * completed *
+23:31:25 S -R- stream #1 Done-End <0>
+23:47:14 P Signing off.
+00:00:14 S 16-May-94
