@@ -1,0 +1,148 @@
+00:00:12 P Waiting for interlock
+00:00:13 P Got interlock
+00:00:13 P EXECX Job Processor %1(226) starting in frame 36
+00:00:14 P Stream #1 Req #321 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+00:00:19 P Stream #2 Req #320 DSK:(CSS800)4HRBUP.LOG=DSK:(CSS800)4HRBUP.CMD
+00:00:28 P Stream #3 Req #302 DSK:(ENSS)BACKUP.DAY
+00:01:15 P Stream #1 Req #321 * completed *
+00:01:22 S 29-May-92
+00:03:21 P Stream #3 Req #302 * completed *
+00:03:21 S -R- stream #3 Done-End <0>
+00:04:24 P Stream #2 Req #320 * completed *
+00:04:27 S -R- stream #2 Done-End <0>
+00:20:16 P Signing off.
+02:00:05 S -S- stream #1 Req #303 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+02:00:20 S Processor status JSU EXECX Setup in frame 58
+02:00:21 P Waiting for interlock
+02:00:23 P Got interlock
+02:00:23 P EXECX Job Processor %1(226) starting in frame 58
+02:00:24 S Starting job processor in frame 58
+02:00:25 P Stream #1 Req #303 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+02:01:18 P Stream #1 Req #303 * completed *
+02:01:24 S -R- stream #1 Done-End <0>
+02:17:29 P Signing off.
+03:00:03 S -S- stream #1 Req #304 DSK:(ENSS)PROOF.OUT=DSK:(ENSS)PROOF.SUB
+03:00:12 S Processor status JSU EXECX Setup in frame 63
+03:00:13 P Waiting for interlock
+03:00:14 P Got interlock
+03:00:14 P EXECX Job Processor %1(226) starting in frame 63
+03:00:15 S Starting job processor in frame 63
+03:00:16 P Stream #1 Req #304 DSK:(ENSS)PROOF.OUT=DSK:(ENSS)PROOF.SUB
+03:01:16 S 29-May-92
+03:29:27 P Stream #1 Req #304 * completed *
+03:29:29 S -R- stream #1 Done-End <0>
+03:45:21 P Signing off.
+04:00:05 S -S- stream #1 Req #322 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+04:00:15 P Waiting for interlock
+04:00:15 S Processor status JSU EXECX Setup in frame 29
+04:00:16 P Got interlock
+04:00:16 S Starting job processor in frame 29
+04:00:16 P EXECX Job Processor %1(226) starting in frame 29
+04:00:18 P Stream #1 Req #322 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+04:00:18 S -S- stream #2 Req #324 DSK:(CSS800)4HRBUP.LOG=DSK:(CSS800)4HRBUP.CMD
+04:00:19 P Stream #2 Req #324 DSK:(CSS800)4HRBUP.LOG=DSK:(CSS800)4HRBUP.CMD
+04:02:08 P Stream #1 Req #322 * completed *
+04:02:10 S -R- stream #1 Done-End <0>
+04:05:38 P Stream #2 Req #324 * completed *
+04:05:38 S -R- stream #2 Done-End <0>
+04:21:19 P Signing off.
+06:00:35 S 29-May-92
+07:45:03 S -S- stream #1 Req #307 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:11 S Processor status JSU EXECX Setup in frame 53
+07:45:11 P Waiting for interlock
+07:45:12 P Got interlock
+07:45:13 S Starting job processor in frame 53
+ in frame 53
+07:45:13 P Stream #1 Req #307 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+08:00:02 S -S- stream #2 Req #327 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+08:00:09 S -S- stream #3 Req #328 DSK:(CSS800)4HRBUP.LOG=DSK:(CSS800)4HRBUP.CMD
+09:00:19 S 29-May-92
+10:00:02 S -S- stream #4 Req #310 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+12:00:30 S 29-May-92
+14:30:04 S -S- stream #5 Req #314 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+15:00:41 S 29-May-92
+17:00:05 S -S- stream #6 Req #318 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:00:01 S 29-May-92
+18:00:01 S -S- stream #7 Req #319 DSK:(EDUSUB)AFDBAK.DOC=DSK:(EDUSUB)AFDBAK.SUB
+21:00:27 S 29-May-92
+23:02:42 S -S- stream #8 Req #129537 DSK:(MISSUB)AFDBAK.DOC=DSK:(MISSUB)AFDBAK.SUB
+23:04:48 S -S- run #1 job 37 Req #128332  Running DSK:(SRA)SYSDAT.SAV
+23:06:31 S -S- stream #9 Req #129841 DSK:(EDUSUB)AFDCLN.TMP=DSK:(EDUSUB)AFDCLN.SUB
+23:12:57 S run #1 job 37 Uid 12785277117 neq 0 sts=20310400000 que=300000372514 jna=0
+23:13:00 S -R- run #1 job 37 Abort-Logout <2>
+23:13:06 S 29-May-92 Signing off.
+23:13:33 S ** 29-May-92 XEXEC %1(215) in frame 4 ** user PERPOPER **
+23:13:34 S -S- stream #1 Req #327 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+23:13:41 S Processor status JSU EXECX Setup in frame 25
+23:13:42 P Waiting for interlock
+23:13:43 P Got interlock
+23:13:43 P EXECX Job Processor %1(226) starting in frame 25
+23:13:44 S Starting job processor in frame 25
+23:13:44 P Stream #1 Req #327 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+23:13:45 S -S- stream #2 Req #129720 DSK:(CIDNCODE)HSTLOA.LOG=DSK:(CIDNCODE)HSTLOA.CHS
+23:13:46 P Stream #2 file enter error (14) DSK:(CIDNCODE)HSTLOA.CHS
+23:13:46 P Stream #2 JobExit: 5,5
+23:13:52 S -R- stream #2 Abort-Enter <0>
+23:13:55 S -S- stream #2 Req #160 DSK:(ENSS)LEN.LOG=DSK:(ENSS)LEN
+23:13:59 P Stream #2 no input file (0) DSK:(ENSS)LEN
+23:14:00 P Stream #2 JobExit: 5,0
+23:14:02 S -R- stream #2 Abort-Input <0>
+23:14:04 S -S- stream #2 Req #328 DSK:(CSS800)4HRBUP.LOG=DSK:(CSS800)4HRBUP.CMD
+23:14:08 P Stream #2 Req #328 DSK:(CSS800)4HRBUP.LOG=DSK:(CSS800)4HRBUP.CMD
+23:14:12 S -S- stream #3 Req #310 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+23:14:12 P Stream #3 Req #310 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+23:14:17 S -S- stream #4 Req #314 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+23:14:18 P Stream #4 Req #314 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+23:14:25 S -S- stream #5 Req #319 DSK:(EDUSUB)AFDBAK.DOC=DSK:(EDUSUB)AFDBAK.SUB
+23:14:39 P Stream #6 Req #318 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+NT
+23:14:50 S -S- stream #7 Req #129537 DSK:(MISSUB)AFDBAK.DOC=DSK:(MISSUB)AFDBAK.SUB
+23:14:52 P Stream #7 Req #129537 DSK:(MISSUB)AFDBAK.DOC=DSK:(MISSUB)AFDBAK.SUB
+23:14:53 P Stream #3 Req #310 * completed *
+23:14:56 S 29-May-92
+23:15:00 S -R- stream #3 Done-End <0>
+23:15:14 S -S- stream #3 Req #129841 DSK:(EDUSUB)AFDCLN.TMP=DSK:(EDUSUB)AFDCLN.SUB
+23:15:15 P Stream #3 Req #129841 DSK:(EDUSUB)AFDCLN.TMP=DSK:(EDUSUB)AFDCLN.SUB
+23:15:23 S -S- stream #8 Req #127814 DSK:(TRWNET)AFDMPR.OU2= Running DSK:(TRWNET)AFDM01.CM2
+23:15:25 P Stream #8 no input file (0) DSK:(TRWNET)AFDM01.CM2
+23:15:25 P Stream #8 JobExit: 5,0
+23:15:29 S -R- stream #8 Abort-Input <0>
+23:15:31 S -S- stream #8 Req #124617 DSK:(BTSUB)AFDCLN.TMP=DSK:(BTSUB)AFDCLN.SUB
+23:15:34 P Stream #5 Req #319 * completed *
+23:15:35 P Stream #7 Req #129537 * completed *
+23:15:37 P Stream #8 Req #124617 DSK:(BTSUB)AFDCLN.TMP=DSK:(BTSUB)AFDCLN.SUB
+23:15:38 S -R- stream #5 Done-End <0>
+23:15:39 S -R- stream #7 Done-End <0>
+23:15:45 S -S- stream #5 Req #123011 DSK:(UKBKBONE)SOFTVN.DOC=DSK:(UKBKBONE)SOFTVN.CMD
+23:15:47 P Stream #5 Req #123011 DSK:(UKBKBONE)SOFTVN.DOC=DSK:(UKBKBONE)SOFTVN.CMD
+23:15:56 P Stream #6 Req #318 * completed *
+23:15:59 S -S- stream #7 Req #129819 DSK:(DOUGE)PAPER.OUT=DSK:(DOUGE)PAPER.RUN
+23:16:03 P Stream #7 Req #129819 DSK:(DOUGE)PAPER.OUT=DSK:(DOUGE)PAPER.RUN
+23:16:11 S -R- stream #6 Done-End <0>
+23:16:17 P Stream #5 Req #123011 * aborted - lost command port at line 6 *
+23:16:31 S -R- stream #6 Abort-License <0>
+23:16:43 S -R- stream #5 Abort-Zap <0>
+23:16:58 S -S- stream #5 Req #307 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+23:17:00 P Stream #5 Req #307 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+23:17:19 P Stream #2 Req #328 * completed *
+23:17:20 P Stream #3 Req #129841 * completed *
+23:17:21 P Stream #8 Req #124617 * completed *
+23:17:23 S -R- stream #2 Done-End <0>
+23:17:24 S -R- stream #3 Done-End <0>
+23:17:24 S -R- stream #8 Done-End <0>
+23:18:43 P Stream #4 Req #314 * completed *
+23:18:45 S -R- stream #4 Done-End <0>
+23:20:52 S -S- run #1 job 34 Req #128332  Running DSK:(SRA)SYSDAT.SAV
+23:23:38 P Stream #1 Req #327 * completed *
+23:23:38 S -R- stream #1 Done-End <0>
+23:23:58 P Stream #7 Req #129819 * completed *
+23:23:59 S -R- stream #7 Done-End <0>
+23:29:15 P Stream #5 Req #307 * completed *
+23:29:20 S -R- stream #5 Done-End <0>
+23:44:51 P Signing off.
+00:00:05 S -S- stream #1 Req #337 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+00:01:14 S 30-May-92
+#1 Done-End <0>
+ENSS)BACKUP.DAY
+
+00:00:16 S -S- stream #2 Req #333 DSK:(CSS800)4HRBUP.LOG=DSK:(CSS800)4HRBUP.CMD
