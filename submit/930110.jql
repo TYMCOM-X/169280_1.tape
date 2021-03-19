@@ -1,0 +1,120 @@
+00:00:07 S 10-Jan-93
+00:30:02 S -S- stream #1 Req #4468 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+00:30:08 S Processor status JSU EXECX Setup in frame 40
+00:30:08 P Waiting for interlock
+00:30:10 P Got interlock
+00:30:10 P EXECX Job Processor %1(226) starting in frame 40
+00:30:10 P Stream #1 Req #4468 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+00:30:10 S Starting job processor in frame 40
+00:31:39 P Stream #1 Req #4468 * completed *
+00:31:43 S -R- stream #1 Done-End <0>
+00:47:11 P Signing off.
+01:00:00 S -S- stream #1 Req #4481 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+01:00:06 S Processor status JSU EXECX Setup in frame 32
+01:00:07 P Waiting for interlock
+01:00:08 P Got interlock
+01:00:08 P EXECX Job Processor %1(226) starting in frame 32
+01:00:08 P Stream #1 Req #4481 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+01:00:09 S Starting job processor in frame 32
+01:00:48 P Stream #1 Req #4481 * completed *
+01:00:51 S -R- stream #1 Done-End <0>
+01:16:13 P Signing off.
+03:00:28 S 10-Jan-93
+05:00:02 S -S- stream #1 Req #4483 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+05:00:10 S Processor status JSU EXECX Setup in frame 25
+05:00:10 P Waiting for interlock
+05:00:12 P Got interlock
+05:00:13 P EXECX Job Processor %1(226) starting in frame 25
+05:00:13 S Starting job processor in frame 25
+05:00:15 P Stream #1 Req #4483 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+05:01:10 P Stream #1 Req #4483 * completed *
+05:01:12 S -R- stream #1 Done-End <0>
+05:16:17 P Signing off.
+06:00:23 S 10-Jan-93
+07:00:07 S 10-Jan-93 Signing off.
+12:42:02 S ** 10-Jan-93 XEXEC %1(215) in frame 4 ** user PERPOPER **
+12:42:02 S -S- stream #1 Req #4484 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+12:42:08 S Processor status JSU EXECX Setup in frame 9
+12:42:09 P Waiting for interlock
+12:42:10 P Got interlock
+12:42:10 P EXECX Job Processor %1(226) starting in frame 9
+12:42:10 P Stream #1 Req #4484 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+12:42:11 S Starting job processor in frame 9
+12:42:11 S -S- stream #2 Req #4471 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+12:42:12 P Stream #2 Req #4471 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+12:42:17 S -S- stream #3 Req #4473 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+12:42:17 P Stream #3 Req #4473 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+12:43:11 S 10-Jan-93
+12:43:29 P Stream #1 Req #4484 * completed *
+12:43:29 P Stream #3 Req #4473 * completed *
+12:43:33 S -R- stream #1 Done-End <0>
+12:43:34 S -R- stream #3 Done-End <0>
+13:00:05 P Stream #1 Req #4485 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+ #4485 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+13:01:24 P Stream #1 Req #4485 * completed *
+13:01:25 S -R- stream #1 Done-End <0>
+13:17:14 P Signing off.
+15:00:19 S 10-Jan-93
+15:30:04 S -S- stream #1 Req #4476 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+15:30:10 S Processor status JSU EXECX Setup in frame 18
+15:30:11 P Waiting for interlock
+15:30:12 P Got interlock
+15:30:12 P EXECX Job Processor %1(226) starting in frame 18
+15:30:12 P Stream #1 Req #4476 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+15:30:12 S Starting job processor in frame 18
+15:33:03 P Stream #1 Req #4476 * completed *
+15:33:04 S -R- stream #1 Done-End <0>
+15:48:12 P Signing off.
+16:30:01 S -S- stream #1 Req #4477 DSK:(DOUGE)PAPER.OUT=DSK:(DOUGE)PAPER.RUN
+16:30:09 S Processor status JSU EXECX Setup in frame 22
+16:30:09 P Waiting for interlock
+16:30:10 P Got interlock
+16:30:10 P EXECX Job Processor %1(226) starting in frame 22
+16:30:10 P Stream #1 Req #4477 DSK:(DOUGE)PAPER.OUT=DSK:(DOUGE)PAPER.RUN
+16:30:11 S Starting job processor in frame 22
+16:34:00 P Stream #1 Req #4477 * completed *
+16:34:01 S -R- stream #1 Done-End <0>
+16:49:14 P Signing off.
+17:00:01 S -S- stream #1 Req #4488 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+17:00:08 S Processor status JSU EXECX Setup in frame 30
+17:00:08 P Waiting for interlock
+17:00:10 P Got interlock
+17:00:10 P EXECX Job Processor %1(226) starting in frame 30
+17:00:10 S Starting job processor in frame 30
+17:00:11 P Stream #1 Req #4488 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+17:01:24 P Stream #1 Req #4488 * completed *
+17:01:26 S -R- stream #1 Done-End <0>
+17:17:17 P Signing off.
+18:00:02 S -S- stream #1 Req #4479 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:00:08 S Processor status JSU EXECX Setup in frame 32
+18:00:08 P Waiting for interlock
+18:00:09 P Got interlock
+18:00:09 P EXECX Job Processor %1(226) starting in frame 32
+18:00:09 P Stream #1 Req #4479 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:00:10 S Starting job processor in frame 32
+18:01:11 S 10-Jan-93
+18:01:19 P Stream #1 Req #4479 * completed *
+18:01:23 S -R- stream #1 Done-End <0>
+18:17:13 P Signing off.
+19:00:03 S -S- stream #1 Req #4480 DSK:(EDUSUB)AFDBAK.DOC=DSK:(EDUSUB)AFDBAK.SUB
+19:00:11 S Processor status JSU EXECX Setup in frame 34
+19:00:11 P Waiting for interlock
+19:00:12 P Got interlock
+19:00:12 P EXECX Job Processor %1(226) starting in frame 34
+19:00:13 P Stream #1 Req #4480 DSK:(EDUSUB)AFDBAK.DOC=DSK:(EDUSUB)AFDBAK.SUB
+19:00:56 P Stream #1 Req #4480 * completed *
+
+19:01:01 S -R- stream #1 Done-End <0>
+19:16:18 P Signing off.
+21:00:02 S -S- stream #1 Req #4491 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+21:00:09 S Processor status JSU EXECX Setup in frame 34
+21:00:09 P Waiting for interlock
+21:00:10 P Got interlock
+21:00:10 P EXECX Job Processor %1(226) starting in frame 34
+21:00:10 P Stream #1 Req #4491 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+21:00:11 S Starting job processor in frame 34
+21:00:46 P Stream #1 Req #4491 * completed *
+21:00:49 S -R- stream #1 Done-End <0>
+21:01:10 S 10-Jan-93
+21:16:11 P Signing off.
+00:00:49 S 11-Jan-93
