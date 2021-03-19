@@ -1,0 +1,382 @@
+Master host: 33
+178 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+(SPPOPER     :  26) RPG.INI        2 21-May-86 11:41 -- bad checksum NAKTIP
+                           should be 09-May-86 09:47 WAQLAT  ALL  RD  NO
+(SPPOPER     :  26) ACCESS.MSG     2 20-Nov-85 15:12 -- bad checksum XASVUH
+                           should be 01-Feb-88 17:46 RASZOC  ALL  RD  NO
+(SPPOPER     :  26) SPNODE.SAV    17 24-Aug-81 14:12 -- protection ALL  RD RUN
+                           should be 30-Apr-86 11:38 ZAVLIG  ALL  RD  NO
+(SPPOPER     :  26) SPNODE.SAV    17 24-Aug-81 14:12 -- bad license   2012
+                           should be 30-Apr-86 11:38 ZAVLIG  ALL  RD  NO
+(SPPOPER     :  26) SPOOL.TAP      2 05-Jan-88 13:08 -- bad checksum MADXOX
+                           should be 10-May-88 11:13 XEPFIR  ALL  RD  NO
+(SPPOPER     :  26) RPGINI.CTL     2 11-Dec-85 16:08 -- bad checksum YUTKEP
+                           should be 09-May-86 09:44 JENGEJ  ALL  RD  NO
+(SPPOPER     :  26) CRSHID.LOG     2 12-Sep-88 17:20 -- bad checksum WISYUT
+                           should be 12-Sep-88 17:54 DAVGAF  ALL  RD  NO
+(SPPOPER     :  26) FAKSPO.SAV     9 13-Jun-79 17:49 -- bad license 
+                           should be 25-Apr-87 23:01 MEDGAW  ALL RUN RUN      2
+(SPPOPER     :  26) FIXMAP.SAV    14 12-Jul-85 11:10 -- bad checksum KAKYAQ
+                           should be 29-Apr-86 14:29 BASVAZ  ALL  RD  NO
+(SPPOPER     :  26) MAIL.BOX       2 10-Jul-86 10:42 -- bad checksum FOHQEV
+                           should be 03-Apr-87 16:10 XIQYOD  ALL  RD  NO
+(SPPOPER     :  26) NODPRI         9 10-Jan-86 15:48 -- bad checksum WIMSIK
+                           should be 15-Jul-87 16:03 PETDEW  ALL  RD  NO
+(SPPOPER     :  26) SPFIX.SAV     52 05-May-86 10:09 -- bad license  62002
+                           should be 05-May-86 10:47 RULZUY  ALL  RD  NO  60002
+(SPPOPER     :  26) DIRIT.INI      2 18-Nov-85 13:11 -- bad checksum XAJPIS
+                           should be 03-Mar-87 11:02 VECJAD  ALL  RD  NO
+(SPPOPER     :  26) 070TEL.OUT                       -- missing on slave
+(SPPOPER     :  26) 070TEL.COM                       -- missing on slave
+(SPPOPER     :  26) SPOFIL.MAC                       -- missing on slave
+(SPPOPER     :  26) DEBUG.MAC                        -- missing on slave
+(SPPOPER     :  26) CGETLI.MAC                       -- missing on slave
+(SPPOPER     :  26) ACTDEB.MAC                       -- missing on slave
+(SPPOPER     :  26) SPLTAP.WHR                       -- missing on slave
+(SPPOPER     :  26) CLEAN2.RPT                       -- missing on slave
+(SPPOPER     :  26) CLEAN2.R39                       -- missing on slave
+(SPPOPER     :  26) SPLTAP.ALL                       -- missing on slave
+(SPPOPER     :  26) SPLTAP.NEW                       -- missing on slave
+(SPPOPER     :  26) REPAI2.RPT                       -- missing on slave
+(SPPOPER     :  26) WARNG2.CTL                       -- missing on slave
+(SPPOPER     :  26) REMIND.DAT                       -- missing on slave
+(SPPOPER     :  26) CLEAN2                           -- missing on slave
+(SPPOPER     :  26) CLEAN2.CTL                       -- missing on slave
+(SPPOPER     :  26) SPLTAP.FIL                       -- missing on slave
+(SPPOPER     :  26) SPLTAP.CTL                       -- missing on slave
+(SPPOPER     :  26) CLEAN2.LOG                       -- missing on slave
+(SPPOPER     :  26) SPFIX.DOC                        -- missing on slave
+(SPPOPER     :  26) SPFIX.CMD                        -- missing on slave
+(SPPOPER     :  26) SPFIX.260                        -- missing on slave
+(SPPOPER     :  26) SPFIX.FIL                        -- missing on slave
+(SPPOPER     :  26) SPFIX.SAI                        -- missing on slave
+(SPPOPER     :  26) ZAPFIL.CMD                       -- missing on slave
+(SPPOPER     :  26) DIRIT.MAC                        -- missing on slave
+(SPPOPER     :  26) TITO.SAV                         -- missing on slave
+(SPPOPER     :  26) BSPFIX.SAV                       -- missing on slave
+(SPPOPER     :  26) SPLCHK                           -- missing on slave
+(SPPOPER     :  26) MAIL                             -- missing on slave
+(SPPOPER     :  26) DATAS.MAC                        -- missing on slave
+(SPPOPER     :  26) CREQTT.MAC                       -- missing on slave
+(SPPOPER     :  26) CRDLUD.MAC                       -- missing on slave
+(SPPOPER     :  26) CPARSE.MAC                       -- missing on slave
+(SPPOPER     :  26) NEED.RPR                         -- missing on slave
+(SPPOPER     :  26) NODPRI.WHR                       -- missing on slave
+(SPPOPER     :  26) NODPRI.CPY                       -- missing on slave
+(SPPOPER     :  26) FIX.RPT                          -- missing on slave
+(SPPOPER     :  26) THIS.WK                          -- missing on slave
+(SPPOPER     :  26) RMD2.CTL                         -- missing on slave
+(SPPOPER     :  26) SPTST.SAV                        -- missing on slave
+(SPPOPER     :  26) PEND1.RPT                        -- missing on slave
+(SPPOPER     :  26) NODPRI.LOC                       -- missing on slave
+(SPPOPER     :  26) NODPRI.CHK                       -- missing on slave
+(SPPOPER     :  26) SPMHX.SAV                        -- missing on slave
+(SPPOPER     :  26) SPMHX.SVO                        -- missing on slave
+(SPPOPER     :  26) SPMHX.SAO                        -- missing on slave
+(SPPOPER     :  26) RCHARG.DOC                       -- missing on slave
+(SPPOPER     :  26) RCHARG.MEM                       -- missing on slave
+(SPPOPER     :  26) NODPRI.LST                       -- missing on slave
+(SPPOPER     :  26) NODPRI.OUT                       -- missing on slave
+(SPPOPER     :  26) NODPRI.CMD                       -- missing on slave
+(SPPOPER     :  26) NODPRI.RPT                       -- missing on slave
+(SPPOPER     :  26) DEBTAP.DOC                       -- missing on slave
+(SPPOPER     :  26) FIXMAP.SAI                       -- missing on slave
+(SPPOPER     :  26) UPDPAD.SAV                       -- missing on slave
+(SPPOPER     :  26) CMDPRO.HDR                       -- missing on slave
+(SPPOPER     :  26) ADEBUG.CMD                       -- missing on slave
+(SPPOPER     :  26) TODAY.LOG                        -- missing on slave
+(SPPOPER     :  26) B39.LG2                          -- missing on slave
+(SPPOPER     :  26) B39.LOG                          -- missing on slave
+(SPPOPER     :  26) MONTHL.LOG                       -- missing on slave
+(SPPOPER     :  26) BUBB.LOG                         -- missing on slave
+(SPPOPER     :  26) Y                                -- missing on slave
+(SPPOPER     :  26) SP.O                             -- missing on slave
+(SPPOPER     :  26) REPAIR.37                        -- missing on slave
+(SPPOPER     :  26) F22SPL.BAK                       -- missing on slave
+(SPPOPER     :  26) F22SPL.LOG                       -- missing on slave
+(SPPOPER     :  26) CPROMP.DIF                       -- missing on slave
+(SPPOPER     :  26) CPROMP.063                       -- missing on slave
+(SPPOPER     :  26) DSPOOL.CMD                       -- missing on slave
+(SPPOPER     :  26) DATA.MAC                         -- missing on slave
+(SPPOPER     :  26) CPROMP.MAC                       -- missing on slave
+(SPPOPER     :  26) REPAIR.RP2                       -- missing on slave
+(SPPOPER     :  26) REPAIR.LOG                       -- missing on slave
+(SPPOPER     :  26) SPLIST                           -- missing on slave
+(SPPOPER     :  26) REPAIR.RPT                       -- missing on slave
+(SPPOPER     :  26) SPLIST.PRT                       -- missing on slave
+(SPPOPER     :  26) SPLIST.TM                        -- missing on slave
+(SPPOPER     :  26) NODUPD.MEM                       -- missing on slave
+(SPPOPER     :  26) NODES.SPL                        -- missing on slave
+(SPPOPER     :  26) NODES.SRT                        -- missing on slave
+(SPPOPER     :  26) PUI1S.PUI                        -- missing on slave
+(SPPOPER     :  26) PRINTR.WHR                       -- missing on slave
+(SPPOPER     :  26) PRINTR.BAK                       -- missing on slave
+(SPPOPER     :  26) NSPFIX.SAV                       -- missing on slave
+(SPPOPER     :  26) Q                                -- missing on slave
+(SPPOPER     :  26) SPFCKS.250                       -- missing on slave
+(SPPOPER     :  26) SPFDIF.250                       -- missing on slave
+(SPPOPER     :  26) SPOOL.XXX                        -- missing on slave
+(SPPOPER     :  26) SPLMNT.HLD                       -- missing on slave
+(SPPOPER     :  26) SPOOL.VAS                        -- missing on slave
+(SPPOPER     :  26) SPOOL.INF                        -- missing on slave
+(SPPOPER     :  26) SPOOL.MNT                        -- missing on slave
+(SPPOPER     :  26) SPOOL.CMD                        -- missing on slave
+(SPPOPER     :  26) CSTAT.MAC                        -- missing on slave
+(SPPOPER     :  26) CHRDCP.MAC                       -- missing on slave
+(SPPOPER     :  26) CLEAN.R74                        -- missing on slave
+(SPPOPER     :  26) CLEAN.R34                        -- missing on slave
+(SPPOPER     :  26) MONTH.LOG                        -- missing on slave
+(SPPOPER     :  26) CLEAN                            -- missing on slave
+(SPPOPER     :  26) UNPROC.RPT                       -- missing on slave
+(SPPOPER     :  26) WARNG.CTL                        -- missing on slave
+(SPPOPER     :  26) WARNG.LOG                        -- missing on slave
+(SPPOPER     :  26) CLEAN.CTL                        -- missing on slave
+(SPPOPER     :  26) CLEAN.LOG                        -- missing on slave
+(SPPOPER     :  26) PEND.RPT                         -- missing on slave
+(SPPOPER     :  26) CLEAN.RP2                        -- missing on slave
+(SPPOPER     :  26) CLEAN.TDY                        -- missing on slave
+(SPPOPER     :  26) CLEAN.RPT                        -- missing on slave
+(SPPOPER     :  26) CLEAN.R36                        -- missing on slave
+(SPPOPER     :  26) PRINT.MEM                        -- missing on slave
+(SPPOPER     :  26) SPOOL.ACT                        -- missing on slave
+(SPPOPER     :  26) SPOOL.MEM                        -- missing on slave
+(SPPOPER     :  26) SPNODE.OLD                       -- missing on slave
+(SPPOPER     :  26) SPOOL.LST                        -- missing on slave
+(SPPOPER     :  26) PRIADR                           -- missing on slave
+(SPPOPER     :  26) MONTH.SPL                        -- missing on slave
+(SPPOPER     :  26) PRINT.DOC                        -- missing on slave
+(SPPOPER     :  26) MEMO.LIB                         -- missing on slave
+(SPPOPER     :  26) PUPSEQ.PUI                       -- missing on slave
+(SPPOPER     :  26) SPNODE                           -- missing on slave
+(SPPOPER     :  26) SPLMNT.DOC                       -- missing on slave
+(SPPOPER     :  26) SPOOL.FDG                        -- missing on slave
+(SPPOPER     :  26) CSPOOL.SAV                       -- missing on slave
+(SPPOPER     :  26) RECFIX.REL                       -- missing on slave
+(SPPOPER     :  26) 063TEL.OUT                       -- missing on slave
+(SPPOPER     :  26) 063TEL.COM                       -- missing on slave
+(SPPOPER     :  26) MON.LOG                          -- missing on slave
+(SPPOPER     :  26) WARNG4.CTL                       -- missing on slave
+(SPPOPER     :  26) MONDAY.LOG                       -- missing on slave
+(SPPOPER     :  26) TUMS.INI                         -- missing on slave
+(SPPOPER     :  26) RMD.CTL                          -- missing on slave
+(SPPOPER     :  26) 005PCO.LOG                       -- missing on slave
+(SPPOPER     :  26) TUMS.TIX                         -- missing on slave
+(SPPOPER     :  26) TUMS.MSG                         -- missing on slave
+(SPPOPER     :  26) SPLFIX.260                       -- missing on slave
+(SPPOPER     :  26) SPLFIX.SAI                       -- missing on slave
+(SPPOPER     :  26) SPFIX7.FDM                       -- missing on slave
+(SPPOPER     :  26) SPLFIX.DOC                       -- missing on slave
+(SPPOPER     :  26) RECFIX.SAI                       -- missing on slave
+(SPPOPER     :  26) SAICOD.INI                       -- missing on slave
+(SPPOPER     :  26) DEFPRI.REL                       -- missing on slave
+(SPPOPER     :  26) DEFPRI.SAI                       -- missing on slave
+(SPPOPER     :  26) PUI1.PUI                         -- missing on slave
+(SPPOPER     :  26) DEFPRI.SAV                       -- missing on slave
+(SPPOPER     :  26) SPLFIX.MEM                       -- missing on slave
+(SPPOPER     :  26) INIT.SAI                         -- missing on slave
+(SPPOPER     :  26) INIT.SAV                         -- missing on slave
+(SPPOPER     :  26) RECFIX.SAV                       -- missing on slave
+(SPPOPER     :  26) CHNREC.HDR                       -- missing on slave
+(SPPOPER     :  26) CACTRE.MAC                       -- missing on slave
+(SPPOPER     :  26) TUES.LOG                         -- missing on slave
+(SPPOPER     :  26) TUES.L39                         -- missing on slave
+(SPPOPER     :  26) WARNG3.CTL                       -- missing on slave
+(SPPOPER     :  26) BUBNET.LOG                       -- missing on slave
+(SPPOPER     :  26) REAPI3.RPT                       -- missing on slave
+(SPPOPER     :  26) PULABL.PUI                       -- missing on slave
+(SPPOPER     :  26) DUSAGE.DAT                       -- missing on slave
+(SPPOPER     :  26) DUSAGE.RPT                       -- missing on slave
+Checking host 33
+Checking host 34
+(SPPOPER     :  34) RPG.INI        2 22-May-86 17:34 -- bad checksum NAKTIP
+                           should be 09-May-86 09:47 WAQLAT  ALL  RD  NO
+(SPPOPER     :  34) TUMS.TIX       2 05-Mar-88 13:47 -- bad checksum BOBDUC
+                           should be 31-Jul-87 15:59 SIBDUC  ALL  RD  NO
+(SPPOPER     :  34) DEFPRI.SAV    19 26-Aug-87 09:01 -- bad checksum VEGJIQ
+                           should be 08-Aug-85 17:32 NAQTEN  ALL  RD  NO
+(SPPOPER     :  34) UNPROC.RPT     4 05-Jan-88 11:17 -- bad checksum TANGAT
+                           should be 29-Jul-87 17:27 QUVDOC  ALL  RD  NO
+(SPPOPER     :  34) PEND.RPT       2 10-Aug-88 11:04 -- bad checksum DUBWEP
+                           should be 19-Aug-87 09:05 ZOXCAN  ALL  RD  NO
+(SPPOPER     :  34) PRIADR        13 21-Sep-87 08:53 -- bad checksum NEFCET
+                           should be 29-Apr-86 14:38 VEJQEB  ALL  RD  NO
+(SPPOPER     :  34) SPLIST         2 19-Jan-89 15:36 -- bad checksum QAHZOC
+                           should be 19-Jun-87 10:54 JASDAR  ALL  RD  NO
+(SPPOPER     :  34) CRSHID.LOG     2 12-Sep-88 17:20 -- bad checksum WISYUT
+                           should be 12-Sep-88 17:54 DAVGAF  ALL  RD  NO
+(SPPOPER     :  34) FAKSPO.SAV     9 31-Jul-85 09:15 -- bad license 
+                           should be 25-Apr-87 23:01 MEDGAW  ALL RUN RUN      2
+(SPPOPER     :  34) NODPRI         9 10-Jan-86 15:56 -- bad checksum WIMSIK
+                           should be 15-Jul-87 16:03 PETDEW  ALL  RD  NO
+(SPPOPER     :  34) FIXMAP.SAV    14 12-Jul-85 11:10 -- bad checksum KAKYAQ
+                           should be 29-Apr-86 14:29 BASVAZ  ALL  RD  NO
+(SPPOPER     :  34) MAIL.BOX       2 10-Jul-86 10:42 -- bad checksum FOHQEV
+                           should be 03-Apr-87 16:10 XIQYOD  ALL  RD  NO
+(SPPOPER     :  34) SPLCHK         2 07-Oct-87 17:05 -- bad checksum MUNMIV
+                           should be 11-Jan-88 14:47 KOZJAY  ALL  RD  NO
+(SPPOPER     :  34) SPFIX.SAV     52 05-May-86 12:02 -- bad license  62002
+                           should be 05-May-86 10:47 RULZUY  ALL  RD  NO  60002
+(SPPOPER     :  34) DIRIT.INI      2 20-Feb-86 16:17 -- bad checksum XAJPIS
+                           should be 03-Mar-87 11:02 VECJAD  ALL  RD  NO
+(SPPOPER     :  34) 070TEL.OUT                       -- missing on slave
+(SPPOPER     :  34) 070TEL.COM                       -- missing on slave
+(SPPOPER     :  34) SPOFIL.MAC                       -- missing on slave
+(SPPOPER     :  34) DEBUG.MAC                        -- missing on slave
+(SPPOPER     :  34) CGETLI.MAC                       -- missing on slave
+(SPPOPER     :  34) ACTDEB.MAC                       -- missing on slave
+(SPPOPER     :  34) SPLTAP.WHR                       -- missing on slave
+(SPPOPER     :  34) CLEAN2.RPT                       -- missing on slave
+(SPPOPER     :  34) CLEAN2.R39                       -- missing on slave
+(SPPOPER     :  34) SPLTAP.ALL                       -- missing on slave
+(SPPOPER     :  34) SPLTAP.NEW                       -- missing on slave
+(SPPOPER     :  34) REPAI2.RPT                       -- missing on slave
+(SPPOPER     :  34) REMIND.DAT                       -- missing on slave
+(SPPOPER     :  34) CLEAN2.CTL                       -- missing on slave
+(SPPOPER     :  34) SPLTAP.FIL                       -- missing on slave
+(SPPOPER     :  34) SPLTAP.CTL                       -- missing on slave
+(SPPOPER     :  34) CLEAN2.LOG                       -- missing on slave
+(SPPOPER     :  34) SPFIX.DOC                        -- missing on slave
+(SPPOPER     :  34) SPFIX.CMD                        -- missing on slave
+(SPPOPER     :  34) SPFIX.260                        -- missing on slave
+(SPPOPER     :  34) SPFIX.FIL                        -- missing on slave
+(SPPOPER     :  34) SPFIX.SAI                        -- missing on slave
+(SPPOPER     :  34) ZAPFIL.CMD                       -- missing on slave
+(SPPOPER     :  34) DIRIT.MAC                        -- missing on slave
+(SPPOPER     :  34) TITO.SAV                         -- missing on slave
+(SPPOPER     :  34) BSPFIX.SAV                       -- missing on slave
+(SPPOPER     :  34) MAIL                             -- missing on slave
+(SPPOPER     :  34) DATAS.MAC                        -- missing on slave
+(SPPOPER     :  34) CREQTT.MAC                       -- missing on slave
+(SPPOPER     :  RDLUD.MAC                       -- missing on slave
+(SPPOPER     :  34) CPARSE.MAC                       -- missing on slave
+(SPPOPER     :  34) NEED.RPR                         -- missing on slave
+(SPPOPER     :  34) NODPRI.WHR                       -- missing on slave
+(SPPOPER     :  34) NODPRI.CPY                       -- missing on slave
+(SPPOPER     :  34) FIX.RPT                          -- missing on slave
+(SPPOPER     :  34) THIS.WK                          -- missing on slave
+(SPPOPER     :  34) RMD2.CTL                         -- missing on slave
+(SPPOPER     :  34) PEND1.RPT                        -- missing on slave
+(SPPOPER     :  34) NODPRI.LOC                       -- missing on slave
+(SPPOPER     :  34) NODPRI.CHK                       -- missing on slave
+(SPPOPER     :  34) SPMHX.SVO                        -- missing on slave
+(SPPOPER     :  34) SPMHX.SAO                        -- missing on slave
+(SPPOPER     :  34) RCHARG.DOC                       -- missing on slave
+(SPPOPER     :  34) RCHARG.MEM                       -- missing on slave
+(SPPOPER     :  34) NODPRI.LST                       -- missing on slave
+(SPPOPER     :  34) NODPRI.OUT                       -- missing on slave
+(SPPOPER     :  34) NODPRI.CMD                       -- missing on slave
+(SPPOPER     :  34) NODPRI.RPT                       -- missing on slave
+(SPPOPER     :  34) DEBTAP.DOC                       -- missing on slave
+(SPPOPER     :  34) FIXMAP.SAI                       -- missing on slave
+(SPPOPER     :  34) UPDPAD.SAV                       -- missing on slave
+(SPPOPER     :  34) CMDPRO.HDR                       -- missing on slave
+(SPPOPER     :  34) ADEBUG.CMD                       -- missing on slave
+(SPPOPER     :  34) TODAY.LOG                        -- missing on slave
+(SPPOPER     :  34) B39.LG2                          -- missing on slave
+(SPPOPER     :  34) B39.LOG                          -- missing on slave
+(SPPOPER     :  34) MONTHL.LOG                       -- missing on slave
+(SPPOPER     :  34) BUBB.LOG                         -- missing on slave
+(SPPOPER     :  34) Y                                -- missing on slave
+(SPPOPER     :  34) SP.O                             -- missing on slave
+(SPPOPER     :  34) REPAIR.37                        -- missing on slave
+(SPPOPER     :  34) F22SPL.BAK                       -- missing on slave
+(SPPOPER     :  34) F22SPL.LOG                       -- missing on slave
+(SPPOPER     :  34) CPROMP.DIF                       -- missing on slave
+Checking host 38
+(SPPOPER     :  38) RPG.INI        2 22-May-86 17:34 -- bad checksum NAKTIP
+                           should be 09-May-86 09:47 WAQLAT  ALL  RD  NO
+(SPPOPER     :  38) TUMS.TIX       2 05-Mar-88 13:47 -- bad checksum BOBDUC
+                           should be 31-Jul-87 15:59 SIBDUC  ALL  RD  NO
+(SPPOPER     :  38) DEFPRI.SAV    19 26-Aug-87 09:01 -- bad checksum VEGJIQ
+                           should be 08-Aug-85 17:32 NAQTEN  ALL  RD  NO
+(SPPOPER     :  38) UNPROC.RPT     4 05-Jan-88 11:17 -- bad checksum TANGAT
+                           should be 29-Jul-87 17:27 QUVDOC  ALL  RD  NO
+(SPPOPER     :  38) PEND.RPT       2 10-Aug-88 11:04 -- bad checksum DUBWEP
+                           should be 19-Aug-87 09:05 ZOXCAN  ALL  RD  NO
+(SPPOPER     :  38) PRIADR        13 21-Sep-87 08:53 -- bad checksum NEFCET
+                           should be 29-Apr-86 14:38 VEJQEB  ALL  RD  NO
+(SPPOPER     :  38) SPLIST         2 19-Jan-89 15:36 -- bad checksum QAHZOC
+                           should be 19-Jun-87 10:54 JASDAR  ALL  RD  NO
+(SPPOPER     :  38) FAKSPO.SAV     9 31-Jul-85 09:15 -- bad license 
+                           should be 25-Apr-87 23:01 MEDGAW  ALL RUN RUN      2
+(SPPOPER     :  38) CRSHID.LOG     2 12-Sep-88 17:20 -- bad checksum WISYUT
+                           should be 12-Sep-88 17:54 DAVGAF  ALL  RD  NO
+(SPPOPER     :  38) NODPRI         9 10-Jan-86 15:56 -- bad checksum WIMSIK
+                           should be 15-Jul-87 16:03 PETDEW  ALL  RD  NO
+(SPPOPER     :  38) FIXMAP.SAV    14 12-Jul-85 11:10 -- bad checksum KAKYAQ
+                           should be 29-Apr-86 14:29 BASVAZ  ALL  RD  NO
+(SPPOPER     :  38) MAIL.BOX       2 10-Jul-86 10:42 -- bad checksum FOHQEV
+                           should be 03-Apr-87 16:10 XIQYOD  ALL  RD  NO
+(SPPOPER     :  38) SPLCHK         2 07-Oct-87 17:05 -- bad checksum MUNMIV
+                           should be 11-Jan-88 14:47 KOZJAY  ALL  RD  NO
+(SPPOPER     :  38) SPFIX.SAV     52 05-May-86 12:02 -- bad license  62002
+                           should be 05-May-86 10:47 RULZUY  ALL  RD  NO  60002
+(SPPOPER     :  38) DIRIT.INI      2 20-Feb-86 16:17 -- bad checksum XAJPIS
+                           should be 03-Mar-87 11:02 VECJAD  ALL  RD  NO
+(SPPOPER     :  38) 070TEL.OUT                       -- missing on slave
+(SPPOPER     :  38) 070TEL.COM                       -- missing on slave
+(SPPOPER     :  38) SPOFIL.MAC                       -- missing on slave
+(SPPOPER     :  38) DEBUG.MAC                        -- missing on slave
+(SPPOPER     :  38) CGETLI.MAC                       -- missing on slave
+(SPPOPER     :  38) ACTDEB.MAC                       -- missing on slave
+(SPPOPER     :  38) SPLTAP.WHR                       -- missing on slave
+(SPPOPER     :  38) CLEAN2.RPT                       -- missing on slave
+(SPPOPER     :  38) CLEAN2.R39                       -- missing on slave
+(SPPOPER     :  38) SPLTAP.ALL                       -- missing on slave
+(SPPOPER     :  38) SPLTAP.NEW                       -- missing on slave
+(SPPOPER     :  38) REPAI2.RPT                       -- missing on slave
+(SPPOPER     :  38) REMIND.DAT                       -- missing on slave
+(SPPOPER     :  38) CLEAN2.CTL                       -- missing on slave
+(SPPOPER     :  38) SPLTAP.FIL                       -- missing on slave
+(SPPOPER     :  38) SPLTAP.CTL                       -- missing on slave
+(SPPOPER     :  38) CLEAN2.LOG                       -- missing on slave
+(SPPOPER     :  38) SPFIX.DOC                        -- missing on slave
+(SPPOPER     :  38) SPFIX.CMD                        -- missing on slave
+(SPPOPER     :  38) SPFIX.260                        -- missing on slave
+(SPPOPER     :  38) SPFIX.FIL                        -- missing on slave
+(SPPOPER     :  38) SPFIX.SAI                        -- missing on slave
+(SPPOPER     :  38) ZAPFIL.CMD                       -- missing on slave
+(SPPOPER     :  38) DIRIT.MAC                        -- missing on slave
+(SPPOPER     :  38) TITO.SAV                         -- missing on slave
+(SPPOPER     :  38) BSPFIX.SAV                       -- missing on slave
+(SPPOPER     :  38) MAIL                             -- missing on slave
+(SPPOPER     :  38) DATAS.MAC                        -- missing on slave
+(SPPOPER     :  38) CREQTT.MAC                       -- missing on slave
+(SPPOPER     :  38) CRDLUD.MAC                       -- missing on slave
+(SPPOPER     :  38) CPARSE.MAC                       -- missing on slave
+(SPPOPER     :  38) NEED.RPR                         -- missing on slave
+(SPPOPER     :  38) NODPRI.WHR                       -- missing on slave
+(SPPOPER     :  38) NODPRI.CPY                       -- missing on slave
+(SPPOPER     :  38) FIX.RPT                          -- missing on slave
+(SPPOPER     :  38) THIS.WK                          -- missing on slave
+(SPPOPER     :  38) RMD2.CTL                         -- missing on slave
+(SPPOPER     :  38) PEND1.RPT                        -- missing on slave
+(SPPOPER     :  38) NODPRI.LOC                       -- missing on slave
+(SPPOPER     :  38) NODPRI.CHK                       -- missing on slave
+(SPPOPER     :  38) SPMHX.SVO                        -- missing on slave
+(SPPOPER     :  38) SPMHX.SAO                        -- missing on slave
+(SPPOPER     :  38) RCHARG.DOC                       -- missing on slave
+(SPPOPER     :  38) RCHARG.MEM                       -- missing on slave
+(SPPOPER     :  38) NODPRI.LST                       -- missing on slave
+(SPPOPER     :  38) NODPRI.OUT                       -- missing on slave
+(SPPOPER     :  38) NODPRI.CMD                       -- missing on slave
+(SPPOPER     :  38) NODPRI.RPT                       -- missing on slave
+(SPPOPER     :  38) DEBTAP.DOC                       -- missing on slave
+(SPPOPER     :  38) FIXMAP.SAI                       -- missing on slave
+(SPPOPER     :  38) UPDPAD.SAV                       -- missing on slave
+(SPPOPER     :  38) CMDPRO.HDR                       -- missing on slave
+(SPPOPER     :  38) ADEBUG.CMD                       -- missing on slave
+(SPPOPER     :  38) TODAY.LOG                        -- missing on slave
+(SPPOPER     :  38) B39.LG2                          -- missing on slave
+(SPPOPER     :  38) B39.LOG                          -- missing on slave
+(SPPOPER     :  38) MONTHL.LOG                       -- missing on slave
+(SPPOPER     :  38) BUBB.LOG                         -- missing on slave
+(SPPOPER     :  38) Y                                -- missing on slave
+(SPPOPER     :  38) SP.O                             -- missing on slave
+(SPPOPER     :  38) REPAIR.37                        -- missing on slave
+(SPPOPER     :  38) F22SPL.BAK                       -- missing on slave
+(SPPOPER     :  38) F22SPL.LOG                       -- missing on slave
+(SPPOPER     :  38) CPROMP.DIF                       -- missing on slave
+  tš
