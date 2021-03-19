@@ -1,0 +1,654 @@
+Master host: 33
+328 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+(SAILIB      :  26) APEND.REL      3 29-Jun-80 06:34 -- bad checksum VIYSOZ
+                           should be 25-Oct-84 16:24 NUTZEF  ALL  RD  RD
+(SAILIB      :  26) LLIBA2.REL    46 11-Mar-83 09:38 -- bad checksum KEZQUR
+                           should be 15-Feb-83 09:42 MAJYIF  ALL  RD  RD
+(SAILIB      :  26) EXTEND.DCL     2 17-Jul-80 00:53 -- bad checksum MUTQOJ
+                           should be 14-Sep-84 15:22 QIMZAP  ALL  RD  RD
+(SAILIB      :  26) TYMINT.DEF     2 11-Aug-80 00:23 -- bad checksum FIYLOM
+                           should be 15-Jun-86 15:05 KATTER  ALL  RD  RD
+(SAILIB      :  26) FILDAT.REQ     2 29-Dec-82 14:29 -- bad checksum MIBGEL
+                           should be 18-Feb-87 15:20 YIVBOB  ALL  RD  RD
+(SAILIB      :  26) FILDAT.REL     3 29-Dec-82 14:29 -- bad checksum GOYGON
+                           should be 18-Aug-87 20:28 TECWUX  ALL  RD  RD
+(SAILIB      :  26) SAILIB.REQ     2 23-May-84 13:06 -- bad checksum ZUBSEY
+                           should be 06-Jul-82 13:30 LOTDUD  ALL  RD  RD
+(SAILIB      :  26) SETTRM.SAI    10 26-Mar-80 14:11 -- bad checksum BACBIK
+                           should be 14-Sep-84 14:25 KOLYIS  ALL  RD  RD
+(SAILIB      :  26) STRNG.REL      5 19-Feb-81 16:46 -- bad checksum JAJWON
+                           should be 14-Sep-84 14:46 RIJRAN  ALL  RD  RD
+(SAILIB      :  26) MAPLIB.REQ     2 23-May-84 12:54 -- bad checksum BIBGIC
+                           should be 17-Feb-84 13:32 LAVZUR  ALL  RD  RD
+(SAILIB      :  26) VMFILE.DEF     2 06-Jan-88 17:44 -- bad checksum NIFYOT
+                           should be 28-Jun-88 19:39 QUVYUJ  ALL  RD  NO
+(SAILIB      :  26) VMFILE.REL    12 07-Mar-88 18:26 -- bad checksum VEJYAZ
+                           should be 16-Jan-89 20:07 BIDFIB  ALL  RD  NO
+(SAILIB      :  26) VMFILE.REQ     2 07-Mar-88 18:27 -- bad checksum GIRVER
+                           should be 22-Mar-88 13:30 HOZJIV  ALL  RD  NO
+(SAILIB      :  26) VMFILE.SAI    18 07-Mar-88 18:27 -- bad checksum HEBQEP
+                           should be 15-Jan-89 02:23 YODJAF  ALL  RD  NO
+(SAILIB      :  26) VERSN.REL      2 08-Feb-88 16:59 -- protection ALL  RD  NO
+                           should be 22-Mar-88 16:36 KORYUF  ALL  RD  RD
+(SAILIB      :  26) VERSN.REQ      2 08-Feb-88 16:59 -- protection ALL  RD  NO
+                           should be 08-Feb-88 16:55 ZIQKAJ  ALL  RD  RD
+(SAILIB      :  26) VERSN.SAI      2 08-Feb-88 16:59 -- protection ALL  RD  NO
+                           should be 08-Feb-88 16:54 HOBHEQ  ALL  RD  RD
+(SAILIB      :  26) RANDIO.REQ     2 23-May-84 13:07 -- bad checksum TEWLAX
+                           should be 06-Jul-82 13:30 XAMMUC  ALL  RD  RD
+(SAILIB      :  26) SEARCH.REQ     2 23-May-84 13:07 -- bad checksum ZEWCIB
+                           should be 06-Jul-82 13:30 TINFEH  ALL  RD  RD
+(SAILIB      :  26) SEARCH.DCL     2 15-May-84 10:19 -- bad checksum BOLZET
+                           should be 14-Sep-84 15:16 ZOQHER  ALL  RD  RD
+(SAILIB      :  26) FRMRUN.REL     4 27-Apr-83 18:35 -- bad checksum QUMBUM
+                           should be 05-Dec-86 18:35 JAKDEV  ALL  RD  RD
+(SAILIB      :  26) FRMRNN.REL     4 27-Apr-83 18:36 -- bad checksum BOJQED
+                           should be 14-Sep-84 14:29 DABQUS  ALL  RD  RD
+(SAILIB      :  26) SOUNDX.REQ     2 23-May-84 13:08 -- bad checksum PUQSEH
+                           should be 06-Jul-82 13:30 BERMUD  ALL  RD  RD
+(SAILIB      :  26) STRNGS.REQ     2 23-May-84 13:09 -- bad checksum XAHREX
+                           should be 06-Jul-82 13:30 DUGMAB  ALL  RD  RD
+(SAILIB      :  26) FRMRUN.REQ     2 23-May-84 13:11 -- bad checksum YICWIH
+                           should be 14-Sep-84 14:31 NATJUR  ALL  RD  RD
+(SAILIB      :  26) RNDIO.REL      2 11-Aug-80 00:05 -- bad checksum LEVNIJ
+                           should be 04-Mar-81 12:12 LIXFAY  ALL  RD  RD
+(SAILIB      :  26) XTEND.REL     11 27-Jul-83 12:23 -- bad checksum VEMFON
+                           should be 14-Sep-84 15:10 WOZXEM  ALL  RD  RD
+(SAILIB      :  26) BRKFNS.REQ     2 23-May-84 13:12 -- bad checksum ROSQIB
+                           should be 06-Jul-82 13:30 FAPNON  ALL  RD  RD
+(SAILIB      :  26) DMATH.V01                        -- missing on slave
+(SAILIB      :  26) LPREAD.SAI                       -- missing on slave
+(SAILIB      :  26) LPREAD.REL                       -- missing on slave
+(SAILIB      :  26) BRKFNS.DOC                       -- missing on slave
+(SAILIB      :  26) DMATH.OSA                        -- missing on slave
+(SAILIB      :  26) PROTEC.RCD                       -- missing on slave
+(SAILIB      :  26) DMATH.HDR                        -- missing on slave
+(SAILIB      :  26) BRKFNS.DCL                       -- missing on slave
+(SAILIB      :  26) OPFILE.FAI                       -- missing on slave
+(SAILIB      :  26) DMATH.SAI                        -- missing on slave
+(SAILIB      :  26) BRKFNS.HDR                       -- missing on slave
+(SAILIB      :  26) FILSCN.SAI                       -- missing on slave
+(SAILIB      :  26) FILSCN.REL                       -- missing on slave
+(SAILIB      :  26) FILSCN.REQ                       -- missing on slave
+(SAILIB      :  26) REMIND.DAT                       -- missing on slave
+(SAILIB      :  26) LLUNV.FAI                        -- missing on slave
+(SAILIB      :  26) UORBUG.FIX                       -- missing on slave
+(SAILIB      :  26) XTEND.ODC                        -- missing on slave
+(SAILIB      :  26) DMATH.TST                        -- missing on slave
+(SAILIB      :  26) DMATH.ORL                        -- missing on slave
+(SAILIB      :  26) RNDIO.SAI                        -- missing on slave
+(SAILIB      :  26) BYPTR.SAI                        -- missing on slave
+(SAILIB      :  26) BUG1.SAI                         -- missing on slave
+(SAILIB      :  26) MUNGE.SAI                        -- missing on slave
+(SAILIB      :  26) DMATH.REQ                        -- missing on slave
+(SAILIB      :  26) BYPTR.REL                        -- missing on slave
+(SAILIB      :  26) APPEND.REQ                       -- missing on slave
+(SAILIB      :  26) PRUNE.DAT                        -- missing on slave
+(SAILIB      :  26) SOSFSM.SAI                       -- missing on slave
+(SAILIB      :  26) SOSFSM.OLD                       -- missing on slave
+(SAILIB      :  26) SOSFSM.REQ                       -- missing on slave
+(SAILIB      :  26) SOSFSM.REL                       -- missing on slave
+(SAILIB      :  26) BRKFNS.REL                       -- missing on slave
+(SAILIB      :  26) IOSER.PUB                        -- missing on slave
+(SAILIB      :  26) STRNGS.REL                       -- missing on slave
+(SAILIB      :  26) STRNGS.SAI                       -- missing on slave
+(SAILIB      :  26) STRNGS.DOC                       -- missing on slave
+(SAILIB      :  26) OEXTEN.DCL                       -- missing on slave
+(SAILIB      :  26) BKFNS.SAI                        -- missing on slave
+(SAILIB      :  26) STRNGS.DCL                       -- missing on slave
+(SAILIB      :  26) STRNGS.HDR                       -- missing on slave
+(SAILIB      :  26) ALL.DCL                          -- missing on slave
+(SAILIB      :  26) FRMRUN.DOC                       -- missing on slave
+(SAILIB      :  26) FRMRUN.SAI                       -- missing on slave
+(SAILIB      :  26) MAIN08.VUE                       -- missing on slave
+(SAILIB      :  26) DULWLD.SAI                       -- missing on slave
+(SAILIB      :  26) READBR.SAI                       -- missing on slave
+(SAILIB      :  26) DULWLD.REQ                       -- missing on slave
+(SAILIB      :  26) DULWLD.REL                       -- missing on slave
+(SAILIB      :  26) MAPRD.SAI                        -- missing on slave
+(SAILIB      :  26) MAPRD.MEM                        -- missing on slave
+(SAILIB      :  26) MAPRD.REL                        -- missing on slave
+(SAILIB      :  26) MAPRD.REQ                        -- missing on slave
+(SAILIB      :  26) ZZ10X.LOG                        -- missing on slave
+(SAILIB      :  26) BKFNS.REL                        -- missing on slave
+(SAILIB      :  26) SOUNDX.SAI                       -- missing on slave
+(SAILIB      :  26) PRTSUB.REQ                       -- missing on slave
+(SAILIB      :  26) SEARCH.V01                       -- missing on slave
+(SAILIB      :  26) LPDUMP.SAI                       -- missing on slave
+(SAILIB      :  26) SAIL.MSG                         -- missing on slave
+(SAILIB      :  26) RANDIO.DOC                       -- missing on slave
+(SAILIB      :  26) MAPPAG.SAI                       -- missing on slave
+(SAILIB      :  26) ASK.DOC                          -- missing on slave
+(SAILIB      :  26) VMCHAN.REL                       -- missing on slave
+(SAILIB      :  26) VMCHAN.REQ                       -- missing on slave
+(SAILIB      :  26) VMCHAN.SAI                       -- missing on slave
+(SAILIB      :  26) ARGPAR.DEF                       -- missing on slave
+(SAILIB      :  26) SWITCH.SAI                       -- missing on slave
+(SAILIB      :  26) SWITCH.REQ                       -- missing on slave
+(SAILIB      :  26) SWITCH.REL                       -- missing on slave
+(SAILIB      :  26) ARGPAR.WRS                       -- missing on slave
+(SAILIB      :  26) ARGPAR.REL                       -- missing on slave
+(SAILIB      :  26) PRTSUB.SAI                       -- missing on slave
+(SAILIB      :  26) PRTSUB.REL                       -- missing on slave
+(SAILIB      :  26) ASK.REL                          -- missing on slave
+(SAILIB      :  26) ASK.SAI                          -- missing on slave
+(SAILIB      :  26) ASK.REQ                          -- missing on slave
+(SAILIB      :  26) SAIL.ODF                         -- missing on slave
+(SAILIB      :  26) ADJUBP.SAI                       -- missing on slave
+(SAILIB      :  26) BUGWFW.SAI                       -- missing on slave
+(SAILIB      :  26) SPACE.REL                        -- missing on slave
+(SAILIB      :  26) SPACE.FAI                        -- missing on slave
+(SAILIB      :  26) SAIL.NFO                         -- missing on slave
+(SAILIB      :  26) SAIL.OFO                         -- missing on slave
+(SAILIB      :  26) RANDIO.REL                       -- missing on slave
+(SAILIB      :  26) RANDIO.SAI                       -- missing on slave
+(SAILIB      :  26) STRCMP.SAI                       -- missing on slave
+(SAILIB      :  26) FSMSET.SAI                       -- missing on slave
+(SAILIB      :  26) SETTRM.DCL                       -- missing on slave
+(SAILIB      :  26) FIND.71                          -- missing on slave
+(SAILIB      :  26) FIND.V11                         -- missing on slave
+(SAILIB      :  26) FTSAIL.DOC                       -- missing on slave
+(SAILIB      :  26) FIND.V12                         -- missing on slave
+(SAILIB      :  26) STRNG.SAI                        -- missing on slave
+(SAILIB      :  26) FIND.V13                         -- missing on slave
+(SAILIB      :  26) ATFILE.DOC                       -- missing on slave
+(SAILIB      :  26) BLOCK.SAI                        -- missing on slave
+(SAILIB      :  26) WARPT.WRP                        -- missing on slave
+(SAILIB      :  26) WARPLD.CMD                       -- missing on slave
+(SAILIB      :  26) WARPLD.MAC                       -- missing on slave
+(SAILIB      :  26) WARPLD.REL                       -- missing on slave
+(SAILIB      :  26) WARPT.SAI                        -- missing on slave
+(SAILIB      :  26) WARPT.CTL                        -- missing on slave
+(SAILIB      :  26) WARPT.SAV                        -- missing on slave
+(SAILIB      :  26) WARPT.REL                        -- missing on slave
+(SAILIB      :  26) WARPLD.SAV                       -- missing on slave
+(SAILIB      :  26) CVPPN.REQ                        -- missing on slave
+(SAILIB      :  26) CVPPN.SAI                        -- missing on slave
+(SAILIB      :  26) CVPPN.REL                        -- missing on slave
+(SAILIB      :  26) DUL.REQ                          -- missing on slave
+(SAILIB      :  26) BLOCK.REQ                        -- missing on slave
+(SAILIB      :  26) BLOCK.REL                        -- missing on slave
+(SAILIB      :  26) ATFILE.REQ                       -- missing on slave
+(SAILIB      :  26) ATFILE.SAI                       -- missing on slave
+(SAILIB      :  26) ATFILE.REL                       -- missing on slave
+(SAILIB      :  26) DUL.SAI                          -- missing on slave
+(SAILIB      :  26) DUL.REL                          -- missing on slave
+(SAILIB      :  26) BITOPS.SAI                       -- missing on slave
+(SAILIB      :  26) BITOPS.REL                       -- missing on slave
+(SAILIB      :  26) BITOPS.REQ                       -- missing on slave
+(SAILIB      :  26) SOURCE                           -- missing on slave
+(SAILIB      :  26) REISER.MSG                       -- missing on slave
+(SAILIB      :  26) X.LIB                            -- missing on slave
+(SAILIB      :  26) X.IDX                            -- missing on slave
+(SAILIB      :  26) LIBRAR.NFO                       -- missing on slave
+(SAILIB      :  26) QUIRKS.NFO                       -- missing on slave
+(SAILIB      :  26) NEWS.NFO                         -- missing on slave
+(SAILIB      :  26) FILDAT.DCL                       -- missing on slave
+(SAILIB      :  26) SAILIB.FDM                       -- missing on slave
+(SAILIB      :  26) AIL.DIR                          -- missing on slave
+(SAILIB      :  26) COMMON.BAI                       -- missing on slave
+(SAILIB      :  26) MFDSCN.RLL                       -- missing on slave
+(SAILIB      :  26) HALTST.SAI                       -- missing on slave
+(SAILIB      :  26) HALTST.REQ                       -- missing on slave
+(SAILIB      :  26) HALTST.REL                       -- missing on slave
+(SAILIB      :  26) TYMINT.OLD                       -- missing on slave
+(SAILIB      :  26) SAILIB.COM                       -- missing on slave
+(SAILIB      :  26) SAILIB.DEF                       -- missing on slave
+(SAILIB      :  26) LICSUB.SAI                       -- missing on slave
+(SAILIB      :  26) LICSUB.REL                       -- missing on slave
+(SAILIB      :  26) LICSUB.REQ                       -- missing on slave
+(SAILIB      :  26) HLUNV.FAI                        -- missing on slave
+(SAILIB      :  26) SAILIB.SUM                       -- missing on slave
+(SAILIB      :  26) SAILIB.CML                       -- missing on slave
+(SAILIB      :  26) SAILIB.CMD                       -- missing on slave
+(SAILIB      :  26) IOMOD.SAI                        -- missing on slave
+(SAILIB      :  26) SVLOW.REL                        -- missing on slave
+(SAILIB      :  26) GMIX.REL                         -- missing on slave
+(SAILIB      :  26) SAILIB.ACS                       -- missing on slave
+(SAILIB      :  26) ZZREST.LOG                       -- missing on slave
+(SAILIB      :  26) LEPRUN.GLB                       -- missing on slave
+(SAILIB      :  26) EXTEND.DOC                       -- missing on slave
+(SAILIB      :  26) OSTRNG.SAI                       -- missing on slave
+(SAILIB      :  26) OSTRNG.DOC                       -- missing on slave
+(SAILIB      :  26) OSTRNG.HDR                       -- missing on slave
+(SAILIB      :  26) OFIND.SAI                        -- missing on slave
+(SAILIB      :  26) LEPFMT.SAI                       -- missing on slave
+(SAILIB      :  26) OSTRNG.REL                       -- missing on slave
+(SAILIB      :  26) REDUFD.DOC                       -- missing on slave
+(SAILIB      :  26) MAKSLB.SAI                       -- missing on slave
+(SAILIB      :  26) O.FAI                            -- missing on slave
+(SAILIB      :  26) PRICHK.SAI                       -- missing on slave
+(SAILIB      :  26) PRICHK.REQ                       -- missing on slave
+(SAILIB      :  26) MYTEXT.REQ                       -- missing on slave
+(SAILIB      :  26) MYTEXT.SAI                       -- missing on slave
+(SAILIB      :  26) MYTEXT.REL                       -- missing on slave
+(SAILIB      :  26) RHFILE.1                         -- missing on slave
+(SAILIB      :  26) ARGS.REQ                         -- missing on slave
+(SAILIB      :  26) ARGS.CAB                         -- missing on slave
+(SAILIB      :  26) RHFILE.SAI                       -- missing on slave
+(SAILIB      :  26) RHFILE.REQ                       -- missing on slave
+(SAILIB      :  26) FNDKEY.SAI                       -- missing on slave
+(SAILIB      :  26) RHFILE.REL                       -- missing on slave
+(SAILIB      :  26) CVNAME.SAI                       -- missing on slave
+(SAILIB      :  26) CVNAME.REQ                       -- missing on slave
+(SAILIB      :  26) CVNAME.REL                       -- missing on slave
+(SAILIB      :  26) ARGS.WRS                         -- missing on slave
+(SAILIB      :  26) ARGS.SAI                         -- missing on slave
+(SAILIB      :  26) ARGS.REL                         -- missing on slave
+(SAILIB      :  26) FNDKEY.REQ                       -- missing on slave
+(SAILIB      :  26) FNDKEY.REL                       -- missing on slave
+(SAILIB      :  26) MAKDCL.PUB                       -- missing on slave
+(SAILIB      :  26) MAKDCL.SAI                       -- missing on slave
+(SAILIB      :  26) OCVPPN.SAI                       -- missing on slave
+(SAILIB      :  26) OCVPPN.REL                       -- missing on slave
+(SAILIB      :  26) PRICHK.REL                       -- missing on slave
+(SAILIB      :  26) REDUFD.REL                       -- missing on slave
+(SAILIB      :  26) REDUFD.REQ                       -- missing on slave
+(SAILIB      :  26) PRIQUE.SAI                       -- missing on slave
+(SAILIB      :  26) EXTEND.DC2                       -- mg on slave
+(SAILIB      :  26) DISTRI.LIS                       -- missing on slave
+(SAILIB      :  26) UORFIX.FIL                       -- missing on slave
+(SAILIB      :  26) TMSG                             -- missing on slave
+(SAILIB      :  26) UORFIX.BUG                       -- missing on slave
+(SAILIB      :  26) ZZSAIL.LOG                       -- missing on slave
+(SAILIB      :  26) SYSLST                           -- missing on slave
+(SAILIB      :  26) EXTEND.HLD                       -- missing on slave
+(SAILIB      :  26) FRMOP.SAI                        -- missing on slave
+(SAILIB      :  26) SPNTRE.SAI                       -- missing on slave
+(SAILIB      :  26) FRMOP.REL                        -- missing on slave
+(SAILIB      :  26) WARP.DOC                         -- missing on slave
+(SAILIB      :  26) WARP.DCL                         -- missing on slave
+(SAILIB      :  26) WARP.BAK                         -- missing on slave
+(SAILIB      :  26) ACESS.SAI                        -- missing on slave
+(SAILIB      :  26) ACCESS.LIS                       -- missing on slave
+(SAILIB      :  26) VMSPEC.DEF                       -- missing on slave
+(SAILIB      :  26) VMSPEC.REL                       -- missing on slave
+(SAILIB      :  26) VMSPEC.REQ                       -- missing on slave
+(SAILIB      :  26) VMSPEC.SAI                       -- missing on slave
+(SAILIB      :  26) STRCTS.SAI                       -- missing on slave
+(SAILIB      :  26) WARP.SAI                         -- missing on slave
+(SAILIB      :  26) WARP.REL                         -- missing on slave
+(SAILIB      :  26) WARP.REQ                         -- missing on slave
+(SAILIB      :  26) MATCHS.REQ                       -- missing on slave
+(SAILIB      :  26) MATCHS.REL                       -- missing on slave
+(SAILIB      :  26) MATCHS.SAI                       -- missing on slave
+(SAILIB      :  26) TXTSUB.REQ                       -- missing on slave
+(SAILIB      :  26) TXTSUB.SAI                       -- missing on slave
+(SAILIB      :  26) TXTSUB.REL                       -- missing on slave
+(SAILIB      :  26) SPNTRE.SAV                       -- missing on slave
+(SAILIB      :  26) APEND.SAI                        -- missing on slave
+(SAILIB      :  26) LP4MAT.SAI                       -- missing on slave
+(SAILIB      :  26) ZZCMU.LOG                        -- missing on slave
+(SAILIB      :  26) SPNTRE.REL                       -- missing on slave
+(SAILIB      :  26) STRIP.REL                        -- missing on slave
+(SAILIB      :  26) NEWINF.IDX                       -- missing on slave
+(SAILIB      :  26) NDI                              -- missing on slave
+(SAILIB      :  26) MAGIC.SAI                        -- missing on slave
+(SAILIB      :  26) SAVLOW.DOC                       -- missing on slave
+(SAILIB      :  26) SAVLOW.SAI                       -- missing on slave
+(SAILIB      :  26) SAVLOW.REL                       -- missing on slave
+(SAILIB      :  26) SAVLOW.REQ                       -- missing on slave
+Checking host 33
+Checking host 34
+(SAILIB      :  34) LLIBA2.REL    46 11-Mar-83 09:46 -- bad checksum KEZQUR
+                           should be 15-Feb-83 09:42 MAJYIF  ALL  RD  RD
+(SAILIB      :  34) REDUFD.REL     4 26-Apr-89 16:18 -- bad checksum DIHWES
+                           should be 04-Feb-82 22:43 YOXJER  ALL  RD  RD
+(SAILIB      :  34) REDUFD.REQ     2 26-Apr-89 16:22 -- bad checksum HOQTUM
+                           should be 04-Feb-82 22:43 WAHDES  ALL  RD  RD
+(SAILIB      :  34) SAILIB.REQ     2 23-May-84 13:06 -- bad checksum ZUBSEY
+                           should be 06-Jul-82 13:30 LOTDUD  ALL  RD  RD
+(SAILIB      :  34) TYMINT.DEF     2 11-Aug-80 00:23 -- bad checksum FIYLOM
+                           should be 15-Jun-86 15:05 KATTER  ALL  RD  RD
+(SAILIB      :  34) FILDAT.REQ     2 29-Dec-82 14:56 -- bad checksum MIBGEL
+                           should be 18-Feb-87 15:20 YIVBOB  ALL  RD  RD
+(SAILIB      :  34) FILDAT.REL     3 29-Dec-82 14:56 -- bad checksum GOYGON
+                           should be 18-Aug-87 20:28 TECWUX  ALL  RD  RD
+(SAILIB      :  34) SETTRM.SAI    10 26-Mar-80 14:15 -- bad checksum BACBIK
+                           should be 14-Sep-84 14:25 KOLYIS  ALL  RD  RD
+(SAILIB      :  34) MAPLIB.REQ     2 23-May-84 12:54 -- bad checksum BIBGIC
+                           should be 17-Feb-84 13:32 LAVZUR  ALL  RD  RD
+(SAILIB      :  34) STRNG.REL      5 19-Feb-81 16:46 -- bad checksum JAJWON
+                           should be 14-Sep-84 14:46 RIJRAN  ALL  RD  RD
+(SAILIB      :  34) VMFILE.DEF     2 22-Mar-88 13:46 -- bad checksum NIFYOT
+                           should be 28-Jun-88 19:39 QUVYUJ  ALL  RD  NO
+(SAILIB      :  34) VERSN.REL      2 08-Feb-88 17:04 -- protection ALL  RD  NO
+                           should be 22-Mar-88 16:36 KORYUF  ALL  RD  RD
+(SAILIB      :  34) VERSN.REQ      2 08-Feb-88 17:04 -- protection ALL  RD  NO
+                           should be 08-Feb-88 16:55 ZIQKAJ  ALL  RD  RD
+(SAILIB      :  34) VERSN.SAI      2 08-Feb-88 17:04 -- protection ALL  RD  NO
+                           should be 08-Feb-88 16:54 HOBHEQ  ALL  RD  RD
+(SAILIB      :  34) ATFILE.REL     3 28-Dec-82 13:40 -- bad checksum NACHUR
+                           should be 08-Sep-83 01:44 XUWQUX  ALL  RD  RD
+(SAILIB      :  34) RANDIO.REQ     2 23-May-84 13:07 -- bad checksum TEWLAX
+                           should be 06-Jul-82 13:30 XAMMUC  ALL  RD  RD
+(SAILIB      :  34) SEARCH.REQ     2 23-May-84 13:07 -- bad checksum ZEWCIB
+                           should be 06-Jul-82 13:30 TINFEH  ALL  RD  RD
+(SAILIB      :  34) SEARCH.DCL     2 15-May-84 10:19 -- bad checksum BOLZET
+                           should be 14-Sep-84 15:16 ZOQHER  ALL  RD  RD
+(SAILIB      :  34) PRTSUB.REQ     2 26-Mar-83 21:53 -- bad checksum JIPNAT
+                           should be 26-Mar-83 21:53 GAXXOZ  ALL  RD  RD
+(SAILIB      :  34) SOUNDX.REQ     2 23-May-84 13:08 -- bad checksum PUQSEH
+                           should be 06-Jul-82 13:30 BERMUD  ALL  RD  RD
+(SAILIB      :  34) SOUNDX.SAI     2 27-Mar-79 17:19 -- bad checksum YIHRUJ
+                           should be 04-Feb-83 08:10 CEGNUC  ALL  RD  RD
+(SAILIB      :  34) STRNGS.REQ     2 23-May-84 13:09 -- bad checksum XAHREX
+                           should be 06-Jul-82 13:30 DUGMAB  ALL  RD  RD
+(SAILIB      :  34) FRMRNN.REL     4 27-Apr-83 19:03 -- bad checksum BOJQED
+                           should be 14-Sep-84 14:29 DABQUS  ALL  RD  RD
+(SAILIB      :  34) FRMRUN.REL     4 27-Apr-83 19:03 -- bad checksum QUMBUM
+                           should be 05-Dec-86 18:35 JAKDEV  ALL  RD  RD
+(SAILIB      :  34) FRMRUN.REQ     2 23-May-84 13:11 -- bad checksum YICWIH
+                           should be 14-Sep-84 14:31 NATJUR  ALL  RD  RD
+(SAILIB      :  34) FRMRUN.SAI     6 27-Apr-83 19:04 -- bad checksum JUXCIN
+                           should be 14-Sep-84 14:30 WUDQIT  ALL  RD  RD
+(SAILIB      :  34) BKFNS.REL      4 31-Jul-80 16:14 -- bad checksum LERPUV
+                           should be 19-Jun-81 20:50 SIMZUR  ALL  RD  RD
+(SAILIB      :  34) STRNGS.DCL     2 31-Jul-80 16:14 -- bad checksum DOZKOY
+                           should be 14-Sep-84 15:13 FAPLAX  ALL  RD  RD
+(SAILIB      :  34) RNDIO.REL      2 11-Aug-80 09:12 -- bad checksum LEVNIJ
+                           should be 04-Mar-81 12:12 LIXFAY  ALL  RD  RD
+(SAILIB      :  34) XTEND.REL     11 27-Jul-83 12:34 -- bad checksum VEMFON
+                           should be 14-Sep-84 15:10 WOZXEM  ALL  RD  RD
+(SAILIB      :  34) SERCH.DCL      2 23-Dec-81 17:37 -- bad checksum LOPWOS
+                           should be 14-Sep-84 14:57 NIPHAB  ALL  RD  RD
+(SAILIB      :  34) BRKFNS.REQ     2 23-May-84 13:12 -- bad checksum ROSQIB
+                           should be 06-Jul-82 13:30 FAPNON  ALL  RD  RD
+(SAILIB      :  34) BRKFNS.HDR     2 14-Sep-79 15:11 -- bad checksum PURJOK
+                           should be 14-Sep-84 15:13 MAVDOW  ALL  RD  RD
+(SAILIB      :  34) DMATH.V01                        -- missing on slave
+(SAILIB      :  34) LPREAD.SAI                       -- missing on slave
+(SAILIB      :  34) LPREAD.REL                       -- missing on slave
+(SAILIB      :  34) BRKFNS.DOC                       -- missing on slave
+(SAILIB      :  34) DMATH.OSA                        -- missing on slave
+(SAILIB      :  34) PROTEC.RCD                       -- missing on slave
+(SAILIB      :  34) DMATH.HDR                        -- missing on slave
+(SAILIB      :  34) OPFILE.FAI                       -- missing on slave
+(SAILIB      :  34) DMATH.SAI                        -- missing on slave
+(SAILIB      :  34) FILSCN.SAI                       -- missing on slave
+(SAILIB      :  34) FILSCN.REL                       -- missing on slave
+(SAILIB      :  34) FILSCN.REQ                       -- missing on slave
+(SAILIB      :  34) REMIND.DAT                       -- missing on slave
+(SAILIB      :  34) LLUNV.FAI                        -- missing on slave
+(SAILIB      :  34) UORBUG.FIX                       -- missing on slave
+(SAILIB      :  34) XTEND.ODC                        -- missing on slave
+(SAILIB      :  34) DMATH.TST                        -- missing on slave
+(SAILIB      :  34) DMATH.ORL                        -- missing on slave
+(SAILIB      :  34) RNDIO.SAI                        -- missing on slave
+(SAILIB      :  34) BYPTR.SAI                        -- missing on slave
+(SAILIB      :  34) BUG1.SAI                         -- missing on slave
+(SAILIB      :  34) MUNGE.SAI                        -- missing on slave
+(SAILIB      :  34) DMATH.REQ                        -- missing on slave
+(SAILIB      :  34) BYPTR.REL                        -- missing on slave
+(SAILIB      :  34) APPEND.REQ                       -- missing on slave
+(SAILIB      :  34) PRUNE.DAT                        -- missing on slave
+(SAILIB      :  34) SOSFSM.SAI                       -- missing on slave
+(SAILIB      :  34) SOSFSM.OLD                       -- missing on slave
+(SAILIB      :  34) SOSFSM.REQ                       -- missing on slave
+(SAILIB      :  34) SOSFSM.REL                       -- missing on slave
+(SAILIB      :  34) IOSER.PUB                        -- missing on slave
+(SAILIB      :  34) STRNGS.SAI                       -- missing on slave
+(SAILIB      :  34) STRNGS.DOC                       -- missing on slave
+(SAILIB      :  34) OEXTEN.DCL                       -- missing on slave
+(SAILIB      :  34) BKFNS.SAI                        -- missing on slave
+(SAILIB      :  34) ALL.DCL                          -- missing on slave
+(SAILIB      :  34) FRMRUN.DOC                       -- missing on slave
+(SAILIB      :  34) MAIN08.VUE                       -- missing on slave
+(SAILIB      :  34) READBR.SAI                       -- missing on slave
+(SAILIB      :  34) MAPRD.SAI                        -- missing on slave
+(SAILIB      :  34) MAPRD.MEM                        -- missing on slave
+(SAILIB      :  34) MAPRD.REL                        -- missing on slave
+(SAILIB      :  34) MAPRD.REQ                        -- missing on slave
+(SAILIB      :  34) ZZ10X.LOG                        -- missing on slave
+(SAILIB      :  34) SEARCH.V01                       -- missing on slave
+(SAILIB      :  34) LPDUMP.SAI                       -- missing on slave
+(SAILIB      :  34) SAIL.MSG                         -- missing on slave
+(SAILIB      :  34) MAPPAG.SAI                       -- missing on slave
+(SAILIB      :  34) ASK.DOC                          -- missing on slave
+(SAILIB      :  34) VMCHAN.REL                       -- missing on slave
+(SAILIB      :  34) VMCHAN.REQ                       -- missing on slave
+(SAILIB      :  34) VMCHAN.SAI                       -- missing on slave
+(SAILIB      :  34) ASK.REL                          -- missing on slave
+(SAILIB      :  34) ASK.SAI                          -- missing on slave
+(SAILIB      :  34) ASK.REQ                          -- missing on slave
+(SAILIB      :  34) SAIL.ODF                         -- missing on slave
+(SAILIB      :  34) ADJUBP.SAI                       -- missing on slave
+(SAILIB      :  34) BUGWFW.SAI                       -- missing on slave
+(SAILIB      :  34) SPACE.REL                        -- missing on slave
+(SAILIB      :  34) SPACE.FAI                        -- missing on slave
+(SAILIB      :  34) SAIL.NFO                         -- missing on slave
+(SAILIB      :  34) SAIL.OFO                         -- missing on slave
+(SAILIB      :  34) STRCMP.SAI                       -- missing on slave
+(SAILIB      :  34) FSMSET.SAI                       -- missing on slave
+(SAILIB      :  34) SETTRM.DCL                       -- missing on slave
+(SAILIB      :  34) FIND.71                          -- missing on slave
+(SAILIB      :  34) FIND.V11                         -- missing on slave
+(SAILIB      :  34) FTSAIL.DOC                       -- missing on slave
+(SAILIB      :  34) FIND.V12                         -- missing on slave
+(SAILIB      :  34) STRNG.SAI                        -- missing on slave
+(SAILIB      :  34) FIND.V13                         -- missing on slave
+(SAILIB      :  34) BLOCK.SAI                        -- missing on slave
+(SAILIB      :  34) WARPT.WRP                        -- missing on slave
+(SAILIB      :  34) WARPLD.CMD                       -- missing on slave
+(SAILIB      :  34) WARPLD.MAC                       -- missing on slave
+(SAILIB      :  34) WARPLD.REL                       -- missing on slave
+(SAILIB      :  34) WARPT.SAI                        -- missing on slave
+(SAILIB      :  34) WARPT.CTL                        -- missing on slave
+(SAILIB      :  34) WARPT.SAV                        -- missing on slave
+(SAILIB      :  34) WARPT.REL                        -- missing on slave
+(SAILIB      :  34) WARPLD.SAV                       -- missing on slave
+(SAILIB      :  34) BLOCK.REQ                        -- missing on slave
+(SAILIB      :  34) BLOCK.REL                        -- missing on slave
+(SAILIB      :  34) BITOPS.SAI                       -- missing on slave
+(SAILIB      :  34) BITOPS.REL                       -- missing on slave
+(SAILIB      :  34) BITOPS.REQ                       -- missing on slave
+(SAILIB      :  34) SOURCE                           -- missing on slave
+(SAILIB      :  34) REISER.MSG                       -- missing on slave
+(SAILIB      :  34) X.LIB                            -- missing on slave
+(SAILIB      :  34) X.IDX                            -- missing on slave
+(SAILIB      :  34) LIBRAR.NFO                       -- missing on slave
+(SAILIB      :  34) QUIRKS.NFO                       -- missing on slave
+(SAILIB      :  34) NEWS.NFO                         -- missing on slave
+(SAILIB      :  34) FILDAT.DCL                       -- missing on slave
+(SAILIB      :  34) SAILIB.FDM                       -- missing on slave
+(SAILIB      :  34) AIL.DIR                          -- missing on slave
+(SAILIB      :  34) COMMON.BAI                       -- missing on slave
+(SAILIB      :  34) MFDSCN.RLL                       -- missing on slave
+(SAILIB      :  34) HALTST.SAI                       -- missing on slave
+(SAILIB      :  34) HALTST.REQ                       -- missing on slave
+(SAILIB      :  34) HALTST.REL                       -- missing on slave
+(SAILIB      :  34) TYMINT.OLD                       -- missing on slave
+(SAILIB      :  34) SAILIB.COM                       -- missing on slave
+(SAILIB      :  34) SAILIB.DEF                       -- missing on slave
+(SAILIB      :  34) LICSUB.SAI                       -- missing on slave
+(SAILIB      :  34) LICSUB.REL                       -- missing on slave
+(SAILIB      :  34) LICSUB.REQ                       -- missing on slave
+(SAILIB      :  34) HLUNV.FAI                        -- missing on slave
+(SAILIB      :  34) SAILIB.SUM                       -- missing on slave
+(SAILIB      :  34) SAILIB.CML                       -- missing on slave
+(SAILIB      :  34) SAILIB.CMD                       -- missing on slave
+(SAILIB      :  34) GMIX.REL                         -- missing on slave
+(SAILIB      :  34) SAILIB.ACS                       -- missing on slave
+Checking host 38
+(SAILIB      :  38) LLIBA2.REL    46 11-Mar-83 09:46 -- bad checksum KEZQUR
+                           should be 15-Feb-83 09:42 MAJYIF  ALL  RD  RD
+(SAILIB      :  38) REDUFD.REL     4 26-Apr-89 16:18 -- bad checksum DIHWES
+                           should be 04-Feb-82 22:43 YOXJER  ALL  RD  RD
+(SAILIB      :  38) REDUFD.REQ     2 26-Apr-89 16:22 -- bad checksum HOQTUM
+                           should be 04-Feb-82 22:43 WAHDES  ALL  RD  RD
+(SAILIB      :  38) SAILIB.REQ     2 23-May-84 13:06 -- bad checksum ZUBSEY
+                           should be 06-Jul-82 13:30 LOTDUD  ALL  RD  RD
+(SAILIB      :  38) TYMINT.DEF     2 11-Aug-80 00:23 -- bad checksum FIYLOM
+                           should be 15-Jun-86 15:05 KATTER  ALL  RD  RD
+(SAILIB      :  38) FILDAT.REQ     2 29-Dec-82 14:56 -- bad checksum MIBGEL
+                           should be 18-Feb-87 15:20 YIVBOB  ALL  RD  RD
+(SAILIB      :  38) FILDAT.REL     3 29-Dec-82 14:56 -- bad checksum GOYGON
+                           should be 18-Aug-87 20:28 TECWUX  ALL  RD  RD
+(SAILIB      :  38) SETTRM.SAI    10 26-Mar-80 14:15 -- bad checksum BACBIK
+                           should be 14-Sep-84 14:25 KOLYIS  ALL  RD  RD
+(SAILIB      :  38) MAPLIB.REQ     2 23-May-84 12:54 -- bad checksum BIBGIC
+                           should be 17-Feb-84 13:32 LAVZUR  ALL  RD  RD
+(SAILIB      :  38) STRNG.REL      5 19-Feb-81 16:46 -- bad checksum JAJWON
+                           should be 14-Sep-84 14:46 RIJRAN  ALL  RD  RD
+(SAILIB      :  38) ATFILE.REL     3 28-Dec-82 13:40 -- bad checksum NACHUR
+                           should be 08-Sep-83 01:44 XUWQUX  ALL  RD  RD
+(SAILIB      :  38) VMFILE.DEF     2 22-Mar-88 13:46 -- bad checksum NIFYOT
+                           should be 28-Jun-88 19:39 QUVYUJ  ALL  RD  NO
+(SAILIB      :  38) VERSN.REL      2 08-Feb-88 17:04 -- protection ALL  RD  NO
+                           should be 22-Mar-88 16:36 KORYUF  ALL  RD  RD
+(SAILIB      :  38) VERSN.REQ      2 08-Feb-88 17:04 -- protection ALL  RD  NO
+                           should be 08-Feb-88 16:55 ZIQKAJ  ALL  RD  RD
+(SAILIB      :  38) VERSN.SAI      2 08-Feb-88 17:04 -- protection ALL  RD  NO
+                           should be 08-Feb-88 16:54 HOBHEQ  ALL  RD  RD
+(SAILIB      :  38) SEARCH.REQ     2 23-May-84 13:07 -- bad checksum ZEWCIB
+                           should be 06-Jul-82 13:30 TINFEH  ALL  RD  RD
+(SAILIB      :  38) SEARCH.DCL     2 15-May-84 10:19 -- bad checksum BOLZET
+                           should be 14-Sep-84 15:16 ZOQHER  ALL  RD  RD
+(SAILIB      :  38) RANDIO.REQ     2 23-May-84 13:07 -- bad checksum TEWLAX
+                           should be 06-Jul-82 13:30 XAMMUC  ALL  RD  RD
+(SAILIB      :  38) PRTSUB.REQ     2 26-Mar-83 21:53 -- bad checksum JIPNAT
+                           should be 26-Mar-83 21:53 GAXXOZ  ALL  RD  RD
+(SAILIB      :  38) SOUNDX.REQ     2 23-May-84 13:08 -- bad checksum PUQSEH
+                           should be 06-Jul-82 13:30 BERMUD  ALL  RD  RD
+(SAILIB      :  38) SOUNDX.SAI     2 27-Mar-79 17:19 -- bad checksum YIHRUJ
+                           should be 04-Feb-83 08:10 CEGNUC  ALL  RD  RD
+(SAILIB      :  38) STRNGS.REQ     2 23-May-84 13:09 -- bad checksum XAHREX
+                           should be 06-Jul-82 13:30 DUGMAB  ALL  RD  RD
+(SAILIB      :  38) FRMRNN.REL     4 27-Apr-83 19:03 -- bad checksum BOJQED
+                           should be 14-Sep-84 14:29 DABQUS  ALL  RD  RD
+(SAILIB      :  38) FRMRUN.REL     4 27-Apr-83 19:03 -- bad checksum QUMBUM
+                           should be 05-Dec-86 18:35 JAKDEV  ALL  RD  RD
+(SAILIB      :  38) FRMRUN.REQ     2 23-May-84 13:11 -- bad checksum YICWIH
+                           should be 14-Sep-84 14:31 NATJUR  ALL  RD  RD
+(SAILIB      :  38) FRMRUN.SAI     6 27-Apr-83 19:04 -- bad checksum JUXCIN
+                           should be 14-Sep-84 14:30 WUDQIT  ALL  RD  RD
+(SAILIB      :  38) BKFNS.REL      4 31-Jul-80 16:14 -- bad checksum LERPUV
+                           should be 19-Jun-81 20:50 SIMZUR  ALL  RD  RD
+(SAILIB      :  38) STRNGS.DCL     2 31-Jul-80 16:14 -- bad checksum DOZKOY
+                           should be 14-Sep-84 15:13 FAPLAX  ALL  RD  RD
+(SAILIB      :  38) RNDIO.REL      2 11-Aug-80 09:12 -- bad checksum LEVNIJ
+                           should be 04-Mar-81 12:12 LIXFAY  ALL  RD  RD
+(SAILIB      :  38) XTEND.REL     11 27-Jul-83 12:34 -- bad checksum VEMFON
+                           should be 14-Sep-84 15:10 WOZXEM  ALL  RD  RD
+(SAILIB      :  38) SERCH.DCL      2 23-Dec-81 17:37 -- bad checksum LOPWOS
+                           should be 14-Sep-84 14:57 NIPHAB  ALL  RD  RD
+(SAILIB      :  38) BRKFNS.REQ     2 23-May-84 13:12 -- bad checksum ROSQIB
+                           should be 06-Jul-82 13:30 FAPNON  ALL  RD  RD
+(SAILIB      :  38) BRKFNS.HDR     2 14-Sep-79 15:11 -- bad checksum PURJOK
+                           should be 14-Sep-84 15:13 MAVDOW  ALL  RD  RD
+(SAILIB      :  38) DMATH.V01                        -- missing on slave
+(SAILIB      :  38) LPREAD.SAI                       -- missing on slave
+(SAILIB      :  38) LPREAD.REL                       -- missing on slave
+(SAILIB      :  38) BRKFNS.DOC                       -- missing on slave
+(SAILIB      :  38) DMATH.OSA                        -- missing on slave
+(SAILIB      :  38) PROTEC.RCD                       -- missing on slave
+(SAILIB      :  38) DMATH.HDR                        -- missing on slave
+(SAILIB      :  38) OPFILE.FAI                       -- missing on slave
+(SAILIB      :  38) DMATH.SAI                        -- missing on slave
+(SAILIB      :  38) FILSCN.SAI                       -- missing on slave
+(SAILIB      :  38) FILSCN.REL                       -- missing on slave
+(SAILIB      :  38) FILSCN.REQ                       -- missing on slave
+(SAILIB      :  38) REMIND.DAT                       -- missing on slave
+(SAILIB      :  38) LLUNV.FAI                        -- missing on slave
+(SAILIB      :  38) UORBUG.FIX                       -- missing on slave
+(SAILIB      :  38) XTEND.ODC                        -- missing on slave
+(SAILIB      :  38) DMATH.TST                        -- missing on slave
+(SAILIB      :  38) DMATH.ORL                        -- missing on slave
+(SAILIB      :  38) RNDIO.SAI                        -- missing on slave
+(SAILIB      :  38) BYPTR.SAI                        -- missing on slave
+(SAILIB      :  38) BUG1.SAI                         -- missing on slave
+(SAILIB      :  38) MUNGE.SAI                        -- missing on slave
+(SAILIB      :  38) DMATH.REQ                        -- missing on slave
+(SAILIB      :  38) BYPTR.REL                        -- missing on slave
+(SAILIB      :  38) APPEND.REQ                       -- missing on slave
+(SAILIB      :  38) PRUNE.DAT                        -- missing on slave
+(SAILIB      :  38) SOSFSM.SAI                       -- missing on slave
+(SAILIB      :  38) SOSFSM.OLD                       -- missing on slave
+(SAILIB      :  38) SOSFSM.REQ                       -- missing on slave
+(SAILIB      :  38) SOSFSM.REL                       -- missing on slave
+(SAILIB      :  38) IOSER.PUB                        -- missing on slave
+(SAILIB      :  38) STRNGS.SAI                       -- missing on slave
+(SAILIB      :  38) STRNGS.DOC                       -- missing on slave
+(SAILIB      :  38) OEXTEN.DCL                       -- missing on slave
+(SAILIB      :  38) BKFNS.SAI                        -- missing on slave
+(SAILIB      :  38) ALL.DCL                          -- missing on slave
+(SAILIB      :  38) FRMRUN.DOC                       -- missing on slave
+(SAILIB      :  38) MAIN08.VUE                       -- missing on slave
+(SAILIB      :  38) READBR.SAI                       -- missing on slave
+(SAILIB      :  38) MAPRD.SAI                        -- missing on slave
+(SAILIB      :  38) MAPRD.MEM                        -- missing on slave
+(SAILIB      :  38) MAPRD.REL                        -- missing on slave
+(SAILIB      :  38) MAPRD.REQ                        -- missing on slave
+(SAILIB      :  38) ZZ10X.LOG                        -- missing on slave
+(SAILIB      :  38) SEARCH.V01                       -- missing on slave
+(SAILIB      :  38) LPDUMP.SAI                       -- missing on slave
+(SAILIB      :  38) SAIL.MSG                         -- missing on slave
+(SAILIB      :  38) MAPPAG.SAI                       -- missing on slave
+(SAILIB      :  38) ASK.DOC                          -- missing on slave
+(SAILIB      :  38) VMCHAN.REL                       -- missing on slave
+(SAILIB      :  38) VMCHAN.REQ                       -- missing on slave
+(SAILIB      :  38) VMCHAN.SAI                       -- missing on slave
+(SAILIB      :  38) ASK.REL                          -- missing on slave
+(SAILIB      :  38) ASK.SAI                          -- missing on slave
+(SAILIB      :  38) ASK.REQ                          -- missing on slave
+(SAILIB      :  38) SAIL.ODF                         -- missing on slave
+(SAILIB      :  38) ADJUBP.SAI                       -- missing on slave
+(SAILIB      :  38) BUGWFW.SAI                       -- missing on slave
+(SAILIB      :  38) SPACE.REL                        -- missing on slave
+(SAILIB      :  38) SPACE.FAI                        -- missing on slave
+(SAILIB      :  38) SAIL.NFO                         -- missing on slave
+(SAILIB      :  38) SAIL.OFO                         -- missing on slave
+(SAILIB      :  38) STRCMP.SAI                       -- missing on slave
+(SAILIB      :  38) FSMSET.SAI                       -- missing on slave
+(SAILIB      :  38) SETTRM.DCL                       -- missing on slave
+(SAILIB      :  38) FIND.71                          -- missing on slave
+(SAILIB      :  38) FIND.V11                         -- missing on slave
+(SAILIB      :  38) FTSAIL.DOC                       -- missing on slave
+(SAILIB      :  38) FIND.V12                         -- missing on slave
+(SAILIB      :  38) STRNG.SAI                        -- missing on slave
+(SAILIB      :  38) FIND.V13                         -- missing on slave
+(SAILIB      :  38) BLOCK.SAI                        -- missing on slave
+(SAILIB      :  38) WARPT.WRP                        -- missing on slave
+(SAILIB      :  38) WARPLD.CMD                       -- missing on slave
+(SAILIB      :  38) WARPLD.MAC                       -- missing on slave
+(SAILIB      :  38) WARPLD.REL                       -- missing on slave
+(SAILIB      :  38) WARPT.SAI                        -- missing on slave
+(SAILIB      :  38) WARPT.CTL                        -- missing on slave
+(SAILIB      :  38) WARPT.SAV                        -- missing on slave
+(SAILIB      :  38) WARPT.REL                        -- missing on slave
+(SAILIB      :  38) WARPLD.SAV                       -- missing on slave
+(SAILIB      :  38) BLOCK.REQ                        -- missing on slave
+(SAILIB      :  38) BLOCK.REL                        -- missing on slave
+(SAILIB      :  38) BITOPS.SAI                       -- missing on slave
+(SAILIB      :  38) BITOPS.REL                       -- missing on slave
+(SAILIB      :  38) BITOPS.REQ                       -- missing on slave
+(SAILIB      :  38) SOURCE                           -- missing on slave
+(SAILIB      :  38) REISER.MSG                       -- missing on slave
+(SAILIB      :  38) X.LIB                            -- missing on slave
+(SAILIB      :  38) X.IDX                            -- missing on slave
+(SAILIB      :  38) LIBRAR.NFO                       -- missing on slave
+(SAILIB      :  38) QUIRKS.NFO                       -- missing on slave
+(SAILIB      :  38) NEWS.NFO                         -- missing on slave
+(SAILIB      :  38) FILDAT.DCL                       -- missing on slave
+(SAILIB      :  38) SAILIB.FDM                       -- missing on slave
+(SAILIB      :  38) AIL.DIR                          -- missing on slave
+(SAILIB      :  38) COMMON.BAI                       -- missing on slave
+(SAILIB      :  38) MFDSCN.RLL                       -- missing on slave
+(SAILIB      :  38) HALTST.SAI                       -- missing on slave
+(SAILIB      :  38) HALTST.REQ                       -- missing on slave
+(SAILIB      :  38) HALTST.REL                       -- missing on slave
+(SAILIB      :  38) TYMINT.OLD                       -- missing on slave
+(SAILIB      :  38) SAILIB.COM                       -- missing on slave
+(SAILIB      :  38) SAILIB.DEF                       -- missing on slave
+(SAILIB      :  38) LICSUB.SAI                       -- missing on slave
+(SAILIB      :  38) LICSUB.REL                       -- missing on slave
+(SAILIB      :  38) LICSUB.REQ                       -- missing on slave
+(SAILIB      :  38) HLUNV.FAI                        -- missing on slave
+(SAILIB      :  38) SAILIB.SUM                       -- missing on slave
+(SAILIB      :  38) SAILIB.CML                       -- missing on slave
+(SAILIB      :  38) SAILIB.CMD                       -- missing on slave
+(SAILIB      :  38) GMIX.REL                         -- missing on slave
+(SAILIB      :  38) SAILIB.ACS                       -- missing on slave
+   Zd]JÅ
