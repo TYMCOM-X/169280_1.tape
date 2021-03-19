@@ -1,0 +1,76 @@
+00:00:15 S 29-Nov-92
+00:30:03 S -S- stream #1 Req #3890 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+00:30:09 S Processor status JSU EXECX Setup in frame 23
+00:30:09 P Waiting for interlock
+00:30:10 P Got interlock
+00:30:10 P EXECX Job Processor %1(226) starting in frame 23
+00:30:11 P Stream #1 Req #3890 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+00:30:11 S Starting job processor in frame 23
+00:31:30 P Stream #1 Req #3890 * completed *
+00:31:32 S -R- stream #1 Done-End <0>
+00:47:12 P Signing off.
+01:00:03 S -S- stream #1 Req #3903 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+01:00:11 S Processor status JSU EXECX Setup in frame 24
+01:00:11 P Waiting for interlock
+01:00:12 P Got interlock
+01:00:12 P EXECX Job Processor %1(226) starting in frame 24
+01:00:13 P Stream #1 Req #3903 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+01:00:13 S Starting job processor in frame 24
+01:00:55 P Stream #1 Req #3903 * completed *
+01:00:59 S -R- stream #1 Done-End <0>
+01:16:12 P Signing off.
+03:00:16 S 29-Nov-92
+05:00:04 S -S- stream #1 Req #3905 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+05:00:11 S Processor status JSU EXECX Setup in frame 18
+05:00:12 P Waiting for interlock
+05:00:13 P Got interlock
+05:00:13 P EXECX Job Processor %1(226) starting in frame 18
+05:00:13 S Starting job processor in frame 18
+05:00:15 P Stream #1 Req #3905 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+06:00:14 S 29-Nov-92
+06:59:57 S 29-Nov-92 Signing off.
+14:05:58 S ** 29-Nov-92 XEXEC %1(215) in frame 4 ** user PERPOPER **
+14:06:00 S Processor status JSU EXECX Setup in frame 9
+14:06:00 P Waiting for interlock
+14:06:01 P Got interlock
+14:06:01 P EXECX Job Processor %1(226) starting in frame 9
+14:06:03 S Starting job processor in frame 9
+14:06:03 S -S- stream #2 Req #3905 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+14:06:08 P Stream #2 Req #3905 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+14:06:09 S -S- stream #3 Req #3893 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+14:06:10 P Stream #3 Req #3893 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+14:06:14 S -S- stream #4 Req #3895 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+14:06:17 P Stream #4 Req #3895 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+14:06:48 P Stream #2 Req #3905 * completed *
+14:06:49 P Stream #4 Req #3895 * completed *
+14:06:52 S -R- stream #2 Done-End <0>
+14:06:54 S -R- stream #4 Done-End <0>
+14:07:01 S 29-Nov-92
+14:15:12 P Stream #3 Req #3893 * completed *
+14:15:18 S -R- stream #3 Done-End <0>
+15:30:08 P Stream #2 Req #3898 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+15:32:58 S -R- stream #2 Done-End <0>
+ted *
+16:30:02 S -S- stream #2 Req #3899 DSK:(DOUGE)PAPER.OUT=DSK:(DOUGE)PAPER.RUN
+16:30:08 P Stream #2 Req #3899 DSK:(DOUGE)PAPER.OUT=DSK:(DOUGE)PAPER.RUN
+16:34:10 P Stream #2 Req #3899 * completed *
+16:34:12 S -R- stream #2 Done-End <0>
+17:00:03 S -S- stream #2 Req #3906 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+17:00:08 P Stream #2 Req #3906 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+17:00:46 P Stream #2 Req #3906 * completed *
+17:00:49 S -R- stream #2 Done-End <0>
+18:00:03 S 29-Nov-92
+18:00:03 S -S- stream #2 Req #3901 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:00:08 P Stream #2 Req #3901 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:01:19 P Stream #2 Req #3901 * completed *
+18:01:23 S -R- stream #2 Done-End <0>
+19:00:04 S -S- stream #2 Req #3902 DSK:(EDUSUB)AFDBAK.DOC=DSK:(EDUSUB)AFDBAK.SUB
+19:00:09 P Stream #2 Req #3902 DSK:(EDUSUB)AFDBAK.DOC=DSK:(EDUSUB)AFDBAK.SUB
+19:00:50 P Stream #2 Req #3902 * completed *
+19:00:54 S -R- stream #2 Done-End <0>
+21:00:04 S 29-Nov-92
+21:00:05 S -S- stream #2 Req #3911 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+21:00:10 P Stream #2 Req #3911 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+21:01:36 P Stream #2 Req #3911 * completed *
+21:01:39 S -R- stream #2 Done-End <0>
+00:00:09 S 30-Nov-92
