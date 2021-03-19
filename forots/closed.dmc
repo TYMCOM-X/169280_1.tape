@@ -1,0 +1,48 @@
+O (TNT)BASE4.
+DEFINE TEXT 2 DM$.
+DEFINE REAL TOT1 TOT2 TOT3 TOT4 TOT5 TOT6 TOT7 TOT8 TOT9.
+DEFINE REAL TOT10 TOT11 TOT12 TOT13 TOT14 TOTGL TOTNA TOTPR TOTER.
+SET FMSG OFF.
+SET FERR OFF.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+TYPE "Please Enter START Date (X22 Format) ".
+ACCEPT STRT.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+TYPE "Please Enter STOP Date (X22 Format) ".
+ACCEPT STP.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+T "ENSURE PRINTER IS ON AND PRESS ENTER TO CONTINUE".
+ACCEPT DM$.
+TYPE "     ".
+TYPE "     ".
+TYPE "     ".
+DPL START.
+T "CLOSED FAULTS OPENED BETWEEN SPECIFIED DATES".
+T "REPORT NAME 'CLOSED' - See Caroline Richards".
+T "===============================================================".
+TYPE "   ".
+F HN 5 7 9 10 12 15 19 20 SDAT GE STRT AND LE STP.
+SORT SVER TNUM.
+TYPE "   ".
+TYPE "--------".
+TYPE "Severity".
+TYPE "---------".
+val sver.
+TYPE "   ".
+TYPE "-------------------".
+TYPE "Tkt Breakdown".
+TYPE "-------------------".
+TYPE "   ".
+T "TICKET CUST           SEV    DATE CONTROL  CLOSED".
+T TNUM CNAM SVER "   "  SDAT HN "    "  CDAT.
+TYPE "   ".
+CLOSE.
+DPL END.
+QUIT.
+QUIT.
