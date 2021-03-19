@@ -1,0 +1,49 @@
+00:00:22 S 15-Oct-93
+03:00:47 S 15-Oct-93
+06:00:56 S 15-Oct-93
+07:45:03 S -S- stream #1 Req #6979 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:09 S Processor status JSU EXECX Setup in frame 18
+07:45:09 P Waiting for interlock
+07:45:11 P Got interlock
+07:45:11 P EXECX Job Processor %1(226) starting in frame 18
+07:45:11 P Stream #1 Req #6979 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:11 S Starting job processor in frame 18
+07:51:42 S -R- stream #1 Done-End <0>
+07:51:43 P Stream #1 Req #6979 * completed *
+08:07:15 P Signing off.
+09:00:16 S 15-Oct-93
+10:00:04 S -S- stream #1 Req #6980 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:00:15 S Processor status JSU EXECX Setup in frame 47
+10:00:15 P Waiting for interlock
+10:00:16 P Got interlock
+10:00:16 P EXECX Job Processor %1(226) starting in frame 47
+10:00:16 S Starting job processor in frame 47
+10:00:17 P Stream #1 Req #6980 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:01:38 P Stream #1 Req #6980 * completed *
+10:01:42 S -R- stream #1 Done-End <0>
+10:17:16 P Signing off.
+12:00:18 S 15-Oct-93
+15:00:12 S 15-Oct-93
+17:00:06 S -S- stream #1 Req #6870 DSK:(DANIELSR)FILSAV=DSK:(DANIELSR)FILE26.BU
+17:00:15 S Processor status JSU EXECX Setup in frame 23
+17:00:15 P Waiting for interlock
+17:00:16 P Got interlock
+17:00:17 P EXECX Job Processor %1(226) starting in frame 23
+17:00:17 S Starting job processor in frame 23
+17:00:18 P Stream #1 Req #6870 DSK:(DANIELSR)FILSAV=DSK:(DANIELSR)FILE26.BU
+17:01:09 P Stream #1 Req #6870 * completed *
+17:01:14 S -R- stream #1 Done-End <0>
+17:16:24 P Signing off.
+18:00:58 S 15-Oct-93
+21:00:35 S 15-Oct-93
+23:30:06 S -S- stream #1 Req #6981 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:30:14 S Processor status JSU EXECX Setup in frame 14
+23:30:15 P Waiting for interlock
+23:30:16 P Got interlock
+23:30:16 P EXECX Job Processor %1(226) starting in frame 14
+23:30:17 S Starting job processor in frame 14
+23:30:17 P Stream #1 Req #6981 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:31:38 P Stream #1 Req #6981 * completed *
+23:31:39 S -R- stream #1 Done-End <0>
+23:47:18 P Signing off.
+00:00:20 S 16-Oct-93
