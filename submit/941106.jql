@@ -1,0 +1,49 @@
+00:00:27 S 06-Nov-94
+00:30:04 S -S- stream #1 Req #8767 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+00:30:13 S Processor status JSU EXECX Setup in frame 25
+00:30:14 P Waiting for interlock
+00:30:16 P Got interlock
+00:30:16 P EXECX Job Processor %1(226) starting in frame 25
+00:30:17 S Starting job processor in frame 25
+00:30:17 P Stream #1 Req #8767 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+00:31:10 P Stream #1 Req #8767 * completed *
+00:31:15 S -R- stream #1 Done-End <0>
+00:46:16 P Signing off.
+03:00:27 S 06-Nov-94
+06:00:33 S 06-Nov-94
+06:59:12 S 06-Nov-94 Signing off.
+11:11:26 S ** 06-Nov-94 XEXEC %1(215) in frame 4 ** user PERPOPER **
+11:11:27 S -S- stream #1 Req #8768 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+11:11:33 S Processor status JSU EXECX Setup in frame 7
+11:11:33 P Waiting for interlock
+11:11:34 P Got interlock
+11:11:35 P EXECX Job Processor %1(226) starting in frame 7
+11:11:35 P Stream #1 Req #8768 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+11:11:35 S Starting job processor in frame 7
+11:11:35 S -S- stream #2 Req #8769 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+11:11:36 P Stream #2 Req #8769 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+11:11:41 S -S- stream #3 Req #8770 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+11:11:46 P Stream #3 Req #8770 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+11:12:37 S 06-Nov-94
+11:12:51 P Stream #2 Req #8769 * completed *
+11:12:58 S -R- stream #2 Done-End <0>
+11:13:12 P Stream #3 Req #8770 * completed *
+11:13:18 S -R- stream #3 Done-End <0>
+11:17:45 P Stream #1 Req #8768 * completed *
+11:17:49 S -R- stream #1 Done-End <0>
+11:33:37 P Signing off.
+12:00:40 S 06-Nov-94
+15:00:58 S 06-Nov-94
+18:00:05 S -S- stream #1 Req #8771 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+18:00:10 S 06-Nov-94
+18:00:13 S Processor status JSU EXECX Setup in frame 36
+18:00:13 P Waiting for interlock
+18:00:14 P Got interlock
+18:00:14 P EXECX Job Processor %1(226) starting in frame 36
+18:00:15 S Starting job processor in frame 36
+18:00:15 P Stream #1 Req #8771 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+18:01:28 P Stream #1 Req #8771 * completed *
+18:01:30 S -R- stream #1 Done-End <0>
+18:17:14 P Signing off.
+21:00:18 S 06-Nov-94
+00:00:29 S 07-Nov-94
