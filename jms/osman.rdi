@@ -1,0 +1,139 @@
+Master host: 33
+78 files on master system.
+Slave hosts: 26,33,34,38
+Checking host 26
+(OSMAN       :  26) RPG.INI        2 27-Jun-88 10:35 -- bad checksum ZIWTOM
+                           should be 27-Jun-88 10:37 BAVVAV  ALL  RD  NO
+(OSMAN       :  26) TUMS.TIX       2 01-Dec-87 13:15 -- bad checksum LATQUW
+                           should be 08-Jul-88 10:05 BOBDUC  ALL  RD  NO
+(OSMAN       :  26) CRSHID.LOG     2 13-Apr-89 18:32 -- bad checksum NAHGIG
+                           should be 03-Mar-89 10:08 COFQEF  ALL  RD  NO
+(OSMAN       :  26) SLVPSP.SAV     3 19-Apr-85 13:00 -- bad checksum RIGMIJ
+                           should be 19-Apr-85 13:08 HIJJAK  ALL RUN RUN  40010
+(OSMAN       :  26) MAIL.BOX      66 03-Jan-87 09:50 -- bad checksum FAKQUD
+                           should be 03-Jan-87 11:34 VEZHEJ  ALL  RD  NO
+(OSMAN       :  26) MAIL31                           -- missing on slave
+(OSMAN       :  26) DSKCLN.LOG                       -- missing on slave
+(OSMAN       :  26) DSKCLN.CTL                       -- missing on slave
+(OSMAN       :  26) TYMMAS                           -- missing on slave
+(OSMAN       :  26) EAC1                             -- missing on slave
+(OSMAN       :  26) ATOLOG.LOG                       -- missing on slave
+(OSMAN       :  26) 33PAGE.MEM                       -- missing on slave
+(OSMAN       :  26) TYMNET.CTL                       -- missing on slave
+(OSMAN       :  26) EBBASE.DOC                       -- missing on slave
+(OSMAN       :  26) LELAND.MAI                       -- missing on slave
+(OSMAN       :  26) LELAND.BAK                       -- missing on slave
+(OSMAN       :  26) FILDDT.SAV                       -- missing on slave
+(OSMAN       :  26) MAIL37                           -- missing on slave
+(OSMAN       :  26) TYMDIR.LOG                       -- missing on slave
+(OSMAN       :  26) TYMDIR.CTL                       -- missing on slave
+(OSMAN       :  26) FREE.SAV                         -- missing on slave
+(OSMAN       :  26) FREE.CTL                         -- missing on slave
+(OSMAN       :  26) SWITCH.OLD                       -- missing on slave
+(OSMAN       :  26) LOIS.MAI                         -- missing on slave
+(OSMAN       :  26) MDDT.SAV                         -- missing on slave
+(OSMAN       :  26) OPER.MAI                         -- missing on slave
+(OSMAN       :  26) OPER.BAK                         -- missing on slave
+(OSMAN       :  26) TYMCPY.LOG                       -- missing on slave
+(OSMAN       :  26) TYMCPY.CTL                       -- missing on slave
+(OSMAN       :  26) TYMC.LOG                         -- missing on slave
+(OSMAN       :  26) TYMC.CTL                         -- missing on slave
+(OSMAN       :  26) TYM5.CTL                         -- missing on slave
+(OSMAN       :  26) REBUIL.DOC                       -- missing on slave
+(OSMAN       :  26) QQ                               -- missing on slave
+(OSMAN       :  26) Q.LOG                            -- missing on slave
+(OSMAN       :  26) Q.BAK                            -- missing on slave
+(OSMAN       :  26) PEAK.TUT                         -- missing on slave
+(OSMAN       :  26) HOSALL                           -- missing on slave
+(OSMAN       :  26) LAITH                            -- missing on slave
+(OSMAN       :  26) Q                                -- missing on slave
+(OSMAN       :  26) FNDBAD.RPT                       -- missing on slave
+(OSMAN       :  26) RECOV.SYS                        -- missing on slave
+(OSMAN       :  26) DALHOS                           -- missing on slave
+(OSMAN       :  26) DALHOS.BAK                       -- missing on slave
+(OSMAN       :  26) PSPATO.SAV                       -- missing on slave
+(OSMAN       :  26) PSPPDP.SAV                       -- missing on slave
+(OSMAN       :  26) D56CTY.LOG                       -- missing on slave
+(OSMAN       :  26) HOSDAL                           -- missing on slave
+(OSMAN       :  26) MAILBO.86                        -- missing on slave
+(OSMAN       :  26) MAILBO.Q1                        -- missing on slave
+(OSMAN       :  26) MAILBO.84                        -- missing on slave
+(OSMAN       :  26) FNDBAD.OLD                       -- missing on slave
+(OSMAN       :  26) DMON.PAT                         -- missing on slave
+(OSMAN       :  26) FOO                              -- missing on slave
+(OSMAN       :  26) CRALST.F74                       -- missing on slave
+(OSMAN       :  26) OPR.BAK                          -- missing on slave
+(OSMAN       :  26) UKREPA.BAK                       -- missing on slave
+(OSMAN       :  26) ND4720.BND                       -- missing on slave
+(OSMAN       :  26) LLOGTT.LOG                       -- missing on slave
+(OSMAN       :  26) UKREPA.MSG                       -- missing on slave
+(OSMAN       :  26) OPR.MAI                          -- missing on slave
+(OSMAN       :  26) HOSFRE                           -- missing on slave
+(OSMAN       :  26) INACT.LST                        -- missing on slave
+(OSMAN       :  26) INACT.BAK                        -- missing on slave
+(OSMAN       :  26) TOM.MAI                          -- missing on slave
+(OSMAN       :  26) TERMS.BAK                        -- missing on slave
+Checking host 33
+Checking host 34
+(OSMAN       :  34) RPG.INI        2 27-Jun-88 10:37 -- bad checksum ZIWTOM
+                           should be 27-Jun-88 10:37 BAVVAV  ALL  RD  NO
+(OSMAN       :  34) INACT.LST      2 19-Nov-87 12:54 -- bad checksum SIBVEP
+                           should be 19-Nov-87 12:54 WIVDUJ  ALL  RD  NO
+(OSMAN       :  34) OPR.BAK        2 01-Feb-87 17:06 -- bad checksum JOGQAN
+                           should be 27-Sep-86 01:21 NIGVOY  ALL  RD  NO
+(OSMAN       :  34) TUMS.MSG       4 22-Mar-90 16:16 -- bad checksum YINHUM
+                           should be 30-Jan-89 11:28 DILBUJ  ALL  RD  NO
+(OSMAN       :  34) TUMS.TIX       2 11-May-90 21:09 -- bad checksum ROHWAF
+                           should be 08-Jul-88 10:05 BOBDUC  ALL  RD  NO
+(OSMAN       :  34) ND4720.BND   124 30-May-89 17:33 -- bad checksum FUCGOW
+                           should be 30-May-89 17:33 QOGKIG  ALL  RD  NO
+(OSMAN       :  34) MAILBO.86     42 07-Apr-85 08:55 -- bad checksum DEXYUS
+                           should be 04-Apr-85 13:53 TEFMIX  ALL  RD  NO
+(OSMAN       :  34) CRALST.F74    43 09-Feb-89 08:42 -- bad checksum DAHPIG
+                           should be 03-May-88 10:38 JOXDIT  ALL  RD  NO
+(OSMAN       :  34) Q              2 17-Jul-89 12:51 -- bad checksum DUDVOH
+                           should be 06-Mar-89 13:51 XOZBAJ  ALL  RD  NO
+(OSMAN       :  34) OPER.BAK       2 11-Dec-86 09:59 -- bad checksum RIPRIT
+                           should be 30-Sep-86 20:49 PEHQIM  ALL  RD  NO
+(OSMAN       :  34) OPER.MAI       2 11-Dec-86 10:07 -- bad checksum LATQIV
+                           should be 30-Sep-86 20:54 MOJBAV  ALL  RD  NO
+(OSMAN       :  34) CRSHID.LOG     2 13-Apr-89 18:32 -- bad checksum NAHGIG
+                           should be 03-Mar-89 10:08 COFQEF  ALL  RD  NO
+(OSMAN       :  34) TURNUP.MSG     2 01-Mar-89 13:49 -- bad checksum FOFQEW
+                           should be 30-Jan-89 11:24 JUPMUY  ALL  RD  NO
+(OSMAN       :  34) SLVPSP.SAV     3 12-Sep-87 12:46 -- bad checksum RIGMIJ
+                           should be 19-Apr-85 13:08 HIJJAK  ALL RUN RUN  40010
+(OSMAN       :  34) 33PAGE.MEM     7 15-Jul-88 13:36 -- bad checksum VUFSOX
+                           should be 15-Jul-88 13:36 BABQIX  ALL  RD  NO
+Checking host 38
+(OSMAN       :  38) RPG.INI        2 27-Jun-88 10:37 -- bad checksum ZIWTOM
+                           should be 27-Jun-88 10:37 BAVVAV  ALL  RD  NO
+(OSMAN       :  38) INACT.LST      2 19-Nov-87 12:54 -- bad checksum SIBVEP
+                           should be 19-Nov-87 12:54 WIVDUJ  ALL  RD  NO
+(OSMAN       :  38) OPR.BAK        2 01-Feb-87 17:06 -- bad checksum JOGQAN
+                           should be 27-Sep-86 01:21 NIGVOY  ALL  RD  NO
+(OSMAN       :  38) TUMS.MSG       4 22-Mar-90 16:16 -- bad checksum YINHUM
+                           should be 30-Jan-89 11:28 DILBUJ  ALL  RD  NO
+(OSMAN       :  38) TUMS.TIX       2 11-May-90 21:09 -- bad checksum ROHWAF
+                           should be 08-Jul-88 10:05 BOBDUC  ALL  RD  NO
+(OSMAN       :  38) ND4720.BND   124 30-May-89 17:33 -- bad checksum FUCGOW
+                           should be 30-May-89 17:33 QOGKIG  ALL  RD  NO
+(OSMAN       :  38) MAILBO.86     42 07-Apr-85 08:55 -- bad checksum DEXYUS
+                           should be 04-Apr-85 13:53 TEFMIX  ALL  RD  NO
+(OSMAN       :  38) CRALST.F74    43 09-Feb-89 08:42 -- bad checksum DAHPIG
+                           should be 03-May-88 10:38 JOXDIT  ALL  RD  NO
+(OSMAN       :  38) OPER.MAI       2 11-Dec-86 10:07 -- bad checksum LATQIV
+                           should be 30-Sep-86 20:54 MOJBAV  ALL  RD  NO
+(OSMAN       :  38) Q              2 17-Jul-89 12:51 -- bad checksum DUDVOH
+                           should be 06-Mar-89 13:51 XOZBAJ  ALL  RD  NO
+(OSMAN       :  38) OPER.BAK       2 11-Dec-86 09:59 -- bad checksum RIPRIT
+                           should be 30-Sep-86 20:49 PEHQIM  ALL  RD  NO
+(OSMAN       :  38) CRSHID.LOG     2 13-Apr-89 18:32 -- bad checksum NAHGIG
+                           should be 03-Mar-89 10:08 COFQEF  ALL  RD  NO
+(OSMAN       :  38) TURNUP.MSG     2 01-Mar-89 13:49 -- bad checksum FOFQEW
+                           should be 30-Jan-89 11:24 JUPMUY  ALL  RD  NO
+(OSMAN       :  38) SLVPSP.SAV     3 12-Sep-87 12:46 -- bad checksum RIGMIJ
+                           should be 19-Apr-85 13:08 HIJJAK  ALL RUN RUN  40010
+(OSMAN       :  38) 33PAGE.MEM     7 15-Jul-88 13:36 -- bad checksum VUFSOX
+                           should be 15-Jul-88 13:36 BABQIX  ALL  RD  NO
+  
