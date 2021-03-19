@@ -1,0 +1,78 @@
+00:00:44 S 05-Dec-92
+00:30:04 S -S- stream #2 Req #3970 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+00:30:09 P Stream #2 Req #3970 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+00:31:32 P Stream #2 Req #3970 * completed *
+00:31:35 S -R- stream #2 Done-End <0>
+01:00:02 S -S- stream #2 Req #3982 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+01:00:06 P Stream #2 Req #3982 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+01:01:27 P Stream #2 Req #3982 * completed *
+01:01:31 S -R- stream #2 Done-End <0>
+03:00:48 S 05-Dec-92
+05:31:07 S ** 05-Dec-92 XEXEC %1(215) in frame 4 ** user PERPOPER **
+05:31:08 S Processor status JSU EXECX Setup in frame 9
+05:31:09 P Waiting for interlock
+05:31:10 P Got interlock
+05:31:10 P EXECX Job Processor %1(226) starting in frame 9
+05:31:10 S Starting job processor in frame 9
+05:31:11 S -S- stream #2 Req #3984 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+05:31:15 P Stream #2 Req #3984 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+05:31:53 P Stream #2 Req #3984 * completed *
+05:31:57 S -R- stream #2 Done-End <0>
+05:32:11 S 05-Dec-92
+06:00:12 S 05-Dec-92
+10:11:18 S ** 05-Dec-92 XEXEC %1(215) in frame 4 ** user PERPOPER **
+10:11:19 S Processor status JSU EXECX Setup in frame 11
+10:11:20 P Waiting for interlock
+10:11:21 P Got interlock
+10:11:21 P EXECX Job Processor %1(226) starting in frame 11
+10:11:21 S Starting job processor in frame 11
+10:11:22 S -S- stream #2 Req #3983 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+10:11:27 P Stream #2 Req #3983 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+10:11:28 S -S- stream #3 Req #3973 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+10:11:29 P Stream #3 Req #3973 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+10:12:10 P Stream #2 Req #3983 * completed *
+10:12:15 S -R- stream #2 Done-End <0>
+10:12:21 S 05-Dec-92
+10:21:59 P Stream #3 Req #3973 * completed *
+10:22:03 S -R- stream #3 Done-End <0>
+11:00:02 S -S- stream #2 Req #3975 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+11:00:08 P Stream #2 Req #3975 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+11:01:32 P Stream #2 Req #3975 * completed *
+11:01:33 S -R- stream #2 Done-End <0>
+12:00:22 S 05-Dec-92
+13:00:03 S -S- stream #2 Req #3983 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+13:00:08 P Stream #2 Req #3983 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+13:00:53 P Stream #2 Req #3983 * completed *
+13:00:57 S -R- stream #2 Done-End <0>
+14:00:02 S -S- stream #2 Req #3897 DSK:(UKLAB)AFDCLN.DOC=DSK:(UKLAB)AFDCLN.SUB
+14:00:08 P Stream #2 Req #3897 DSK:(UKLAB)AFDCLN.DOC=DSK:(UKLAB)AFDCLN.SUB
+14:01:47 S -R- stream #2 Done-End <0>
+ted *
+15:00:22 S 05-Dec-92
+15:30:00 S -S- stream #2 Req #3977 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+15:30:05 P Stream #2 Req #3977 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+15:33:30 P Stream #2 Req #3977 * completed *
+15:33:34 S -R- stream #2 Done-End <0>
+16:30:01 S -S- stream #2 Req #3978 DSK:(DOUGE)PAPER.OUT=DSK:(DOUGE)PAPER.RUN
+16:30:06 P Stream #2 Req #3978 DSK:(DOUGE)PAPER.OUT=DSK:(DOUGE)PAPER.RUN
+16:35:28 P Stream #2 Req #3978 * completed *
+16:35:30 S -R- stream #2 Done-End <0>
+17:00:03 S -S- stream #2 Req #3986 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+17:00:09 P Stream #2 Req #3986 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+17:01:03 P Stream #2 Req #3986 * completed *
+17:01:09 S -R- stream #2 Done-End <0>
+18:00:05 S -S- stream #2 Req #3980 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:00:10 P Stream #2 Req #3980 DSK:(DANIELSR)BAKDAY=DSK:(DANIELSR)BAKDAY.TNT
+18:00:28 S 05-Dec-92
+18:01:38 P Stream #2 Req #3980 * completed *
+18:01:40 S -R- stream #2 Done-End <0>
+19:00:02 S -S- stream #2 Req #3981 DSK:(EDUSUB)AFDBAK.DOC=DSK:(EDUSUB)AFDBAK.SUB
+19:00:08 P Stream #2 Req #3981 DSK:(EDUSUB)AFDBAK.DOC=DSK:(EDUSUB)AFDBAK.SUB
+19:00:47 P Stream #2 Req #3981 * completed *
+19:00:49 S -R- stream #2 Done-End <0>
+21:00:01 S -S- stream #2 Req #3990 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+21:00:06 P Stream #2 Req #3990 DSK:(ENSS)ONTSLV.OUT=DSK:(ENSS)ONTSLV.SUB
+21:00:34 S 05-Dec-92
+21:01:17 P Stream #2 Req #3990 * completed *
+21:01:22 S -R- stream #2 Done-End <0>
+00:00:41 S 06-Dec-92
