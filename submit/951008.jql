@@ -1,0 +1,49 @@
+00:00:18 S 08-Oct-95
+03:00:18 S 08-Oct-95
+06:00:20 S 08-Oct-95
+06:03:58 S 08-Oct-95 Signing off.
+09:39:18 S ** 08-Oct-95 XEXEC %1(215) in frame 4 ** user PERPOPER **
+09:39:18 S -S- stream #1 Req #10612 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+09:39:25 S Processor status JSU EXECX Setup in frame 8
+09:39:25 P Waiting for interlock
+09:39:26 P Got interlock
+09:39:26 P EXECX Job Processor %1(226) starting in frame 8
+09:39:27 P Stream #1 Req #10612 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+09:39:27 S Starting job processor in frame 8
+09:39:27 S -S- stream #2 Req #10613 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+09:39:28 P Stream #2 Req #10613 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+09:40:27 S 08-Oct-95
+09:40:49 P Stream #2 Req #10613 * completed *
+09:40:54 S -R- stream #2 Done-End <0>
+09:45:22 P Stream #1 Req #10612 * completed *
+09:45:23 S -R- stream #1 Done-End <0>
+10:00:03 S -S- stream #1 Req #10614 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+10:00:07 P Stream #1 Req #10614 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+10:01:28 P Stream #1 Req #10614 * completed *
+10:01:33 S -R- stream #1 Done-End <0>
+10:17:26 P Signing off.
+12:00:30 S 08-Oct-95
+15:00:35 S 08-Oct-95
+17:00:05 S -S- stream #1 Req #10615 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+17:00:12 S Processor status JSU EXECX Setup in frame 38
+17:00:12 P Waiting for interlock
+17:00:13 P Got interlock
+17:00:13 P EXECX Job Processor %1(226) starting in frame 38
+17:00:14 S Starting job processor in frame 38
+17:00:15 P Stream #1 Req #10615 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+17:00:49 P Stream #1 Req #10615 * completed *
+17:00:53 S -R- stream #1 Done-End <0>
+17:16:15 P Signing off.
+18:00:15 S 08-Oct-95
+21:00:18 S 08-Oct-95
+23:30:01 S -S- stream #1 Req #10616 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+23:30:08 S Processor status JSU EXECX Setup in frame 20
+23:30:09 P Waiting for interlock
+23:30:10 P Got interlock
+23:30:10 P EXECX Job Processor %1(226) starting in frame 20
+23:30:11 P Stream #1 Req #10616 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+23:30:11 S Starting job processor in frame 20
+23:31:04 P Stream #1 Req #10616 * completed *
+23:31:08 S -R- stream #1 Done-End <0>
+23:46:10 P Signing off.
+00:00:11 S 09-Oct-95
