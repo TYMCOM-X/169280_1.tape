@@ -1,0 +1,51 @@
+00:00:15 S 23-Oct-93
+03:00:38 S 23-Oct-93
+04:00:16 S 23-Oct-93 Signing off.
+06:06:12 S ** 23-Oct-93 XEXEC %1(215) in frame 4 ** user PERPOPER **
+06:07:13 S 23-Oct-93
+07:45:04 S -S- stream #1 Req #7009 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:10 S Processor status JSU EXECX Setup in frame 14
+07:45:10 P Waiting for interlock
+07:45:11 P Got interlock
+07:45:12 P EXECX Job Processor %1(226) starting in frame 14
+07:45:12 P Stream #1 Req #7009 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:12 S Starting job processor in frame 14
+07:51:19 P Stream #1 Req #7009 * completed *
+07:51:21 S -R- stream #1 Done-End <0>
+08:07:11 P Signing off.
+09:00:11 S 23-Oct-93
+10:00:03 S -S- stream #1 Req #7010 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:00:10 S Processor status JSU EXECX Setup in frame 16
+10:00:10 P Waiting for interlock
+10:00:11 P Got interlock
+10:00:11 P EXECX Job Processor %1(226) starting in frame 16
+10:00:12 P Stream #1 Req #7010 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:00:12 S Starting job processor in frame 16
+10:00:50 P Stream #1 Req #7010 * completed *
+10:00:54 S -R- stream #1 Done-End <0>
+10:16:10 P Signing off.
+12:00:11 S 23-Oct-93
+14:00:02 S -S- stream #1 Req #6988 DSK:(UKLAB)AFDCLN.DOC=DSK:(UKLAB)AFDCLN.SUB
+14:00:09 S Processor status JSU EXECX Setup in frame 15
+14:00:09 P Waiting for interlock
+14:00:10 P Got interlock
+14:00:10 P EXECX Job Processor %1(226) starting in frame 15
+14:00:10 S Starting job processor in frame 15
+14:00:11 P Stream #1 Req #6988 DSK:(UKLAB)AFDCLN.DOC=DSK:(UKLAB)AFDCLN.SUB
+14:01:38 P Stream #1 Req #6988 * completed *
+14:01:40 S -R- stream #1 Done-End <0>
+14:17:10 P Signing off.
+15:00:12 S 23-Oct-93
+18:00:12 S 23-Oct-93
+21:00:13 S 23-Oct-93
+23:30:07 S -S- stream #1 Req #7011 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:30:13 S Processor status JSU EXECX Setup in frame 7
+23:30:14 P Waiting for interlock
+23:30:15 P Got interlock
+23:30:15 P EXECX Job Processor %1(226) starting in frame 7
+23:30:16 S Starting job processor in frame 7
+23:30:16 P Stream #1 Req #7011 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:30:48 P Stream #1 Req #7011 * completed *
+23:30:52 S -R- stream #1 Done-End <0>
+23:46:14 P Signing off.
+00:00:15 S 24-Oct-93
