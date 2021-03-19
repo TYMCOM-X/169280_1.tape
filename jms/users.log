@@ -1,0 +1,33 @@
+!SYSTAT G
+
+TYMSHARE F26-P035/E01-1 1-25-91 up 31:09:57! at 17:04:55 on Mon Sep 18,1995
+Null time = 2:33:23, Idle = 8% (Idle time per MIN. = 0%)
+92 jobs in use out of 116.  9 detached
+
+Users=92 Det=9 [3,3], Queues: RUN=5 DIO=3 TIO=76 IO=0 SPC=8
+8190 Physical pages available (MONITOR = 490P, User Area = 7700P)
+Virt. memory used (TPU/TPA): 10311/7700 = 134%
+
+DSKB: 770579 Pages free, 92 users
+
+!RUN (CUD10)USERS
+Reading DUL...LUD...MFD...Done!
+
+DUL entries missing LUD entries:
+--None--
+
+LUD entries missing DUL entries:
+--None--
+
+UFD entry without LUD and DUL entries:
+  1  11653 115244  SPOOLING                    
+
+Name mismatch:     UFD name      DUL name
+--None--
+
+!DAYTIME
+18-SEP-1995 17:10:46 GMT
+
+!LOGOUT
+159.80 tru
+terminal time: 0:06:00
