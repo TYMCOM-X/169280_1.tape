@@ -1,0 +1,49 @@
+00:00:25 S 25-Sep-93
+03:00:45 S 25-Sep-93
+06:00:48 S 25-Sep-93
+07:45:03 S -S- stream #1 Req #6900 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:10 S Processor status JSU EXECX Setup in frame 15
+07:45:10 P Waiting for interlock
+07:45:11 P Got interlock
+07:45:11 P EXECX Job Processor %1(226) starting in frame 15
+07:45:11 P Stream #1 Req #6900 DSK:(JMS)SZRPT.LOG=DSK:(JMS)SZRPT.CTL
+07:45:12 S Starting job processor in frame 15
+07:51:26 P Stream #1 Req #6900 * completed *
+07:51:26 S -R- stream #1 Done-End <0>
+08:07:12 P Signing off.
+09:00:13 S 25-Sep-93
+10:00:04 S -S- stream #1 Req #6901 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:00:11 S Processor status JSU EXECX Setup in frame 9
+10:00:11 P Waiting for interlock
+10:00:12 P Got interlock
+10:00:12 P EXECX Job Processor %1(226) starting in frame 9
+10:00:12 P Stream #1 Req #6901 DSK:(DANIELSR)BAKMID=DSK:(DANIELSR)BAKMID.TNT
+10:00:13 S Starting job processor in frame 9
+10:01:39 P Stream #1 Req #6901 * completed *
+10:01:43 S -R- stream #1 Done-End <0>
+10:17:13 P Signing off.
+12:00:19 S 25-Sep-93
+14:00:02 S -S- stream #1 Req #6880 DSK:(UKLAB)AFDCLN.DOC=DSK:(UKLAB)AFDCLN.SUB
+14:00:09 S Processor status JSU EXECX Setup in frame 26
+14:00:10 P Waiting for interlock
+14:00:11 P Got interlock
+14:00:11 P EXECX Job Processor %1(226) starting in frame 26
+14:00:12 P Stream #1 Req #6880 DSK:(UKLAB)AFDCLN.DOC=DSK:(UKLAB)AFDCLN.SUB
+14:00:12 S Starting job processor in frame 26
+14:01:32 P Stream #1 Req #6880 * completed *
+14:01:32 S -R- stream #1 Done-End <0>
+14:17:10 P Signing off.
+15:00:14 S 25-Sep-93
+18:00:24 S 25-Sep-93
+21:00:25 S 25-Sep-93
+23:30:02 S -S- stream #1 Req #6902 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:30:09 S Processor status JSU EXECX Setup in frame 19
+23:30:09 P Waiting for interlock
+23:30:10 P Got interlock
+23:30:10 P EXECX Job Processor %1(226) starting in frame 19
+23:30:11 P Stream #1 Req #6902 DSK:(DANIELSR)BAKSWG=DSK:(DANIELSR)BAKSWG.TNT
+23:30:11 S Starting job processor in frame 19
+23:31:33 P Stream #1 Req #6902 * completed *
+23:31:37 S -R- stream #1 Done-End <0>
+23:47:10 P Signing off.
+00:00:10 S 26-Sep-93
