@@ -1,0 +1,324 @@
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Sat, ?? ??? ?? 0:31:22 UT 
+To: UTIL 
+Subject: Req #11254 DSK:(UTIL)BAKSWG.TNT Done-End 
+
+; Processed:  Req #11254 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+; Scheduled:  09-Feb-96 16:30:00
+; Actual run: 09-Feb-96 16:30:04
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  09-Feb-96 16:31:22
+;
+; Output recorded in file DSK:(UTIL)BAKSWG.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Sat, ?? ??? ?? 9:01:17 UT 
+To: UTIL 
+Subject: Req #11256 DSK:(UTIL)MIDDMS.TNT Done-End 
+
+; Processed:  Req #11256 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+; Scheduled:  10-Feb-96 01:00:00
+; Actual run: 10-Feb-96 01:00:03
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  10-Feb-96 01:01:16
+;
+; Output recorded in file DSK:(UTIL)MIDDMS.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Sat, ?? ??? ?? 11:01:21 UT 
+To: UTIL 
+Subject: Req #11257 DSK:(UTIL)BAKMID.TNT Done-End 
+
+; Processed:  Req #11257 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+; Scheduled:  10-Feb-96 03:00:00
+; Actual run: 10-Feb-96 03:00:02
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  10-Feb-96 03:01:21
+;
+; Output recorded in file DSK:(UTIL)BAKMID.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Sat, ?? ??? ?? 18:01:20 UT 
+To: UTIL 
+Subject: Req #11258 DSK:(UTIL)BAKDAY.TNT Done-End 
+
+; Processed:  Req #11258 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+; Scheduled:  10-Feb-96 10:00:00
+; Actual run: 10-Feb-96 10:00:02
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  10-Feb-96 10:01:20
+;
+; Output recorded in file DSK:(UTIL)BAKDAY.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Sun, ?? ??? ?? 0:31:38 UT 
+To: UTIL 
+Subject: Req #11259 DSK:(UTIL)BAKSWG.TNT Done-End 
+
+; Processed:  Req #11259 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+; Scheduled:  10-Feb-96 16:30:00
+; Actual run: 10-Feb-96 16:30:05
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  10-Feb-96 16:31:37
+;
+; Output recorded in file DSK:(UTIL)BAKSWG.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Sun, ?? ??? ?? 9:01:31 UT 
+To: UTIL 
+Subject: Req #11261 DSK:(UTIL)MIDDMS.TNT Done-End 
+
+; Processed:  Req #11261 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+; Scheduled:  11-Feb-96 01:00:00
+; Actual run: 11-Feb-96 01:00:02
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  11-Feb-96 01:01:31
+;
+; Output recorded in file DSK:(UTIL)MIDDMS.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Sun, ?? ??? ?? 11:01:35 UT 
+To: UTIL 
+Subject: Req #11262 DSK:(UTIL)BAKMID.TNT Done-End 
+
+; Processed:  Req #11262 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+; Scheduled:  11-Feb-96 03:00:00
+; Actual run: 11-Feb-96 03:00:01
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  11-Feb-96 03:01:34
+;
+; Output recorded in file DSK:(UTIL)BAKMID.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Sun, ?? ??? ?? 18:01:38 UT 
+To: UTIL 
+Subject: Req #11263 DSK:(UTIL)BAKDAY.TNT Done-End 
+
+; Processed:  Req #11263 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+; Scheduled:  11-Feb-96 10:00:00
+; Actual run: 11-Feb-96 10:00:06
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  11-Feb-96 10:01:38
+;
+; Output recorded in file DSK:(UTIL)BAKDAY.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Mon, ?? ??? ?? 0:31:31 UT 
+To: UTIL 
+Subject: Req #11264 DSK:(UTIL)BAKSWG.TNT Done-End 
+
+; Processed:  Req #11264 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+; Scheduled:  11-Feb-96 16:30:00
+; Actual run: 11-Feb-96 16:30:03
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  11-Feb-96 16:31:30
+;
+; Output recorded in file DSK:(UTIL)BAKSWG.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Mon, ?? ??? ?? 9:01:33 UT 
+To: UTIL 
+Subject: Req #11266 DSK:(UTIL)MIDDMS.TNT Done-End 
+
+; Processed:  Req #11266 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+; Scheduled:  12-Feb-96 01:00:00
+; Actual run: 12-Feb-96 01:00:04
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  12-Feb-96 01:01:34
+;
+; Output recorded in file DSK:(UTIL)MIDDMS.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Mon, ?? ??? ?? 11:01:35 UT 
+To: UTIL 
+Subject: Req #11267 DSK:(UTIL)BAKMID.TNT Done-End 
+
+; Processed:  Req #11267 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+; Scheduled:  12-Feb-96 03:00:00
+; Actual run: 12-Feb-96 03:00:02
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  12-Feb-96 03:01:35
+;
+; Output recorded in file DSK:(UTIL)BAKMID.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Mon, ?? ??? ?? 18:01:35 UT 
+To: UTIL 
+Subject: Req #11268 DSK:(UTIL)BAKDAY.TNT Done-End 
+
+; Processed:  Req #11268 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+; Scheduled:  12-Feb-96 10:00:00
+; Actual run: 12-Feb-96 10:00:01
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  12-Feb-96 10:01:35
+;
+; Output recorded in file DSK:(UTIL)BAKDAY.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Tue, ?? ??? ?? 0:31:27 UT 
+To: UTIL 
+Subject: Req #11269 DSK:(UTIL)BAKSWG.TNT Done-End 
+
+; Processed:  Req #11269 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+; Scheduled:  12-Feb-96 16:30:00
+; Actual run: 12-Feb-96 16:30:04
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  12-Feb-96 16:31:28
+;
+; Output recorded in file DSK:(UTIL)BAKSWG.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Tue, ?? ??? ?? 9:01:26 UT 
+To: UTIL 
+Subject: Req #11271 DSK:(UTIL)MIDDMS.TNT Done-End 
+
+; Processed:  Req #11271 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+; Scheduled:  13-Feb-96 01:00:00
+; Actual run: 13-Feb-96 01:00:02
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  13-Feb-96 01:01:26
+;
+; Output recorded in file DSK:(UTIL)MIDDMS.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Tue, ?? ??? ?? 11:01:30 UT 
+To: UTIL 
+Subject: Req #11273 DSK:(UTIL)BAKMID.TNT Done-End 
+
+; Processed:  Req #11273 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+; Scheduled:  13-Feb-96 03:00:00
+; Actual run: 13-Feb-96 03:00:01
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  13-Feb-96 03:01:30
+;
+; Output recorded in file DSK:(UTIL)BAKMID.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Tue, ?? ??? ?? 18:01:28 UT 
+To: UTIL 
+Subject: Req #11274 DSK:(UTIL)BAKDAY.TNT Done-End 
+
+; Processed:  Req #11274 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+; Scheduled:  13-Feb-96 10:00:00
+; Actual run: 13-Feb-96 10:00:01
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  13-Feb-96 10:01:28
+;
+; Output recorded in file DSK:(UTIL)BAKDAY.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F33 Job Processor 
+Sender: PERPOPER@F33.Tymnet.COM 
+Date: Wed, ?? ??? ?? 0:31:21 UT 
+To: UTIL 
+Subject: Req #11275 DSK:(UTIL)BAKSWG.TNT Done-End 
+
+; Processed:  Req #11275 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+; Scheduled:  13-Feb-96 16:30:00
+; Actual run: 13-Feb-96 16:30:03
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  13-Feb-96 16:31:22
+;
+; Output recorded in file DSK:(UTIL)BAKSWG.
+
+  
